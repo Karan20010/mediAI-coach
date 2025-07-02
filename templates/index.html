@@ -1,211 +1,118 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>MediAI Coach – COMP Prep</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <meta charset="UTF-8">
+  <title>MediAI Coach Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
-      margin: 0;
       font-family: 'Segoe UI', sans-serif;
       background: #f0f2f5;
-      color: #222;
+      margin: 0;
+      padding: 20px;
     }
-    .dark-mode { background: #121212; color: #f5f5f5; }
-    .container {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 30px;
+    h1 {
+      color: #007bff;
+      text-align: center;
     }
-    h1 { text-align: center; color: #007bff; }
-    .chat-box {
-      background: #fff; border-radius: 10px; padding: 20px; height: 400px;
-      overflow-y: auto; margin-bottom: 20px; box-shadow: 0 0 12px rgba(0,0,0,0.1);
+    .section {
+      background: #fff;
+      border-radius: 10px;
+      padding: 20px;
+      margin: 20px auto;
+      max-width: 700px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
     }
-    .dark-mode .chat-box { background: #1e1e1e; }
-    .message { margin-bottom: 16px; display: flex; align-items: flex-start; gap: 10px; }
-    .message img { width: 32px; height: 32px; border-radius: 50%; }
-    .message .text {
-      background: #eef6ff; padding: 10px 14px; border-radius: 8px; max-width: 90%; white-space: pre-wrap;
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin: 10px 5px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
     }
-    .dark-mode .message .text { background: #2a2a2a; }
-    .user-msg .text { background: #d1f4d1; }
-    .form-box input, .form-box button {
-      padding: 12px; font-size: 16px; margin: 5px 0;
+    .topics button {
+      background: #6c757d;
     }
-    .form-box button {
-      background: #007bff; color: white; border: none; cursor: pointer;
+    pre {
+      background: #eee;
+      padding: 10px;
+      border-radius: 5px;
     }
-    .quiz-section, .calendar-view, .topic-dashboards, .flashcard-area {
-      margin-top: 30px; background: #fff; border-radius: 8px; padding: 15px; box-shadow: 0 0 8px rgba(0,0,0,0.05);
-    }
-    .dark-mode .quiz-section, .dark-mode .calendar-view, .dark-mode .topic-dashboards, .dark-mode .flashcard-area {
-      background: #1e1e1e;
-    }
-    #darkToggle { position: absolute; top: 20px; right: 20px; }
-    .calendar-day {
-      padding: 10px; margin-bottom: 10px; background: #f9f9f9; border-radius: 6px;
-    }
-    .dark-mode .calendar-day { background: #2a2a2a; }
   </style>
 </head>
 <body>
-  <button id="darkToggle">🌓 Toggle</button>
-  <div class="container">
-    <h1>Welcome back, Talia 👋</h1>
+  <h1>📚 MediAI Coach Dashboard</h1>
 
-    <div class="chat-box" id="chatBox">
-      <div class="message">
-        <img src="https://cdn-icons-png.flaticon.com/512/4712/4712107.png" />
-        <div class="text">👋 Hi Talia! Type your message or use /switch [topic]</div>
-      </div>
+  <div class="section">
+    <h2>🧠 Practice MCQ</h2>
+    <button onclick="generateMCQ()">Generate Question</button>
+    <div id="mcq"></div>
+  </div>
+
+  <div class="section">
+    <h2>📚 Flashcard Review</h2>
+    <button onclick="loadFlashcards()">Load Flashcards</button>
+    <div id="flashcards"></div>
+  </div>
+
+  <div class="section">
+    <h2>📂 Topic Dashboards</h2>
+    <div class="topics">
+      <button onclick="loadDashboard('Cardio')">Cardio</button>
+      <button onclick="loadDashboard('Neuro')">Neuro</button>
+      <button onclick="loadDashboard('GI')">GI</button>
+      <button onclick="loadDashboard('Renal')">Renal</button>
+      <button onclick="loadDashboard('Endocrine')">Endocrine</button>
+      <button onclick="loadDashboard('Pulmonary')">Pulmonary</button>
+      <button onclick="loadDashboard('Repro')">Repro</button>
+      <button onclick="loadDashboard('MSK')">MSK</button>
+      <button onclick="loadDashboard('Psych')">Psych</button>
+      <button onclick="loadDashboard('Heme_Onc')">Heme_Onc</button>
     </div>
+    <div id="dashboard"></div>
+  </div>
 
-    <form class="form-box" id="chatForm">
-      <input type="text" name="message" placeholder="Type your message..." required style="width:100%" />
-      <input type="hidden" name="topic" id="topicField" value="General Principles" />
-      <button type="submit">Send</button>
-    </form>
-
-    <div class="quiz-section">
-      <h3>🧠 Practice MCQ</h3>
-      <div id="quizBox">Click to generate a COMP-style question</div>
-      <button onclick="loadQuiz()">Generate Question</button>
-      <div id="answerControls" style="display:none;margin-top:10px">
-        <input type="text" id="userAnswer" placeholder="Enter A/B/C/D" />
-        <button onclick="submitAnswer()">Submit</button>
-      </div>
-      <div id="quizResult"></div>
-    </div>
-
-    <div class="flashcard-area">
-      <h3>📚 Flashcard Review</h3>
-      <div id="flashcardBox">Click to load flashcards for your topic</div>
-      <button onclick="loadFlashcards()">Load Flashcards</button>
-      <div style="margin-top:10px">
-        <button onclick="markFlashcard('known')">✅ Know this</button>
-        <button onclick="markFlashcard('review')">🔁 Review again</button>
-      </div>
-    </div>
-
-    <div class="topic-dashboards">
-      <h3>📂 Topic Dashboards</h3>
-      <div id="topicButtons"></div>
-    </div>
-
-    <div class="calendar-view">
-      <h3>📅 Review Calendar</h3>
-      <div id="calendarContainer">Loading...</div>
-    </div>
+  <div class="section">
+    <h2>📅 Review Calendar</h2>
+    <button onclick="loadCalendar()">Load Calendar</button>
+    <pre id="calendar"></pre>
   </div>
 
   <script>
-    const chatBox = document.getElementById("chatBox");
-    const form = document.getElementById("chatForm");
-
-    form.addEventListener("submit", async function(e) {
-      e.preventDefault();
-      const formData = new FormData(form);
-      const userMsg = formData.get("message");
-
-      chatBox.innerHTML += `
-        <div class="message user-msg">
-          <img src="https://cdn-icons-png.flaticon.com/512/1946/1946429.png" />
-          <div class="text">${userMsg}</div>
-        </div>
-      `;
-      chatBox.scrollTop = chatBox.scrollHeight;
-
-      const res = await fetch("/ask", { method: "POST", body: formData });
+    async function generateMCQ() {
+      const res = await fetch('/quiz', { method: 'POST' });
       const data = await res.json();
-
-      chatBox.innerHTML += `
-        <div class="message">
-          <img src="https://cdn-icons-png.flaticon.com/512/4712/4712107.png" />
-          <div class="text">${data.response}</div>
-        </div>
-      `;
-      form.reset();
-      chatBox.scrollTop = chatBox.scrollHeight;
-    });
-
-    async function loadQuiz() {
-      const res = await fetch("/quiz", { method: "POST" });
-      const data = await res.json();
-      document.getElementById("quizBox").innerText = data.question;
-      document.getElementById("answerControls").style.display = "block";
-      window.correctAnswer = data.question.match(/Answer:\s*([A-D])/i)?.[1];
+      document.getElementById('mcq').innerText = data.question || 'Error retrieving question.';
     }
-
-    async function submitAnswer() {
-      const userAns = document.getElementById("userAnswer").value.toUpperCase();
-      const res = await fetch("/submit_answer", {
-        method: "POST",
-        body: new URLSearchParams({ answer: userAns, correct: window.correctAnswer })
-      });
-      const data = await res.json();
-      document.getElementById("quizResult").innerText = `${data.result} ✅ ${data.score}/${data.attempts}`;
-    }
-
-    let flashcardQueue = [];
-    let flashIndex = 0;
 
     async function loadFlashcards() {
-      const topic = document.getElementById("topicField").value;
+      const topic = prompt("Enter a topic (e.g., Cardio, Neuro, etc.):");
       const res = await fetch(`/flashcards/${topic}`);
       const data = await res.json();
-      flashcardQueue = data.queue;
-      flashIndex = 0;
-      showNextFlashcard();
+      const output = data.queue.map(card => `Q: ${card.question}\nA: ${card.answer}`).join('\n\n');
+      document.getElementById('flashcards').innerText = output || 'No cards found.';
     }
 
-    function showNextFlashcard() {
-      if (flashIndex >= flashcardQueue.length) {
-        document.getElementById("flashcardBox").innerText = "🎉 All flashcards reviewed for today!";
-        return;
-      }
-      const card = flashcardQueue[flashIndex];
-      window.currentFlash = card;
-      document.getElementById("flashcardBox").innerText = `Q: ${card.question}`;
-    }
-
-    function markFlashcard(action) {
-      if (!window.currentFlash) return;
-      const topic = document.getElementById("topicField").value;
-      fetch("/submit_answer", {
-        method: "POST",
-        body: new URLSearchParams({ answer: action === 'known' ? 'A' : 'B', correct: 'A' })
-      });
-      flashIndex++;
-      showNextFlashcard();
-    }
-
-    document.getElementById("darkToggle").addEventListener("click", () => {
-      document.body.classList.toggle("dark-mode");
-    });
-
-    function buildTopicButtons() {
-      const container = document.getElementById("topicButtons");
-      const topics = ["Cardio","Neuro","GI","Renal","Endocrine","Pulmonary","Repro","MSK","Psych","Heme_Onc"];
-      container.innerHTML = topics.map(topic => `<button onclick="viewDashboard('${topic}')">${topic}</button>`).join(" ");
-    }
-
-    async function viewDashboard(topic) {
-      const res = await fetch("/dashboard/" + topic);
+    async function loadDashboard(topic) {
+      const res = await fetch(`/dashboard/${topic}`);
       const data = await res.json();
-      alert(`📊 ${topic} Dashboard\n\nLast Studied: ${data.last_studied}\nNext Review: ${data.next_review}\nAccuracy: ${data.accuracy}%\nFlashcards Queued: ${data.flashcards.length}`);
+      let html = `<strong>Last Studied:</strong> ${data.last_studied}<br>`;
+      html += `<strong>Next Review:</strong> ${data.next_review}<br>`;
+      html += `<strong>Accuracy:</strong> ${data.accuracy}%<br>`;
+      html += `<strong>Top Miss:</strong> ${data.top_miss}<br>`;
+      html += `<strong>Goals:</strong> ${data.goals}<br>`;
+      html += `<strong>Flashcards:</strong> ${data.flashcards.length}`;
+      document.getElementById('dashboard').innerHTML = html;
     }
 
     async function loadCalendar() {
-      const res = await fetch("/calendar");
+      const res = await fetch('/calendar');
       const data = await res.json();
-      const cal = document.getElementById("calendarContainer");
-      cal.innerHTML = Object.entries(data).map(([date, topics]) => `<div  class='calendar-day'><strong>${date}</strong>: ${topics.join(', ')}</div>`).join("");
+      document.getElementById('calendar').innerText = JSON.stringify(data, null, 2);
     }
-
-    buildTopicButtons();
-    loadCalendar();
   </script>
 </body>
 </html>
