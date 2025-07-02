@@ -108,37 +108,79 @@
   </div>
 
   <script>
-    async function generateMCQ() {
-      const res = await fetch('/quiz', { method: 'POST' });
-      const data = await res.json();
-      document.getElementById('mcq').innerText = data.question || 'Error retrieving question.';
+  // ---------- MCQ GENERATOR ----------
+  async function generateMCQ() {
+    const res = await fetch('/quiz', { method: 'POST' });
+    const data = await res.json();
+    const mcqDiv = document.getElementById('mcq');
+    mcqDiv.innerHTML = `<pre>${data.question}</pre>`;
+  }
+
+  // ---------- FLASHCARD REVIEW ----------
+  let flashcardQueue = [], flashcardIndex = 0;
+
+  async function loadFlashcards() {
+    const topic = prompt("Enter a topic (e.g., Cardio, Neuro, etc.):");
+    if (!topic) return;
+
+    const res = await fetch(`/flashcards/${topic}`);
+    const data = await res.json();
+    flashcardQueue = data.queue || [];
+    flashcardIndex = 0;
+    renderFlashcard();
+  }
+
+  function renderFlashcard() {
+    const flashDiv = document.getElementById('flashcards');
+    if (flashcardIndex >= flashcardQueue.length) {
+      flashDiv.innerHTML = `<p>🎉 Done with flashcards!</p>`;
+      return;
     }
 
-    async function loadFlashcards() {
-      const topic = prompt("Enter a topic (e.g., Cardio, Neuro, etc.):");
-      const res = await fetch(`/flashcards/${topic}`);
-      const data = await res.json();
-      const output = data.queue.map(card => `Q: ${card.question}\nA: ${card.answer}`).join('\n\n');
-      document.getElementById('flashcards').innerText = output || 'No cards found.';
-    }
+    const card = flashcardQueue[flashcardIndex];
+    flashDiv.innerHTML = `
+      <div style="margin-bottom: 10px;"><strong>Q:</strong> ${card.question}</div>
+      <button onclick="showAnswer()">Show Answer</button>
+      <div id="answer" style="margin-top: 10px;"></div>
+      <br><button onclick="nextFlashcard()">Next</button>
+    `;
+  }
 
-    async function loadDashboard(topic) {
-      const res = await fetch(`/dashboard/${topic}`);
-      const data = await res.json();
-      let html = `<strong>Last Studied:</strong> ${data.last_studied}<br>`;
-      html += `<strong>Next Review:</strong> ${data.next_review}<br>`;
-      html += `<strong>Accuracy:</strong> ${data.accuracy}%<br>`;
-      html += `<strong>Top Miss:</strong> ${data.top_miss}<br>`;
-      html += `<strong>Goals:</strong> ${data.goals}<br>`;
-      html += `<strong>Flashcards:</strong> ${data.flashcards.length}`;
-      document.getElementById('dashboard').innerHTML = html;
-    }
+  function showAnswer() {
+    const card = flashcardQueue[flashcardIndex];
+    document.getElementById('answer').innerHTML = `<strong>A:</strong> ${card.answer}`;
+  }
 
-    async function loadCalendar() {
-      const res = await fetch('/calendar');
-      const data = await res.json();
-      document.getElementById('calendar').innerText = JSON.stringify(data, null, 2);
+  function nextFlashcard() {
+    flashcardIndex++;
+    renderFlashcard();
+  }
+
+  // ---------- TOPIC DASHBOARD ----------
+  async function loadDashboard(topic) {
+    const res = await fetch(`/dashboard/${topic}`);
+    const data = await res.json();
+    let html = `
+      <strong>Last Studied:</strong> ${data.last_studied}<br>
+      <strong>Next Review:</strong> ${data.next_review}<br>
+      <strong>Accuracy:</strong> ${data.accuracy}%<br>
+      <strong>Top Miss:</strong> ${data.top_miss}<br>
+      <strong>Goals:</strong> ${data.goals}<br>
+      <strong>Flashcards:</strong> ${data.flashcards.length}
+    `;
+    document.getElementById('dashboard').innerHTML = html;
+  }
+
+  // ---------- CALENDAR ----------
+  async function loadCalendar() {
+    const res = await fetch('/calendar');
+    const data = await res.json();
+    let output = '';
+    for (const date in data) {
+      output += `📅 ${date}:\n  • ${data[date].join('\n  • ')}\n\n`;
     }
-  </script>
+    document.getElementById('calendar').innerText = output.trim() || 'No upcoming reviews.';
+  }
+</script>
 </body>
 </html>
