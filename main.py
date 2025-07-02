@@ -214,8 +214,9 @@ def review_calendar():
     result = {day: calendar.get(day, []) for day in future_14 if calendar.get(day)}
     return jsonify(result)
 
-@app.route("/ask", methods=["POST"])
-def ask():
+@app.route("/")
+def home():
+    return render_template("onboarding.html")
     user_input = request.form["message"]
     topic = request.form.get("topic", "General Principles")
     memory = load_memory()
