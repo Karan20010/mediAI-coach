@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Welcome to MediAI Coach</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f0f2f5;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    h1, h2 {
+      text-align: center;
+      color: #007bff;
+    }
+    .step {
+      background: #fff;
+      border-radius: 10px;
+      padding: 20px;
+      margin: 30px 0;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+    label {
+      font-weight: bold;
+      display: block;
+      margin-bottom: 6px;
+    }
+    input, select, textarea {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 15px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+    button {
+      background-color: #007bff;
+      border: none;
+      color: white;
+      padding: 12px 18px;
+      font-size: 16px;
+      border-radius: 6px;
+      cursor: pointer;
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>👋 Welcome, Talia!</h1>
+    <p style="text-align:center;">Let’s get you set up for COMP prep. Answer a few quick questions:</p>
+
+    <form action="/complete_setup" method="POST">
+      <div class="step">
+        <h2>🗓️ Step 1: COMP Exam Date</h2>
+        <label for="comp_date">When is your COMP exam?</label>
+        <input type="date" id="comp_date" name="comp_date" required />
+      </div>
+
+      <div class="step">
+        <h2>📚 Step 2: Preferred Study Mode</h2>
+        <label for="study_mode">How do you want to study today?</label>
+        <select id="study_mode" name="study_mode">
+          <option value="flashcards">Flashcards</option>
+          <option value="mcqs">MCQs</option>
+          <option value="vignettes">Clinical Vignettes</option>
+          <option value="mix">Mix / Random</option>
+        </select>
+      </div>
+
+      <div class="step">
+        <h2>🧠 Step 3: Topic Focus</h2>
+        <label for="topic_mode">Choose your topic style:</label>
+        <select id="topic_mode" name="topic_mode">
+          <option value="schedule">Follow my class schedule</option>
+          <option value="random">Surprise me</option>
+          <option value="custom">Custom topic</option>
+        </select>
+        <label for="custom_topic">If custom, enter topic name:</label>
+        <input type="text" id="custom_topic" name="custom_topic" />
+      </div>
+
+      <div class="step">
+        <h2>🔥 Step 4: Difficulty Level</h2>
+        <label for="difficulty">What level of difficulty do you want?</label>
+        <select id="difficulty" name="difficulty">
+          <option value="easy">Easy</option>
+          <option value="moderate">Moderate</option>
+          <option value="hard">Hard</option>
+          <option value="mixed">Mix it up</option>
+        </select>
+      </div>
+
+      <div class="step">
+        <h2>🎯 Step 5: Goals & Learning Style</h2>
+        <label for="goals">What are your goals for studying? (select all that apply)</label>
+        <textarea id="goals" name="goals" placeholder="E.g., master cardio, improve speed, test anxiety, etc."></textarea>
+
+        <label for="learning_style">What works best for you when learning?</label>
+        <textarea id="learning_style" name="learning_style" placeholder="E.g., visual mnemonics, spaced repetition, explaining aloud..."></textarea>
+      </div>
+
+      <button type="submit">🚀 Start My COMP Prep</button>
+    </form>
+  </div>
+</body>
+</html>
