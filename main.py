@@ -49,8 +49,7 @@ def load_all_flashcards():
     card_set = set()
     all_cards = []
     for path in FLASHCARD_PATHS:
-        if not os.path.exists(path):
-            continue
+        if not os.path.exists(path): continue
         with open(path, "r", encoding="utf-8") as f:
             for card in json.load(f):
                 q, a = card.get("question", "").strip(), card.get("answer", "").strip()
@@ -125,24 +124,8 @@ def retrieve_similar_questions(prompt, top_k=3):
 # --- Routes ---
 @app.route("/")
 def home():
-    memory = load_memory()
-    if not memory.get("setup_complete"):
-        return render_template("onboarding.html")
-    return render_template("index.html", quote=random.choice(QUOTES))
-
-@app.route("/complete_setup", methods=["POST"])
-def complete_setup():
-    memory = load_memory()
-    memory["setup_complete"] = True
-    memory["comp_date"] = request.form.get("comp_date")
-    memory["study_style"] = request.form.get("study_mode")
-    memory["focus_type"] = request.form.get("topic_mode")
-    memory["difficulty"] = request.form.get("difficulty")
-    memory["goals"] = request.form.get("goals", "")
-    memory["learning_style"] = request.form.get("learning_style", "")
-    memory["custom_topic"] = request.form.get("custom_topic", "")
-    save_memory(memory)
-    return ("", 204)
+    quote = random.choice(QUOTES)
+    return render_template("index.html", quote=quote)
 
 @app.route("/flashcards/<topic>")
 def get_flashcards(topic):
@@ -152,22 +135,6 @@ def get_flashcards(topic):
     random.shuffle(topic_cards)
     queue = topic_cards[:20]
     return jsonify({ "queue": queue, "seen": seen, "total": len(topic_cards) })
-
-@app.route("/quiz", methods=["POST"])
-def quiz():
-    memory = load_memory()
-    mimic_enabled = memory.get("use_comp_mimic", False)
-    prompt_base = "You're helping a medical student prepare for the COMP exam. Generate one COMP-style MCQ:"
-    examples = ""
-    if mimic_enabled:
-        similar_qs = retrieve_similar_questions(prompt_base)
-        examples = "\n\nUse this style as a guide:\n" + "\n\n".join(similar_qs)
-    final_prompt = prompt_base + examples
-    response = openai.chat.completions.create(
-        model="gpt-4",
-        messages=[{ "role": "user", "content": final_prompt }]
-    )
-    return jsonify({ "question": response.choices[0].message.content })
 
 @app.route("/submit_answer", methods=["POST"])
 def submit_answer():
@@ -187,37 +154,8 @@ def submit_answer():
     save_memory(memory)
     return jsonify({ "result": result, "score": memory["score"], "attempts": memory["attempts"] })
 
-@app.route("/dashboard/<topic>", methods=["GET"])
-def topic_dashboard(topic):
-    memory = load_memory()
-    topic_data = memory.get("topics", {}).get(topic, {})
-    return jsonify({
-        "last_studied": topic_data.get("last_studied", "N/A"),
-        "next_review": topic_data.get("next_review", "Not scheduled"),
-        "accuracy": topic_data.get("accuracy", 0),
-        "top_miss": topic_data.get("top_miss", "None yet"),
-        "goals": topic_data.get("goals", "Not set"),
-        "summary_codes": topic_data.get("summary_codes", []),
-        "flashcards": topic_data.get("flashcards", [])
-    })
-
-@app.route("/calendar", methods=["GET"])
-def review_calendar():
-    memory = load_memory()
-    calendar = {}
-    for topic, data in memory.get("topics", {}).items():
-        date = data.get("next_review")
-        if date:
-            calendar.setdefault(date, []).append(topic)
-    today = datetime.today()
-    future_14 = [(today + timedelta(days=i)).strftime("%Y-%m-%d") for i in range(15)]
-    result = {day: calendar.get(day, []) for day in future_14 if calendar.get(day)}
-    return jsonify(result)
-
-@app.route("/")
-def home():
-    memory = load_memory()
-    return render_template("onboarding.html")  # Always shows welcome screen
+@app.route("/ask", methods=["POST"])
+def ask():
     user_input = request.form["message"]
     topic = request.form.get("topic", "General Principles")
     memory = load_memory()
@@ -252,6 +190,63 @@ def home():
     memory["last_topic"] = topic
     save_memory(memory)
     return jsonify({ "response": reply })
+
+@app.route("/complete_setup", methods=["POST"])
+def complete_setup():
+    memory = load_memory()
+    memory["setup_complete"] = True
+    memory["comp_date"] = request.form.get("comp_date")
+    memory["study_style"] = request.form.get("study_mode")
+    memory["focus_type"] = request.form.get("topic_mode")
+    memory["difficulty"] = request.form.get("difficulty")
+    memory["goals"] = request.form.get("goals", "")
+    memory["learning_style"] = request.form.get("learning_style", "")
+    memory["custom_topic"] = request.form.get("custom_topic", "")
+    save_memory(memory)
+    return ("", 204)
+
+@app.route("/quiz", methods=["POST"])
+def quiz():
+    memory = load_memory()
+    mimic_enabled = memory.get("use_comp_mimic", False)
+    prompt_base = "You're helping a medical student prepare for the COMP exam. Generate one COMP-style MCQ:"
+    examples = ""
+    if mimic_enabled:
+        similar_qs = retrieve_similar_questions(prompt_base)
+        examples = "\n\nUse this style as a guide:\n" + "\n\n".join(similar_qs)
+    final_prompt = prompt_base + examples
+    response = openai.chat.completions.create(
+        model="gpt-4",
+        messages=[{ "role": "user", "content": final_prompt }]
+    )
+    return jsonify({ "question": response.choices[0].message.content })
+
+@app.route("/dashboard/<topic>", methods=["GET"])
+def topic_dashboard(topic):
+    memory = load_memory()
+    topic_data = memory.get("topics", {}).get(topic, {})
+    return jsonify({
+        "last_studied": topic_data.get("last_studied", "N/A"),
+        "next_review": topic_data.get("next_review", "Not scheduled"),
+        "accuracy": topic_data.get("accuracy", 0),
+        "top_miss": topic_data.get("top_miss", "None yet"),
+        "goals": topic_data.get("goals", "Not set"),
+        "summary_codes": topic_data.get("summary_codes", []),
+        "flashcards": topic_data.get("flashcards", [])
+    })
+
+@app.route("/calendar", methods=["GET"])
+def review_calendar():
+    memory = load_memory()
+    calendar = {}
+    for topic, data in memory.get("topics", {}).items():
+        date = data.get("next_review")
+        if date:
+            calendar.setdefault(date, []).append(topic)
+    today = datetime.today()
+    future_14 = [(today + timedelta(days=i)).strftime("%Y-%m-%d") for i in range(15)]
+    result = {day: calendar.get(day, []) for day in future_14 if calendar.get(day)}
+    return jsonify(result)
 
 def update_topic_schedule(topic, accuracy):
     today = datetime.today().strftime("%Y-%m-%d")
