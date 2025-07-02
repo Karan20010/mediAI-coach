@@ -8,12 +8,13 @@ import faiss
 import numpy as np
 from werkzeug.utils import secure_filename
 from sentence_transformers import SentenceTransformer
+import openai
 
+# --- App Setup ---
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_SECRET_KEY", "secret123")
 
-# --- API Key ---
-import openai
+# --- API Setup ---
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # --- Paths ---
@@ -62,7 +63,7 @@ def load_all_flashcards():
 
 ALL_FLASHCARDS = load_all_flashcards()
 
-# --- Utils ---
+# --- Utilities ---
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
@@ -184,7 +185,7 @@ def ask():
         "role": "system",
         "content": f"You are Moxie, a caring, intelligent AI tutor guiding Talia through COMP prep. Adapt your responses based on her past sessions. Today’s topic: {topic}.{examples}"
     })
-    response = openai.ChatCompletion.create(
+    response = openai.chat.completions.create(
         model="gpt-4",
         messages=messages
     )
@@ -219,7 +220,7 @@ def quiz():
         similar_qs = retrieve_similar_questions(prompt_base)
         examples = "\n\nUse this style as a guide:\n" + "\n\n".join(similar_qs)
     final_prompt = prompt_base + examples
-    response = openai.ChatCompletion.create(
+    response = openai.chat.completions.create(
         model="gpt-4",
         messages=[{ "role": "user", "content": final_prompt }]
     )
