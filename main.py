@@ -216,7 +216,8 @@ def review_calendar():
 
 @app.route("/")
 def home():
-    return render_template("onboarding.html")
+    memory = load_memory()
+    return render_template("onboarding.html")  # Always shows welcome screen
     user_input = request.form["message"]
     topic = request.form.get("topic", "General Principles")
     memory = load_memory()
