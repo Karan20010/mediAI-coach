@@ -9,11 +9,13 @@ import numpy as np
 from werkzeug.utils import secure_filename
 from sentence_transformers import SentenceTransformer
 import openai
+from flask_cors import CORS
 
 # --- App Setup ---
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_SECRET_KEY", "secret123")
 openai.api_key = os.getenv("OPENAI_API_KEY")
+CORS(app)  # ✅ Enable frontend-backend communication
 
 # --- Paths ---
 MEMORY_PATH = "user_data/talia_memory.json"
@@ -259,6 +261,13 @@ def update_topic_schedule(topic, accuracy):
     topic_data["accuracy"] = accuracy
     memory["topics"][topic] = topic_data
     save_memory(memory)
+
+# ✅ NEW /chat endpoint for frontend connection
+@app.route("/chat", methods=["POST"])
+def chat():
+    data = request.get_json()
+    user_message = data.get("message", "")
+    return jsonify({"reply": f"You said: {user_message}"})
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8000)

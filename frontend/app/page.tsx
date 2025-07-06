@@ -15,7 +15,7 @@ export default function HomePage() {
     setInput('');
 
     try {
-      const res = await fetch('http://localhost:8000/chat', {
+      const res = await fetch('http://localhost:8000/chathttps://cautious-garbanzo-gxq7wqww6r5cpvp-3000.app.github.dev/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ message: input })
