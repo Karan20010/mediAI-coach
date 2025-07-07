@@ -3,225 +3,320 @@
 <head>
   <meta charset="UTF-8" />
   <title>Welcome to MediAI Coach</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     :root {
-      --bg: #f0f2f5;
-      --card: #fff;
-      --text: #333;
       --primary: #007bff;
-    }
-
-    body.dark {
-      --bg: #121212;
-      --card: #1f1f1f;
-      --text: #f0f0f0;
+      --bg-light: #f5f9ff;
+      --bg-dark: #121212;
+      --card-light: #ffffff;
+      --card-dark: #1e1e1e;
+      --text-light: #333333;
+      --text-dark: #e0e0e0;
+      --shadow-light: rgba(0,0,0,0.1);
+      --shadow-dark: rgba(0,0,0,0.7);
     }
 
     body {
-      font-family: 'Segoe UI', sans-serif;
-      background: var(--bg);
-      color: var(--text);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: var(--bg-light);
+      color: var(--text-light);
       margin: 0;
-      padding: 0;
-      transition: background 0.3s, color 0.3s;
+      padding: 40px 20px;
+      display: flex;
+      justify-content: center;
+      min-height: 100vh;
+      transition: background 0.3s ease, color 0.3s ease;
+    }
+
+    body.dark {
+      background: var(--bg-dark);
+      color: var(--text-dark);
     }
 
     .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 40px 20px;
+      max-width: 700px;
+      width: 100%;
+      background: var(--card-light);
+      box-shadow: 0 8px 20px var(--shadow-light);
+      border-radius: 16px;
+      padding: 30px 40px;
+      transition: background 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    body.dark .container {
+      background: var(--card-dark);
+      box-shadow: 0 8px 20px var(--shadow-dark);
     }
 
     h1, h2 {
-      text-align: center;
       color: var(--primary);
-      animation: fadeIn 1s ease;
+      font-weight: 700;
+      text-align: center;
+      margin-bottom: 10px;
+      letter-spacing: 1px;
+      user-select: none;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      margin-top: 30px;
+      margin-bottom: 15px;
+    }
+
+    p {
+      text-align: center;
+      margin-top: 0;
+      margin-bottom: 30px;
+      font-size: 1rem;
+      user-select: none;
+    }
+
+    form {
+      width: 100%;
     }
 
     .step {
-      background: var(--card);
-      border-radius: 10px;
-      padding: 20px;
-      margin: 30px 0;
-      box-shadow: 0 0 10px rgba(0,0,0,0.05);
-      animation: slideUp 0.5s ease;
+      background: var(--card-light);
+      border-radius: 12px;
+      box-shadow: 0 4px 10px var(--shadow-light);
+      padding: 20px 25px;
+      margin-bottom: 25px;
+      transition: background 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    body.dark .step {
+      background: var(--card-dark);
+      box-shadow: 0 4px 10px var(--shadow-dark);
     }
 
     label {
-      font-weight: bold;
+      font-weight: 600;
       display: block;
-      margin-bottom: 6px;
+      margin-bottom: 8px;
       cursor: pointer;
+      user-select: none;
     }
 
-    input, select, textarea {
+    input[type="date"],
+    select,
+    input[type="text"],
+    textarea {
       width: 100%;
-      padding: 10px;
+      padding: 12px 14px;
+      margin-top: 6px;
       margin-bottom: 15px;
-      border-radius: 5px;
-      border: 1px solid #ccc;
+      border-radius: 8px;
+      border: 1.8px solid #cbd5e1;
+      font-size: 1rem;
+      color: var(--text-light);
+      transition: border-color 0.3s ease, background 0.3s ease;
+    }
+
+    body.dark input[type="date"],
+    body.dark select,
+    body.dark input[type="text"],
+    body.dark textarea {
+      background: #2b2b2b;
+      border-color: #555;
+      color: var(--text-dark);
+    }
+
+    input[type="date"]:focus,
+    select:focus,
+    input[type="text"]:focus,
+    textarea:focus {
+      border-color: var(--primary);
+      outline: none;
+      background: #e7f0ff;
+    }
+
+    body.dark input[type="date"]:focus,
+    body.dark select:focus,
+    body.dark input[type="text"]:focus,
+    body.dark textarea:focus {
+      background: #004085;
+      color: #fff;
     }
 
     input[type="radio"] {
-      width: auto;
-      margin-right: 8px;
+      margin-right: 10px;
       cursor: pointer;
+      transform: scale(1.15);
+      vertical-align: middle;
+    }
+
+    .radio-label {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+      font-weight: 600;
+      user-select: none;
     }
 
     button {
-      background-color: var(--primary);
-      border: none;
+      width: 100%;
+      background: var(--primary);
       color: white;
-      padding: 12px 18px;
-      font-size: 16px;
-      border-radius: 6px;
+      font-weight: 700;
+      font-size: 1.1rem;
+      padding: 14px 0;
+      border: none;
+      border-radius: 12px;
       cursor: pointer;
-      display: block;
-      margin: 20px auto 0;
+      box-shadow: 0 5px 15px rgba(0,123,255,0.5);
+      transition: background 0.3s ease, box-shadow 0.3s ease;
+      user-select: none;
     }
 
-    .avatar {
-      position: fixed;
-      bottom: 10px;
-      right: 10px;
-      font-size: 28px;
-      animation: bounce 1.5s infinite;
+    button:hover {
+      background: #0056b3;
+      box-shadow: 0 7px 20px rgba(0,86,179,0.7);
     }
 
     .toggle-btn {
       position: fixed;
-      top: 10px;
-      right: 10px;
+      top: 15px;
+      right: 15px;
       background: none;
       border: 2px solid var(--primary);
-      border-radius: 8px;
+      border-radius: 10px;
       color: var(--primary);
-      padding: 6px 12px;
+      padding: 8px 16px;
       font-size: 14px;
       cursor: pointer;
+      font-weight: 700;
+      user-select: none;
+      z-index: 1000;
+      transition: background 0.3s ease, color 0.3s ease;
     }
 
-    @keyframes slideUp {
-      from { opacity: 0; transform: translateY(20px); }
-      to   { opacity: 1; transform: translateY(0); }
+    .toggle-btn:hover {
+      background: var(--primary);
+      color: white;
     }
 
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to   { opacity: 1; }
+    .avatar {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      font-size: 38px;
+      user-select: none;
+      animation: bounce 1.8s infinite;
+      filter: drop-shadow(0 3px 3px rgba(0,0,0,0.15));
+      z-index: 1000;
     }
 
     @keyframes bounce {
       0%, 100% { transform: translateY(0); }
-      50%      { transform: translateY(-8px); }
+      50% { transform: translateY(-8px); }
+    }
+
+    @media (max-width: 480px) {
+      body {
+        padding: 20px 10px;
+      }
+      .container {
+        padding: 25px 20px;
+        border-radius: 0;
+        box-shadow: none;
+      }
+      button, input[type="date"], select, input[type="text"], textarea {
+        font-size: 1rem;
+      }
+      .toggle-btn {
+        padding: 7px 14px;
+        font-size: 13px;
+      }
+      .avatar {
+        font-size: 32px;
+        bottom: 15px;
+        right: 15px;
+      }
     }
   </style>
 </head>
 <body>
-  <button class="toggle-btn" onclick="toggleTheme()">Toggle Theme</button>
-  <div class="avatar">🤖</div>
+  <button class="toggle-btn" aria-label="Toggle theme" title="Toggle light/dark theme" onclick="toggleTheme()">Toggle Theme</button>
+  <div class="avatar" aria-hidden="true">🤖</div>
 
-  <div class="container">
-    <h1>👋 Welcome, Talia!</h1>
-    <p style="text-align:center;">Let’s get you set up for COMP prep. Answer a few quick questions:</p>
+  <div class="container" role="main" aria-labelledby="welcomeHeading">
+    <h1 id="welcomeHeading" tabindex="0">👋 Welcome, Talia!</h1>
+    <p>Let’s get you set up for COMP prep. Answer a few quick questions:</p>
 
     <form id="onboardingForm" action="/complete_setup" method="POST" onsubmit="return validateForm()">
-      <div class="step">
-        <h2>🗓️ Step 1: COMP Exam Date</h2>
+      <section class="step" aria-labelledby="step1Label" tabindex="0">
+        <h2 id="step1Label">🗓️ Step 1: COMP Exam Date</h2>
         <label for="comp_date">When is your COMP exam?</label>
-        <input type="date" id="comp_date" name="comp_date" required />
-      </div>
+        <input type="date" id="comp_date" name="comp_date" required aria-required="true" />
+      </section>
 
-      <div class="step">
-        <h2>📚 Step 2: Preferred Study Mode</h2>
+      <section class="step" aria-labelledby="step2Label" tabindex="0">
+        <h2 id="step2Label">📚 Step 2: Preferred Study Mode</h2>
         <label for="study_mode">How would you like to study?</label>
-        <select id="study_mode" name="study_mode" required>
-          <option value="">Select an option</option>
+        <select id="study_mode" name="study_mode" required aria-required="true">
+          <option value="" disabled selected>Select an option</option>
           <option value="flashcards">Flashcards</option>
           <option value="mcqs">MCQs</option>
           <option value="vignettes">Clinical Vignettes</option>
           <option value="mix">Mix / Random</option>
         </select>
-      </div>
+      </section>
 
-      <div class="step">
-        <h2>🧠 Step 3: Topic Focus</h2>
+      <section class="step" aria-labelledby="step3Label" tabindex="0">
+        <h2 id="step3Label">🧠 Step 3: Topic Focus</h2>
         <label for="topic_mode">Choose your topic style:</label>
-        <select id="topic_mode" name="topic_mode" required>
-          <option value="">Select an option</option>
+        <select id="topic_mode" name="topic_mode" required aria-required="true">
+          <option value="" disabled selected>Select an option</option>
           <option value="schedule">Follow my class schedule</option>
           <option value="random">Surprise me</option>
           <option value="custom">Custom topic</option>
         </select>
         <label for="custom_topic">If custom, enter topic name:</label>
-        <input type="text" id="custom_topic" name="custom_topic" disabled />
-      </div>
+        <input type="text" id="custom_topic" name="custom_topic" placeholder="E.g., Cardiology" />
+      </section>
 
-      <div class="step">
-        <h2>🔥 Step 4: Difficulty Level</h2>
+      <section class="step" aria-labelledby="step4Label" tabindex="0">
+        <h2 id="step4Label">🔥 Step 4: Difficulty Level</h2>
         <label for="difficulty">What level of difficulty do you want?</label>
-        <select id="difficulty" name="difficulty" required>
-          <option value="">Select an option</option>
+        <select id="difficulty" name="difficulty" required aria-required="true">
+          <option value="" disabled selected>Select an option</option>
           <option value="easy">Easy</option>
           <option value="moderate">Moderate</option>
           <option value="hard">Hard</option>
           <option value="mixed">Mix it up</option>
         </select>
-      </div>
+      </section>
 
-      <div class="step">
-        <h2>🎯 Step 5: Goals & Learning Style</h2>
+      <section class="step" aria-labelledby="step5Label" tabindex="0">
+        <h2 id="step5Label">🎯 Step 5: Goals &amp; Learning Style</h2>
         <label for="goals">What are your goals for studying?</label>
-        <textarea id="goals" name="goals" placeholder="E.g., master cardio, improve speed, etc."></textarea>
+        <textarea id="goals" name="goals" rows="3" placeholder="E.g., master cardio, improve speed, etc."></textarea>
 
         <label for="learning_style">What works best for you?</label>
-        <textarea id="learning_style" name="learning_style" placeholder="E.g., visual mnemonics, spaced repetition..."></textarea>
-      </div>
+        <textarea id="learning_style" name="learning_style" rows="3" placeholder="E.g., visual mnemonics, spaced repetition..."></textarea>
+      </section>
 
-      <div class="step">
-        <h2>🤖 Chatbot Name</h2>
+      <section class="step" aria-labelledby="step6Label" tabindex="0">
+        <h2 id="step6Label">🤖 Chatbot Name</h2>
         <label for="chatbot_name">What would you like to call your AI tutor?</label>
         <input type="text" id="chatbot_name" name="chatbot_name" placeholder="Moxie" />
-      </div>
+      </section>
 
-      <div class="step">
-        <h2>🧑‍🤝‍🧑 Choose Your AI Tutor’s Avatar</h2>
-        <label><input type="radio" name="chatbot_avatar" value="female" /> Girl</label>
-        <label><input type="radio" name="chatbot_avatar" value="male" /> Boy</label>
-      </div>
+      <section class="step" aria-labelledby="step7Label" tabindex="0">
+        <h2 id="step7Label">🧑‍🤝‍🧑 Choose Your AI Tutor’s Avatar</h2>
+        <label class="radio-label"><input type="radio" name="chatbot_avatar" value="female" /> Girl</label>
+        <label class="radio-label"><input type="radio" name="chatbot_avatar" value="male" /> Boy</label>
+      </section>
 
-      <button type="submit">🚀 Start My COMP Prep</button>
+      <button type="submit" aria-label="Start COMP prep">🚀 Start My COMP Prep</button>
     </form>
   </div>
 
   <script>
     function toggleTheme() {
       document.body.classList.toggle('dark');
-      localStorage.setItem('darkMode', document.body.classList.contains('dark'));
-    }
-
-    window.onload = () => {
-      if (localStorage.getItem('darkMode') === 'true') {
-        document.body.classList.add('dark');
-      }
-      toggleCustomTopic(); // Initialize on load
-    };
-
-    const topicSelect = document.getElementById('topic_mode');
-    const customTopicInput = document.getElementById('custom_topic');
-
-    topicSelect.addEventListener('change', toggleCustomTopic);
-
-    function toggleCustomTopic() {
-      if (topicSelect.value === 'custom') {
-        customTopicInput.disabled = false;
-        customTopicInput.required = true;
-      } else {
-        customTopicInput.disabled = true;
-        customTopicInput.required = false;
-        customTopicInput.value = '';
-      }
+      localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
     }
 
     function validateForm() {
@@ -229,19 +324,21 @@
       const mode = document.getElementById('study_mode').value;
       const topic = document.getElementById('topic_mode').value;
       const diff = document.getElementById('difficulty').value;
-      const customTopic = document.getElementById('custom_topic').value.trim();
 
       if (!date || !mode || !topic || !diff) {
         alert('Please complete all required fields.');
         return false;
       }
-      if (topic === 'custom' && !customTopic) {
-        alert('Please enter your custom topic.');
-        return false;
-      }
 
       return true;
     }
+
+    // Load saved theme on page load
+    window.onload = () => {
+      if (localStorage.getItem('theme') === 'dark') {
+        document.body.classList.add('dark');
+      }
+    };
   </script>
 </body>
 </html>

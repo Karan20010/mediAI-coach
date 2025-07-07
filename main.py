@@ -2,6 +2,7 @@ import os
 import json
 import random
 import re
+import logging
 from flask import Flask, request, render_template, jsonify, redirect, url_for
 from datetime import datetime, timedelta
 import docx
@@ -12,14 +13,21 @@ from sentence_transformers import SentenceTransformer
 from markupsafe import Markup
 import openai
 from dotenv import load_dotenv
-import tiktoken  # Added for token counting
+import tiktoken
 
 load_dotenv()
+
+# --- Logging Setup ---
+logging.basicConfig(level=logging.INFO)
 
 # --- App Setup ---
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_SECRET_KEY", "secret123")
 openai.api_key = os.getenv("OPENAI_API_KEY")
+
+# --- Constants ---
+MAX_TOKENS = int(os.getenv("MAX_TOKENS", "8000"))
+MAX_MESSAGES = int(os.getenv("MAX_MESSAGES", "25"))
 
 # --- Paths ---
 MEMORY_PATH = "user_data/talia_memory.json"
@@ -49,6 +57,23 @@ QUOTES = [
     "Progress over perfection.",
     "You've got this, Talia 💪"
 ]
+
+# --- Tokenizer Setup ---
+ENCODER = tiktoken.encoding_for_model("gpt-4")
+
+def count_message_tokens(messages):
+    """Count tokens in messages for GPT-4 model accurately."""
+    tokens_per_message = 3  # per OpenAI specs
+    tokens_per_name = 1
+    num_tokens = 0
+    for message in messages:
+        num_tokens += tokens_per_message
+        for key, value in message.items():
+            num_tokens += len(ENCODER.encode(value))
+            if key == "name":
+                num_tokens += tokens_per_name
+    num_tokens += 3  # assistant priming tokens
+    return num_tokens
 
 # --- Load Flashcards ---
 def load_all_flashcards():
@@ -226,8 +251,8 @@ def ask():
 
     messages.append({"role": "user", "content": user_input})
 
-    # Keep only last 25 messages initially (optional)
-    messages = messages[-25:]
+    # Limit messages to last MAX_MESSAGES
+    messages = messages[-MAX_MESSAGES:]
 
     # Retrieve similar questions for style mimic if enabled
     examples = ""
@@ -235,7 +260,6 @@ def ask():
         similar_qs = retrieve_similar_questions(user_input)
         examples = "\n\nUse this style as a guide:\n" + "\n\n".join(similar_qs)
 
-    # Build system prompt including onboarding personalization
     system_prompt = (
         f"You are {chatbot_name}, a caring, intelligent AI tutor guiding Talia through COMP prep. "
         f"Adapt your responses based on her past sessions and preferences.\n"
@@ -248,42 +272,31 @@ def ask():
         f"{examples}"
     )
 
-    messages.insert(0, {
-        "role": "system",
-        "content": system_prompt
-    })
+    messages.insert(0, {"role": "system", "content": system_prompt})
 
-    # Count tokens function with tiktoken
-    def count_tokens(messages, model="gpt-4"):
-        enc = tiktoken.encoding_for_model(model)
-        total_tokens = 0
-        for msg in messages:
-            total_tokens += 4  # per-message overhead
-            total_tokens += len(enc.encode(msg["content"]))
-        total_tokens += 2  # reply overhead
-        return total_tokens
-
-    MAX_TOKENS = 8000
-
-    # Trim oldest messages until under token limit
-    while count_tokens(messages) > MAX_TOKENS and len(messages) > 1:
-        # Remove second message (oldest after system prompt)
+    # Trim messages to fit within token limit
+    while count_message_tokens(messages) > MAX_TOKENS and len(messages) > 1:
+        # Always keep system prompt at index 0, so remove from index 1
         messages.pop(1)
 
-    response = openai.chat.completions.create(
-        model="gpt-4",
-        messages=messages
-    )
+    try:
+        response = openai.chat.completions.create(
+            model="gpt-4",
+            messages=messages
+        )
+        reply = response.choices[0].message.content
+        messages.append({"role": "assistant", "content": reply})
 
-    reply = response.choices[0].message.content
-    messages.append({"role": "assistant", "content": reply})
+        # Save updated memory
+        memory["messages"] = messages
+        memory["last_topic"] = topic
+        save_memory(memory)
 
-    # Save updated memory
-    memory["messages"] = messages
-    memory["last_topic"] = topic
-    save_memory(memory)
+        return jsonify({"response": reply})
 
-    return jsonify({"response": reply})
+    except Exception as e:
+        app.logger.error(f"OpenAI API error: {e}")
+        return jsonify({"response": "Sorry, I am having trouble processing your request right now. Please try again later."}), 500
 
 @app.route("/complete_setup", methods=["POST"])
 def complete_setup():

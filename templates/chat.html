@@ -2,166 +2,235 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <title>MediAI Coach Chat</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>MediAI Chat</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #e0f0ff, #ffffff);
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
       max-width: 600px;
-      margin: auto;
-      background: #f9f9f9;
+      margin-left: auto;
+      margin-right: auto;
+      box-shadow: 0 0 20px rgba(0,0,0,0.1);
+      border-radius: 12px;
+      overflow: hidden;
     }
-    #avatar {
-      font-size: 48px;
+
+    header {
+      background-color: #005bbb;
+      color: white;
+      padding: 20px;
+      font-size: 24px;
+      font-weight: 700;
       text-align: center;
-      margin-bottom: 10px;
+      letter-spacing: 1px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
     }
+
+    #avatar {
+      font-size: 50px;
+      text-align: center;
+      margin: 15px 0 10px 0;
+      user-select: none;
+      filter: drop-shadow(0 2px 2px rgba(0,0,0,0.15));
+    }
+
     #chat {
-      border: 1px solid #ccc;
-      padding: 10px;
-      height: 300px;
-      overflow-y: scroll;
-      margin-bottom: 10px;
-      background: white;
-      border-radius: 6px;
+      flex-grow: 1;
+      padding: 20px;
+      overflow-y: auto;
+      background: #f9fbff;
+      border-top: 1px solid #d1d9f0;
+      border-bottom: 1px solid #d1d9f0;
+      scroll-behavior: smooth;
+    }
+
+    .message {
+      margin: 10px 0;
+      max-width: 80%;
+      padding: 12px 18px;
+      border-radius: 20px;
+      line-height: 1.4;
+      font-size: 16px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      user-select: text;
+      white-space: pre-wrap;
+      word-wrap: break-word;
     }
     .user {
-      color: blue;
-      margin: 5px 0;
+      background: #1a73e8;
+      color: white;
+      margin-left: auto;
+      border-bottom-right-radius: 4px;
+      font-weight: 600;
     }
     .bot {
-      color: green;
-      margin: 5px 0;
+      background: #d1e7dd;
+      color: #0f5132;
+      margin-right: auto;
+      border-bottom-left-radius: 4px;
+      font-weight: 600;
     }
+
     #typingIndicator {
-      color: gray;
       font-style: italic;
-      margin: 5px 0;
-      height: 20px;
-      min-height: 20px;
-      font-weight: 500;
-    }
-    input, button {
-      padding: 10px;
-      width: 100%;
-      box-sizing: border-box;
-      border-radius: 4px;
-      border: 1px solid #ccc;
-      font-size: 16px;
-    }
-    button {
+      color: #666;
+      font-size: 14px;
+      height: 22px;
+      padding-left: 20px;
       margin-top: 5px;
-      cursor: pointer;
-      background-color: #007bff;
-      color: white;
-      border: none;
-      transition: background-color 0.3s ease;
+      user-select: none;
+      visibility: hidden;
     }
-    button:hover {
-      background-color: #0056b3;
+
+    #inputArea {
+      display: flex;
+      padding: 15px 20px;
+      gap: 12px;
+      background: white;
+      box-shadow: 0 -3px 10px rgba(0,0,0,0.05);
+      border-radius: 0 0 12px 12px;
+    }
+
+    #messageInput {
+      flex-grow: 1;
+      border-radius: 20px;
+      border: 2px solid #b6d4fe;
+      padding: 14px 18px;
+      font-size: 16px;
+      outline-offset: 2px;
+      transition: border-color 0.3s ease;
+    }
+    #messageInput:focus {
+      border-color: #005bbb;
+    }
+
+    #sendBtn {
+      background: linear-gradient(90deg, #005bbb, #003f7d);
+      border: none;
+      border-radius: 20px;
+      color: white;
+      font-weight: 700;
+      font-size: 16px;
+      padding: 14px 25px;
+      cursor: pointer;
+      box-shadow: 0 6px 12px rgba(0,91,187,0.6);
+      transition: background 0.3s ease;
+      user-select: none;
+      flex-shrink: 0;
+    }
+    #sendBtn:hover {
+      background: linear-gradient(90deg, #004080, #002a52);
+      box-shadow: 0 8px 18px rgba(0,64,128,0.9);
+    }
+
+    @media (max-width: 400px) {
+      body {
+        max-width: 100%;
+        border-radius: 0;
+      }
+      #messageInput {
+        font-size: 14px;
+        padding: 12px 14px;
+      }
+      #sendBtn {
+        font-size: 14px;
+        padding: 12px 18px;
+      }
     }
   </style>
 </head>
 <body>
-  <h2>MediAI Chat</h2>
 
+  <header>MediAI Coach Chat</header>
   <div id="avatar">🤖</div>
-  <div id="chat"></div>
-  <div id="typingIndicator"></div>
 
-  <input id="message" placeholder="Ask me anything..." autocomplete="off" />
-  <button onclick="sendMessage()">Send</button>
+  <div id="chat" aria-live="polite" aria-relevant="additions" role="log"></div>
+  <div id="typingIndicator">MediAI is typing...</div>
+
+  <form id="inputArea" onsubmit="event.preventDefault(); sendMessage();">
+    <input
+      type="text"
+      id="messageInput"
+      placeholder="Ask me anything..."
+      autocomplete="off"
+      aria-label="Chat message input"
+      required
+    />
+    <button id="sendBtn" type="submit">Send</button>
+  </form>
 
   <script>
-    let chatbotName = "MediAI"; // Default name until fetched
+    const chatWindow = document.getElementById('chat');
+    const messageInput = document.getElementById('messageInput');
+    const typingIndicator = document.getElementById('typingIndicator');
+    const avatar = document.getElementById('avatar');
+    let chatbotName = 'MediAI';
 
-    // Load avatar and chatbot name from backend
+    // Load avatar and name on page load
     async function loadAvatarAndName() {
       try {
-        const res = await fetch("/get_avatar");
-        if (!res.ok) throw new Error("Network error");
+        const res = await fetch('/get_avatar');
+        if (!res.ok) throw new Error('Network error');
         const data = await res.json();
-        const avatarDiv = document.getElementById("avatar");
-        chatbotName = data.name || "MediAI";
-
-        if (data.avatar === "female") {
-          avatarDiv.textContent = "👩";
-        } else if (data.avatar === "male") {
-          avatarDiv.textContent = "👨";
-        } else {
-          avatarDiv.textContent = "🤖";
-        }
-
-        document.getElementById("typingIndicator").textContent = "";
+        chatbotName = data.name || 'MediAI';
+        if (data.avatar === 'female') avatar.textContent = '👩';
+        else if (data.avatar === 'male') avatar.textContent = '👨';
+        else avatar.textContent = '🤖';
+        typingIndicator.textContent = `${chatbotName} is typing...`;
       } catch (err) {
-        console.error("Failed to load avatar and name:", err);
-        document.getElementById("typingIndicator").textContent = "";
+        console.error('Failed to load avatar and name:', err);
+        typingIndicator.textContent = `${chatbotName} is typing...`;
       }
     }
 
-    // Send message on Enter key press as well as button click
-    document.getElementById("message").addEventListener("keydown", function(event) {
-      if (event.key === "Enter") {
-        event.preventDefault();
+    // Add message to chat window
+    function addMessage(text, sender) {
+      const msg = document.createElement('div');
+      msg.className = 'message ' + sender;
+      msg.textContent = sender === 'user' ? 'You: ' + text : chatbotName + ': ' + text;
+      chatWindow.appendChild(msg);
+      chatWindow.scrollTop = chatWindow.scrollHeight;
+    }
+
+    // Send message handler
+    async function sendMessage() {
+      const msg = messageInput.value.trim();
+      if (!msg) return;
+      addMessage(msg, 'user');
+      messageInput.value = '';
+      typingIndicator.style.visibility = 'visible';
+
+      try {
+        const response = await fetch('/ask', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+          body: new URLSearchParams({ message: msg }),
+        });
+        const data = await response.json();
+        addMessage(data.response, 'bot');
+      } catch (error) {
+        addMessage('Error: Unable to get response.', 'bot');
+      } finally {
+        typingIndicator.style.visibility = 'hidden';
+      }
+    }
+
+    // Send message on Enter key
+    messageInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
         sendMessage();
       }
     });
 
-    // Add message to chat window
-    function addMessage(text, sender) {
-      const chat = document.getElementById("chat");
-      const msg = document.createElement("div");
-      msg.className = sender;
-      msg.textContent = sender === "user" ? "You: " + text : `${chatbotName}: ` + text;
-      chat.appendChild(msg);
-      chat.scrollTop = chat.scrollHeight;
-    }
-
-    // Send user message to backend and display reply
-    async function sendMessage() {
-      const input = document.getElementById("message");
-      if (!input.value.trim()) return;
-
-      addMessage(input.value, "user");
-
-      const typingIndicator = document.getElementById("typingIndicator");
-      typingIndicator.style.display = "block";
-
-      // Animate typing indicator with dots
-      let dots = 0;
-      const interval = setInterval(() => {
-        dots = (dots + 1) % 4;
-        typingIndicator.textContent = `${chatbotName} is typing` + ".".repeat(dots);
-      }, 500);
-
-      try {
-        const response = await fetch("/ask", {
-          method: "POST",
-          headers: { "Content-Type": "application/x-www-form-urlencoded" },
-          body: new URLSearchParams({ message: input.value })
-        });
-        const data = await response.json();
-
-        clearInterval(interval);
-        typingIndicator.style.display = "none";
-        typingIndicator.textContent = "";
-
-        addMessage(data.response, "bot");
-      } catch (error) {
-        clearInterval(interval);
-        typingIndicator.style.display = "none";
-        typingIndicator.textContent = "";
-
-        addMessage("Error: Unable to get response.", "bot");
-      }
-
-      input.value = "";
-      input.focus();
-    }
-
-    // Load avatar and name on page load
     window.onload = loadAvatarAndName;
   </script>
+
 </body>
 </html>
