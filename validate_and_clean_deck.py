@@ -39,27 +39,28 @@ def validate_and_clean_cards(path):
     return cleaned, skipped, duplicates
 
 # --- Run process ---
-cleaned_cards, skipped_cards, duplicate_count = validate_and_clean_cards(INPUT_FILE)
+if __name__ == "__main__":
+    cleaned_cards, skipped_cards, duplicate_count = validate_and_clean_cards(INPUT_FILE)
 
-# --- Save cleaned deck ---
-with open(OUTPUT_FILE, "w", encoding="utf-8") as out:
-    json.dump(cleaned_cards, out, indent=2)
+    # --- Save cleaned deck ---
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as out:
+        json.dump(cleaned_cards, out, indent=2, ensure_ascii=False)
 
-# --- Save invalid cards ---
-with open(INVALID_FILE, "w", encoding="utf-8") as out:
-    json.dump(skipped_cards, out, indent=2)
+    # --- Save invalid cards ---
+    with open(INVALID_FILE, "w", encoding="utf-8") as out:
+        json.dump(skipped_cards, out, indent=2, ensure_ascii=False)
 
-# --- Compare skipped against cleaned to find which are still missing ---
-cleaned_set = set((c["question"].strip(), c["answer"].strip()) for c in cleaned_cards)
-still_skipped = [card for card in skipped_cards
-                 if (card["question"].strip(), card["answer"].strip()) not in cleaned_set]
+    # --- Compare skipped against cleaned to find which are still missing ---
+    cleaned_set = set((c["question"].strip(), c["answer"].strip()) for c in cleaned_cards)
+    still_skipped = [card for card in skipped_cards
+                     if (card["question"].strip(), card["answer"].strip()) not in cleaned_set]
 
-with open(STILL_SKIPPED_FILE, "w", encoding="utf-8") as out:
-    json.dump(still_skipped, out, indent=2)
+    with open(STILL_SKIPPED_FILE, "w", encoding="utf-8") as out:
+        json.dump(still_skipped, out, indent=2, ensure_ascii=False)
 
-# --- Summary ---
-print(f"✅ Cleaned deck saved to {OUTPUT_FILE}")
-print(f"📦 Cards kept: {len(cleaned_cards)}")
-print(f"♻️ Duplicates removed: {duplicate_count}")
-print(f"❌ Skipped invalid cards: {len(skipped_cards)}")
-print(f"📁 Still missing in cleaned output: {len(still_skipped)} (saved to {STILL_SKIPPED_FILE})")
+    # --- Summary ---
+    print(f"✅ Cleaned deck saved to {OUTPUT_FILE}")
+    print(f"📦 Cards kept: {len(cleaned_cards)}")
+    print(f"♻️ Duplicates removed: {duplicate_count}")
+    print(f"❌ Skipped invalid cards: {len(skipped_cards)}")
+    print(f"📁 Still missing in cleaned output: {len(still_skipped)} (saved to {STILL_SKIPPED_FILE})")

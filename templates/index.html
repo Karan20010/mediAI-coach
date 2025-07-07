@@ -54,11 +54,6 @@
       background: #003f7d;
       box-shadow: 0 0 15px #003f7d;
     }
-    #sidebar button svg {
-      fill: white;
-      width: 20px;
-      height: 20px;
-    }
     #mainContent {
       flex: 1;
       background: white;
@@ -81,155 +76,22 @@
       padding-bottom: 8px;
       letter-spacing: 0.6px;
     }
-    /* Chat window styling */
-    #chatWindow {
-      flex-grow: 1;
-      background: #f9fbff;
-      border-radius: 12px;
-      padding: 20px;
-      box-shadow: inset 0 2px 10px rgba(0,0,0,0.05);
-      overflow-y: auto;
-      margin-bottom: 15px;
-      font-size: 16px;
-      line-height: 1.5;
-      border: 1px solid #d0d9f0;
-      white-space: pre-wrap;
-      word-wrap: break-word;
-    }
-    .message.user {
-      color: #1a73e8;
-      font-weight: 600;
-      margin: 8px 0;
-      text-align: right;
-      max-width: 80%;
-      margin-left: auto;
-    }
-    .message.bot {
-      color: #0f5132;
-      background: #d1e7dd;
-      border-radius: 10px;
-      padding: 10px 15px;
-      margin: 8px 0;
-      max-width: 80%;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-      text-align: left;
-      white-space: pre-wrap;
-      word-wrap: break-word;
-    }
-    #typingIndicator {
-      font-style: italic;
-      color: #666;
-      min-height: 20px;
-      margin-bottom: 10px;
-      visibility: hidden;
-      font-size: 14px;
-    }
-    #messageInput {
-      padding: 14px 18px;
-      border-radius: 12px;
-      border: 2px solid #b6d4fe;
-      font-size: 16px;
-      outline-offset: 2px;
-      transition: border-color 0.3s ease;
-      width: 100%;
-      max-width: 100%;
-    }
-    #messageInput:focus {
-      border-color: #005bbb;
-    }
-    #sendBtn {
-      margin-top: 15px;
-      padding: 14px 18px;
-      background: linear-gradient(90deg, #005bbb, #003f7d);
-      border: none;
-      color: white;
-      font-size: 18px;
-      border-radius: 12px;
-      font-weight: 700;
-      cursor: pointer;
-      box-shadow: 0 6px 12px rgba(0,91,187,0.6);
-      transition: background 0.3s ease;
-      width: 100%;
-      max-width: 100%;
-    }
-    #sendBtn:hover {
-      background: linear-gradient(90deg, #004080, #002a52);
-      box-shadow: 0 8px 18px rgba(0,64,128,0.9);
-    }
-
-    /* Responsive */
-    @media (max-width: 768px) {
-      body {
-        flex-direction: column;
-        height: auto;
-      }
-      #sidebar {
-        width: 100%;
-        flex-direction: row;
-        padding: 15px 10px;
-        overflow-x: auto;
-        gap: 12px;
-      }
-      #sidebar h2 {
-        font-size: 20px;
-        margin-bottom: 0;
-        white-space: nowrap;
-      }
-      #sidebar button {
-        flex: 1 0 auto;
-        margin-bottom: 0;
-        font-size: 14px;
-        padding: 10px 12px;
-        border-radius: 8px;
-      }
-      #mainContent {
-        margin: 15px;
-        border-radius: 12px;
-        padding: 20px;
-        height: auto;
-      }
-      #chatWindow {
-        height: 300px;
-      }
-    }
   </style>
 </head>
 <body>
 
   <div id="sidebar">
     <h2>MediAI Coach</h2>
-    <button class="active" onclick="showSection('chat')">
-      💬 Chat
-    </button>
-    <button onclick="showSection('flashcards')">
-      📚 Flashcards
-    </button>
-    <button onclick="showSection('dashboard')">
-      📊 Dashboard
-    </button>
-    <button onclick="showSection('onboarding')">
-      👋 Onboarding
-    </button>
+    <button class="active" onclick="showSection('chat')">💬 Chat</button>
+    <button onclick="window.location.href='/flashcards_index'">📚 Flashcards</button>
+    <button onclick="showSection('dashboard')">📊 Dashboard</button>
+    <button onclick="showSection('onboarding')">👋 Onboarding</button>
   </div>
 
   <div id="mainContent">
     <div id="chat" class="section">
       <h2>Chat with MediAI</h2>
-      <div id="chatWindow"></div>
-      <div id="typingIndicator">MediAI is typing...</div>
-      <input
-        type="text"
-        id="messageInput"
-        placeholder="Ask me anything..."
-        autocomplete="off"
-        aria-label="Message input"
-      />
-      <button id="sendBtn" onclick="sendMessage()">Send</button>
-    </div>
-
-    <div id="flashcards" class="section" style="display:none;">
-      <h2>Flashcards</h2>
-      <p>Flashcard module coming soon...</p>
+      <p>Chat module coming soon...</p>
     </div>
 
     <div id="dashboard" class="section" style="display:none;">
@@ -248,55 +110,22 @@
       document.querySelectorAll('#sidebar button').forEach((btn) =>
         btn.classList.remove('active')
       );
+      // Remove active from flashcards button since it uses window.location.href
+      const flashcardsBtn = document.querySelector('#sidebar button[onclick^="window.location.href"]');
+      if (sectionId !== 'flashcards') flashcardsBtn.classList.remove('active');
+
       document
         .querySelector('#sidebar button[onclick="showSection(\'' + sectionId + '\')"]')
-        .classList.add('active');
+        ?.classList.add('active');
+
       document.querySelectorAll('#mainContent .section').forEach((sec) => (sec.style.display = 'none'));
-      document.getElementById(sectionId).style.display = 'block';
+      const sec = document.getElementById(sectionId);
+      if (sec) sec.style.display = 'block';
     }
 
+    // Show chat by default
     showSection('chat');
-
-    const chatWindow = document.getElementById('chatWindow');
-    const messageInput = document.getElementById('messageInput');
-    const typingIndicator = document.getElementById('typingIndicator');
-
-    function addMessage(text, sender) {
-      const msg = document.createElement('div');
-      msg.className = 'message ' + sender;
-      msg.textContent = sender === 'user' ? 'You: ' + text : 'MediAI: ' + text;
-      chatWindow.appendChild(msg);
-      chatWindow.scrollTop = chatWindow.scrollHeight;
-    }
-
-    async function sendMessage() {
-      const msg = messageInput.value.trim();
-      if (!msg) return;
-      addMessage(msg, 'user');
-      messageInput.value = '';
-      typingIndicator.style.visibility = 'visible';
-
-      try {
-        const res = await fetch('/ask', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-          body: new URLSearchParams({ message: msg }),
-        });
-        const data = await res.json();
-        addMessage(data.response, 'bot');
-      } catch (e) {
-        addMessage('Error: Could not reach server.', 'bot');
-      } finally {
-        typingIndicator.style.visibility = 'hidden';
-      }
-    }
-
-    messageInput.addEventListener('keydown', function (event) {
-      if (event.key === 'Enter' && !event.shiftKey) {
-        event.preventDefault();
-        sendMessage();
-      }
-    });
   </script>
+
 </body>
 </html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Choose Flashcard Topic</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f0f4ff;
+      color: #222;
+      margin: 0;
+      padding: 30px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+    }
+    h1 {
+      color: #004085;
+      margin-bottom: 20px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      max-width: 400px;
+      width: 100%;
+    }
+    li {
+      background: white;
+      margin: 8px 0;
+      padding: 14px 20px;
+      border-radius: 12px;
+      cursor: pointer;
+      border: 2px solid transparent;
+      transition: border-color 0.3s ease, background-color 0.3s ease;
+      font-weight: 600;
+      color: #005bbb;
+      box-shadow: 0 2px 8px rgba(0,91,187,0.15);
+      text-transform: capitalize;
+      text-align: center;
+    }
+    li:hover {
+      background: #cce5ff;
+      border-color: #005bbb;
+    }
+    a {
+      color: inherit;
+      text-decoration: none;
+      display: block;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <h1>Select a Flashcard Topic</h1>
+  <ul>
+    {% for topic in topics %}
+      <li>
+        <a href="{{ url_for('flashcard_test') }}?topic={{ topic }}">{{ topic }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</body>
+</html>

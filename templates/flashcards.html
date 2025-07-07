@@ -1,69 +1,119 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Flashcard</title>
+  <meta charset="UTF-8" />
+  <title>Flashcard - MediAI Coach</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background: #f4f4f4;
+      background: linear-gradient(135deg, #c3dafe, #e0e7ff);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh;
       margin: 0;
+      padding: 20px;
     }
-    .card {
+
+    .flashcard {
       background: white;
-      padding: 30px;
-      border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-      text-align: left;
-      max-width: 700px;
-      width: 90%;
+      max-width: 720px;
+      width: 100%;
+      border-radius: 20px;
+      box-shadow: 0 10px 30px rgba(0, 91, 187, 0.15);
+      padding: 30px 40px;
+      color: #1e293b;
       line-height: 1.6;
+      user-select: none;
     }
+
     .question {
-      font-size: 1.2em;
-      font-weight: bold;
+      font-weight: 700;
+      font-size: 1.3rem;
+      margin-bottom: 25px;
       white-space: pre-wrap;
     }
+
     .answer {
-      margin-top: 20px;
+      font-size: 1.15rem;
+      background-color: #f0f9ff;
+      border-left: 6px solid #2563eb;
+      padding: 20px 25px;
+      border-radius: 12px;
       display: none;
       white-space: pre-wrap;
-      font-weight: normal;
-      background-color: #f0f8ff;
-      padding: 10px;
-      border-left: 4px solid #007BFF;
+      box-shadow: inset 0 1px 3px rgba(37, 99, 235, 0.1);
     }
-    .btn {
-      margin-top: 20px;
-      padding: 10px 20px;
-      background: #007BFF;
-      color: white;
+
+    button {
+      margin-top: 30px;
+      background-color: #2563eb;
       border: none;
-      border-radius: 8px;
+      color: white;
+      font-size: 1.1rem;
+      font-weight: 700;
+      padding: 14px 26px;
+      border-radius: 30px;
       cursor: pointer;
-      font-size: 1em;
+      transition: background-color 0.3s ease, box-shadow 0.3s ease;
+      user-select: none;
+      box-shadow: 0 6px 15px rgba(37, 99, 235, 0.4);
     }
-    .btn:hover {
-      background-color: #0056b3;
+
+    button:hover {
+      background-color: #1e40af;
+      box-shadow: 0 8px 20px rgba(30, 64, 175, 0.6);
+    }
+
+    /* Responsive */
+    @media (max-width: 480px) {
+      .flashcard {
+        padding: 20px 25px;
+        border-radius: 16px;
+      }
+
+      .question {
+        font-size: 1.1rem;
+      }
+
+      .answer {
+        font-size: 1rem;
+        padding: 15px 20px;
+      }
+
+      button {
+        width: 100%;
+        padding: 14px 0;
+        font-size: 1rem;
+      }
     }
   </style>
 </head>
 <body>
-  <div class="card">
-    <div class="question">Q: {{ question }}</div>
-    <div class="answer" id="answer">A: {{ answer }}</div>
-    <button class="btn" onclick="showAnswer()">Show Answer</button>
-    <form method="get" action="/flashcard_test">
-      <button class="btn" type="submit">Next Card</button>
+  <div class="flashcard" role="region" aria-label="Flashcard">
+    <div class="question">Q: {{ question | safe }}</div>
+    <div class="answer" id="answer">A: {{ answer | safe }}</div>
+    <button id="showAnswerBtn" aria-expanded="false" aria-controls="answer" onclick="toggleAnswer()">Show Answer</button>
+
+    <form method="get" action="/flashcard_test" style="margin-top: 20px;">
+      <button type="submit">Next Card</button>
     </form>
   </div>
 
   <script>
-    function showAnswer() {
-      document.getElementById("answer").style.display = "block";
+    function toggleAnswer() {
+      const answerDiv = document.getElementById('answer');
+      const btn = document.getElementById('showAnswerBtn');
+      if (answerDiv.style.display === 'block') {
+        answerDiv.style.display = 'none';
+        btn.textContent = 'Show Answer';
+        btn.setAttribute('aria-expanded', 'false');
+      } else {
+        answerDiv.style.display = 'block';
+        btn.textContent = 'Hide Answer';
+        btn.setAttribute('aria-expanded', 'true');
+      }
     }
   </script>
 </body>

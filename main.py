@@ -184,14 +184,18 @@ def home():
 def onboarding_page():
     return render_template("onboarding.html")
 
-@app.route("/flashcards/<topic>")
-def get_flashcards(topic):
-    memory = load_memory()
-    seen = memory.get("flashcards_seen", {}).get(topic, 0)
-    topic_cards = [card for card in ALL_FLASHCARDS if topic.lower() in card["question"].lower()]
-    random.shuffle(topic_cards)
-    queue = topic_cards[:20]
-    return jsonify({ "queue": queue, "seen": seen, "total": len(topic_cards) })
+@app.route("/flashcards")
+def flashcards_index():
+    return render_template("flashcards_index.html")
+
+@app.route("/flashcard_test")
+def flashcard_test():
+    if not ALL_FLASHCARDS:
+        return "No flashcards available."
+    card = random.choice(ALL_FLASHCARDS)
+    return render_template("flashcards.html",
+                           question=sanitize_flashcard(card["question"]),
+                           answer=sanitize_flashcard(card["answer"]))
 
 @app.route("/submit_answer", methods=["POST"])
 def submit_answer():
@@ -214,7 +218,7 @@ def submit_answer():
 @app.route("/get_avatar")
 def get_avatar():
     memory = load_memory()
-    avatar = memory.get("chatbot_avatar", "robot")  # Use key matching onboarding form input
+    avatar = memory.get("chatbot_avatar", "robot")
     if avatar not in ("female", "male", "robot"):
         avatar = "robot"
     name = memory.get("chatbot_name", "MediAI")
@@ -285,10 +289,6 @@ def ask():
             messages=messages
         )
         reply = response.choices[0].message.content
-
-        # Safe HTML mark for frontend rendering
-        safe_reply = Markup(reply)
-
         messages.append({"role": "assistant", "content": reply})
 
         # Save updated memory
@@ -296,7 +296,7 @@ def ask():
         memory["last_topic"] = topic
         save_memory(memory)
 
-        return jsonify({"response": str(safe_reply)})
+        return jsonify({"response": reply})
 
     except Exception as e:
         app.logger.error(f"OpenAI API error: {e}")
@@ -373,16 +373,6 @@ def review_calendar():
     future_14 = [(today + timedelta(days=i)).strftime("%Y-%m-%d") for i in range(15)]
     result = {day: calendar.get(day, []) for day in future_14 if calendar.get(day)}
     return jsonify(result)
-
-@app.route("/flashcard_test")
-def flashcard_test():
-    if not ALL_FLASHCARDS:
-        return "No flashcards available."
-    card = random.choice(ALL_FLASHCARDS)
-    return render_template("flashcard.html",
-        question=sanitize_flashcard(card["question"]),
-        answer=sanitize_flashcard(card["answer"])
-    )
 
 def update_topic_schedule(topic, accuracy):
     today = datetime.today().strftime("%Y-%m-%d")
