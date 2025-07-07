@@ -1,23 +1,28 @@
-{
-  "onboarded": false,
-  "messages": [
-    {
-      "role": "system",
-      "content": "You are Moxie, a caring, intelligent AI tutor guiding Talia through COMP prep. Adapt your responses based on her past sessions. Today's topic: General Principles."
+def load_memory():
+    if os.path.exists(MEMORY_PATH):
+        with open(MEMORY_PATH, "r") as f:
+            return json.load(f)
+    return {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are Moxie, a caring, intelligent AI tutor guiding Talia through COMP prep. Adapt your responses based on her past sessions and preferences. Today's topic: General Principles."
+            }
+        ],
+        "topics": {},
+        "score": 0,
+        "attempts": 0,
+        "use_comp_mimic": True,
+        "setup_complete": False,
+        "flashcards_seen": {},
+        "comp_date": "",
+        "schedule_mode": "schedule",
+        "study_style": "",
+        "focus_type": "",
+        "difficulty": "",
+        "goals": "",
+        "learning_style": "",
+        "custom_topic": "",
+        "last_topic": "General Principles",
+        "chatbot_name": "Moxie"
     }
-  ],
-  "topics": {},
-  "score": 0,
-  "attempts": 0,
-  "use_comp_mimic": true,
-  "setup_complete": false,
-  "comp_date": "",
-  "study_style": "",
-  "focus_type": "",
-  "difficulty": "",
-  "goals": "",
-  "learning_style": "",
-  "custom_topic": "",
-  "last_topic": "General Principles",
-  "chatbot_name": "Moxie"
-}

@@ -62,6 +62,11 @@
       border: 1px solid #ccc;
     }
 
+    input[type="radio"] {
+      width: auto;
+      margin-right: 8px;
+    }
+
     button {
       background-color: var(--primary);
       border: none;
@@ -176,6 +181,12 @@
         <h2>🤖 Chatbot Name</h2>
         <label for="chatbot_name">What would you like to call your AI tutor?</label>
         <input type="text" id="chatbot_name" name="chatbot_name" placeholder="Moxie" />
+      </div>
+
+      <div class="step">
+        <h2>🧑‍🤝‍🧑 Choose Your AI Tutor’s Avatar</h2>
+        <label><input type="radio" name="chatbot_avatar" value="girl" /> Girl</label>
+        <label><input type="radio" name="chatbot_avatar" value="boy" /> Boy</label>
       </div>
 
       <button type="submit">🚀 Start My COMP Prep</button>
