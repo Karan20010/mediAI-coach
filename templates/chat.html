@@ -4,31 +4,79 @@
   <title>MediAI Chat</title>
   <style>
     body { font-family: Arial, sans-serif; padding: 20px; max-width: 600px; margin: auto; }
+    #avatar {
+      font-size: 48px;
+      text-align: center;
+      margin-bottom: 10px;
+    }
     #chat { border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: scroll; margin-bottom: 10px; }
     .user { color: blue; margin: 5px 0; }
     .bot { color: green; margin: 5px 0; }
+    #typingIndicator {
+      color: gray;
+      font-style: italic;
+      margin: 5px 0;
+      display: none;
+    }
     input, button { padding: 10px; width: 100%; box-sizing: border-box; }
     button { margin-top: 5px; cursor: pointer; }
   </style>
 </head>
 <body>
   <h2>MediAI Chat</h2>
+  <div id="avatar">🤖</div>
   <div id="chat"></div>
+  <div id="typingIndicator"></div>
   <input id="message" placeholder="Ask me anything..." autocomplete="off" />
   <button onclick="sendMessage()">Send</button>
 
   <script>
+    let chatbotName = "MediAI"; // Default until fetched
+
+    async function loadAvatarAndName() {
+      try {
+        const res = await fetch("/get_avatar");
+        if (!res.ok) throw new Error("Network error");
+        const data = await res.json();
+        const avatarDiv = document.getElementById("avatar");
+        chatbotName = data.name || "MediAI";
+        if (data.avatar === "female") {
+          avatarDiv.textContent = "👩";
+        } else if (data.avatar === "male") {
+          avatarDiv.textContent = "👨";
+        } else {
+          avatarDiv.textContent = "🤖"; // default
+        }
+        document.getElementById("typingIndicator").textContent = `${chatbotName} is typing...`;
+      } catch (err) {
+        console.error("Failed to load avatar and name:", err);
+        document.getElementById("typingIndicator").textContent = `${chatbotName} is typing...`;
+      }
+    }
+
     async function sendMessage() {
       const input = document.getElementById("message");
       if (!input.value.trim()) return;
+
       addMessage(input.value, "user");
-      const response = await fetch("/ask", {
-        method: "POST",
-        headers: { "Content-Type": "application/x-www-form-urlencoded" },
-        body: new URLSearchParams({ message: input.value })
-      });
-      const data = await response.json();
-      addMessage(data.response, "bot");
+
+      const typingIndicator = document.getElementById("typingIndicator");
+      typingIndicator.style.display = "block";
+
+      try {
+        const response = await fetch("/ask", {
+          method: "POST",
+          headers: { "Content-Type": "application/x-www-form-urlencoded" },
+          body: new URLSearchParams({ message: input.value })
+        });
+        const data = await response.json();
+        typingIndicator.style.display = "none";
+        addMessage(data.response, "bot");
+      } catch (error) {
+        typingIndicator.style.display = "none";
+        addMessage("Error: Unable to get response.", "bot");
+      }
+
       input.value = "";
     }
 
@@ -36,10 +84,12 @@
       const chat = document.getElementById("chat");
       const msg = document.createElement("div");
       msg.className = sender;
-      msg.textContent = sender === "user" ? "You: " + text : "MediAI: " + text;
+      msg.textContent = sender === "user" ? "You: " + text : `${chatbotName}: ` + text;
       chat.appendChild(msg);
       chat.scrollTop = chat.scrollHeight;
     }
+
+    window.onload = loadAvatarAndName;
   </script>
 </body>
 </html>

@@ -53,7 +53,8 @@ def load_all_flashcards():
     card_set = set()
     all_cards = []
     for path in FLASHCARD_PATHS:
-        if not os.path.exists(path): continue
+        if not os.path.exists(path): 
+            continue
         with open(path, "r", encoding="utf-8") as f:
             for card in json.load(f):
                 q, a = card.get("question", "").strip(), card.get("answer", "").strip()
@@ -66,7 +67,8 @@ ALL_FLASHCARDS = load_all_flashcards()
 
 # --- Sanitize Flashcard Text ---
 def sanitize_flashcard(text):
-    if not text: return ""
+    if not text: 
+        return ""
     text = text.strip()
     text = re.sub(r'\s+', ' ', text)
     text = text.replace(" - ", "\n- ")
@@ -102,13 +104,16 @@ def extract_questions_from_docx(path):
     current_q = ""
     for para in doc.paragraphs:
         text = para.text.strip()
-        if not text: continue
+        if not text: 
+            continue
         if text.startswith("Q") or text.endswith("?"):
-            if current_q: blocks.append(current_q.strip())
+            if current_q: 
+                blocks.append(current_q.strip())
             current_q = text
         else:
             current_q += "\n" + text
-    if current_q: blocks.append(current_q.strip())
+    if current_q: 
+        blocks.append(current_q.strip())
     return blocks
 
 def rebuild_vector_db():
@@ -129,7 +134,8 @@ def rebuild_vector_db():
         json.dump({"texts": question_texts, "meta": metadata}, f, indent=2)
 
 def retrieve_similar_questions(prompt, top_k=3):
-    if not os.path.exists(INDEX_FILE): return []
+    if not os.path.exists(INDEX_FILE): 
+        return []
     faiss_index = faiss.read_index(INDEX_FILE)
     with open(TEXTS_FILE, "r", encoding="utf-8") as f:
         db = json.load(f)
@@ -259,7 +265,6 @@ def complete_setup():
     memory["goals"] = request.form.get("goals", "")
     memory["learning_style"] = request.form.get("learning_style", "")
     memory["custom_topic"] = request.form.get("custom_topic", "")
-    # Save chatbot name with default "Moxie" if blank
     chatbot_name = request.form.get("chatbot_name", "").strip()
     memory["chatbot_name"] = chatbot_name if chatbot_name else "Moxie"
     save_memory(memory)

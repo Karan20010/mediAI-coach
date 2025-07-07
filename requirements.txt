@@ -1,9 +1,10 @@
-flask
+Flask
 openai
-faiss-cpu
-python-docx
 sentence-transformers
-numpy
+faiss-cpu
 python-dotenv
-werkzeug
-genanki
+markupsafe
+numpy
+pillow
+pdfplumber
+pytesseract
