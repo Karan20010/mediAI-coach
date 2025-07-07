@@ -89,7 +89,8 @@ def load_memory():
         "messages": [], "score": 0, "attempts": 0, "topics": {},
         "use_comp_mimic": True, "setup_complete": False,
         "flashcards_seen": {}, "comp_date": "", "schedule_mode": "schedule",
-        "chatbot_name": "Moxie"
+        "chatbot_name": "Moxie",
+        "chatbot_avatar": "robot"  # default avatar
     }
 
 def save_memory(data):
@@ -183,6 +184,15 @@ def submit_answer():
     save_memory(memory)
     return jsonify({ "result": result, "score": memory["score"], "attempts": memory["attempts"] })
 
+@app.route("/get_avatar")
+def get_avatar():
+    memory = load_memory()
+    avatar = memory.get("chatbot_avatar", "robot")  # Use key matching onboarding form input
+    if avatar not in ("female", "male", "robot"):
+        avatar = "robot"
+    name = memory.get("chatbot_name", "MediAI")
+    return jsonify({"avatar": avatar, "name": name})
+
 @app.route("/ask", methods=["POST"])
 def ask():
     user_input = request.form.get("message", "")
@@ -267,6 +277,11 @@ def complete_setup():
     memory["custom_topic"] = request.form.get("custom_topic", "")
     chatbot_name = request.form.get("chatbot_name", "").strip()
     memory["chatbot_name"] = chatbot_name if chatbot_name else "Moxie"
+    chatbot_avatar = request.form.get("chatbot_avatar", "").strip()
+    if chatbot_avatar in ("girl", "boy"):
+        memory["chatbot_avatar"] = "female" if chatbot_avatar == "girl" else "male"
+    else:
+        memory["chatbot_avatar"] = "robot"
     save_memory(memory)
     return redirect(url_for("home"))
 

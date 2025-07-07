@@ -1,38 +1,82 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>MediAI Chat</title>
   <style>
-    body { font-family: Arial, sans-serif; padding: 20px; max-width: 600px; margin: auto; }
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      max-width: 600px;
+      margin: auto;
+      background: #f9f9f9;
+    }
     #avatar {
       font-size: 48px;
       text-align: center;
       margin-bottom: 10px;
     }
-    #chat { border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: scroll; margin-bottom: 10px; }
-    .user { color: blue; margin: 5px 0; }
-    .bot { color: green; margin: 5px 0; }
+    #chat {
+      border: 1px solid #ccc;
+      padding: 10px;
+      height: 300px;
+      overflow-y: scroll;
+      margin-bottom: 10px;
+      background: white;
+      border-radius: 6px;
+    }
+    .user {
+      color: blue;
+      margin: 5px 0;
+    }
+    .bot {
+      color: green;
+      margin: 5px 0;
+    }
     #typingIndicator {
       color: gray;
       font-style: italic;
       margin: 5px 0;
-      display: none;
+      height: 20px;
+      min-height: 20px;
+      font-weight: 500;
     }
-    input, button { padding: 10px; width: 100%; box-sizing: border-box; }
-    button { margin-top: 5px; cursor: pointer; }
+    input, button {
+      padding: 10px;
+      width: 100%;
+      box-sizing: border-box;
+      border-radius: 4px;
+      border: 1px solid #ccc;
+      font-size: 16px;
+    }
+    button {
+      margin-top: 5px;
+      cursor: pointer;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      transition: background-color 0.3s ease;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
   </style>
 </head>
 <body>
   <h2>MediAI Chat</h2>
+
   <div id="avatar">🤖</div>
   <div id="chat"></div>
   <div id="typingIndicator"></div>
+
   <input id="message" placeholder="Ask me anything..." autocomplete="off" />
   <button onclick="sendMessage()">Send</button>
 
   <script>
-    let chatbotName = "MediAI"; // Default until fetched
+    let chatbotName = "MediAI"; // Default name until fetched
 
+    // Load avatar and chatbot name from backend
     async function loadAvatarAndName() {
       try {
         const res = await fetch("/get_avatar");
@@ -40,46 +84,31 @@
         const data = await res.json();
         const avatarDiv = document.getElementById("avatar");
         chatbotName = data.name || "MediAI";
+
         if (data.avatar === "female") {
           avatarDiv.textContent = "👩";
         } else if (data.avatar === "male") {
           avatarDiv.textContent = "👨";
         } else {
-          avatarDiv.textContent = "🤖"; // default
+          avatarDiv.textContent = "🤖";
         }
-        document.getElementById("typingIndicator").textContent = `${chatbotName} is typing...`;
+
+        document.getElementById("typingIndicator").textContent = "";
       } catch (err) {
         console.error("Failed to load avatar and name:", err);
-        document.getElementById("typingIndicator").textContent = `${chatbotName} is typing...`;
+        document.getElementById("typingIndicator").textContent = "";
       }
     }
 
-    async function sendMessage() {
-      const input = document.getElementById("message");
-      if (!input.value.trim()) return;
-
-      addMessage(input.value, "user");
-
-      const typingIndicator = document.getElementById("typingIndicator");
-      typingIndicator.style.display = "block";
-
-      try {
-        const response = await fetch("/ask", {
-          method: "POST",
-          headers: { "Content-Type": "application/x-www-form-urlencoded" },
-          body: new URLSearchParams({ message: input.value })
-        });
-        const data = await response.json();
-        typingIndicator.style.display = "none";
-        addMessage(data.response, "bot");
-      } catch (error) {
-        typingIndicator.style.display = "none";
-        addMessage("Error: Unable to get response.", "bot");
+    // Send message on Enter key press as well as button click
+    document.getElementById("message").addEventListener("keydown", function(event) {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        sendMessage();
       }
+    });
 
-      input.value = "";
-    }
-
+    // Add message to chat window
     function addMessage(text, sender) {
       const chat = document.getElementById("chat");
       const msg = document.createElement("div");
@@ -89,6 +118,49 @@
       chat.scrollTop = chat.scrollHeight;
     }
 
+    // Send user message to backend and display reply
+    async function sendMessage() {
+      const input = document.getElementById("message");
+      if (!input.value.trim()) return;
+
+      addMessage(input.value, "user");
+
+      const typingIndicator = document.getElementById("typingIndicator");
+      typingIndicator.style.display = "block";
+
+      // Animate typing indicator with dots
+      let dots = 0;
+      const interval = setInterval(() => {
+        dots = (dots + 1) % 4;
+        typingIndicator.textContent = `${chatbotName} is typing` + ".".repeat(dots);
+      }, 500);
+
+      try {
+        const response = await fetch("/ask", {
+          method: "POST",
+          headers: { "Content-Type": "application/x-www-form-urlencoded" },
+          body: new URLSearchParams({ message: input.value })
+        });
+        const data = await response.json();
+
+        clearInterval(interval);
+        typingIndicator.style.display = "none";
+        typingIndicator.textContent = "";
+
+        addMessage(data.response, "bot");
+      } catch (error) {
+        clearInterval(interval);
+        typingIndicator.style.display = "none";
+        typingIndicator.textContent = "";
+
+        addMessage("Error: Unable to get response.", "bot");
+      }
+
+      input.value = "";
+      input.focus();
+    }
+
+    // Load avatar and name on page load
     window.onload = loadAvatarAndName;
   </script>
 </body>
