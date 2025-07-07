@@ -2,7 +2,7 @@ import os
 import json
 import random
 import re
-from flask import Flask, request, render_template, jsonify
+from flask import Flask, request, render_template, jsonify, redirect, url_for
 from datetime import datetime, timedelta
 import docx
 import faiss
@@ -86,7 +86,8 @@ def load_memory():
     return {
         "messages": [], "score": 0, "attempts": 0, "topics": {},
         "use_comp_mimic": True, "setup_complete": False,
-        "flashcards_seen": {}, "comp_date": "", "schedule_mode": "schedule"
+        "flashcards_seen": {}, "comp_date": "", "schedule_mode": "schedule",
+        "chatbot_name": "Moxie"
     }
 
 def save_memory(data):
@@ -139,8 +140,15 @@ def retrieve_similar_questions(prompt, top_k=3):
 # --- Routes ---
 @app.route("/")
 def home():
+    memory = load_memory()
+    if not memory.get("setup_complete", False):
+        return redirect(url_for("onboarding_page"))
     quote = random.choice(QUOTES)
     return render_template("index.html", quote=quote)
+
+@app.route("/onboarding")
+def onboarding_page():
+    return render_template("onboarding.html")
 
 @app.route("/flashcards/<topic>")
 def get_flashcards(topic):
@@ -172,11 +180,24 @@ def submit_answer():
 @app.route("/ask", methods=["POST"])
 def ask():
     user_input = request.form.get("message", "")
-    topic = request.form.get("topic", "General Principles")
     memory = load_memory()
+    
+    # Get onboarding data
+    study_style = memory.get("study_style", "mixed")
+    difficulty = memory.get("difficulty", "moderate")
+    goals = memory.get("goals", "No goals set")
+    learning_style = memory.get("learning_style", "No learning style specified")
+    custom_topic = memory.get("custom_topic", "")
+    focus_type = memory.get("focus_type", "general")
+    chatbot_name = memory.get("chatbot_name", "Moxie")
+
+    # Decide topic for this question
+    topic = request.form.get("topic", custom_topic if custom_topic else "General Principles")
+
     messages = memory.get("messages", [])
     mimic_enabled = memory.get("use_comp_mimic", False)
 
+    # Handle topic switching commands
     if user_input.startswith("/switch "):
         new_topic = user_input.replace("/switch ", "").strip()
         messages.append({"role": "user", "content": user_input})
@@ -187,23 +208,44 @@ def ask():
 
     messages.append({"role": "user", "content": user_input})
     messages = messages[-25:]
+
+    # Retrieve similar questions for style mimic if enabled
     examples = ""
     if mimic_enabled:
         similar_qs = retrieve_similar_questions(user_input)
         examples = "\n\nUse this style as a guide:\n" + "\n\n".join(similar_qs)
+
+    # Build system prompt including onboarding personalization
+    system_prompt = (
+        f"You are {chatbot_name}, a caring, intelligent AI tutor guiding Talia through COMP prep. "
+        f"Adapt your responses based on her past sessions and preferences.\n"
+        f"Talia's study style: {study_style}.\n"
+        f"Preferred difficulty: {difficulty}.\n"
+        f"Learning style notes: {learning_style}.\n"
+        f"Current goals: {goals}.\n"
+        f"Focus topic type: {focus_type}.\n"
+        f"Today's topic: {topic}.\n"
+        f"{examples}"
+    )
+
     messages.insert(0, {
         "role": "system",
-        "content": f"You are Moxie, a caring, intelligent AI tutor guiding Talia through COMP prep. Adapt your responses based on her past sessions. Today’s topic: {topic}.{examples}"
+        "content": system_prompt
     })
+
     response = openai.chat.completions.create(
         model="gpt-4",
         messages=messages
     )
+
     reply = response.choices[0].message.content
     messages.append({"role": "assistant", "content": reply})
+
+    # Save updated memory
     memory["messages"] = messages
     memory["last_topic"] = topic
     save_memory(memory)
+
     return jsonify({"response": reply})
 
 @app.route("/complete_setup", methods=["POST"])
@@ -217,8 +259,11 @@ def complete_setup():
     memory["goals"] = request.form.get("goals", "")
     memory["learning_style"] = request.form.get("learning_style", "")
     memory["custom_topic"] = request.form.get("custom_topic", "")
+    # Save chatbot name with default "Moxie" if blank
+    chatbot_name = request.form.get("chatbot_name", "").strip()
+    memory["chatbot_name"] = chatbot_name if chatbot_name else "Moxie"
     save_memory(memory)
-    return ("", 204)
+    return redirect(url_for("home"))
 
 @app.route("/quiz", methods=["POST"])
 def quiz():

@@ -1,18 +1,12 @@
 {
   "onboarded": false,
-  "messages": [],
-  "topics": {
-    "Cardiology": {
-      "last_studied": "2025-07-06",
-      "next_review": "2025-07-10",
-      "accuracy": 85
-    },
-    "Neurology": {
-      "last_studied": "2025-07-05",
-      "next_review": "2025-07-12",
-      "accuracy": 90
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are Moxie, a caring, intelligent AI tutor guiding Talia through COMP prep. Adapt your responses based on her past sessions. Today's topic: General Principles."
     }
-  },
+  ],
+  "topics": {},
   "score": 0,
   "attempts": 0,
   "use_comp_mimic": true,
@@ -23,5 +17,7 @@
   "difficulty": "",
   "goals": "",
   "learning_style": "",
-  "custom_topic": ""
+  "custom_topic": "",
+  "last_topic": "General Principles",
+  "chatbot_name": "Moxie"
 }

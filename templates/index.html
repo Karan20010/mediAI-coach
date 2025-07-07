@@ -1,186 +1,164 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>MediAI Coach Dashboard</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <title>MediAI Coach Interactive Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
     body {
-      font-family: 'Segoe UI', sans-serif;
-      background: #f0f2f5;
       margin: 0;
-      padding: 20px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      height: 100vh;
+      overflow: hidden;
+      background: #f0f2f5;
     }
-    h1 {
-      color: #007bff;
-      text-align: center;
-    }
-    .section {
-      background: #fff;
-      border-radius: 10px;
-      padding: 20px;
-      margin: 20px auto;
-      max-width: 700px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.05);
-    }
-    button {
-      padding: 10px 20px;
-      font-size: 16px;
-      margin: 10px 5px;
+    #sidebar {
+      width: 250px;
       background-color: #007bff;
       color: white;
-      border: none;
-      border-radius: 6px;
-      cursor: pointer;
-    }
-    .topics button {
-      background: #6c757d;
-    }
-    pre {
-      background: #eee;
-      padding: 10px;
-      border-radius: 5px;
-    }
-
-    /* 👇 Welcome animation styling */
-    #welcomeOverlay {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: #ffffffee;
       display: flex;
-      justify-content: center;
-      align-items: center;
-      z-index: 9999;
-      font-size: 32px;
-      color: #007bff;
-      animation: fadeOut 1s ease-in-out 2.5s forwards;
+      flex-direction: column;
+      padding: 20px;
     }
-    @keyframes fadeOut {
-      to { opacity: 0; visibility: hidden; }
+    #sidebar h2 {
+      margin: 0 0 20px 0;
+      font-weight: normal;
+      font-size: 24px;
+    }
+    #sidebar button {
+      background: transparent;
+      border: none;
+      color: white;
+      padding: 12px 10px;
+      text-align: left;
+      cursor: pointer;
+      font-size: 16px;
+      margin-bottom: 8px;
+      border-radius: 6px;
+      transition: background 0.3s;
+    }
+    #sidebar button:hover, #sidebar button.active {
+      background-color: #0056b3;
+    }
+    #mainContent {
+      flex: 1;
+      padding: 20px;
+      background: white;
+      overflow-y: auto;
+    }
+    /* Chat Styles */
+    #chatWindow {
+      border: 1px solid #ccc;
+      height: 400px;
+      overflow-y: auto;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+    .message.user {
+      color: blue;
+      margin: 5px 0;
+    }
+    .message.bot {
+      color: green;
+      margin: 5px 0;
+    }
+    #messageInput {
+      width: 100%;
+      padding: 10px;
+      box-sizing: border-box;
+      font-size: 16px;
+    }
+    #sendBtn {
+      margin-top: 5px;
+      padding: 10px;
+      width: 100%;
+      background-color: #007bff;
+      border: none;
+      color: white;
+      cursor: pointer;
+      font-size: 16px;
+      border-radius: 6px;
     }
   </style>
 </head>
 <body>
 
-  <!-- 👋 Welcome Animation -->
-  <div id="welcomeOverlay">
-    👋 Welcome back, Talia!
+  <div id="sidebar">
+    <h2>MediAI Coach</h2>
+    <button class="active" onclick="showSection('chat')">💬 Chat</button>
+    <button onclick="showSection('flashcards')">📚 Flashcards</button>
+    <button onclick="showSection('dashboard')">📊 Dashboard</button>
+    <button onclick="showSection('onboarding')">👋 Onboarding</button>
   </div>
 
-  <h1>📚 MediAI Coach Dashboard</h1>
-
-  <div class="section">
-    <h2>🧠 Practice MCQ</h2>
-    <button onclick="generateMCQ()">Generate Question</button>
-    <div id="mcq"></div>
-  </div>
-
-  <div class="section">
-    <h2>📚 Flashcard Review</h2>
-    <button onclick="loadFlashcards()">Load Flashcards</button>
-    <div id="flashcards"></div>
-  </div>
-
-  <div class="section">
-    <h2>📂 Topic Dashboards</h2>
-    <div class="topics">
-      <button onclick="loadDashboard('Cardio')">Cardio</button>
-      <button onclick="loadDashboard('Neuro')">Neuro</button>
-      <button onclick="loadDashboard('GI')">GI</button>
-      <button onclick="loadDashboard('Renal')">Renal</button>
-      <button onclick="loadDashboard('Endocrine')">Endocrine</button>
-      <button onclick="loadDashboard('Pulmonary')">Pulmonary</button>
-      <button onclick="loadDashboard('Repro')">Repro</button>
-      <button onclick="loadDashboard('MSK')">MSK</button>
-      <button onclick="loadDashboard('Psych')">Psych</button>
-      <button onclick="loadDashboard('Heme_Onc')">Heme_Onc</button>
+  <div id="mainContent">
+    <div id="chat" class="section">
+      <h2>Chat with MediAI</h2>
+      <div id="chatWindow"></div>
+      <input type="text" id="messageInput" placeholder="Ask me anything..." autocomplete="off" />
+      <button id="sendBtn" onclick="sendMessage()">Send</button>
     </div>
-    <div id="dashboard"></div>
+
+    <div id="flashcards" class="section" style="display:none;">
+      <h2>Flashcards</h2>
+      <!-- Flashcard content here -->
+      <p>Flashcard module coming soon...</p>
+    </div>
+
+    <div id="dashboard" class="section" style="display:none;">
+      <h2>Dashboard</h2>
+      <!-- Dashboard content here -->
+      <p>Dashboard module coming soon...</p>
+    </div>
+
+    <div id="onboarding" class="section" style="display:none;">
+      <h2>Onboarding</h2>
+      <!-- Onboarding content here -->
+      <p>Onboarding module coming soon...</p>
+    </div>
   </div>
 
-  <div class="section">
-    <h2>📅 Review Calendar</h2>
-    <button onclick="loadCalendar()">Load Calendar</button>
-    <pre id="calendar"></pre>
-  </div>
-
-  <script>
-  // ---------- MCQ GENERATOR ----------
-  async function generateMCQ() {
-    const res = await fetch('/quiz', { method: 'POST' });
-    const data = await res.json();
-    const mcqDiv = document.getElementById('mcq');
-    mcqDiv.innerHTML = `<pre>${data.question}</pre>`;
+<script>
+  // Sidebar navigation
+  function showSection(sectionId) {
+    document.querySelectorAll('#sidebar button').forEach(btn => btn.classList.remove('active'));
+    document.querySelector('#sidebar button[onclick="showSection(\'' + sectionId + '\')"]').classList.add('active');
+    document.querySelectorAll('#mainContent .section').forEach(sec => sec.style.display = 'none');
+    document.getElementById(sectionId).style.display = 'block';
   }
 
-  // ---------- FLASHCARD REVIEW ----------
-  let flashcardQueue = [], flashcardIndex = 0;
+  // Chat functionality
+  const chatWindow = document.getElementById('chatWindow');
+  const messageInput = document.getElementById('messageInput');
 
-  async function loadFlashcards() {
-    const topic = prompt("Enter a topic (e.g., Cardio, Neuro, etc.):");
-    if (!topic) return;
-
-    const res = await fetch(`/flashcards/${topic}`);
-    const data = await res.json();
-    flashcardQueue = data.queue || [];
-    flashcardIndex = 0;
-    renderFlashcard();
+  function addMessage(text, sender) {
+    const msg = document.createElement('div');
+    msg.className = 'message ' + sender;
+    msg.textContent = sender === 'user' ? 'You: ' + text : 'MediAI: ' + text;
+    chatWindow.appendChild(msg);
+    chatWindow.scrollTop = chatWindow.scrollHeight;
   }
 
-  function renderFlashcard() {
-    const flashDiv = document.getElementById('flashcards');
-    if (flashcardIndex >= flashcardQueue.length) {
-      flashDiv.innerHTML = `<p>🎉 Done with flashcards!</p>`;
-      return;
+  async function sendMessage() {
+    const msg = messageInput.value.trim();
+    if (!msg) return;
+    addMessage(msg, 'user');
+    messageInput.value = '';
+    // Call backend API
+    try {
+      const res = await fetch('/ask', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: new URLSearchParams({ message: msg })
+      });
+      const data = await res.json();
+      addMessage(data.response, 'bot');
+    } catch (e) {
+      addMessage('Error: Could not reach server.', 'bot');
     }
-
-    const card = flashcardQueue[flashcardIndex];
-    flashDiv.innerHTML = `
-      <div style="margin-bottom: 10px;"><strong>Q:</strong> ${card.question}</div>
-      <button onclick="showAnswer()">Show Answer</button>
-      <div id="answer" style="margin-top: 10px;"></div>
-      <br><button onclick="nextFlashcard()">Next</button>
-    `;
-  }
-
-  function showAnswer() {
-    const card = flashcardQueue[flashcardIndex];
-    document.getElementById('answer').innerHTML = `<strong>A:</strong> ${card.answer}`;
-  }
-
-  function nextFlashcard() {
-    flashcardIndex++;
-    renderFlashcard();
-  }
-
-  // ---------- TOPIC DASHBOARD ----------
-  async function loadDashboard(topic) {
-    const res = await fetch(`/dashboard/${topic}`);
-    const data = await res.json();
-    let html = `
-      <strong>Last Studied:</strong> ${data.last_studied}<br>
-      <strong>Next Review:</strong> ${data.next_review}<br>
-      <strong>Accuracy:</strong> ${data.accuracy}%<br>
-      <strong>Top Miss:</strong> ${data.top_miss}<br>
-      <strong>Goals:</strong> ${data.goals}<br>
-      <strong>Flashcards:</strong> ${data.flashcards.length}
-    `;
-    document.getElementById('dashboard').innerHTML = html;
-  }
-
-  // ---------- CALENDAR ----------
-  async function loadCalendar() {
-    const res = await fetch('/calendar');
-    const data = await res.json();
-    let output = '';
-    for (const date in data) {
-      output += `📅 ${date}:\n  • ${data[date].join('\n  • ')}\n\n`;
-    }
-    document.getElementById('calendar').innerText = output.trim() || 'No upcoming reviews.';
   }
 </script>
+
 </body>
 </html>
