@@ -12,7 +12,7 @@ from sentence_transformers import SentenceTransformer
 from markupsafe import Markup
 import openai
 from dotenv import load_dotenv
-import tiktoken
+import tiktoken  # Added for token counting
 
 load_dotenv()
 
@@ -55,7 +55,7 @@ def load_all_flashcards():
     card_set = set()
     all_cards = []
     for path in FLASHCARD_PATHS:
-        if not os.path.exists(path):
+        if not os.path.exists(path): 
             continue
         with open(path, "r", encoding="utf-8") as f:
             for card in json.load(f):
@@ -69,7 +69,7 @@ ALL_FLASHCARDS = load_all_flashcards()
 
 # --- Sanitize Flashcard Text ---
 def sanitize_flashcard(text):
-    if not text:
+    if not text: 
         return ""
     text = text.strip()
     text = re.sub(r'\s+', ' ', text)
@@ -107,15 +107,15 @@ def extract_questions_from_docx(path):
     current_q = ""
     for para in doc.paragraphs:
         text = para.text.strip()
-        if not text:
+        if not text: 
             continue
         if text.startswith("Q") or text.endswith("?"):
-            if current_q:
+            if current_q: 
                 blocks.append(current_q.strip())
             current_q = text
         else:
             current_q += "\n" + text
-    if current_q:
+    if current_q: 
         blocks.append(current_q.strip())
     return blocks
 
@@ -137,7 +137,7 @@ def rebuild_vector_db():
         json.dump({"texts": question_texts, "meta": metadata}, f, indent=2)
 
 def retrieve_similar_questions(prompt, top_k=3):
-    if not os.path.exists(INDEX_FILE):
+    if not os.path.exists(INDEX_FILE): 
         return []
     faiss_index = faiss.read_index(INDEX_FILE)
     with open(TEXTS_FILE, "r", encoding="utf-8") as f:
@@ -145,29 +145,6 @@ def retrieve_similar_questions(prompt, top_k=3):
     prompt_vec = model.encode([prompt]).astype('float32')
     D, I = faiss_index.search(prompt_vec, top_k)
     return [db['texts'][i] for i in I[0] if i < len(db['texts'])]
-
-# --- Token count helper ---
-def count_message_tokens(messages, model_name="gpt-4"):
-    enc = tiktoken.encoding_for_model(model_name)
-    tokens = 0
-    for message in messages:
-        tokens += 4  # base tokens per message
-        for key, value in message.items():
-            tokens += len(enc.encode(value))
-    tokens += 2  # priming tokens
-    return tokens
-
-# --- Summarize old messages helper ---
-def summarize_messages(old_messages, openai_model="gpt-4"):
-    combined = "\n".join(f"{m['role']}: {m['content']}" for m in old_messages)
-    prompt = f"Summarize the following conversation briefly to preserve context for future questions:\n\n{combined}"
-
-    response = openai.chat.completions.create(
-        model=openai_model,
-        messages=[{"role": "user", "content": prompt}]
-    )
-    summary = response.choices[0].message.content.strip()
-    return summary
 
 # --- Routes ---
 @app.route("/")
@@ -212,7 +189,7 @@ def submit_answer():
 @app.route("/get_avatar")
 def get_avatar():
     memory = load_memory()
-    avatar = memory.get("chatbot_avatar", "robot")
+    avatar = memory.get("chatbot_avatar", "robot")  # Use key matching onboarding form input
     if avatar not in ("female", "male", "robot"):
         avatar = "robot"
     name = memory.get("chatbot_name", "MediAI")
@@ -222,7 +199,8 @@ def get_avatar():
 def ask():
     user_input = request.form.get("message", "")
     memory = load_memory()
-
+    
+    # Get onboarding data
     study_style = memory.get("study_style", "mixed")
     difficulty = memory.get("difficulty", "moderate")
     goals = memory.get("goals", "No goals set")
@@ -231,11 +209,13 @@ def ask():
     focus_type = memory.get("focus_type", "general")
     chatbot_name = memory.get("chatbot_name", "Moxie")
 
+    # Decide topic for this question
     topic = request.form.get("topic", custom_topic if custom_topic else "General Principles")
 
     messages = memory.get("messages", [])
     mimic_enabled = memory.get("use_comp_mimic", False)
 
+    # Handle topic switching commands
     if user_input.startswith("/switch "):
         new_topic = user_input.replace("/switch ", "").strip()
         messages.append({"role": "user", "content": user_input})
@@ -246,27 +226,16 @@ def ask():
 
     messages.append({"role": "user", "content": user_input})
 
-    # Step 1 & 2: Limit & trim by tokens
-    max_tokens = 8192
-    recent_limit = 10
+    # Keep only last 25 messages initially (optional)
+    messages = messages[-25:]
 
-    if len(messages) > recent_limit:
-        tokens = count_message_tokens(messages)
-        if tokens > max_tokens:
-            # Summarize older messages
-            old_messages = messages[:-recent_limit]
-            recent_messages = messages[-recent_limit:]
-            summary = summarize_messages(old_messages)
-            messages = [{"role": "system", "content": f"Summary of previous conversation: {summary}"}] + recent_messages
-        else:
-            messages = messages[-recent_limit:]
-
+    # Retrieve similar questions for style mimic if enabled
     examples = ""
     if mimic_enabled:
         similar_qs = retrieve_similar_questions(user_input)
-        if similar_qs:
-            examples = "\n\nUse this style as a guide:\n" + "\n\n".join(similar_qs)
+        examples = "\n\nUse this style as a guide:\n" + "\n\n".join(similar_qs)
 
+    # Build system prompt including onboarding personalization
     system_prompt = (
         f"You are {chatbot_name}, a caring, intelligent AI tutor guiding Talia through COMP prep. "
         f"Adapt your responses based on her past sessions and preferences.\n"
@@ -279,7 +248,27 @@ def ask():
         f"{examples}"
     )
 
-    messages.insert(0, {"role": "system", "content": system_prompt})
+    messages.insert(0, {
+        "role": "system",
+        "content": system_prompt
+    })
+
+    # Count tokens function with tiktoken
+    def count_tokens(messages, model="gpt-4"):
+        enc = tiktoken.encoding_for_model(model)
+        total_tokens = 0
+        for msg in messages:
+            total_tokens += 4  # per-message overhead
+            total_tokens += len(enc.encode(msg["content"]))
+        total_tokens += 2  # reply overhead
+        return total_tokens
+
+    MAX_TOKENS = 8000
+
+    # Trim oldest messages until under token limit
+    while count_tokens(messages) > MAX_TOKENS and len(messages) > 1:
+        # Remove second message (oldest after system prompt)
+        messages.pop(1)
 
     response = openai.chat.completions.create(
         model="gpt-4",
@@ -289,6 +278,7 @@ def ask():
     reply = response.choices[0].message.content
     messages.append({"role": "assistant", "content": reply})
 
+    # Save updated memory
     memory["messages"] = messages
     memory["last_topic"] = topic
     save_memory(memory)
