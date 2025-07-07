@@ -2,6 +2,7 @@ import os
 import json
 import random
 from flask import Flask, request, render_template, jsonify
+from flask_cors import CORS
 from datetime import datetime, timedelta
 import docx
 import faiss
@@ -12,6 +13,7 @@ import openai
 
 # --- App Setup ---
 app = Flask(__name__)
+CORS(app)
 app.secret_key = os.getenv("FLASK_SECRET_KEY", "secret123")
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
