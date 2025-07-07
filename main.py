@@ -285,6 +285,10 @@ def ask():
             messages=messages
         )
         reply = response.choices[0].message.content
+
+        # Safe HTML mark for frontend rendering
+        safe_reply = Markup(reply)
+
         messages.append({"role": "assistant", "content": reply})
 
         # Save updated memory
@@ -292,7 +296,7 @@ def ask():
         memory["last_topic"] = topic
         save_memory(memory)
 
-        return jsonify({"response": reply})
+        return jsonify({"response": str(safe_reply)})
 
     except Exception as e:
         app.logger.error(f"OpenAI API error: {e}")

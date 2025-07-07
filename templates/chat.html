@@ -48,6 +48,7 @@
       border-top: 1px solid #d1d9f0;
       border-bottom: 1px solid #d1d9f0;
       scroll-behavior: smooth;
+      word-wrap: break-word;
     }
 
     .message {
@@ -68,6 +69,7 @@
       margin-left: auto;
       border-bottom-right-radius: 4px;
       font-weight: 600;
+      white-space: normal;
     }
     .bot {
       background: #d1e7dd;
@@ -189,11 +191,16 @@
       }
     }
 
-    // Add message to chat window
+    // Add message to chat window, user is plain text, bot is HTML formatted
     function addMessage(text, sender) {
       const msg = document.createElement('div');
       msg.className = 'message ' + sender;
-      msg.textContent = sender === 'user' ? 'You: ' + text : chatbotName + ': ' + text;
+      if (sender === 'user') {
+        msg.textContent = 'You: ' + text;
+      } else {
+        // Bot message contains safe HTML from backend
+        msg.innerHTML = chatbotName + ': ' + text;
+      }
       chatWindow.appendChild(msg);
       chatWindow.scrollTop = chatWindow.scrollHeight;
     }
