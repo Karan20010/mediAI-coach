@@ -1,7 +1,10 @@
 def load_memory():
     if os.path.exists(MEMORY_PATH):
-        with open(MEMORY_PATH, "r") as f:
-            return json.load(f)
+        try:
+            with open(MEMORY_PATH, "r") as f:
+                return json.load(f)
+        except json.JSONDecodeError:
+            print("Warning: Memory file is corrupted or empty. Resetting memory.")
     return {
         "messages": [
             {
