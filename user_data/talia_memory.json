@@ -1,0 +1,27 @@
+{
+  "onboarded": false,
+  "messages": [],
+  "topics": {
+    "Cardiology": {
+      "last_studied": "2025-07-06",
+      "next_review": "2025-07-10",
+      "accuracy": 85
+    },
+    "Neurology": {
+      "last_studied": "2025-07-05",
+      "next_review": "2025-07-12",
+      "accuracy": 90
+    }
+  },
+  "score": 0,
+  "attempts": 0,
+  "use_comp_mimic": true,
+  "setup_complete": false,
+  "comp_date": "",
+  "study_style": "",
+  "focus_type": "",
+  "difficulty": "",
+  "goals": "",
+  "learning_style": "",
+  "custom_topic": ""
+}

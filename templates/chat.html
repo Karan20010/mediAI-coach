@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MediAI Chat</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; max-width: 600px; margin: auto; }
+    #chat { border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: scroll; margin-bottom: 10px; }
+    .user { color: blue; margin: 5px 0; }
+    .bot { color: green; margin: 5px 0; }
+    input, button { padding: 10px; width: 100%; box-sizing: border-box; }
+    button { margin-top: 5px; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <h2>MediAI Chat</h2>
+  <div id="chat"></div>
+  <input id="message" placeholder="Ask me anything..." autocomplete="off" />
+  <button onclick="sendMessage()">Send</button>
+
+  <script>
+    async function sendMessage() {
+      const input = document.getElementById("message");
+      if (!input.value.trim()) return;
+      addMessage(input.value, "user");
+      const response = await fetch("/ask", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: new URLSearchParams({ message: input.value })
+      });
+      const data = await response.json();
+      addMessage(data.response, "bot");
+      input.value = "";
+    }
+
+    function addMessage(text, sender) {
+      const chat = document.getElementById("chat");
+      const msg = document.createElement("div");
+      msg.className = sender;
+      msg.textContent = sender === "user" ? "You: " + text : "MediAI: " + text;
+      chat.appendChild(msg);
+      chat.scrollTop = chat.scrollHeight;
+    }
+  </script>
+</body>
+</html>

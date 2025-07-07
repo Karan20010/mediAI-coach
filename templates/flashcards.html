@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flashcard</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .card {
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      text-align: left;
+      max-width: 700px;
+      width: 90%;
+      line-height: 1.6;
+    }
+    .question {
+      font-size: 1.2em;
+      font-weight: bold;
+      white-space: pre-wrap;
+    }
+    .answer {
+      margin-top: 20px;
+      display: none;
+      white-space: pre-wrap;
+      font-weight: normal;
+      background-color: #f0f8ff;
+      padding: 10px;
+      border-left: 4px solid #007BFF;
+    }
+    .btn {
+      margin-top: 20px;
+      padding: 10px 20px;
+      background: #007BFF;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 1em;
+    }
+    .btn:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="question">Q: {{ question }}</div>
+    <div class="answer" id="answer">A: {{ answer }}</div>
+    <button class="btn" onclick="showAnswer()">Show Answer</button>
+    <form method="get" action="/flashcard_test">
+      <button class="btn" type="submit">Next Card</button>
+    </form>
+  </div>
+
+  <script>
+    function showAnswer() {
+      document.getElementById("answer").style.display = "block";
+    }
+  </script>
+</body>
+</html>

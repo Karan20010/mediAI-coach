@@ -1,0 +1,9 @@
+flask
+openai
+faiss-cpu
+python-docx
+sentence-transformers
+numpy
+python-dotenv
+werkzeug
+genanki
