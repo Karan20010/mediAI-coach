@@ -1,57 +1,20 @@
 {
   "onboarded": false,
-  "messages": [
-    {
-      "role": "system",
-      "content": "You are Bitch, a caring, intelligent AI tutor guiding Talia through COMP prep. Adapt your responses based on her past sessions and preferences.\nTalia's study style: flashcards.\nPreferred difficulty: mixed.\nLearning style notes: visual, examples, repetition, flashcards.\nCurrent goals: Prepare for COMP\r\n.\nFocus topic type: organ_systems.\nToday's topic: General Principles.\n\n\nUse this style as a guide:\nDuring a study of the intelligence of school-age children, 50 children are given tests that measure the intelligence quotient Othor data are collected including gender, weight, height, the number of parents living in the same residence as the children, and whether one or both parents work outside the home Measurement of which of the following variables is a nominal mea9uremont in this study?\nNumber of paints IIvIng Tn the aamo rooTdonco\nlumbar of parent worklng ouNlda the homo\nThe Correct Wswer is ! A. Gender\nGender is a nominal measurement in his sludy. as it is a categorical variable without a natural order or ranking.\nA 43-year-old rrian comes to the physician because of progressive shortness of breath during the past year. He has a diagnosis of a-antitrypsin deficiency. A CT scan of the chest is shown and depicts emphysema. Which of the following is identified by the arrow as the lobe most affected by this process\nD RTgnt mlddTe lobe\nThe Correct Answer is: C. Rlghl lower lotie\nSince the arrow in the classy chest CT is located in the {exterior part of the\tI lung, the mast likely all\u00e9nted lobe would be:\nC. Right lower lobe\nThe {exterior part of the\tI lung is {x?ziar8y ocaJpied by the right lower lobe.\n\ncount is 120/rrirri. A combination of three antimicrobial agents is prescribed for treatment, one of which is a protease inhibitor. The two additional agents most likely to be administered both work by inhibiting which of the following metabolic functions?\nA. D MA-dependent RNA polyme rase antivity\nB. D MA gyrase activity\nC. D MA poly merase antivity\nD. Engosterol syMhes\\s\nE. Fo\\\\n acid metabo\\ism\nF. Mitochondr ial funcbon\nG. PeptidogTy can syMhes\\s\nRibosomal funM\\on\nM ncoating of The organ ism\nThe Correct Answer is . H. Reverse transcrlptase activlty\nIn addition to a protease inhibitor. lie two other agents in lie patient's Meatment regimen for HIV are likely to target reverse transcriplase activity. as this is a crucial step in the replication of HIV.\n\nThe graph shows the pressure-volume relationship of the lung (solid curve) and the chest wall (dashed curve). Which of the following letters indicates functional residual capacity?\nThe Correct Answer is ! B. B\nThe functional residual capacity (FRC) is indicated by labeled point B on the pressure-volume graph. The FRC is the amount of air that remains in be lungs at\\er a normal exhalation and is a measure of the lung's ability to store air. On the pressure-volume graph, the FRC is the volume at which the pressure in be lung is eQual to the pressure in the chest wall. as indicated by be intersection of the solid and dashed curves at point B. The FRC is determined by be elastic properties of the lung and chest wall and the Surface tension of be alveolar fluid, and it is an important factor in determining the lung's ability a exchange gases\n\nRelevant textbook excerpts:\n"
-    },
-    {
-      "role": "system",
-      "content": "You are Bitch, a caring, intelligent AI tutor guiding Talia through COMP prep. Adapt your responses based on her past sessions and preferences.\nTalia's study style: flashcards.\nPreferred difficulty: mixed.\nLearning style notes: visual, examples, repetition, flashcards.\nCurrent goals: Prepare for COMP\r\n.\nFocus topic type: organ_systems.\nToday's topic: General Principles.\n\n\nUse this style as a guide:\nOne thousand office workers are surveyed to determine whether or not they use computers and whether or not they have symptoms o'f carpal tunnel syndrome. Wh ich of the 'following best describes this study?\nB. Case se nes\nC. Cohort study\nE. Random ized cl inkcal trial\nThe Correct Answer is . D. Cross-sectional survey\nThe study described is a cross-sectional survey, as it examines the prevalence of carpal tunnel Syndrome Symptoms and compumr usage among a group of ogiee workers at a single point in time.\n\nDuring a study of the intelligence of school-age children, 50 children are given tests that measure the intelligence quotient Othor data are collected including gender, weight, height, the number of parents living in the same residence as the children, and whether one or both parents work outside the home Measurement of which of the following variables is a nominal mea9uremont in this study?\nNumber of paints IIvIng Tn the aamo rooTdonco\nlumbar of parent worklng ouNlda the homo\nThe Correct Wswer is ! A. Gender\nGender is a nominal measurement in his sludy. as it is a categorical variable without a natural order or ranking.\nA 43-year-old rrian comes to the physician because of progressive shortness of breath during the past year. He has a diagnosis of a-antitrypsin deficiency. A CT scan of the chest is shown and depicts emphysema. Which of the following is identified by the arrow as the lobe most affected by this process\nD RTgnt mlddTe lobe\nThe Correct Answer is: C. Rlghl lower lotie\nSince the arrow in the classy chest CT is located in the {exterior part of the\tI lung, the mast likely all\u00e9nted lobe would be:\nC. Right lower lobe\nThe {exterior part of the\tI lung is {x?ziar8y ocaJpied by the right lower lobe.\n\nWhich of the following types of bias is most likely to affect the results of this study?\nA.Qeezeonbias\nti me bias6\nTest r ef err aT bias\nTest rev iew bias\nThe Correct Answer is . C. Recall blas\nIn this case-control study. recall bias may affect the results. as participants wit a hisory of thrombotic strokes may be more likely to remember and report their use of oral contraceptives.\n\nRelevant textbook excerpts:\n"
-    },
-    {
-      "role": "system",
-      "content": "You are Bitch, a caring, intelligent AI tutor guiding Talia through COMP prep. Adapt your responses based on her past sessions and preferences.\nTalia's study style: flashcards.\nPreferred difficulty: mixed.\nLearning style notes: visual, examples, repetition, flashcards.\nCurrent goals: Prepare for COMP\r\n.\nFocus topic type: organ_systems.\nToday's topic: General Principles.\n\n\nUse this style as a guide:\nWhich of the following points on this flow-volume loop represents peak expiratory flow in a 24-year-old man?\nE.E\nThe Correct Answer is : B. B\nA Ilcnv-volixne loop is a graphics representation of the relalionsh@ between airflow' and lung volume during a breathing maneuver, such as a forced mpiration. The kx\u203ap is aeated by plotting the Ilcnv rate of ar being exhaled (in liters pe secnnd) m the x-axis and the lung volume (n liters) m the y-axis.\nPeak expiratory flcnv (PEF) is the maximum IJow rate achieved during a f\u2039xced expiralion and is a commorJy used measicernent of lung kinclion. In the Row'-volume k\u203aop, the PEF is represented by the point of maximum slope on the exhaled Row' traoe, which is Point\u201dB\u201d. This point re{xesents the highest flow rate achieved during the foroed exp?ation, and is a good indicator of the overall health of the respiratory system.\n\nWhich of the following is most likely to cause the change from the solid curve to the dashed curve of the pressure - volume loop shown?\nacute mass lve myocardial inla rction\n.\temorrnaglc enock\nThe Correct Answer is ! E. Strenu ous exerc ise\nStrenuous exercise is most likely to fuse be change from be solid curve to the dashed curve of the pressure-volume loop shown. where end-diastolic volume {EDV) increased, pressure increased. and stroke volume (SV) increased. During exercise. the body demands more oxygen and nutrients. leading to an increase in cardiac ou@ut. The heart adapts by increasing the convaclility. heart rate. and stroke volume.\nThis resuTW in a higher end-diasOIic volume and pressure, leading to the observed change in be pressure-\nvolume loop.\n\ndifficulty urinating. He says that he has difficu lty initiating urination, and once initiated, the urine tends to \u201cdribble.\u201d Rectal examination shows a diffusely enlarged, firm, contender prostate. Which of the following findings is most likely to be found on histologic examination of the prostate?\nA. Glands \\i ned with fryperglastic rr ans itiorial epithe\\i um\nB. Masses of psammoma bad ies in th  perLoremal zone\nC. Mucts -fi wed cysts \\n the pos@rior lobe\nE. Scarring throoghoot the srroma\nThe Correct Answer is . D. Nodules formed by prollferatlng stromal and epithelial cells\nThe patient\u2019s Symptoms and physical examination findings are Suggestive of benign prostauc hyperplasia (BPH , which is characterized by nodules formed by proliferating stromal and epilelial cells.\n\nRelevant textbook excerpts:\n"
-    },
-    {
-      "role": "user",
-      "content": "i need help understanding the GI"
-    },
-    {
-      "role": "assistant",
-      "content": "The gastrointestinal (GI) system, also known as the digestive system, is responsible for breaking down food, absorbing nutrients, and expelling waste from the body. It extends from the mouth to the anus and includes several organs.\n\n1. **Mouth & Salivary Glands**: The process of digestion begins in your mouth, where food is mixed with saliva.\n\n2. **Esophagus**: A muscular tube that connects the throat to the stomach. It is responsible for transporting food to the stomach.\n\n3. **Stomach**: A muscular organ that stores and helps break down food. Food is physically broken down by the churning motion. Gastric juice (hydrochloric acid and digestive enzymes) chemically breaks down food into a more digestible form.\n\n4. **Small Intestine**: Where most of the digestion and absorption of nutrients occurs. It has three sections: the duodenum, jejunum, and ileum. Key nutrients are absorbed into the bloodstream here.\n\n5. **Large Intestine (colon)**: Absorbs water and remnants of digestive juice, breaks down undigested fiber and other indigestible substances by bacteria, and stores feces ready for expulsion. It is also divided into sections: ascending colon, transverse colon, descending colon, sigmoid colon, and rectum.\n\n6. **Rectum and Anus**: Serve as storage for waste before it leaves the body.\n\nIn addition to these organs, the GI tract also includes the liver, gallbladder, and pancreas. These release substances such as bile and pancreatic juice into the small intestine, aiding in digestion and absorption of fats and fat-soluble vitamins.\n\nFlashcard style question:\n\nWhich section of the GI tract is responsible for most nutrient absorption?\nThe Correct Answer is: Small intestine\n\nThe small intestine is the location where most digestion and absorption of nutrients occurs. It has a large surface area (due to villi and microvilli) that aids in absorption of nutrients into the bloodstream."
-    },
-    {
-      "role": "user",
-      "content": "are you using textbooks for knowledge?"
-    },
-    {
-      "role": "assistant",
-      "content": "As an AI, I don't exactly use textbooks. Rather, I've been trained on a diverse range of data, including educational materials, textbooks, and other resources. The aim is to provide accurate information based on various trusted and verified sources. It's important to note that while I strive for accuracy, I should not replace professional medical or academic advice. I'm here to guide you in your study and provide generalized information."
-    },
-    {
-      "role": "user",
-      "content": "so in your database what textbooks are inbedded"
-    },
-    {
-      "role": "assistant",
-      "content": "As an AI developed by OpenAI, my knowledge doesn't come from specific textbooks or single sources. Instead, I've been trained on a broad range of internet text. But I have not been directly trained on specific databases or have access to proprietary medical databases or specific medical textbooks. Remember, while I strive for accuracy, I don't have the ability to access or retrieve personal data unless it has been shared with me during our conversation. I am designed to respect user privacy and confidentiality."
-    }
-  ],
+  "messages": [],
   "topics": {},
   "score": 0,
   "attempts": 0,
   "use_comp_mimic": true,
-  "setup_complete": true,
-  "comp_date": "2025-08-15",
-  "study_style": "flashcards",
-  "focus_type": "organ_systems",
-  "difficulty": "mixed",
-  "goals": "Prepare for COMP\r\n",
-  "learning_style": "visual, examples, repetition, flashcards",
+  "setup_complete": false,
+  "comp_date": "",
+  "study_style": "mixed",
+  "focus_type": "general",
+  "difficulty": "moderate",
+  "goals": "",
+  "learning_style": "",
   "custom_topic": "",
-  "last_topic": "General Principles",
-  "chatbot_name": "Bitch",
-  "chatbot_avatar": "female",
+  "last_topic": "",
+  "chatbot_name": "Moxie",
+  "chatbot_avatar": "robot",
   "flashcards_seen": {}
 }
