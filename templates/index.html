@@ -17,6 +17,11 @@
       height: 100vh;
       display: flex;
       overflow: hidden;
+      transition: background 0.3s, color 0.3s;
+    }
+    body.dark {
+      background: #121212;
+      color: #eee;
     }
     #sidebar {
       width: 280px;
@@ -33,6 +38,15 @@
       font-size: 26px;
       letter-spacing: 1px;
       text-shadow: 0 1px 4px rgba(0,0,0,0.3);
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      user-select: none;
+    }
+    #avatarSidebar {
+      font-size: 40px;
+      user-select: none;
+      filter: drop-shadow(0 2px 2px rgba(0,0,0,0.15));
     }
     #sidebar button {
       background: transparent;
@@ -48,6 +62,7 @@
       display: flex;
       align-items: center;
       gap: 10px;
+      user-select: none;
     }
     #sidebar button:hover,
     #sidebar button.active {
@@ -64,20 +79,65 @@
       display: flex;
       flex-direction: column;
       overflow-y: auto;
+      transition: background 0.3s, color 0.3s;
     }
-    /* Section titles */
+    body.dark #mainContent {
+      background: #1e1e1e;
+      color: #eee;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.7);
+    }
+
+    /* Section titles and controls */
     #mainContent h2 {
       margin-top: 0;
       font-size: 28px;
       font-weight: 700;
       color: #004085;
-      margin-bottom: 20px;
+      margin-bottom: 10px;
       border-bottom: 3px solid #005bbb;
       padding-bottom: 8px;
       letter-spacing: 0.6px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      user-select: none;
+    }
+    body.dark #mainContent h2 {
+      color: #aad4ff;
+      border-color: #3399ff;
     }
 
-    /* Chat styles (extracted from chat.html) */
+    /* Controls container next to title */
+    #controls {
+      display: flex;
+      gap: 10px;
+    }
+    #controls button {
+      font-size: 14px;
+      padding: 6px 12px;
+      border-radius: 12px;
+      border: none;
+      cursor: pointer;
+      font-weight: 600;
+      user-select: none;
+      transition: background-color 0.3s ease;
+    }
+    #controls button#resetChatBtn {
+      background-color: #e04e4e;
+      color: white;
+    }
+    #controls button#resetChatBtn:hover {
+      background-color: #b83737;
+    }
+    #controls button#darkModeToggle {
+      background-color: #005bbb;
+      color: white;
+    }
+    #controls button#darkModeToggle:hover {
+      background-color: #003f7d;
+    }
+
+    /* Chat styles */
     #chatWindow {
       flex-grow: 1;
       padding: 20px;
@@ -87,6 +147,13 @@
       border-bottom: 1px solid #d1d9f0;
       scroll-behavior: smooth;
       word-wrap: break-word;
+      border-radius: 12px;
+      user-select: text;
+    }
+    body.dark #chatWindow {
+      background: #252525;
+      border-color: #444;
+      color: #eee;
     }
 
     .message {
@@ -109,12 +176,19 @@
       font-weight: 600;
       white-space: normal;
     }
+    body.dark .user {
+      background: #3369e8;
+    }
     .bot {
       background: #d1e7dd;
       color: #0f5132;
       margin-right: auto;
       border-bottom-left-radius: 4px;
       font-weight: 600;
+    }
+    body.dark .bot {
+      background: #3b6d42;
+      color: #d1ffd6;
     }
 
     #typingIndicator {
@@ -127,6 +201,9 @@
       user-select: none;
       visibility: hidden;
     }
+    body.dark #typingIndicator {
+      color: #aaa;
+    }
 
     #inputArea {
       display: flex;
@@ -135,6 +212,11 @@
       background: white;
       box-shadow: 0 -3px 10px rgba(0,0,0,0.05);
       border-radius: 0 0 12px 12px;
+      user-select: none;
+    }
+    body.dark #inputArea {
+      background: #1e1e1e;
+      box-shadow: 0 -3px 10px rgba(255,255,255,0.05);
     }
 
     #messageInput {
@@ -148,6 +230,11 @@
     }
     #messageInput:focus {
       border-color: #005bbb;
+    }
+    body.dark #messageInput {
+      background: #2a2a2a;
+      color: #ddd;
+      border-color: #3399ff;
     }
 
     #sendBtn {
@@ -182,13 +269,17 @@
         font-size: 14px;
         padding: 12px 18px;
       }
+      #sidebar {
+        width: 200px;
+        padding: 20px 10px;
+      }
     }
   </style>
 </head>
 <body>
 
   <div id="sidebar">
-    <h2>MediAI Coach</h2>
+    <h2><span id="avatarSidebar">🤖</span> MediAI Coach</h2>
     <button class="active" onclick="showSection('chatSection')">💬 Chat</button>
     <button onclick="window.location.href='/flashcards_index'">📚 Flashcards</button>
     <button onclick="showSection('dashboard')">📊 Dashboard</button>
@@ -197,7 +288,13 @@
 
   <div id="mainContent">
     <div id="chatSection" class="section">
-      <h2>Chat with MediAI</h2>
+      <h2>
+        Chat with MediAI
+        <div id="controls">
+          <button id="resetChatBtn" title="Reset Chat">♻️ Reset Chat</button>
+          <button id="darkModeToggle" title="Toggle Dark Mode">🌙 Dark Mode</button>
+        </div>
+      </h2>
 
       <div id="chatWindow" aria-live="polite" aria-relevant="additions" role="log"></div>
       <div id="typingIndicator">MediAI is typing...</div>
@@ -250,7 +347,9 @@
     const chatWindow = document.getElementById('chatWindow');
     const messageInput = document.getElementById('messageInput');
     const typingIndicator = document.getElementById('typingIndicator');
+    const avatarSidebar = document.getElementById('avatarSidebar');
     let chatbotName = 'MediAI';
+    let darkMode = false;
 
     async function loadAvatarAndName() {
       try {
@@ -259,6 +358,7 @@
         const data = await res.json();
         chatbotName = data.name || 'MediAI';
         const avatarEmoji = data.avatar === 'female' ? '👩' : data.avatar === 'male' ? '👨' : '🤖';
+        avatarSidebar.textContent = avatarEmoji;
         typingIndicator.textContent = `${chatbotName} is typing...`;
       } catch (err) {
         console.error('Failed to load avatar and name:', err);
@@ -304,6 +404,28 @@
       if (e.key === 'Enter' && !e.shiftKey) {
         e.preventDefault();
         sendMessage();
+      }
+    });
+
+    // Dark mode toggle logic
+    const darkModeToggle = document.getElementById('darkModeToggle');
+    darkModeToggle.addEventListener('click', () => {
+      darkMode = !darkMode;
+      document.body.classList.toggle('dark', darkMode);
+      darkModeToggle.textContent = darkMode ? '☀️ Light Mode' : '🌙 Dark Mode';
+    });
+
+    // Reset chat button logic
+    const resetChatBtn = document.getElementById('resetChatBtn');
+    resetChatBtn.addEventListener('click', async () => {
+      if (!confirm('Are you sure you want to reset the chat? This will clear your conversation history.')) return;
+      try {
+        const res = await fetch('/reset_chat', { method: 'POST' });
+        if (!res.ok) throw new Error('Failed to reset chat on server');
+        chatWindow.innerHTML = '';
+        addMessage('Chat has been reset.', 'bot');
+      } catch (err) {
+        addMessage('Error resetting chat.', 'bot');
       }
     });
 
