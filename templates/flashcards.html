@@ -29,7 +29,6 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      box-sizing: border-box;
     }
 
     .question {
@@ -53,12 +52,6 @@
       width: 100%;
       text-align: center;
       margin-bottom: 20px;
-      transition: opacity 0.3s ease;
-      opacity: 0;
-    }
-    .answer.show {
-      display: block;
-      opacity: 1;
     }
 
     button {
@@ -73,13 +66,11 @@
       cursor: pointer;
       transition: background-color 0.3s ease, box-shadow 0.3s ease;
       user-select: none;
+      box-shadow: 0 6px 15px rgba(37, 99, 235, 0.4);
       width: 180px;
       text-align: center;
-      outline-offset: 2px;
     }
-    button:focus-visible {
-      outline: 3px solid #003f7d;
-    }
+
     button:hover {
       background-color: #1e40af;
       box-shadow: 0 8px 20px rgba(30, 64, 175, 0.6);
@@ -89,6 +80,7 @@
     #backBtn {
       background-color: #999;
       margin-top: 10px;
+      width: 180px;
     }
     #backBtn:hover {
       background-color: #666;
@@ -121,7 +113,7 @@
 </head>
 <body>
   <main class="flashcard" role="region" aria-label="Flashcard">
-    <section class="question" id="question" tabindex="0">Q: {{ question | safe }}</section>
+    <section class="question" id="question">Q: {{ question | safe }}</section>
     <section class="answer" id="answer" aria-live="polite" aria-hidden="true">A: {{ answer | safe }}</section>
     <button id="showAnswerBtn" aria-expanded="false" aria-controls="answer" onclick="toggleAnswer()" aria-label="Show answer">Show Answer</button>
 
@@ -138,14 +130,13 @@
     function toggleAnswer() {
       const answerDiv = document.getElementById('answer');
       const btn = document.getElementById('showAnswerBtn');
-      const isShown = answerDiv.classList.contains('show');
-      if (isShown) {
-        answerDiv.classList.remove('show');
+      if (answerDiv.style.display === 'block') {
+        answerDiv.style.display = 'none';
         answerDiv.setAttribute('aria-hidden', 'true');
         btn.textContent = 'Show Answer';
         btn.setAttribute('aria-expanded', 'false');
       } else {
-        answerDiv.classList.add('show');
+        answerDiv.style.display = 'block';
         answerDiv.setAttribute('aria-hidden', 'false');
         btn.textContent = 'Hide Answer';
         btn.setAttribute('aria-expanded', 'true');
