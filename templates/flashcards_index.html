@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>MediAI Coach Chat</title>
+  <title>MediAI Coach - Flashcard Topics</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     body {
@@ -12,13 +12,13 @@
       color: #333;
       display: flex;
       flex-direction: column;
-      height: 100vh;
+      min-height: 100vh;
       max-width: 600px;
-      margin-left: auto;
-      margin-right: auto;
+      margin: 0 auto;
       box-shadow: 0 0 20px rgba(0,0,0,0.1);
       border-radius: 12px;
       overflow: hidden;
+      padding: 20px;
     }
 
     header {
@@ -31,214 +31,77 @@
       letter-spacing: 1px;
       box-shadow: 0 2px 8px rgba(0,0,0,0.2);
       user-select: none;
+      border-radius: 12px 12px 0 0;
     }
 
-    #avatar {
-      font-size: 50px;
-      text-align: center;
-      margin: 15px 0 10px 0;
-      user-select: none;
-      filter: drop-shadow(0 2px 2px rgba(0,0,0,0.15));
-    }
-
-    #chat {
+    main {
       flex-grow: 1;
       padding: 20px;
-      overflow-y: auto;
-      background: #f9fbff;
-      border-top: 1px solid #d1d9f0;
-      border-bottom: 1px solid #d1d9f0;
-      scroll-behavior: smooth;
-      word-wrap: break-word;
-    }
-
-    .message {
-      margin: 10px 0;
-      max-width: 80%;
-      padding: 12px 18px;
-      border-radius: 20px;
-      line-height: 1.4;
-      font-size: 16px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      user-select: text;
-      white-space: pre-wrap;
-      word-wrap: break-word;
-    }
-    .user {
-      background: #1a73e8;
-      color: white;
-      margin-left: auto;
-      border-bottom-right-radius: 4px;
-      font-weight: 600;
-      white-space: normal;
-    }
-    .bot {
-      background: #d1e7dd;
-      color: #0f5132;
-      margin-right: auto;
-      border-bottom-left-radius: 4px;
-      font-weight: 600;
-    }
-
-    #typingIndicator {
-      font-style: italic;
-      color: #666;
-      font-size: 14px;
-      height: 22px;
-      padding-left: 20px;
-      margin-top: 5px;
-      user-select: none;
-      visibility: hidden;
-    }
-
-    #inputArea {
-      display: flex;
-      padding: 15px 20px;
-      gap: 12px;
       background: white;
-      box-shadow: 0 -3px 10px rgba(0,0,0,0.05);
       border-radius: 0 0 12px 12px;
+      overflow-y: auto;
     }
 
-    #messageInput {
-      flex-grow: 1;
-      border-radius: 20px;
-      border: 2px solid #b6d4fe;
-      padding: 14px 18px;
-      font-size: 16px;
-      outline-offset: 2px;
-      transition: border-color 0.3s ease;
-    }
-    #messageInput:focus {
-      border-color: #005bbb;
+    h2 {
+      margin-top: 0;
+      color: #005bbb;
+      text-align: center;
+      margin-bottom: 20px;
     }
 
-    #sendBtn {
-      background: linear-gradient(90deg, #005bbb, #003f7d);
-      border: none;
-      border-radius: 20px;
-      color: white;
-      font-weight: 700;
-      font-size: 16px;
-      padding: 14px 25px;
-      cursor: pointer;
-      box-shadow: 0 6px 12px rgba(0,91,187,0.6);
-      transition: background 0.3s ease;
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0 auto;
+      max-width: 400px;
+    }
+
+    li {
+      background: #f0f7ff;
+      margin: 10px 0;
+      border-radius: 12px;
+      box-shadow: 0 2px 6px rgba(0,91,187,0.15);
+      transition: background-color 0.3s ease;
+    }
+
+    li:hover {
+      background-color: #d1e7ff;
+    }
+
+    a {
+      display: block;
+      padding: 15px 25px;
+      color: #005bbb;
+      font-weight: 600;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 12px;
       user-select: none;
-      flex-shrink: 0;
-    }
-    #sendBtn:hover {
-      background: linear-gradient(90deg, #004080, #002a52);
-      box-shadow: 0 8px 18px rgba(0,64,128,0.9);
     }
 
-    @media (max-width: 400px) {
-      body {
-        max-width: 100%;
-        border-radius: 0;
-      }
-      #messageInput {
-        font-size: 14px;
-        padding: 12px 14px;
-      }
-      #sendBtn {
-        font-size: 14px;
-        padding: 12px 18px;
-      }
+    a:focus,
+    a:active {
+      outline: 3px solid #005bbb;
+      outline-offset: 2px;
     }
   </style>
 </head>
 <body>
 
-  <header>MediAI Coach Chat</header>
-  <div id="avatar" aria-hidden="true">🤖</div>
+  <header>MediAI Coach Flashcard Topics</header>
 
-  <div id="chat" aria-live="polite" aria-relevant="additions" role="log"></div>
-  <div id="typingIndicator">MediAI is typing...</div>
+  <main>
+    <h2>Select a Topic to Study</h2>
+    <ul>
+      {% for topic in topics %}
+        <li><a href="{{ url_for('flashcard_test') }}?topic={{ topic }}">{{ topic }}</a></li>
+      {% endfor %}
+      <li><a href="{{ url_for('flashcard_test') }}">Random</a></li>
+    </ul>
+  </main>
 
-  <form id="inputArea" onsubmit="event.preventDefault(); sendMessage();">
-    <input
-      type="text"
-      id="messageInput"
-      placeholder="Ask me anything..."
-      autocomplete="off"
-      aria-label="Chat message input"
-      required
-    />
-    <button id="sendBtn" type="submit">Send</button>
-  </form>
-
-  <script>
-    const chatWindow = document.getElementById('chat');
-    const messageInput = document.getElementById('messageInput');
-    const typingIndicator = document.getElementById('typingIndicator');
-    const avatar = document.getElementById('avatar');
-    let chatbotName = 'MediAI';
-
-    // Load avatar and name on page load
-    async function loadAvatarAndName() {
-      try {
-        const res = await fetch('/get_avatar');
-        if (!res.ok) throw new Error('Network error');
-        const data = await res.json();
-        chatbotName = data.name || 'MediAI';
-        if (data.avatar === 'female') avatar.textContent = '👩';
-        else if (data.avatar === 'male') avatar.textContent = '👨';
-        else avatar.textContent = '🤖';
-        typingIndicator.textContent = `${chatbotName} is typing...`;
-      } catch (err) {
-        console.error('Failed to load avatar and name:', err);
-        typingIndicator.textContent = `${chatbotName} is typing...`;
-      }
-    }
-
-    // Add message to chat window, user is plain text, bot is HTML formatted
-    function addMessage(text, sender) {
-      const msg = document.createElement('div');
-      msg.className = 'message ' + sender;
-      if (sender === 'user') {
-        msg.textContent = 'You: ' + text;
-      } else {
-        // Bot message contains safe HTML from backend
-        msg.innerHTML = chatbotName + ': ' + text;
-      }
-      chatWindow.appendChild(msg);
-      chatWindow.scrollTop = chatWindow.scrollHeight;
-    }
-
-    // Send message handler
-    async function sendMessage() {
-      const msg = messageInput.value.trim();
-      if (!msg) return;
-      addMessage(msg, 'user');
-      messageInput.value = '';
-      typingIndicator.style.visibility = 'visible';
-
-      try {
-        const response = await fetch('/ask', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-          body: new URLSearchParams({ message: msg }),
-        });
-        const data = await response.json();
-        addMessage(data.response, 'bot');
-      } catch (error) {
-        addMessage('Error: Unable to get response.', 'bot');
-      } finally {
-        typingIndicator.style.visibility = 'hidden';
-      }
-    }
-
-    // Send message on Enter key
-    messageInput.addEventListener('keydown', (e) => {
-      if (e.key === 'Enter' && !e.shiftKey) {
-        e.preventDefault();
-        sendMessage();
-      }
-    });
-
-    window.onload = loadAvatarAndName;
-  </script>
+</body>
+</html>
 
 </body>
 </html>

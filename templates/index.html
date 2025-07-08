@@ -278,52 +278,54 @@
 </head>
 <body>
 
-  <div id="sidebar">
-    <h2><span id="avatarSidebar">🤖</span> MediAI Coach</h2>
-    <button class="active" onclick="showSection('chatSection')">💬 Chat</button>
-    <button onclick="window.location.href='/flashcards_index'">📚 Flashcards</button>
-    <button onclick="showSection('dashboard')">📊 Dashboard</button>
-    <button onclick="showSection('onboarding')">👋 Onboarding</button>
+  <!-- ... inside <body> -->
+
+<div id="sidebar">
+  <h2>MediAI Coach</h2>
+  <button class="active" onclick="showSection('chatSection')">💬 Chat</button>
+  <button onclick="showSection('flashcards')">📚 Flashcards</button>
+  <button onclick="showSection('dashboard')">📊 Dashboard</button>
+  <button onclick="showSection('onboarding')">👋 Onboarding</button>
+</div>
+
+<div id="mainContent">
+  <div id="chatSection" class="section">
+    <h2>Chat with MediAI</h2>
+    <!-- chat content here -->
   </div>
 
-  <div id="mainContent">
-    <div id="chatSection" class="section">
-      <h2>
-        Chat with MediAI
-        <div id="controls">
-          <button id="resetChatBtn" title="Reset Chat">♻️ Reset Chat</button>
-          <button id="darkModeToggle" title="Toggle Dark Mode">🌙 Dark Mode</button>
-        </div>
-      </h2>
-
-      <div id="chatWindow" aria-live="polite" aria-relevant="additions" role="log"></div>
-      <div id="typingIndicator">MediAI is typing...</div>
-
-      <form id="inputArea" onsubmit="event.preventDefault(); sendMessage();">
-        <input
-          type="text"
-          id="messageInput"
-          placeholder="Ask me anything..."
-          autocomplete="off"
-          aria-label="Chat message input"
-          required
-        />
-        <button id="sendBtn" type="submit">Send</button>
-      </form>
-    </div>
-
-    <div id="dashboard" class="section" style="display:none;">
-      <h2>Dashboard</h2>
-      <p>Dashboard module coming soon...</p>
-    </div>
-
-    <div id="onboarding" class="section" style="display:none;">
-      <h2>Onboarding</h2>
-      <p>Onboarding module coming soon...</p>
-    </div>
+  <div id="flashcards" class="section" style="display:none;">
+    <h2>Flashcards</h2>
+    <p>Flashcards module coming soon...</p>
   </div>
 
-  <script>
+  <div id="dashboard" class="section" style="display:none;">
+    <h2>Dashboard</h2>
+    <p>Dashboard module coming soon...</p>
+  </div>
+
+  <div id="onboarding" class="section" style="display:none;">
+    <h2>Onboarding</h2>
+    <p>Onboarding module coming soon...</p>
+  </div>
+</div>
+
+<script>
+  function showSection(sectionId) {
+    document.querySelectorAll('#sidebar button').forEach((btn) =>
+      btn.classList.remove('active')
+    );
+    document.querySelector('#sidebar button[onclick="showSection(\'' + sectionId + '\')"]')
+      ?.classList.add('active');
+
+    document.querySelectorAll('#mainContent .section').forEach((sec) => (sec.style.display = 'none'));
+    const sec = document.getElementById(sectionId);
+    if (sec) sec.style.display = 'block';
+  }
+
+  // Show chat by default
+  showSection('chatSection');
+</script>
     // Sidebar navigation
     function showSection(sectionId) {
       document.querySelectorAll('#sidebar button').forEach((btn) =>

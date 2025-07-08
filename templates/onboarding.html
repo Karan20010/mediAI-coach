@@ -104,11 +104,11 @@
 
   <h2>MediAI Coach Setup</h2>
 
-  <div class="progress-bar" aria-label="Progress">
+  <div class="progress-bar">
     <div id="progress" class="progress"></div>
   </div>
 
-  <form id="onboardingForm" method="POST" action="/complete_setup" novalidate>
+  <form id="onboardingForm" method="POST" action="/complete_setup">
 
     <!-- Step 1 -->
     <div class="step active" data-step="1">
@@ -133,6 +133,7 @@
         <option value="easy">Easy</option>
         <option value="moderate">Moderate</option>
         <option value="hard">Hard</option>
+        <option value="mixed">Mixed</option>  <!-- Added mixed here -->
       </select>
       <div class="buttons">
         <button type="button" onclick="prevStep()">Back</button>
@@ -203,7 +204,7 @@
     <!-- Step 8 -->
     <div class="step" data-step="8">
       <label>Choose AI Avatar</label>
-      <div class="avatar-preview" id="avatarPreview" aria-live="polite" aria-atomic="true">🤖</div>
+      <div class="avatar-preview" id="avatarPreview">🤖</div>
       <select name="chatbot_avatar" id="chatbot_avatar" required>
         <option value="robot">🤖 Robot</option>
         <option value="girl">👩 Girl</option>
