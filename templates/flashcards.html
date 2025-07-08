@@ -91,15 +91,15 @@
   </style>
 </head>
 <body>
-  <div class="flashcard" role="region" aria-label="Flashcard">
-    <div class="question">Q: {{ question | safe }}</div>
-    <div class="answer" id="answer">A: {{ answer | safe }}</div>
-    <button id="showAnswerBtn" aria-expanded="false" aria-controls="answer" onclick="toggleAnswer()">Show Answer</button>
+  <main class="flashcard" role="region" aria-label="Flashcard">
+    <section class="question" id="question">Q: {{ question | safe }}</section>
+    <section class="answer" id="answer" aria-live="polite" aria-hidden="true">A: {{ answer | safe }}</section>
+    <button id="showAnswerBtn" aria-expanded="false" aria-controls="answer" onclick="toggleAnswer()" aria-label="Show answer">Show Answer</button>
 
     <form method="get" action="/flashcard_test" style="margin-top: 20px;">
-      <button type="submit">Next Card</button>
+      <button type="submit" aria-label="Next flashcard">Next Card</button>
     </form>
-  </div>
+  </main>
 
   <script>
     function toggleAnswer() {
@@ -107,10 +107,12 @@
       const btn = document.getElementById('showAnswerBtn');
       if (answerDiv.style.display === 'block') {
         answerDiv.style.display = 'none';
+        answerDiv.setAttribute('aria-hidden', 'true');
         btn.textContent = 'Show Answer';
         btn.setAttribute('aria-expanded', 'false');
       } else {
         answerDiv.style.display = 'block';
+        answerDiv.setAttribute('aria-hidden', 'false');
         btn.textContent = 'Hide Answer';
         btn.setAttribute('aria-expanded', 'true');
       }

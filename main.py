@@ -33,8 +33,7 @@ MAX_MESSAGES = int(os.getenv("MAX_MESSAGES", "25"))
 MEMORY_PATH = "user_data/talia_memory.json"
 UPLOAD_FOLDER = "user_data/docs"
 FLASHCARD_PATHS = [
-    "user_data/anki_flashcards/COMP_Anki_Deck_Cleaned.json",
-    "user_data/anki_flashcards/COMP_Anki_Deck_Merged_With_Salvaged.json"
+    "user_data/anki_flashcards/COMP_Anki_Deck.json"
 ]
 VECTOR_DB = "user_data/vector_db"
 INDEX_FILE = os.path.join(VECTOR_DB, "comp_questions.index")
@@ -45,6 +44,7 @@ ALLOWED_EXTENSIONS = {'txt', 'docx'}
 os.makedirs("user_data", exist_ok=True)
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(VECTOR_DB, exist_ok=True)
+
 model = SentenceTransformer("all-MiniLM-L6-v2")
 index = faiss.IndexFlatL2(384)
 question_texts = []
@@ -184,15 +184,24 @@ def home():
 def onboarding_page():
     return render_template("onboarding.html")
 
-@app.route("/flashcards")
+@app.route("/flashcards_index")
 def flashcards_index():
-    return render_template("flashcards_index.html")
+    memory = load_memory()
+    # For simplicity, use the keys of memory["topics"] as topics if available
+    topics = list(memory.get("topics", {}).keys())
+    if not topics:
+        topics = ["General Principles", "Cardiology", "Neurology", "Endocrinology"]
+    return render_template("flashcards_index.html", topics=topics)
 
 @app.route("/flashcard_test")
 def flashcard_test():
-    if not ALL_FLASHCARDS:
-        return "No flashcards available."
-    card = random.choice(ALL_FLASHCARDS)
+    topic = request.args.get("topic", None)
+    filtered_cards = ALL_FLASHCARDS
+    if topic:
+        filtered_cards = [card for card in ALL_FLASHCARDS if topic.lower() in card["question"].lower()]
+        if not filtered_cards:
+            filtered_cards = ALL_FLASHCARDS  # fallback if no cards in topic
+    card = random.choice(filtered_cards)
     return render_template("flashcards.html",
                            question=sanitize_flashcard(card["question"]),
                            answer=sanitize_flashcard(card["answer"]))
@@ -280,7 +289,6 @@ def ask():
 
     # Trim messages to fit within token limit
     while count_message_tokens(messages) > MAX_TOKENS and len(messages) > 1:
-        # Always keep system prompt at index 0, so remove from index 1
         messages.pop(1)
 
     try:

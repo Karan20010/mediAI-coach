@@ -30,6 +30,7 @@
       text-align: center;
       letter-spacing: 1px;
       box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      user-select: none;
     }
 
     #avatar {
@@ -150,12 +151,12 @@
 <body>
 
   <header>MediAI Coach Chat</header>
-  <div id="avatar">🤖</div>
+  <div id="avatar" aria-live="polite" aria-atomic="true">🤖</div>
 
   <div id="chat" aria-live="polite" aria-relevant="additions" role="log"></div>
-  <div id="typingIndicator">MediAI is typing...</div>
+  <div id="typingIndicator" aria-live="polite" aria-atomic="true">MediAI is typing...</div>
 
-  <form id="inputArea" onsubmit="event.preventDefault(); sendMessage();">
+  <form id="inputArea" onsubmit="event.preventDefault(); sendMessage();" aria-label="Chat input form">
     <input
       type="text"
       id="messageInput"
@@ -164,7 +165,7 @@
       aria-label="Chat message input"
       required
     />
-    <button id="sendBtn" type="submit">Send</button>
+    <button id="sendBtn" type="submit" aria-label="Send message">Send</button>
   </form>
 
   <script>
@@ -174,7 +175,6 @@
     const avatar = document.getElementById('avatar');
     let chatbotName = 'MediAI';
 
-    // Load avatar and name on page load
     async function loadAvatarAndName() {
       try {
         const res = await fetch('/get_avatar');
@@ -191,21 +191,18 @@
       }
     }
 
-    // Add message to chat window, user is plain text, bot is HTML formatted
     function addMessage(text, sender) {
       const msg = document.createElement('div');
       msg.className = 'message ' + sender;
       if (sender === 'user') {
         msg.textContent = 'You: ' + text;
       } else {
-        // Bot message contains safe HTML from backend
         msg.innerHTML = chatbotName + ': ' + text;
       }
       chatWindow.appendChild(msg);
       chatWindow.scrollTop = chatWindow.scrollHeight;
     }
 
-    // Send message handler
     async function sendMessage() {
       const msg = messageInput.value.trim();
       if (!msg) return;
@@ -219,6 +216,7 @@
           headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
           body: new URLSearchParams({ message: msg }),
         });
+        if (!response.ok) throw new Error('Network response was not ok');
         const data = await response.json();
         addMessage(data.response, 'bot');
       } catch (error) {
@@ -228,7 +226,6 @@
       }
     }
 
-    // Send message on Enter key
     messageInput.addEventListener('keydown', (e) => {
       if (e.key === 'Enter' && !e.shiftKey) {
         e.preventDefault();
