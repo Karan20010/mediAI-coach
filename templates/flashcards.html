@@ -37,7 +37,7 @@
       margin-bottom: 25px;
       white-space: pre-wrap;
       width: 100%;
-      text-align: center;
+      text-align: left;
     }
 
     .answer {
@@ -50,8 +50,17 @@
       white-space: pre-wrap;
       box-shadow: inset 0 1px 3px rgba(37, 99, 235, 0.1);
       width: 100%;
-      text-align: center;
+      text-align: left;
       margin-bottom: 20px;
+    }
+
+    /* Style for options (A), B), C) etc.) */
+    .answer div, .question div {
+      margin: 5px 0;
+    }
+    .option {
+      margin-left: 20px;
+      font-weight: 600;
     }
 
     button {
@@ -76,13 +85,20 @@
       box-shadow: 0 8px 20px rgba(30, 64, 175, 0.6);
     }
 
-    /* Back to Topics button with different color */
-    #backBtn {
+    /* Back buttons container */
+    .nav-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      width: 100%;
+    }
+
+    /* Back to Topics and Back to Chat buttons */
+    .nav-buttons button {
       background-color: #999;
-      margin-top: 10px;
       width: 180px;
     }
-    #backBtn:hover {
+    .nav-buttons button:hover {
       background-color: #666;
       box-shadow: 0 8px 20px rgba(100, 100, 100, 0.6);
     }
@@ -108,22 +124,33 @@
         padding: 14px 0;
         font-size: 1rem;
       }
+
+      .nav-buttons {
+        flex-direction: column;
+        gap: 10px;
+      }
     }
   </style>
 </head>
 <body>
   <main class="flashcard" role="region" aria-label="Flashcard">
-    <section class="question" id="question">Q: {{ question | safe }}</section>
-    <section class="answer" id="answer" aria-live="polite" aria-hidden="true">A: {{ answer | safe }}</section>
+    <section class="question" id="question">{{ question | safe }}</section>
+    <section class="answer" id="answer" aria-live="polite" aria-hidden="true">{{ answer | safe }}</section>
     <button id="showAnswerBtn" aria-expanded="false" aria-controls="answer" onclick="toggleAnswer()" aria-label="Show answer">Show Answer</button>
 
-    <form method="get" action="/flashcard_test" aria-label="Next flashcard form" style="margin-top: 20px;">
-      <button type="submit" aria-label="Next flashcard">Next Card</button>
-    </form>
+    <div class="nav-buttons">
+      <form method="get" action="/flashcard_test" aria-label="Next flashcard form" style="margin: 0;">
+        <button type="submit" aria-label="Next flashcard">Next Card</button>
+      </form>
 
-    <form method="get" action="/flashcards_index" aria-label="Back to flashcard topics">
-      <button id="backBtn" type="submit" aria-label="Back to Topics">← Back to Topics</button>
-    </form>
+      <form method="get" action="/flashcards_index" aria-label="Back to flashcard topics" style="margin: 0;">
+        <button type="submit" aria-label="Back to Topics">← Back to Topics</button>
+      </form>
+
+      <form method="get" action="/chat" aria-label="Back to chat" style="margin: 0;">
+        <button type="submit" aria-label="Back to Chat">← Back to Chat</button>
+      </form>
+    </div>
   </main>
 
   <script>
