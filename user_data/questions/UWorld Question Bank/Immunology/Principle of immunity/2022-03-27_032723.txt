@@ -1,0 +1,56 @@
+41 ec en) rl
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+— Item 25 of 25
+= a V7 Mark
+
+Question Id: 20817
+not activate complement or trigger phagocytosis via the Fc receptor on macrophages
+
+(Choices C and D). Therefore, Fab fragments generally are not used in applications that
+require cell death (eg, cancer immunotherapy).
+
+¢ Single-chain variable fragments (scFv) contain a light chain and heavy chain variable
+region linked together by a peptide.
+
+¢ Single-domain antibody (sdAb) has only a light chain variable region or a heavy chain
+
+variable region.
+
+(Choice A) Antibody fragments pass through the glomerular basement membrane into the
+collecting system more easily than full immunoglobulins due to their small size; therefore,
+antibody fragments typically are excreted more (not less) quickly.
+
+(Choice E) Because the hypervariable region in a Fab fragment is the same as that in the full
+immunoglobulin, the fragment and full immunoglobulin bind the antigen with an equivalent
+affinity.
+
+Educational objective:
+
+Immunotherapy medications often utilize fragments of a monoclonal immunoglobulin rather
+than the full immunoglobulin; because fragments are smaller, they typically have better tissue
+
+penetration and pharmacokinetics. Fab fragments contain a variable domain and the first
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

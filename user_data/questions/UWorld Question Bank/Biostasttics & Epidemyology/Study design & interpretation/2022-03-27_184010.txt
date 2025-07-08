@@ -1,0 +1,45 @@
+= ltem9of17 5 v Mark <q Se rc j @ él
+
+= Question Id: 1276 Previous Next Full Screen Tutorial Lab Values
+(Choices C and E) A prospective cohort study would have taken individuals without
+hypertension from the population, analyzed their blood samples to determine the distribution of
+the sodium channel mutation, and followed them over time (years) to determine the proportion
+of new cases of hypertension in patients with and without the mutation. In this example,
+although hypertension was measured over several days, the objective was not to document
+incidence of new cases of hypertension (which would be unlikely to develop over 1 week) but
+to measure the prevalence of hypertension while ensuring that average blood pressure
+measurements were obtained.
+
+A retrospective design would have also assessed incidence (not prevalence) of hypertension
+compared to an earlier period of time, based on a chart review of historic data. Prospective
+and retrospective cohort studies are organized by selecting a group of individuals (ie, a cohort)
+who do not have the disease of interest (eg, hypertension), determining their exposure status,
+and then following them (forward in time or from a point in the past to the present) to assess
+for the development of the disease.
+
+(Choice D) Arandomized clinical trial directly compares >2 treatments. Usually, the subjects
+are randomly assigned to experience a specific exposure (eg, a medication) or no exposure
+(eg, placebo) and are then followed to assess for the outcome of interest (eg, disease).
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

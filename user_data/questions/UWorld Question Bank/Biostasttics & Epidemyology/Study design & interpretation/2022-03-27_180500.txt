@@ -1,0 +1,61 @@
+a Pe i @® a » - &A 8
+
+e r
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+— Item 23 of 29
+= a V7 Mark
+
+Question Id: 1184
+
+A case-control study was conducted to estimate the association between simvastatin therapy
+
+and serum levels of fibrinogen in patients who underwent percutaneous coronary intervention.
+
+Cases were identified as patients who underwent percutaneous coronary intervention and had
+high periprocedural levels of fibrinogen (>400 mg/dL), and controls were identified as patients
+
+who underwent percutaneous coronary interventions but had normal levels of fibrinogen (200-
+
+400 mg/dL). History of simvastatin therapy use was assessed through chart review for every
+
+patient. The number of patients corresponding to each classification criteria is given in the
+
+table below.
+
+Fibrinogen high (>400
+mg/dL)
+
+Fibrinogen normal (200-400
+mg/dL)
+
+Total
+
+Simvastatin therapy
+
+43
+
+67
+
+110
+
+No simvastatin
+therapy
+
+32
+
+58
+
+90
+
+Total
+
+15
+
+125
+
+200
+
+Which of the following is the best statistical method to estimate the association between
+
+End Block

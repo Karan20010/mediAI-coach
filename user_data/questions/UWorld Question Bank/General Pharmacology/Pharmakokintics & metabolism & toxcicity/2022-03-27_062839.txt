@@ -1,0 +1,66 @@
+foe
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+21
+= 22
+23
++ 24
+25
++ 26
+27
++ 28
+29
+= 30
+31
+
+—— Question Id: 1818
+
+— Item 8 of 32 mY wax <q Se i @ al Lo) id lA)
+
+Previous Next utter Tutorial Lab Values Notes Calculator Reverse Color Text Zoom
+Methotrexate (MTX) is a folic acid analog that inhibits dihydrofolate reductase (DHFR), the
+
+enzyme that converts dietary folic acid to tetrahydrofolate (THF), through direct competition.
+
+THF is a single-carbon group donor in the synthesis of purines and thymidylic acid (which
+
+contributes to pyrimidine formation). MTX functions as a chemotherapeutic agent through
+
+inhibition of DNA synthesis and as an anti-psoriasis agent through immunomodulatory
+
+effects on activated T cells. However, MTX causes death of all rapidly dividing cells,
+
+particularly those of the gastrointestinal tract (Gl) mucosa (explaining this patient's
+
+aphthous ulcers) and bone marrow (explaining this patient's pancytopenia).
+
+Folinic acid (leucovorin) can reverse MTX toxicity if given early. It serves as a reduced form
+of folic acid thought not to require DHFR to be converted to THF and is therefore unaffected
+by MTX. Leucovorin is administered following high-dose MTX as part of a chemotherapeutic
+plan in which it serves to rescue bone marrow, and GI and other mucosal cells from MTX
+toxicity. In addition, when used in combination with 5-fluorouracil (5-FU), leucovorin
+potentiates the cytotoxic action of 5-FU (by binding thymidylate synthetase) and is frequently
+included in colorectal cancer chemotherapy regimens.
+
+(Choice A) Allopurinol and its metabolite, oxipurinol, are predominantly noncompetitive
+inhibitors of xanthine oxidase. Allopurinol is used in the treatment of gout and for prevention of
+
+Block Time Elapse
+
+Tutor a
+
+63
+
+Settings
+
+End Block

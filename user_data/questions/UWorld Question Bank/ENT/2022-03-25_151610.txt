@@ -1,0 +1,19 @@
+This patient with mucosal head and neck squamous cell carcinoma (HNSCC) has developed a
+second primary tumor, which is common with HNSCC due to field cancerization.
+
+Field cancerization describes a large area of cells within a field (eg, upper aerodigestive tract)
+that are "primed" to develop cancer because of widespread exposure to mutagens (eg,
+tobacco). Mutations that affect many similar cells can increase the likelihood of developing
+multiple primary malignancies, analogous to germline mutations in tumor suppressor genes
+(eg, BRCA7 or BRCA2 in breast and ovarian cancer). Field cancerization likely underlies the
+development of many common cancers, including:
+
+¢ HNSCC due to mucosal exposure to tobacco carcinogens
+¢ Basal cell carcinoma of the skin due to skin exposure to ultraviolet light
+¢ Colorectal carcinoma due to epithelial exposure to dietary carcinogens
+
+Even with adequate treatment of a malignancy, the areas affected by field cancerization
+remain at higher risk of developing multiple primary malignancies, as seen in this patient.
+Therefore, patients diagnosed with any of these cancers require comprehensive evaluation
+and continued surveillance of the at-risk area (eg, colonoscopy, comprehensive skin
+examination, panendoscopy of the upper aerodigestive tract).

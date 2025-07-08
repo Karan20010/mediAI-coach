@@ -1,0 +1,6 @@
+Educational objective:
+
+R5 strains (macrophage-tropic) of HIV attach to the host CD4 receptor and CCR5 chemokine
+coreceptor; CCRS inhibitors such as maraviroc can be used in the treatment of R5 virus. X4
+strains (T lymphotropic) of HIV bind to the CD4 receptor and CXCR4 chemokine receptor; X4
+virus cannot be treated with CCR3S inhibitors.

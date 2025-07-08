@@ -1,0 +1,49 @@
++B
+THE
+
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+24
++ 22
+
+— Item 10 of 22
+Question Id: 732
+
+41 ec en) rl
+
+e
+Full Screen Tutorial Lab Values
+
+a V7 Mark
+
+Previous Next
+Nearly half of the body's total immunoglobulins are produced by splenic B-lymphocytes.
+Splenic opsonizing antibody is of particular importance in the clearance of encapsulated
+species, as the capsule allows them to resist innate phagocytosis. Vaccination against
+encapsulated bacteria such as Streptococcus pneumoniae, Haemophilus influenzae, and
+Neisseria meningitidis is recommended for all asplenic patients.
+
+(Choice A) The liver is the primary site for complement production. C3 deficiency
+predisposes to recurrent infections with encapsulated organisms. Deficiencies of C5-9, the
+components of the membrane attack complex, can lead to recurrent infections with NV
+meningitidis or N gonorrhoeae.
+
+(Choice B) Immediate hypersensitivity results from IgE-mediated mast cell degranulation. It
+is not affected by splenectomy.
+
+(Choice C) Chronic granulomatous disease (CGD) is a condition where catalase-positive
+organisms such as Staphylococcus aureus are phagocytosed but cannot be killed effectively.
+
+Patients experience recurrent suppurative infections (eg, abscesses).
+
+(Choice E) Interferons a and 8 are released from virally-infected cells and cause macrophage
+
+and cytotoxic T-lymphocyte activation, leading to destruction of infected cells. Defects in type |
+

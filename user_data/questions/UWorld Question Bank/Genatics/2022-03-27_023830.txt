@@ -1,0 +1,17 @@
+Gametogenesis
+
+Female Cell cycle |# homologs | # chromatids
+stage (n) (c)
+
+_ -
+Primary Primary Prophase
+oocyte | spermatocyte M 2n (46) 4c
+
+1
+Secondary Secondary Metaphase 4n (23)
+oocyte spermatocyte Mil
+Mature Spermatid Telophase 4n (23)
+ovum Mil
+
+©UWorld
+

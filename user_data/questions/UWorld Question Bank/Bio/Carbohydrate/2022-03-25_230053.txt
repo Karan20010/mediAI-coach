@@ -1,0 +1,9 @@
+(Choice F) Oxaloacetate is the product of pyruvate carboxylase during gluconeogenesis. As
+such, increased levels of oxaloacetate would decrease the activity of the enzyme.
+
+Educational objective:
+
+Acetyl-CoA stimulates gluconeogenesis by increasing the activity of pyruvate carboxylase
+when acetyl-CoA is abundant. This regulatory step allows pyruvate to be shunted toward
+acetyl-CoA production when acetyl-CoA levels are low, preventing the cell from becoming
+depleted of energy.

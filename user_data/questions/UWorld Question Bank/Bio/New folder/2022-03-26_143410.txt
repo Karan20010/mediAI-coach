@@ -1,0 +1,18 @@
+Malignant cells typically contain a number of chromosomal translocations, deletions, or
+duplications that result in deregulation of gene expression and production of novel fusion
+proteins. Cytogenic analysis of tumor cells often demonstrates characteristic chromosomal
+abnormalities that may aid diagnosis, treatment selection, and estimation of prognosis.
+
+Fluorescence in situ hybridization (FISH) is a highly sensitive cytogenetic test that can
+identify the presence of chromosomal duplications and large deletions and
+translocations. FISH probes are single-stranded DNA segments that are a few hundred
+kilobases in length; they are added to the cell of interest and anneal to complementary regions
+of the cell chromosome, which allows the area of interest to be identified visually.
+
+FISH is far more sensitive than traditional karyotyping (chromosome banding) and can be
+applied to both dividing (metaphase) and nondividing (interphase) cells. It is often used to
+identify large structural chromosomal abnormalities such as the BCR-ABL1 fusion of t(9;22) in
+chronic myeloid leukemia. However, small chromosomal insertions and deletions cannot be
+identified by FISH (because the probe size is somewhat large), and chromosomal inversions
+will be missed because FISH can only identify the presence or absence of a chromosomal
+segment, not the order in which it is coded.

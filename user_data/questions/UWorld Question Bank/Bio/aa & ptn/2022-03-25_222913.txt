@@ -1,0 +1,7 @@
+Educational objective:
+
+Competitive inhibitors compete with substrate for active binding sites on enzymes. Additional
+substrate is required to achieve the same rate of reaction, increasing the measured value of
+the Michaelis constant (K,,). Competitive inhibitors do not affect enzyme function; therefore,
+
+maximal velocity (V.,..) is unchanged in their presence.

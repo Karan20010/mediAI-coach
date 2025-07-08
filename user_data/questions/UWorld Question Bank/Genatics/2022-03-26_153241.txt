@@ -1,0 +1,65 @@
+foe
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+21
+= 22
+23
++ 24
+25
++ 26
+27
++ 28
+29
+= 30
+31
+
+Question Id: 1412
+
+— Item 8 of 40 mY wax <q Se i @ al Lo) id lA)
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+in this scenario, gel electrophoresis is being performed on cDNA (not protein) and the
+results indicate the length of the mature RNA transcript. Termination of RNA transcription
+occurs by specific sequences in the 3' untranslated region that cause RNA hairpin loop
+formation and/or recruitment of termination factors. As a result, point mutations in the exons of
+a gene (such as those responsible for causing nonsense mutations) are unlikely to affect total
+mRNA (cDNA) size.
+
+(Choice E) Silent mutations can occur in both coding and noncoding regions, but they do not
+alter protein quantity or function and do not affect phenotype. This patient's mutation caused
+him to develop cystic fibrosis, so it is not a silent mutation.
+
+(Choice F) Trinucleotide expansions increase the number of trinucleotide repeats in the
+coding region of a gene, often resulting in large proteins with abnormal function. This patient's
+abnormal CFTR gene is shorter (not longer) than the normal gene from his sibling, which
+indicates a deletion has occurred.
+
+Educational objective:
+
+Deletion or addition of a number of bases that is not divisible by 3 in the coding region of a
+
+gene will cause a frameshift mutation. Frameshift mutations alter the reading frame of the
+
+genetic code, resulting in the formation of nonfunctional proteins. Activate \
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

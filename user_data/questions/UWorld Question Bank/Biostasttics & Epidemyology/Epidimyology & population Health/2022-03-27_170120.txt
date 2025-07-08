@@ -1,0 +1,37 @@
+1 — Item 16 of 29 <q > rt é L<) id i+ ENE)
+2 ‘Question ld: 19798 . 4 Mark Previous Next Full Screen 2 Lab a Notes Calculator Reverse Color__Text Zoom
+3
+‘ The number of TP and FN can be more quickly calculated using the following equations:
+5
+6 TP = (Sensitivity) x (Number of patients who truly have the disease)
+7
+8 FN = (1 — Sensitivity) x (Number of patients who truly have the disease)
+= (Choices B, C, and E) 90 is the number of false positives (FP), 160 is the number of TP, and
+i 210 is the number of true negatives (TN) found in the study.
+12
+13 (Choice D) 200 is the number of individuals who truly have ovarian cancer (ie, TP + FN) in the
+. : study.
+Educational objective:
+
+False negatives (FN) refer to individuals who test negative for a disease but who truly have the
+disease. The number of FN can be calculated using the number of individuals who truly have
+the disease and the sensitivity of the test, or by using the formula: FN = (1 - Sensitivity) x
+(Number of patients who truly have the disease).
+
+Biostatistics Biostatistics & Epidemiology Sensitivity, specificity, NPV, PPV
+
+Subject System Topic
+
+Copyright © UWorld. All rights reserved.
+
+Activate Windows
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

@@ -1,0 +1,17 @@
+The bacterial cell wall is composed of cross-linked peptidoglycan subunits on a backbone of
+N-acetylmuramic acid (NAM) and N-acetylglucosamine (NAG). Because cell wall disruption
+results in bacterial lysis, many antibiotics target cell wall synthesis, including the following:
+
+¢ Fosfomycin blocks development of the NAM-NAG polymer backbone by inhibiting the
+enzyme MurA. Resistance stems primarily from efflux pumps or alterations to MurA that
+prevent fosfomycin binding (Choice B).
+
+¢ Vancomycin inhibits transpeptidase from cross linking a growing peptidoglycan chain by
+binding to the D-alanine—D-alanine terminus of pentapeptide peptidoglycan subunits.
+Resistance to vancomycin stems primarily from replacement of the terminal D-alanine—
+D-alanine with D-alanine—D-lactate, which reduces vancomycin binding >1000-fold.
+
+¢ Penicillin and cephalosporins (eg, ceftriaxone) are beta-lactam antibiotics that bind to
+and directly inhibit transpeptidase. Resistance stems primarily from alterations to
+transpeptidase that reduce beta-lactam binding or the production of enzymes (eg,
+penicillinase) that break down the drug (Choices A and C).

@@ -1,0 +1,17 @@
+Dietary fructose is obtained mainly from fruits, vegetables, honey, table sugar (sucrose), and
+processed foods. Fructose is rapidly absorbed in the proximal small bowel by the hexose
+transporter GLUT 5. Initial metabolism of fructose involves three enzymes: fructokinase,
+aldolase B, and triokinase. Fructose is phosphorylated on the first carbon by hepatic
+fructokinase, yielding fructose-1-phosphate. Metabolism of fructose-1-phosphate by aldolase
+B generates dihydroxyacetone phosphate (DHAP) and glyceraldehyde. Glyceraldehyde is
+then phosphorylated to glyceraldehyde-3-phosphate (G3P), an intermediate of glycolysis, by
+triose kinase. DHAP can also be converted to G3P by triose phosphate isomerase.
+
+Aldolase B deficiency causes the potentially life-threatening disorder known as hereditary
+fructose intolerance. Patients typically present when fructose-containing foods are introduced
+into the diet. The primary manifestations are vomiting and hypoglycemia about 20-30 minutes
+after fructose ingestion. Hypoglycemia results from intracellular accumulation of fructose-1-
+phosphate and depletion of inorganic phosphate, which inhibit glycogenolysis and
+gluconeogenesis. Failure to thrive, hepatomegaly, and jaundice can also occur. Undiagnosed
+individuals may eventually develop liver and renal failure. Elimination of dietary fructose is the
+mainstay of treatment and results in symptom improvement with a good long-term prognosis.

@@ -1,0 +1,4 @@
+CCRS5 = chemokine (C-C motif) receptor 5; NNRTI = non-nucleoside reverse transcriptase
+inhibitor; NRTI = nucleoside/nucleotide reverse transcriptase inhibitor; Pl = protease inhibitor; RT
+
+= reverse transcriptase.

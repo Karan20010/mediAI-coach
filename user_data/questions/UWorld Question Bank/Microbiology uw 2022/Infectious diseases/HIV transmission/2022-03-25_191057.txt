@@ -1,0 +1,10 @@
+Retroviral reverse transcriptase inhibitors prevent the synthesis of viral DNA from the RNA
+template. Nonnucleoside reverse transcriptase inhibitors (NNRTIs) do not require
+activation via intracellular phosphorylation. The more common NNRTIs include nevirapine
+and efavirenz. They are best used in conjunction with other antiretroviral agents for the
+treatment of HIV infection.
+
+Adverse effects are common with NNRTIs. Abrupt-onset flulike symptoms, abdominal pain,
+jaundice, or fever may indicate potentially life-threatening hepatic failure (most likely to occur
+within the first 6 weeks of NNRTI therapy). Life-threatening skin reactions (eg, Stevens-
+Johnson syndrome, toxic epidermal necrolysis) have also been observed.

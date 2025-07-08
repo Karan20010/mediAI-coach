@@ -1,0 +1,6 @@
+Educational objective:
+
+In the presence of oxygen, pyruvate produced during glycolysis is converted by pyruvate
+dehydrogenase to acetyl coenzyme A, which is subsequently metabolized by oxidative
+phosphorylation. However, if inadequate oxygen is present in the tissues, pyruvate is
+converted to lactate by lactate dehydrogenase, leading to lactic acidosis.

@@ -1,0 +1,20 @@
+Imiquimod is a topical immunomodulatory drug that is used to treat many common
+dermatologic disorders associated with abnormal cell proliferation, including anogenital warts
+(ie, human papillomavirus infection), superficial basal cell carcinoma, and actinic keratosis.
+The antiviral and antiproliferative effects of imiquimod are primarily mediated through
+activation of toll-like receptor 7, which upregulates the proinflammatory transcription factor
+nuclear factor-kappa B (NF-kB).
+
+NF-kB increases transcription of proinflammatory genes, activating antigen-presenting cells
+(eg, Langerhans cells in the skin) and initiating an immune response involving natural killer
+cells, cytotoxic T cells, and type 1 helper T cells. This results in increased cytokine
+production (eg, IL-1, IL-12, interferon-alfa/gamma, tumor necrosis factor-alpha) and
+enhanced immune-mediated killing of aberrant cells (eg, cancer cells, virus-infected cells).
+
+Other antiproliferative effects of imiquimod include:
+
+¢ Induction of apoptosis of aberrant cells through caspase activation via inhibition of BCL-
+2
+
+¢ Inhibition of angiogenesis by downregulating proangiogenic factors (eg, fibroblast
+growth factor) and upregulating angiogenesis inhibitors (eg, interferon-gamma, IL-12)

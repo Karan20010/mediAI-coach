@@ -1,0 +1,7 @@
+The probability that the sister will have an affected son is the probability that all 3 of the above
+events will take place (ie, the product of their individual probabilities): p1 x p2 x p3 = 1/2 x 1/2 x
+1/2 = 1/8.
+
+Educational objective:
+Given phenotypically normal parents, the probability that a female sibling of a male affected by
+an X-linked recessive disease will give birth to an affected child is 1/8.

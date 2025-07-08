@@ -1,0 +1,20 @@
+Hepatic metabolism of acetaminophen
+
+Acetaminophen
+
+N-acetylcysteine cyP450 | Cat
+= J ~8% 909 i
+
+o ,
+
+H NAPQI Nontoxic metabolites
+v excreted in urine
+
+ovenere 7
+
+Conjugated NAPQI Unconjugated NAPQI
+(excreted in urine) (hepatotoxicity)
+
+*2% of Acetaminophen is excreted unchanged in the urine
+CYP450 = Cytochrome p450.
+NAPQI = N-acetyl-p-benzoquinoneimine Ouworia

@@ -1,0 +1,44 @@
+ra
+
+= Item 19 of 25 . y rere | e 4 (©) al
+
+Question Id: 20781 Previous Next Full Screen Tutorial Lab Values
+
+¢ B-cell depletion or inhibition: Because B cells generate inflammatory cytokines,
+promote T-cell activation, and differentiate into plasma cells that generate autoantibodies,
+medications that inhibit B-cell activation (eg, belimumab) or deplete B-cell populations (eg,
+
+rituximab) are highly effective in many systemic inflammatory disorders.
+
+Rituximab is an IgG monoclonal antibody against CD20, a surface molecule present on
+developing and mature B cells. Binding of rituximab to CD20 results in Fc receptor-mediated
+B-cell cytotoxicity and antibody-dependent B-cell phagocytosis, which significantly reduces
+the B-cell population. Although existing plasma cells are unaffected (they do not express
+CD20), the reduction in total B-cell population significantly improves inflammatory symptoms.
+However, depletion of B cells also increases the risk for severe and recurrent bacterial
+infections, a major adverse effect of therapy.
+
+(Choice C) Natalizumab is a monoclonal antibody against integrin, an adhesion molecule that
+mediates leukocyte interaction with the endothelium and subsequent leukocyte
+
+attachment/migration into tissue. Natalizumab is used in relapsing-remitting multiple sclerosis.
+
+(Choice D) Cytoplasmic kinases (eg, Janus kinase) transmit inflammatory cytokine receptor
+binding to the nucleus. Rituximab does not operate via this mechanism, but new therapies
+
+that target these intracellular signaling pathways are under development.
+Block Time Elapse
+
+Tutor
+
+o
+
+Notes Calculator __ Reverse Color
+
+ck
+
+GA &
+
+Text Zoom —_ Settings
+
+Suspend

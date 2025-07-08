@@ -1,0 +1,38 @@
+— Item 7 of 32 mY wax <q = i @ a) bo 4 Gaia)
+
+: Le c
+Question Id: 18022 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom
+
+The above graph shows the plasma drug concentration-time curves of the 2 different oral
+formulations. The one represented by the blue curve shows a reduced and delayed peak
+level relative to the red curve, which is consistent with a sustained-release preparation.
+
+The absorption speed of an orally administered drug depends on the rate at which it dissolves
+in gastrointestinal fluids. Capsules and tablets can be designed with the active ingredient
+embedded in an insoluble matrix or encapsulated with coatings that dissolve at different rates
+to delay intestinal absorption. Slower drug absorption can have several advantages,
+including:
+
+e Reduced incidence of adverse effects due to dampening of peak levels
+
+¢ Longer duration of therapeutic effect due to prolonged absorption of the drug
+
+¢ Improved patient compliance due to less frequent administration
+
+These benefits make sustained-release preparations particularly useful for drugs with short
+half-lives (ie, allowing prolonged effect without need for multiple doses) or narrow therapeutic
+windows (ie, maintaining effective drug levels while minimizing absorption peaks).
+
+(Choice B) Enhanced CYP enzyme induction by the blue formulation would cause increased
+drug metabolism over time as additional enzymes are synthesized, leading to decreased
+
+serum drug levels.
+Block Time Elapse
+
+Tutor a
+
+63
+
+Settings
+
+End Block

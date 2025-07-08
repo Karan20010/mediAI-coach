@@ -1,0 +1,7 @@
+Educational objective:
+
+Tuberculin skin testing triggers a type IV delayed-hypersensitivity reaction in patients with
+previous infection due to the presence of primed, antigen-specific CD4 T lymphocytes. These
+lymphocytes recognize tuberculin proteins displayed on antigen-presenting cells (APCs) and
+become activated following a costimulatory interaction between CD28 on the T cell and
+CD80/86 on the APC.

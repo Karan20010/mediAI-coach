@@ -1,0 +1,38 @@
+Common antibiotic resistance mechanisms
+
+Penicillins
+
+Beta-lactamase, ESBL
+Mutated PBP
+Mutated porin protein
+
+Vancomycin
+
+Mutated peptidoglycan cell wall
+
+¢ Impaired influx/increased efflux
+
+Quinolones
+
+Mutated DNA gyrase
+
+¢ Impaired influx/increased efflux
+
+Aminoglycosides
+
+Aminoglycoside-modifying enzymes
+Mutated ribosomal subunit protein
+Mutated porin protein
+
+Tetracyclines
+
+¢ Impaired influx/increased efflux
+
+e Inactivated enzyme
+
+Rifamycins
+
+Mutated RNA polymerase
+
+ESBL = extended-spectrum beta-lactamase; PBP = penicillin-binding protein.
+

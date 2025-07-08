@@ -1,0 +1,11 @@
+(Choice D) T cells primarily reside in the lymph node paracortex. Paracortical hyperplasia is
+typically seen with infections primarily dependent on the cell-mediated response (eq, viral
+infection). Although the paracortical region might expand slightly in bacterial infections,
+lymphadenopathy is primarily driven by the formation of germinal centers.
+
+Educational objective:
+
+Germinal centers are the sites where activated B cells proliferate and undergo affinity
+maturation during generation of a humoral immune response. The formation of multiple
+germinal centers is typically marked by lymphadenopathy, pain, and inflammation in the
+affected lymph node due to cellular recruitment and the release of inflammatory cytokines.

@@ -1,0 +1,34 @@
+— Item 33 of 40 = y Mark <I e a i @ al
+
+: L
+Question Id: 20774 Praras Next FullScreen Tutorial__~—_Lab Values
+
+to myeloablative chemotherapy causes a period of temporary, profound
+immunosuppression until donor cells engraft and reconstitute the peripheral blood cells.
+During this period of immunosuppression, chronic or latent infections may worsen. Risk is
+particularly high for the reactivation of human herpesviruses (eg, Epstein-Barr virus,
+cytomegalovirus, varicella-zoster virus, herpes simplex virus), which establish life-long latent
+infections and require an intact cytotoxic T-cell response for control.
+
+(Choice D) There is little risk of transfusing a new bloodborne infection (eg, primary EBV, HIV,
+hepatitis virus, cytomegalovirus) in autologous HCT because the donor cells are obtained from
+the patient themself.
+
+Educational objective:
+
+Autologous hematopoietic stem cell transplantation reinfuses host cells from the patient's
+peripheral blood or banked cord blood to reconstitute the bone marrow. Because the reinfused
+cells are genetically identical to the host's, there is no risk of graft rejection or graft versus host
+disease. Although there is also no risk of transferring a new bloodborne pathogen, chronic or
+latent infections (eg, Epstein-Barr virus, cytomegalovirus, varicella-zoster virus) may worsen
+due to the transient immunosuppression induced by myeloablative chemotherapy.
+
+Block Time Elapse
+
+Tutor
+
+g - &A 8
+
+Notes Calculator Reverse Color __Text Zoom Settings
+
+End Block

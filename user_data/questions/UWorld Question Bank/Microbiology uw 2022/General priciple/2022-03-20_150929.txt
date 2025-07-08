@@ -1,0 +1,6 @@
+Educational objective:
+
+Shiga toxin—producing Escherichia coli 0157:H7 elaborates Shiga toxin, which inactivates 60S
+ribosomal subunits in colonic mucosal cells, leading to the inhibition of protein synthesis and
+apoptosis; clinical manifestations include bloody diarrhea. Hematogenous spread of Shiga
+toxin to renal endothelial cells can also lead to hemolytic uremic syndrome.

@@ -1,0 +1,50 @@
+Question Id: 1169
+
+— Item 11 of 23 . y Mark <| e a i @ al
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+disease in the population, the more likely it is that a patient with a positive test result actually
+has the disease.
+
+If the disease is relatively common (eg, gastric cancer in China), there is a higher probability
+that a patient who tests positive actually has the disease (ie, more likely to be a true positive).
+However, if the disease is relatively uncommon (eg, gastric cancer in the United States), a
+patient who tests positive will have a lower probability of actually having the disease (ie, more
+likely to be a false positive).
+
+(Choice A) Like PPV, the negative predictive value (NPV) depends on disease prevalence.
+However, NPV is inversely associated with the prevalence: NPV increases as the disease
+prevalence decreases. This is because the probability of a true negative result is higher in a
+population with low disease prevalence (eg, gastric cancer in the United States).
+
+(Choices C and D) Sensitivity and specificity are intrinsic test parameters that do not depend
+
+on the prevalence of disease in the tested population.
+
+(Choice E) Reliability is a measure of the consistency (reproducibility) of a diagnostic test
+result (ie, if the test is taken multiple times, will the results be the same?). No information is
+provided to suggest that the gastric cancer biomarker is unreliable.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

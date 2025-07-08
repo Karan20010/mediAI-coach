@@ -1,0 +1,5 @@
+Educational objective:
+
+DNA synthesis can occur only in the 5'>3' direction. Okazaki fragments are short stretches of
+newly synthesized DNA that are separated by RNA primers. They are formed by the
+discontinuous synthesis of DNA on the lagging strand during replication.

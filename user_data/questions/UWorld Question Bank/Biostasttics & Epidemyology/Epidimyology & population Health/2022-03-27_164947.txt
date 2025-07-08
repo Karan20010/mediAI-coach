@@ -1,0 +1,145 @@
+There appears to be an outbreak as almost a third of the attendees (28/100) developed
+diarrhea and vomiting; this is clearly a larger number than expected. The attack rate is the
+ratio of the number of individuals who become ill divided by the number of individuals who are
+at risk of contracting that illness; it is often used in outbreak investigations. The attack rate for
+potato salad corresponds to the proportion of attendees who became ill out of the total number
+of attendees who had potato salad (alone or in combination with other food items).
+
+Total number of attendees who had potato salad
+
+= Number of attendees who had potato salad only + number of attendees who had
+hamburgers and potato salad + number of attendees who had hotdogs and potato salad +
+number of attendees who had hamburgers, hotdogs, and potato salad
+
+=10+25+8+30
+
+=73
+
+Among those, the number who became ill was 25 (3 out of the 10 who had potato salad only +
+5 out of the 25 who had hamburgers and potato salad + 3 out of the 8 who had hotdogs and
+
+potato salad + 14 out of the 30 who had hamburgers, hot dogs, and potato salad = 25).
+Therefore, the attack rate for potato salad was: (25/73) x 100 = 34%.
+
+3lock Time Elapsed: 00:00:32
+lutor
+
+Item 1 of 29 < a) al
+a V7 Mark <4 e j al
+
+Question Id: 10443
+
+e
+Previous Next Full Screen Tutorial Lab Values Note
+
+(Choice B) There were 27 attendees who did not eat potato salad: the 15 who had
+hamburgers only and the 12 who had hotdogs only. Of those, a total of 3 (2 out of the 15 who
+ate hamburgers only + 1 out of the 12 who ate hotdogs only = 3) became ill. Therefore, the
+attack rate among those who did not eat potato salad was: (3/27) x 100 = 11%. Despite the
+fact that these individuals only ate hotdogs and hamburgers, a percentage of them still
+became ill, probably as a result of some contamination of these food items with the potato
+salad.
+
+For the sake of completion, the attack rates for the other individual food items or combinations
+of food items are shown in the following table (they do not need to be calculated to arrive at
+the correct answer):
+
+Number of
+Number of
+attendees
+attendees
+Food item or who
+os who ate Attack
+combination | developed
+; food item or | rate
+of items diarrhea
+combination
+. and
+of items -
+vomiting
+sock Time Elapsed: 00:00:32 B
+Item 1 of 29 <q Se rq Al
+Question Id: 10443, mV mark previous Next FulScreen Totoral Lab a Not
+Did (2/15) x
+100 =
+not Hamburgers
+have a1) 2 13%
+only
+potato (Choice
+salad Cc)
+=27 (1/12) x
+(attack | Hotdogs 1 : 100 = 8%
+rate only (Choice
+11%) A)
+(3/10) x
+100 =
+Potato salad
+10 3 30%
+only .
+(Choice
+F)
+(5/25) x
+inlet Hamburgers 100 =
+
+Question Id: 10443
+
+Previous Tutorial Lab Values Note
+(5/25) x
+iad Hamburgers 100 =
+potato | and potato 25 5 20%
+salad salad (Choice
+=73 D)
+(attack
+(3/8) x
+rate Hotdogs and
+34%) | potato salad ° . us
+38%
+(14/30) x
+Hamburgers, 100 =
+hotdogs, and 30 14 AT%
+potato salad (Choice
+H)
+28/100 x
+100 =
+Overall 100 28 28%
+ho
+
+3lock Time Elapsed: 00:00:32
+
+Item 1 of 29
+Question Id: 10443
+
+a> 2 ® @
+Full Screen Tutorial Lab Values Notes
+100 =
+28%
+(Choice
+E)
+
+a V7 Mark
+
+Previous
+
+Overall
+
+The food item responsible for an outbreak often (though not always) has the largest attack rate
+and the largest difference in attack rates between those who consumed the item and those
+who did not. In this example, as calculated above, the difference in attack rate between those
+who had potato salad and those who did not was: 34% — 11% = 23%. As seen in the exhibit,
+the differences in attack rates were smaller for hamburgers (7%) and hotdogs (16%). It is
+possible that potato salad is the source of the outbreak.
+
+Educational objective:
+
+The attack rate is the ratio of the number of people who contract an illness divided by the
+number of people who are at risk of contracting that illness.
+
+Biostatistics Biostatistics & Epidemiology Epidemics and pandemics
+
+Subject System Topic
+
+Copyright © UWorld. All rights reserved.
+
+3lock Time Elapsed: 332 B
+
+jutor

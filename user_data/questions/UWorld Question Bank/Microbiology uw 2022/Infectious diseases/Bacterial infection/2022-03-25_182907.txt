@@ -1,0 +1,7 @@
+This patient, who travels regularly to Vietnam and now has a cough, night sweats, and weight
+loss with a right upper lobe infiltrate on chest x-ray and acid-fast bacilli on sputum examination,
+likely has pulmonary tuberculosis (TB). Pulmonary TB is treated with a 4-drug regimen,
+sometimes referred to as RIPE: rifampin, isoniazid (INH), pyrazinamide, and ethambutol. The
+most notable side effect of ethambutol is optic neuropathy, which clinically manifests as
+decreased visual acuity, central scotoma, or color blindness. It may be reversible with
+discontinuation of the drug.

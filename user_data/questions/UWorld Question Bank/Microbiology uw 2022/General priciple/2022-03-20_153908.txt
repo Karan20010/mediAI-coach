@@ -1,0 +1,10 @@
+(Choices A and B) The envelope proteins of HCV are not lost after recurrent viral replication
+nor are they sequestered within hepatocytes. These proteins are necessary for viral infectivity
+as they mediate membrane adhesion and fusion with host hepatocytes.
+
+(Choice C) Like most foreign (nonself) proteins, the envelope proteins of HCV are highly
+immunogenic.
+
+(Choice E) Host antibodies against HCV have neutralizing properties and are effective in
+eliminating more established hepatitis C quasispecies. It is the constantly emerging mutant
+strains that pose the greatest challenge to the host immune system.

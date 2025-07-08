@@ -1,0 +1,6 @@
+Educational objective:
+
+Posttranslational modification of proteins is important for targeting proteins to the correct
+location. This step is defective in |-cell disease, which is characterized by a lack of mannose
+residue phosphorylation, resulting in inappropriate trafficking of acid hydrolases to the
+extracellular space instead of to lysosomes.

@@ -1,0 +1,6 @@
+The mechanism of action of edema factor is very similar to that of the adenylate cyclase
+toxin produced by Bordetella pertussis. Adenylate cyclase toxin is also a calmodulin-
+dependent adenylate cyclase that increases cAMP concentration, leading to edema and
+phagocyte dysfunction. This results in localized immunosuppression that allows B pertussis to
+colonize the respiratory tract. The other major B pertussis exotoxin is pertussis toxin, which
+increases cAMP concentration via ADP-ribosylation of a membrane G-protein.

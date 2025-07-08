@@ -1,0 +1,11 @@
+The resting potential refers to the difference in charge across the cell membrane at rest (when
+there is no signaling activity). The membrane prevents the free diffusion of ions, and generally
+there is an excess of positive ions outside the cell and an excess of negative ions in the
+cytoplasm. This separation of positive and negative charges across the cell membrane gives
+rise to an electrical potential difference that ranges from -60 to -80 mV; the typical resting
+membrane potential of a cell is -70 mV.
+
+The cytoplasm of a typical cell is characterized by a low concentration of Na and high
+concentration of K. The extracellular fluid is inversely rich in Na and low in K. This difference
+in Na and K concentration is maintained by the Na,K-ATPase, which pumps three Na ions out
+of the cell for every 2 K ions allowed into the cell.

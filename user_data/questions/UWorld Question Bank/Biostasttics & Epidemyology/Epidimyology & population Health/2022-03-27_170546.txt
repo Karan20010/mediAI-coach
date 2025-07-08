@@ -1,0 +1,29 @@
+2 = our " un . V Mark one a 7 sO} all. Al cot so Gia) &
+3
+: A test is used to diagnose dementia in a population of 1,000 women age 275. The test has a
+6 sensitivity of 80% and a specificity of 90%. The test is then used as a diagnostic tool in 2 other
+z populations of women of the same age: population 1 has a prevalence of dementia of 15%,
+9 and population 2 has a prevalence of dementia of 30%. Which of the following best describes
+s how the negative predictive values (NPV) and the positive predictive values (PPV) from
+12 populations 1 and 2 relate to each other?
+13
+: A. NPV and PPV do not change as prevalence changes (7%)
+26 B. NPV in population 1 < NPV population 2; PPV in population 1 < PPV population 2
+‘ (7%)
+= C. NPV in population 1 < NPV population 2; PPV in population 1 > PPV population 2
+21 (7%)
+
+Y% — D.NPVin population 1 > NPV population 2; PPV in population 1 < PPV population 2
+
++ 24 (76%)
+
+25
+26 E. NPV in population 1 > NPV population 2; PPV in population 1 > PPV population 2
+is (1%)
+29 Activate Windows
+
+Block Time Elapse
+
+Tutor
+
+End Block

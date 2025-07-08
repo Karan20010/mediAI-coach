@@ -1,0 +1,14 @@
+Urea cycle: ornithine transcarbamylase deficiency
+
+Mitochondria Aspartate
+Citrulline=—> Citrulline Argininosuccinate
+synthase
+N-acetylglutamate *Ammonia Argininosuccinate
+CO2+ NH3+ 2ATP
+Carbamoyl phosphate Omithine Argininosuccinate
+synthetase | transcarbamylase lyase
+Carat Fumarate
+phosphate Arginine
+| Omithine «—— Ornithine ‘Arginase
+* Orotic acid
+

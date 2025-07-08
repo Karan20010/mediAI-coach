@@ -1,0 +1,46 @@
+Question Id: 1176
+
+= tem 17 of 29 5 v Mark <q Se r j @ él fcc]
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator
+
+The new drug, KM28, will be approved if its associated recurrence rate is decreased by at
+least 40% compared to the recurrence rate on standard therapy alone, which is given as 8%.
+As 40% of 8% is 0.40 x 8% = 3.2%, the maximum acceptable recurrence rate is 8% - 3.2% =
+4.8%. Another quick solution would be to state that the maximum acceptable recurrence rate
+is 60% of 8%, which is 0.60 x 8% = 4.8%.
+
+An alternate solution involves using relative and absolute risk calculations. The 40% (ie, 0.4)
+mentioned in the prompt refers to relative risk reduction (RRR), defined as the percent
+reduction in absolute risk (AR) between the treatment group (eg, KM28 + standard therapy)
+and the control group (eg, standard therapy). The formula for RRR is:
+
+RRR & (ARs: — ARrestment) / AR con
+
+In this example, AReono, Which represents the risk of recurrence with standard therapy, is given
+
+as 8% or 0.08. The formula can be rearranged to calculate AR sesiment:
+
+AReeainen = AReontir — (RRR * AR consi)
+
+Plugging in the values for RRR and ARomnio gives:
+AReesiment = 0.08 — (0.4 x 0.08) = 0.08 — 0.032 = 0.048 (ie, 4.8%)
+
+Block Time Elapse
+
+Tutor
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

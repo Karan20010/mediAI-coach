@@ -1,0 +1,30 @@
+— Item 23 of 31 mY wax <q = i @ a) bo 4 33
+
+Question Id: 1461 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+(Choice A) Interference occurs when one virus inhibits replication and/or release of a second
+virus that is infecting the same cell. Simple interference would not result in recombinant
+progeny virions.
+
+(Choice B) Phenotypic mixing can occur when a host cell is coinfected with 2 viral strains and
+progeny virions contain parental genome from one strain and nucleocapsid (or envelope)
+proteins from the other strain. This may result in progeny acquiring additional traits (eg,
+enhanced ability to infect new host cells due to different nucleocapsid proteins). However, as
+the genome is unchanged, subsequent progeny would not retain these traits.
+
+(Choice C) Reassortment refers to changes in genomic composition that occur when host
+cells are coinfected with 2 segmented viruses that exchange whole genome segments. This
+process can cause sudden alterations in surface antigens of the viral progeny, as observed
+with the highly mutagenic influenza virus. However, because the herpesvirus genome is
+
+nonsegmented, it does not engage in reassortment.
+
+(Choice E) Transformation is the uptake of naked DNA by a prokaryotic or eukaryotic cell. In
+virology, transformation also describes incorporation of viral DNA into a host cell chromosome
+(lysogeny). Transformation alters the genetic composition of the host cell but typically causes
+
+no genomic change in progeny virions.
+
+Block Time Elapse
+
+Tutor End Block

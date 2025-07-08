@@ -1,0 +1,54 @@
+on Ld @ al [=]
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes
+
+— litem 21 of 38
+= a V7 Mark
+
+Question Id: 753
+
+Symptoms/signs of ankylosing spondylitis
+
+¢ Low back pain (onset age <40, insidious onset, improves with exercise but not with
+rest, pain at night)
+
+¢ Hip & buttock pain
+
+¢ Limited chest expansion & spinal mobility
+
+¢ Enthesitis (inflammation at the site of insertion of a tendon to the bone)
+
+¢ Systemic symptoms (eg, fever, chills, fatigue, weight loss)
+
+¢ Acute anterior uveitis (unilateral pain, photophobia, blurry vision)
+
+The symptoms of low back pain and morning stiffness in a young man suggest ankylosing
+spondylitis (AS), a chronic inflammatory condition associated with the HLA-B27 serotype. AS
+is characterized by stiffness and fusion (ankylosis) of the axial joints. The sacroiliac and
+apophyseal joints of the spine are the most commonly affected, leading to restricted spinal
+mobility. Many patients also develop peripheral arthritis and enthesitis, which is defined as
+pain, tenderness, and swelling at the sites of tendon insertion into bone (eg, Achilles tendon
+insertion).
+
+In addition, AS can cause complications in extraskeletal systems:
+
+Block Time Elapse
+
+Tutor
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

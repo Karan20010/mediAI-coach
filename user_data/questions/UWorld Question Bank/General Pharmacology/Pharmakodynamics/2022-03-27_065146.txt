@@ -1,0 +1,45 @@
+= ltem2of12 5 v Mark <q Se rc j @ él
+
+‘ L
+‘Question Id: 18722 Praras Next FullScreen Tutorial__—_Lab Values
+
+major cause of chemotherapy resistance. Efflux pump inhibitors can decrease drug excretion
+from tumor cells and potentiate the effects of chemotherapeutic agents.
+
+(Choice B) Many cancers create an immunosuppressive microenvironment that prevents the
+immune system from effectively killing tumor cells. An enhanced cytotoxic T-cell response
+against tumor cells occurs with the use of immune checkpoint inhibitors (eg, PD-1 or CTLA-4
+receptor inhibitors) that help prevent T-cell exhaustion.
+
+(Choice C) Desmoplasia (ie, reactive growth of fibrous connective tissue) occurs in response
+to certain tumors (eg, breast, pancreatic carcinoma). The dense fibrotic tissue acts as a
+molecular sieve, decreasing the penetration of chemotherapeutic agents. Chemoresistance is
+more likely to occur with larger drug complexes; in this case, the new liposomal formulation will
+be much larger than individual cisplatin molecules, resulting in decreased desmoplastic
+penetration.
+
+(Choice D) Increased expression of vascular endothelial growth factor (VEGF) within tumors
+stimulates blood vessel growth, facilitating tumor expansion and increasing the potential for
+metastasis. Anti-VEGF antibodies (eg, bevacizumab) bind VEGF and inhibit tumor-induced
+angiogenesis. Although EGFR stimulation also plays a role in angiogenesis, in this case, the
+anti-EFGR antibodies are used for targeting purposes and may not necessary inhibit the
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

@@ -1,0 +1,18 @@
+Systemic chemotherapy targets rapidly dividing cancer cells but also damages healthy cells
+
+with high turnover rates, particularly epithelial cells in the gastrointestinal tract and stem cells
+
+in the bone marrow. Injury to these cells dramatically increases the risk of infection due to:
+
+Mucositis: Damage to rapidly dividing epithelial cells of the digestive tract creates
+breaches in the mucosal barrier that allow endogenous bacterial flora (commensal
+organisms) to penetrate and enter the bloodstream. Gram-negative enteric bacilli, such as
+Pseudomonas aeruginosa, and Gram-positive skin organisms, such as Staphylococcus
+epidermidis and S aureus, are most likely to invade.
+
+Neutropenia: Damage to rapidly dividing granulopoietic cells reduces the circulating
+neutrophil count. Because neutrophils serve as front-line defense against bacterial and
+fungal pathogens, commensal pathogens that penetrate the mucosal/cutaneous barrier
+cannot be contained and subsequently spread to the bloodstream and deeper tissues.
+Neutropenic patients have weak inflammatory responses, and fever is often the only sign
+of infection (neutropenic fever).

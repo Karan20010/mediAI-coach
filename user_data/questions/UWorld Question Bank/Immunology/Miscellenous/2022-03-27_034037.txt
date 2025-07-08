@@ -1,0 +1,38 @@
+= Item 10 of 20 5 v Mark <q Se rc j @ él e
+
+‘Question ld: 12299 Previous Next FullScreen Tatorial__Lab Values Notes Calculator Reverse Color
+A radioimmunoassay is a laboratory technique that uses specific antibodies and a known
+quantity of radiolabeled antigen to determine the amount of antigen present in an unknown
+sample. In this technique, specific antibodies against a known antigen are attached to an
+
+assay plate. Next, a fixed quantity of radiolabeled antigen and varying quantities of
+
+unlabeled antigen are added to the plate. The system is subsequently washed to remove
+
+unbound antigens, and radioactivity is measured.
+
+The researcher in the above experiment observes no change in radioactivity with increasing Y
+antigen concentrations. This indicates that antigen Y cannot bind the available antibodies and
+therefore shares no epitopes with antigen X.
+
+(Choice B) If the radiolabeled and unlabeled antigens are identical (eg, have the same
+epitopes), they should compete equally for antibody binding sites. The amount of radiolabeled
+antigen displaced from the antibodies will be proportionate to the amount of unlabeled antigen
+added. Consequently, increasing concentrations of antigen Y would result in a proportionate
+decrease in measured radioactivity.
+
+(Choices C and D) If antigen Y shared most or some of the epitopes of antigen X, then
+antigen Y would bind at a rate proportionate to both the amount of antibodies able to recognize
+
+the common epitopes and the amount of antigen Y added to the system.
+Block Time Elapse
+
+Text Zoom
+
+63
+
+Settings
+
+Tutor oe
+
+Suspend

@@ -1,0 +1,30 @@
+= Question Id: 1299
+
+— Item 12 of 29 mY war <q = i @ a F 33
+
+e c
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+The normal distribution is a continuous distribution that follows a bell-shaped curve with a
+single peak at the mean value. One of the most important properties of the normal distribution
+is its symmetry about its mean, which allows for determination of the percentage of all
+observations that lie within 1, 2, or 3 standard deviations (SDs). The "68/95/99 rule" states
+that 68% of all observations lie within 1 SD of the mean, 95% within 2 SDs of the mean, and
+99.7% within 3 SDs of the mean. These are helpful approximations; however, when
+considering the normal distribution, exactly 95% of the observations lie within 1.96 SDs of
+the mean and 99% of the observations lie within 2.58 SDs (1.96 and 2.58 represent z-scores
+for 95% and 99% of the distribution, respectively).
+
+Most research is done using samples rather than entire populations. This introduces some
+variability when calculating population parameters such as mean value (eg, when different
+samples are drawn from the same population, the means from all possible samples will often
+be slightly different). The variability between sample means can be calculated in a way
+analogous to calculating the SD of a group of observations in a single sample. The "standard
+deviation" of a series of sample means is known as the standard error (SE) of the mean, and
+it estimates how far the sample mean is likely to be from the unknown population mean. The
+SE is estimated considering both the SD and the size of the sample (n) in the following
+
+manner: SD/Vn.
+Block Time Elapse
+
+Tutor ck Suspend

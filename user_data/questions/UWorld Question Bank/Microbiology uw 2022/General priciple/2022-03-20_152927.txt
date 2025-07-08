@@ -1,0 +1,17 @@
+(Choice A) The K1 capsular antigen promotes bloodstream survival of E coli because its sialic
+acid composition is similar to human cells (ie, molecular mimicry), which helps prevent
+phagocytosis and facilitates invasive infections. It is the major virulence factor for E coli strains
+causing neonatal meningitis (not UTIs).
+
+(Choice B) Enterotoxigenic E coli produces heat-stable (ST) and heat-labile (LT) enterotoxins
+in the gastrointestinal tract. ST activates guanylate cyclase, causing an increase in cyclic
+GMP. LT activates adenylate cyclase, increasing cyclic AMP levels. These enterotoxins lead
+to watery diarrhea, not UTI symptoms.
+
+(Choices C and D) Lipid Aand O antigen are components of lipopolysaccharides, which
+make up the majority of the outer membrane of gram-negative bacteria. Lipid Ais a virulence
+factor that activates macrophages, leading to widespread release of inflammatory cytokines
+(eg, IL-1, IL-6, tumor necrosis factor-alpha), which in turn causes endothelial injury, increased
+vascular permeability, and septic shock. The O antigen is on the outer surface and is a
+variable polysaccharide used to classify gram-negative bacteria. Neither component is a
+major virulence factor for uropathogenic E coli.

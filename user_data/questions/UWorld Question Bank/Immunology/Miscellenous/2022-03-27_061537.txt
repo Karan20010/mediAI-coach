@@ -1,0 +1,37 @@
+Question Id: 1218
+
+— Item 12 of 13 = y Mark <I e a i @ al
+
+lymphocytes. M tuberculosis primarily replicates within the phagosome (not the cytosol),
+leading to display of mycobacterial antigens on MHC class II molecules and the subsequent
+activation of CD4, rather than CD8, cells.
+
+(Choice E) Natural killer cells are cytotoxic lymphocytes that can recognize damaged or
+infected cells without MHC activation. They are important for clearing viral infections and for
+tumor immunosurveillance, but are not the primary effector cell in tuberculosis infection.
+
+Educational objective:
+
+Mycobacteria tuberculosis primarily replicates within the phagosome, leading to display of
+mycobacterial antigens on major histocompatibility complex class Il molecules. This results in
+the activation of CD4 cells and subsequent control of the infection with macrophages.
+
+References
+¢ The tuberculous granuloma: an unsuccessful host defence mechanism providing a safety
+shelter for the bacteria?
+
+¢ Immunology of tuberculosis.
+
+e Th1 and Th17 cells in tuberculosis: protection, pathology, and biomarkers.
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+Activate Windows
+
+GA &
+
+Text Zoom —_ Settings
+
+End Block
+

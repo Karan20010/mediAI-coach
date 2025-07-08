@@ -1,0 +1,5 @@
+Educational objective:
+Protein A is a virulence factor found in the peptidoglycan cell wall of Staphylococcus aureus
+that binds to the Fc portion of IgG, leading to impaired complement activation, opsonization,
+
+and phagocytosis.

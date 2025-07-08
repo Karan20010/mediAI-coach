@@ -1,0 +1,9 @@
+This patient with HIV likely has cytomegalovirus (CMV) colitis (intranuclear and
+intracytoplasmic inclusions), which, in some patients (eg, with ganciclovir resistance or
+refractory thrombocytopenia), is treated with foscarnet. Foscarnet is a pyrophosphate analog
+that does not require intracellular activation. It directly inhibits both DNA polymerase in
+herpesvirus and reverse transcriptase in HIV. Foscarnet must be administered intravenously.
+In addition to treating ganciclovir-resistant CMV infections, foscarnet is useful in patients who
+have acyclovir-resistant herpesvirus infections. Ganciclovir, a guanine nucleoside analogue
+structurally similar to acyclovir, is often used for CMV infections. However, it requires
+intracellular conversion by a virally encoded kinase and then by cellular kinases (Choice C).

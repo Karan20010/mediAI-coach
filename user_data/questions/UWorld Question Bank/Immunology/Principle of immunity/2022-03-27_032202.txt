@@ -1,0 +1,7 @@
+Educational objective:
+
+Rituximab is a monoclonal antibody directed against CD20, a cell surface receptor on
+developing and mature B cells. Binding of rituximab to CD20 results in B-cell cytotoxicity and
+phagocytosis, which reduces the B-cell population. This reduces inflammatory symptoms in a
+
+wide range of rheumatologic diseases.

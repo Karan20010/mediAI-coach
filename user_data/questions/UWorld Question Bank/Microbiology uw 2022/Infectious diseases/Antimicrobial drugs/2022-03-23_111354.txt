@@ -1,0 +1,15 @@
+This patient has herpes simplex virus (HSV) encephalitis, which can cause acute/subacute
+changes in mental status, seizures, headache, and, in some cases, focal neurologic deficits.
+Cerebrospinal fluid (CSF) analysis usually reveals a hemorrhagic lymphocytic pleocytosis
+with increased protein and normal glucose. On neuroimaging, the classic finding includes the
+presence of an abnormal MRI signal in the bilateral temporal lobes. The treatment for HSV
+encephalitis is intravenous acyclovir, a nucleoside analog that, once activated, competes with
+deoxyguanosine triphosphate for viral DNA polymerase; when acyclovir triphosphate
+becomes incorporated into the replicating viral DNA chain, viral DNA synthesis is terminated.
+
+Viral proteases are responsible for cleavage of protein precursors necessary for the production
+of infectious viral particles. Protease inhibitors are important in the treatment of HIV and
+hepatitis C (Choice F). Viral RNase H (removes the RNA primer, allowing for completion of
+newly synthesized DNA) and viral reverse transcriptase (generates complementary DNA from
+an RNA template) are important pharmaceutical targets for the treatment of retroviruses such
+as HIV (Choices G and H).

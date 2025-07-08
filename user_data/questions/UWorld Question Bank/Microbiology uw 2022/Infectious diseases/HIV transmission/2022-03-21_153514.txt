@@ -1,0 +1,15 @@
+This patient likely has a chancre due to primary syphilis, a sexually transmitted infection
+caused by the spirochete Treponema pallidum. Spirochetes are universally sensitive to
+penicillin because they are all gram-negative organisms with a peptidoglycan cell wall.
+
+Penicillins work by covalently binding to and inhibiting transpeptidase. This enzyme
+catalyzes the final cross-linking step in peptidoglycan cell wall formation: the joining of the
+amino acid in the third position of a peptidoglycan molecule to the terminal D-alanine-D-
+alanine of another peptidoglycan molecule. The structural similarity of penicillins to D-alanine-
+D-alanine likely facilitates their binding to transpeptidase. When transpeptidase is inhibited,
+cell wall synthesis ceases and cell wall degradation by bacterial autolysins proceeds
+unchecked. The weakened cell wall integrity causes osmotic lysis of the bacterium.
+
+Vancomycin, a glycopeptide antibiotic, directly binds to the D-alanine-D-alanine residues,
+preventing the incorporation of new subunits into the cell wall. Vancomycin acts at an earlier
+stage of cell wall formation than do the penicillins.

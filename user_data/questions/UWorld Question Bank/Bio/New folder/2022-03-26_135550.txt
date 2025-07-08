@@ -1,0 +1,26 @@
+— Item 3 of 40 mY wax <q Se i @ al Lo) id @A &s
+
+Question Id: 2067 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+sufficient quantity of purine nucleotides.
+
+(Choices A, B, and F) These enzymes are involved in pyrimidine synthesis. Their activity
+would not be significantly altered in Lesch-Nyhan syndrome, which impairs purine salvage.
+
+(Choice C) The activity of HGPRT is decreased (not increased) in Lesch-Nyhan syndrome.
+
+(Choice E) Purine and pyrimidine nucleotides are initially synthesized as bases attached toa
+ribose sugar. The enzyme ribonucleotide reductase converts ribose sugars to their
+deoxyribose forms for use in DNA synthesis. This enzyme is negatively regulated by
+accumulation of deoxyribose nucleotides; its activity is determined primarily by the cellular
+proliferation rate (increased cell division requires more deoxyribose nucleotides).
+
+Educational objective:
+
+Lesch-Nyhan syndrome is an X-linked recessive disorder caused by a defect in hypoxanthine-
+guanine phosphoribosyltransferase (HGPRT). This results in failure of the purine salvage
+pathway, leading to increased degradation of hypoxanthine and guanine to uric acid. De novo
+purine synthesis must increase to replace the lost bases, necessitating an increase in
+phosphoribosyl pyrophosphate (PRPP) amidotransferase activity.
+
+Tutor End Block

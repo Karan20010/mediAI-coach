@@ -1,0 +1,12 @@
+This patient developed fever, headache, myalgia, and a maculopapular rash while camping in
+the Appalachian Mountains, raising strong suspicion for Rocky Mountain Spotted Fever
+(RMSF). The causative pathogen is Rickettsia rickettsii, a weakly gram-negative, obligate
+intracellular bacterium. Transmission occurs following a tick bite from specific tick vectors
+(eg, American dog tick) present in the eastern and south-central United States and
+mountainous regions west of the Mississippi River.
+
+R rickettsii moves from the tick salivary glands to the human host after 6-12 hours of
+attachment. The pathogen enters vascular endothelial cells via endocytosis and subsequently
+lyses the endosome using specific virulence factors. It then replicates in the cytosol and
+nucleus of the host cell and spreads rapidly to adjacent cells via filopodia, leading to a
+lymphohistiocytic vasculitis.

@@ -1,0 +1,56 @@
+to
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+
+Question Id: 1000
+
+= ltem8 of 18 5 v Mark <q Se rc j @ él
+
+Previous Next utter Tutorial Lab Values
+(Choices A, D, and E) Cephalosporins (eg, ceftazidime), carbapenems (eg, imipenem), and
+penicillins (eg, piperacillin) are beta-lactam drugs that exert their effect by interfering with the
+cell wall. Resistance to cephalosporins and penicillins occurs largely because of the bacterial
+secretion of beta-lactamase, an enzyme that hydrolyzes the beta-lactam ring and inactivates
+the antibiotic. Carbapenems are not very susceptible to most beta-lactamases due to
+additional chemical components surrounding their beta-lactam ring; however, resistance to
+carbapenems can occur due to carbapenemase, which is primarily seen in Enterobacter
+species.
+
+(Choice B) Fluoroquinolones (eg, ciprofloxacin) block enzymes (DNA gyrase, topoisomerase)
+responsible for bacterial DNA synthesis. Resistance usually occurs due to genetic mutations
+that prevent drug binding to these enzymes or to the increased expression of antibiotic efflux
+pumps.
+
+Educational objective:
+
+Aminoglycoside (eg, gentamicin) resistance is most commonly due to antibiotic-modifying
+enzymes. These enzymes add chemical groups to the antibiotic, which diminishes its ability to
+bind to the 16S ribosomal RNA within the 30s ribosomal subunit.
+
+References
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+Waiting for www.uworl
+
+End Block

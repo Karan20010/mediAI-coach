@@ -1,0 +1,73 @@
+— Item 19 of 23
+Question Id: 1232
+
+a V7 Mark
+
+<4 e
+Previous Next
+Test A
+. 200 | 50
+positive
+Test A
+. 120 | 80
+negative
+
+ra a
+
+(4)
+Full Screen Tutorial Lab Values
+
+The patient has a positive result on test A. Assuming his pre-test probability is equivalent to
+the prevalence of MI in the study, what is the probability that the patient has an MI?
+
+A. 40% (2%)
+
+B. 50% (1%)
+C. 60% (12%)
+SY D. 80% (82%)
+E. 90% (1%)
+Omitted
+Correct answer lil
+
+Block Time Elapsed: 00:01:54
+
+Tutor
+
+82%
+
+Answered correct!
+
+07 secs
+Time Spe
+
+a+ 2022
+[333] | Version
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+Activate Windows
+
+%
+
+Feedback
+
+Suspend
+
+63
+
+Settings
+
+()
+
+End Block
+

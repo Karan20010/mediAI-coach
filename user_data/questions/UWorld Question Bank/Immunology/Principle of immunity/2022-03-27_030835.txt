@@ -1,0 +1,33 @@
+= oe . 4 Mark ume < wibssin 2 all. al cnt Soo
+Dendritic cells and macrophages are phagocytic antigen-presenting cells that have an
+important role in both the innate and adaptive immune responses. As part of their innate
+immune function, they express pattern recognition receptors (PRRs) on their surfaces that
+recognize 2 major categories of ligands:
+
+¢ Damage-associated molecular patterns (DAMPs) are intracellular components (proteins,
+phospholipids, DNA) released by host cells when they are damaged by inflammation or
+infection.
+
+e Pathogen-associated molecular patterns (PAMPs) are microbial components conserved
+across numerous species that are generally required for microbial survival.
+
+One of the most common PAMPs is lipopolysaccharide, a component of the outer membrane
+of all gram-negative bacteria (eg, Escherichia coli). Lipopolysaccharide binds to a type of
+PRR called a toll-like receptor, which contains an extracellular ligand-binding domain, a
+transmembrane domain, and a cytoplasmic domain that conducts transcription signals to the
+
+nucleus via NF-kB.
+
+NF-kB signaling promotes transcription of proinflammatory cytokines (eg, TNF-alpha, IL-1,
+IL-6, IL-12), leading to local inflammation, immune cell recruitment, and systemic effects (eg,
+
+fever, malaise, lethargy, poor feeding). It also stimulates antigen-presenting cells to increase
+Block Time Elapse
+
+Tutor oe
+
+GA &
+
+Text Zoom —_ Settings
+
+Suspend

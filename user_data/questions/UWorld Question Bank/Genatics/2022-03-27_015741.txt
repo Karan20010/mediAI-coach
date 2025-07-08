@@ -1,0 +1,20 @@
+1 Item 15 of 40 <q Se ra
+2 Question Id: 7791 LS 4 Mark Pars Next ieee Tutorial Lab Values Notes Text Zoom Settings
+3
+: A pharmaceutical researcher is evaluating a nuclear enzyme inhibitor for the treatment of an
+6 inherited disorder. During an experiment, he extracts and purifies nuclear enzymes from skin
+z cells of an affected patient. One of these enzymes is found to catalyze the methylation of
+9 cytosine residues in DNA using S-adenosyl-methionine (SAM) as the methyl donor. This
+s enzyme most likely plays a crucial role in which of the following genetic processes?
+12
+B © A. Aneuploidy
+© B. Epistasis
+7 ©, C. Imprinting
+
+©) D. Meiotic nondisjunction
+
+©) E. Pleiotropy
+
+29 Activate Windows
+
+nd End Block

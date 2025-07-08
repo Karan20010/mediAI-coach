@@ -1,0 +1,5 @@
+Educational objective:
+
+The attributable risk percent (ARP) in the exposed represents the excess risk in the exposed
+population that can be attributed to the risk factor. It can be easily derived from the relative
+risk (RR) using the formula: ARPerpoes = 100 x [(RR — 1)/RR].

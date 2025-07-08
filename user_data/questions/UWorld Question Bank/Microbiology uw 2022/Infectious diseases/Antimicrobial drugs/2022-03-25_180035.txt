@@ -1,0 +1,3 @@
+Antibiotics that inhibit cell wall synthesis
+
+NAG = N-acetyiglucosamine; NAM = N-acetyimuramic acd; PBP = penicilin-binding protein; UDP = uridine ciphosphate

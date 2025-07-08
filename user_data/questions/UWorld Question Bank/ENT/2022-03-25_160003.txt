@@ -1,0 +1,9 @@
+For an RNA molecule purified from a virus (ie, without viral capsid or envelope) to be
+infectious (ie, able to induce viral protein synthesis and genome replication in the host cell) on
+its own, it must act as MRNA capable of using the host's intracellular machinery for
+translation. In other words, the purified RNA molecule must be single-stranded (SS) and
+positive (+) sense, or SS(+). The question describes a naked (ie, nonenveloped) virus with
+SS(+) RNA. Of the viruses listed, only rhinovirus (a picornavirus) has these features.
+Generally, only RNA molecules purified from SS(+) viruses are infectious; purified SS negative
+(—) sense RNA molecules and double-stranded (ds) RNA molecules are not as they require
+additional enzymes.

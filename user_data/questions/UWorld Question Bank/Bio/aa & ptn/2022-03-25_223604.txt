@@ -1,0 +1,22 @@
+Mature collagen is synthesized by fibroblasts, osteoblasts, and chondroblasts through the
+following steps:
+
+1. As translation begins in the cytoplasm, an amino acid signal sequence at the N-terminus of
+the a-chain facilitates ribosomal binding to the rough endoplasmic reticulum (RER) and
+passage of the growing polypeptide chain (pre-pro-a-chain) into the RER.
+
+Ny
+
+. Inside the RER, the hydrophobic signal sequence is cleaved to yield the pro-a-chain.
+Proline and lysine at the Y positions of the pro-a-chain are hydroxylated to hydroxyproline
+and hydroxylysine, respectively (Choice D). Glycosylation of select hydroxylysine
+residues also occurs within the RER (Choice A).
+
+3. The central helical region of the pro-a-chain is flanked by N- and C-terminal propeptides.
+Disulfide bond formation between the C-terminal propeptide region of 3 a-chains brings
+the chains into an alignment favorable for assembly into a triple helix (procollagen
+molecule) (Choices B and E).
+
+4. Procollagen molecules are then transported through the Golgi apparatus into the
+extracellular space. The N- and C-terminal propeptides are cleaved by procollagen
+peptidases, converting procollagen into less soluble tropocollagen.

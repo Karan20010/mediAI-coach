@@ -1,0 +1,22 @@
+(Choice A) Aldolase B plays a nonessential role in glycolysis due to the redundant function of
+aldolase A. However, it is particularly important during fructose metabolism as deficiency of
+this enzyme leads to toxic accumulation of fructose-1-phosphate (hereditary fructose
+intolerance). This life-threatening disorder presents in infancy after the introduction of
+fructose-containing foods.
+
+(Choice B) Aldose reductase is the enzyme that converts glucose to sorbitol. Aldose
+reductase has a low affinity for glucose, and normally only very small amounts of glucose are
+metabolized by this enzyme. The amount of glucose metabolized by the aldose reductase
+pathway increases significantly in diabetes mellitus and contributes to chronic complications
+such as neuropathy and retinopathy.
+
+(Choice E) UDP-galactose-4-epimerase is involved in the metabolism of galactose; it does
+not play a role in fructose metabolism.
+
+Educational objective:
+
+Essential fructosuria is a benign disorder of fructose metabolism caused by fructokinase
+deficiency. In patients with essential fructosuria, some of the dietary fructose load is converted
+by hexokinase to fructose-6-phosphate, which can then enter glycolysis; this pathway is not
+
+cjiaqnificant in normal individuals.

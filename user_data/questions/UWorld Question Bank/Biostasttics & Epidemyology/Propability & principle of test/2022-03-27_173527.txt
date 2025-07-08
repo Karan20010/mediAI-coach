@@ -1,0 +1,40 @@
+— Item 16 of 23 = y Mark <I e a i @ al 5
+
+Question Id: 1177 Previous Next utter Tutorial Lab Values Notes
+
+Using the generic 2 x 2 (contingency) table:
+
+Sensitivity = TP / (TP + FN), where TP is true positives and FN is false negatives. In this case:
+Sensitivity = 75 / (75 + 25) = 75/100 = 0.75 (or 75%)
+
+(Choice A) The false negative rate is (1 — sensitivity) = 1 — 0.75 = 0.25 (or 25%). The false
+
+negative rate is not affected by disease prevalence.
+
+(Choice B) The value 37.5% is obtained by dividing the TP (75) by the total number of
+
+patients in the study (75 + 25 + 20 + 80 = 200).
+
+(Choice C) The number of patients with myocardial infarction (MI) based on the gold standard
+is 100 (= 75 + 25). The total number of patients in the study is 200 (= 75 + 25 + 20 + 80).
+Therefore, the prevalence of MI in this sample is 100/200 = 0.5 (or 50%).
+
+(Choice E) The positive predictive value (PPV) of the test (the probability that a person has
+the disease given a positive test result) is given by: PPV = TP / (TP + FP), where FP is false
+positives. In this case, PPV = 75/ (75 + 20) = 75/95 = 0.79 (or 79%).
+
+(Choice F) The test specificity (its ability to correctly identify individuals without the disease) is
+80 / (80 + 20) = 80/100 = 0.80 (or 80%).
+
+Block Time Elapse
+Tutor
+
+‘J
+
+Calculator _ Reverse Color
+
+GA &
+
+Text Zoom —_ Settings
+
+End Block

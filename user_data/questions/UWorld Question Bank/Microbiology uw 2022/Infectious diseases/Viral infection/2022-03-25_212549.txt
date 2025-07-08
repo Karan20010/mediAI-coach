@@ -1,0 +1,19 @@
+Serologic evidence of hepatitis B virus (HBV) exposure is present in approximately 2 billion
+people worldwide. Nearly 250 million of these individuals have chronic infection and can
+transmit the virus to others. Perinatal transmission is most common in high prevalence
+countries (eg, sub-Saharan Africa); unprotected sex or intravenous drug use causes most
+infections in low-incidence countries (eg, United States). Health care providers are at high
+risk for infection due to potential exposure to the blood of infected patients.
+
+HBV vaccination is recommended for all health care providers and other high-risk individuals
+(eg, intravenous drug users). The vaccine utilizes recombinant HBsAg to generate protective
+immunity against the virus. HBsAg is a collection of envelope glycoproteins found on the
+surface of HBV; these glycoproteins mediate attachment of the virus to hepatocytes and
+subsequent viral entry. Patients who adequately respond to the HBV vaccine generate anti-
+HBs antibodies, which bind to circulating viral particles and prevent attachment to and
+penetration of hepatocytes.
+
+Patients who have been immunized against HBV as well as those who have cleared the virus
+after acute infection will have anti-HBs antibodies. These 2 populations are distinguished by
+the presence of anti-HBc antibodies, which are seen only in those who have been exposed to
+the virus (not in immunized patients).

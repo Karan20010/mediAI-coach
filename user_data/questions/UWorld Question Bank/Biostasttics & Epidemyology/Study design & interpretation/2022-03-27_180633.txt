@@ -1,0 +1,53 @@
+41 ec en) é
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+— Item 25 of 29
+= a V7 Mark
+
+Question Id: 1272
+
+Statistical power, (1 — 8), represents a study's ability to detect a difference when one exists. It
+is the probability of rejecting the null hypothesis when it is truly false - ie, the probability of
+finding a true relationship. Power depends on sample size and the difference in outcome
+between the groups being tested. In this study, the researchers want to detect a difference
+between drug B and standard of care if one exists; they want to maximize power.
+
+8 is the probability of committing a type II error (Choices B and D). Type II error occurs when
+researchers fail to reject the null hypothesis when it is truly false. This causes investigators to
+miss true relationships. An example of a type II error would be a study finding that aspirin
+does not affect platelet function when, in fact, it does. Therefore, if B is set at 0.2, the power
+will be (1 — B) = 80%; there will be an 80% chance of rejecting the null hypothesis when it is
+
+truly false.
+
+(Choices A and C) Type | error occurs when researchers reject the null hypothesis when the
+null hypothesis is really true. That is, a study finds a statistically significant difference between
+2 groups when one does not truly exist. An example would be if a study concluded that candy
+improves heart failure mortality when, in fact, it does not. ais the maximum probability of
+making a type | error that a researcher is willing to accept. Generally, a is compared to the p-
+value, the probability of observing a given result (or more extreme) due to chance alone
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

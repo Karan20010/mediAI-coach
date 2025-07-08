@@ -1,0 +1,49 @@
+e
+Previous Next Full Screen Tutorial Lab Values
+
+— ltem8of29 <q Se a) A
+= Question Id: 1170 . 4 Mark z ® I
+
+Lead-time bias should always be considered when evaluating any screening test. Lead-time
+bias is an apparent increase in survival time among patients undergoing screening when
+they actually have an unchanged prognosis. Patients screened with more sensitive tests
+may appear to live longer only because the disease was detected earlier than had it been
+diagnosed clinically. The overall length of time from disease onset to death actually remains
+the same with or without the earlier screening. To determine the actual effectiveness of the
+screening program, it is necessary to follow up patients for periods that are longer than the
+apparent increase in survival time, and then to estimate and compare mortality rates among
+patients who have undergone the additional screening and those who have not.
+
+In this case, patients screened by the new test appeared to have increased their survival time
+by 3 months when compared to those diagnosed by conventional methods. However, there
+was no difference in 6-month mortality rate between the 2 groups, which indicates that
+there is no actual benefit to the screening program.
+
+(Choice A) Confounding distorts the relationship between risk factors and the disease of
+
+interest, and can wholly or partially account for the observed effect. Although the results of this
+study could be potentially confounded, there is no information on how potential confounders
+
+were treated during the design or analysis stage of the study.
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

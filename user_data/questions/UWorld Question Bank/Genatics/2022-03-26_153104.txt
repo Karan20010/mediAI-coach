@@ -1,0 +1,64 @@
+os oe
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+21
+= 22
+23
++ 24
+25
++ 26
+27
++ 28
+29
+= 30
+31
+
+— Item 6 of 40 mY wax <q Se i @ al Lo) id lA)
+
+. Le c
+Question Id: 2027 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom
+
+(Choices A and C) Missense mutations are single base substitutions that result in the
+placement of an incorrect amino acid in a protein sequence. These mutations occur within the
+coding region of a gene and do not alter protein length. A conservative mutation is a type of
+missense mutation where an amino acid is replaced with another that has similar biochemical
+characteristics. Conservative mutations generally preserve protein function unless the
+mutation occurs in a critical region (eg, active site of enzyme).
+
+(Choice D) Nonsense mutations introduce a premature stop codon in a coding region,
+resulting in the production of a truncated protein. The mutation described is not a nonsense
+mutation because it was caused by a single base deletion (not a base substitution).
+
+(Choice E) Asilent mutation is a single base substitution within a codon that does not change
+the amino acid (due to codon redundancy). Silent mutations have no effect on protein
+formation or function.
+
+Educational objective:
+
+A frameshift mutation occurs with the deletion/addition of a number of bases not divisible by 3
+
+in the coding region of a gene. Frameshift mutations alter the reading frame of the genetic
+
+code, dramatically changing the protein structure and often resulting in the formation of a
+
+premature stop codon. ctivate V
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

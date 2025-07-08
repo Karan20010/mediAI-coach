@@ -1,0 +1,35 @@
+= ltem2of10 5 v Mark <q Se r j @ él fcc]
+
+; Le c
+Question Id: 1282 Praras Next FullScreen Tutorial__—_Lab Values Notes
+
+A medical student is conducting a chart review of patients admitted to the local emergency
+department with acute pancreatitis. He is interested in comparing blood glucose levels
+between mild and severe cases. Before attempting to compare the mean blood glucose levels
+between the 2 groups of patients, he decides to conduct a descriptive analysis of the variables
+in each group. Blood glucose levels in patients with severe acute pancreatitis were found to
+have a strong positively skewed distribution. Which of the following is most likely to be true
+regarding the data for the severe acute pancreatitis group?
+
+() A. The mean is equal to the median
+
+(©) B. The mean is equal to the mode
+
+(©) C. The mean is greater than the median
+©) D. The median is greater than the mean
+
+(©) E. The mode is greater than the mean
+
+Block Time Elapse
+
+Tutor
+
+Calculator
+
+e @A 8
+
+Reverse Color _Text Zoom Settings
+
+Activate Windows
+
+Feedback id ~~ End Block

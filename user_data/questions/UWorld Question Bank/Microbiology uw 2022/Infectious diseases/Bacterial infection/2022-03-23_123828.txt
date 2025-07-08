@@ -1,0 +1,16 @@
+Staphylococcus epidermidis, a coagulase-negative Staphylococcus species and a component
+of normal skin flora, is one of the most common causes of infections associated with foreign
+bodies (including ventriculoperitoneal shunts). S epidermidis is adept at causing foreign body
+infections because of its ability to form biofilms.
+
+Once introduced into the body, foreign bodies quickly become coated with a layer of host
+proteins, including fibrinogen and fibronectin. These proteins then serve as binding sites for S
+epidermidis. After attachment occurs, the bacteria multiply and communicate with one another
+to induce synthesis of an extracellular polysaccharide matrix that encases the bacteria. The
+resulting biofilm functions as a barrier to antibiotic penetration and interferes with host
+defenses, including opsonization, neutrophil migration, and even T lymphocyte activation.
+Once mature, these biofilms can disperse individual pathogen “seeds” (planktonic cells) into
+the bloodstream and surrounding areas, further disseminating the infection. Definitive
+treatment of infections caused by biofilm-producing organisms often requires removal of the
+
+foreign body.

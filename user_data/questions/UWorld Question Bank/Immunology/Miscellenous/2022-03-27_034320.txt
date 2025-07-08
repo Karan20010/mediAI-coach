@@ -1,0 +1,7 @@
+Educational objective:
+
+Immunoglobulin contains a Fab fragment that binds to antigen and an Fc fragment that
+activates complement and/or interacts with immune cells. The Fc fragment of IgG activates
+the classical complement cascade (constant heavy chain region 2) and serves as a ligand for
+
+the Fc receptor on phagocytes (constant heavy chain region 3).

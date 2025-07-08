@@ -1,0 +1,8 @@
+During the healing process, fibroblast migration and proliferation are controlled by multiple
+growth factors including platelet-derived growth factor (PDGF) and transforming growth
+factor-B (TGF-B). TGF-f is also critical for stimulating connective tissue synthesis and
+remodeling of the extracellular matrix. TGF-B typically decreases during the maturation phase
+of wound healing to limit the amount of collagenous scar tissue. Hypertrophic or disfiguring
+scars can be caused by persistently elevated TGF-B, which leads to increased fibroblast
+proliferation and activity. In addition, the fibroblasts in hypertrophic scars often have altered
+TGF-B signaling due to increased TGF-B receptor expression.

@@ -1,0 +1,41 @@
+= ltem2of15 5 v Mark <q Se rc j @ él
+
+‘ L
+Question Id: 1847 Praras Next FullScreen Tutorial__—_Lab Values
+
+(Choice A) Cobalamin is a necessary cofactor for methionine synthase, the enzyme that
+transfers a methyl group from 5-methyltetrahydrofolate to homocysteine, forming methionine
+and regenerating tetrahydrofolate. Cobalamin deficiency can cause folate to become trapped
+in 5-methyltetrahydrofolate form, resulting in secondary folate deficiency.
+
+(Choice B) Cytosine is a pyrimidine base. Unlike thymine, it is not dependent on folate and
+can be synthesized in sufficient quantities under folate-deficient conditions.
+
+(Choice C) Glutamine is a major source of nitrogen in the synthesis of purine and pyrimidine
+bases. However, glutamine supplementation would not ameliorate the cellular apoptosis
+induced by folate deficiency.
+
+(Choice D) Homocysteine is an amino acid associated with endothelial cell injury and
+vascular inflammation. Levels are elevated in folate deficiency due to impaired conversion into
+methionine.
+
+Educational objective:
+
+Folate deficiency inhibits the synthesis of nucleic acids, particularly the formation of thymidine.
+This leads to defective DNA synthesis and increased apoptosis affecting hemopoietic cells
+(megaloblastic anemia). Thymidine supplementation bypasses the enzyme thymidylate
+
+synthase and can reduce erythroid cell apoptosis.
+Block Time Elapse
+
+Tutor
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

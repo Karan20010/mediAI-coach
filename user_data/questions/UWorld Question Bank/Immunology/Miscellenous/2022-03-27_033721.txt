@@ -1,0 +1,57 @@
+aa
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+
+= ltem6 of20 <q Se rq Al
+
+Question Id: 540 W 4 Mark: Previous Next Full Screen 2 Lab a
+Immunoglobulins are composed of a pair of heavy and light chains. Light chains have a
+variable and constant region; heavy chains have a variable region and 3 or 4 constant regions
+(CH1-4) depending on the immunoglobulin type.
+
+Immunoglobulins are generally further divided into 2 functional pieces as follows:
+
+¢ The Fab fragment is composed of the entire light-chain and the heavy-chain variable and
+first constant region. This portion of the immunoglobulin uses the variable region of the
+light and heavy chain to bind specific antigenic epitopes. IgM has 10 Fab fragments;
+other immunoglobulins have 2
+
+¢ The Fe fragment is composed of the remaining constant regions (eg, CH2-4) of the heavy
+chain. The Fc fragment exerts the effector functions of the molecule, which may include
+activating the classical complement cascade (eg, CH2 on IgG) or binding the Fc receptor
+on phagocytic cells (eg, CH4 on IgM, CH3 on IgG)
+
+IgG, IgA, and IgD also have a hinge region between the Fab and the Fc fragments. The
+hinge region is rich in cysteine and proline amino acids, which provide significant flexibility to
+the immunoglobulin and allow greater movement of the Fab fragment arms. Fab fragments
+with long hinge regions are better able to reach multiple epitopes on an antigen; this
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

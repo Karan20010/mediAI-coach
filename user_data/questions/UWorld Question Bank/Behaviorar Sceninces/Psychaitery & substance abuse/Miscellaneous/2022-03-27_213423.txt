@@ -1,0 +1,33 @@
+— Item7 of 16 - rq Al
+= auestion id: 15608 mV mark oe a Full Screen 2 Lab a
+(Choice A) Baclofen, a selective agonist of the GABA B receptor, works as a skeletal muscle
+relaxant by inhibiting reflexes at the spinal cord level. Its common adverse effects include
+sedation and dizziness.
+(Choices B and D) Celecoxib and naproxen are nonsteroidal anti-inflammatory drugs
+
+commonly used as initial therapy for acute low back pain. Celecoxib is a selective inhibitor of
+cyclooxygenase-2 (COX-2), whereas naproxen is a nonselective inhibitor of COX-1 and COX-
+2. Neither drug is associated with serotonin syndrome.
+
+(Choice C) Diazepam is a benzodiazepine that works by binding to GABAA receptors.
+Benzodiazepines have sedative, anxiolytic, anticonvulsive, and muscle-relaxing properties;
+adverse effects include impairment of psychomotor performance, amnesia, and dependence.
+
+Educational objective:
+
+Coadministration of tramadol with serotonergic medications such as selective serotonin
+reuptake inhibitors increases the risk of serotonin syndrome, which presents with the
+characteristic triad of mental status changes (agitation, confusion), autonomic instability
+(hyperthermia, diaphoresis), and neuromuscular hyperactivity (tremor, myoclonus).
+
+References
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

@@ -1,0 +1,12 @@
+This patient most likely has active tuberculosis, which should never be treated with drug
+monotherapy due to the rapid emergence of antibiotic resistance in M. tuberculosis. |soniazid
+resistance specifically occurs by two selective gene mutations. The first is a decrease in
+bacterial expression of the catalase-peroxidase enzyme that is required for isoniazid activation
+once the drug enters the bacterial cell. The second mechanism of resistance occurs through
+modification of the protein target binding site for isoniazid. Treatment of active tuberculosis is
+accomplished by combining multiple antibiotics to avoid selecting for resistant strains.
+Commonly used drug regimens include isoniazid and rifampin in addition to streptomycin,
+ethambutol, and/or pyrazinamide.
+
+Isoniazid monotherapy may be used for patients who have a positive PPD and a negative
+chest x-ray (i.e., no evidence of clinical disease).

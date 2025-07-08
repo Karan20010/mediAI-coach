@@ -1,0 +1,5 @@
+Educational objective:
+
+Familial adenomatous polyposis is an autosomal-dominant hereditary disorder that results in
+the formation of innumerable colonic polyps and a nearly 100% risk of colorectal cancer. It
+arises due to germline mutation in the adenomatous polyposis coli tumor suppressor gene.

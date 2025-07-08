@@ -1,0 +1,50 @@
+on Ld @ al
+
+e c
+Previous Next Full Screen Tutorial Lab Values Notes
+
+— litem5of19
+= a V7 Mark
+
+Question Id: 2068
+This patient is experiencing an anaphylactic reaction to the cephalosporin cefazolin.
+Anaphylaxis is a systemic type 1 hypersensitivity reaction characterized by increased vascular
+permeability and multisystem edema, leading to massive shifting of intravascular fluid to the
+extravascular compartment. Symptoms often begin within seconds to minutes after
+intravascular exposure to an inciting factor (eg, insect stings, intravenous medications) but can
+take up to 2 hours to develop with orally ingested antigens.
+
+Anaphylaxis results from widespread mast cell and basophil degranulation and resultant
+histamine and tryptase release. Tryptase is an enzyme that is relatively specific to mast
+cells, and elevated serum levels of tryptase are often used to support a clinical diagnosis of
+anaphylaxis after the patient has been stabilized.
+
+(Choice A) Alkaline phosphatase is present in all cells of the body, but the highest levels are
+found in the liver, bones, and placenta.
+(Choice B) Calcitonin is produced by the C cells of the thyroid gland and can be useful as a
+
+tumor marker for medullary thyroid carcinoma.
+
+(Choices C and D) Collagenases breakdown collagen. Myeloperoxidase catalyzes formation
+of hypochlorous acid (ie, bleach) during the oxidative burst in the immune response to
+
+Block Time Elapse
+
+Tutor
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

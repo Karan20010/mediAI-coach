@@ -1,0 +1,24 @@
+— Item 18 of 23 mY wax <q Se i @ al Lo) id @A &s
+
+Question Id: 1284 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+A research laboratory develops a new serologic test for detecting prostate cancer. The new
+assay is compared to transrectal ultrasound-guided prostate biopsy to determine sensitivity
+and specificity parameters. It is found that the test result is negative in 95% of patients who do
+not have the disease. If the new assay is used on 8 blood samples taken from patients without
+prostate cancer, what is the probability of all 8 test results coming back negative?
+
+© A. 0.05 * 8
+© B.0.95*8
+© C. 0.05
+© D. 0.958
+© E.1- 0.05
+O F. 1- 0.95»
+
+Block Time Elapse
+
+Tutor
+
+Activate Windows
+
+Feedback id ~~ End Block

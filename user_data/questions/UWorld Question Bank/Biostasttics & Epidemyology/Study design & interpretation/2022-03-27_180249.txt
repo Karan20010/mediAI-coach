@@ -1,0 +1,36 @@
+A simple example of confounding:
+Shoe size and IQ at a primary school
+
+Crude analysi
+Shoe size —=> 1
+Apparent (tise)
+‘sopaicant assocubon
+ie)
+Age
+Contounder
+Shoe size
+Stratified after stratificationby the
+Older children (eg, grade 6): Sipubcnt tasciaton ented between
+shoe size and IQ within each stratum
+Shoe size No la (€9, older and younger children)
+ara Older ehitaren
+sssociaton (0, orade 6)
+1a 2
+*Younger children (eg, grade 1): .
+Shoe size a la
+iepaicant Younger chitaren
+‘associaten (€9, grade 1)
+
+Shoe size
+
+A confounder (eg, age) is associated with both exposure (eg, shoe size) and outcome
+(eg, 1Q) and affects the measure of association between exposure and outcome, such
+that there initially appears to be a statistically significant association between the 2 on
+crude analysis (eg, as shoe size 7, IQ 1). However, once the results are stratified by
+the confounding variable (age), the association disappears.
+
+For simplicity, this example assumes that older children actually have a higher 1Q (and bigger feet) than younger
+‘children do and thatthe same IQ test (not adjusted for age) is administered to all children
+
+10 = inteligence quotient.
+DUWorld

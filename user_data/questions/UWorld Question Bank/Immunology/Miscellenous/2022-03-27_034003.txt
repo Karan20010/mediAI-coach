@@ -1,0 +1,10 @@
+(Choice E) On exposure to an antigen, naive T helper (T,,0) cells differentiate into T,,1 (cell-
+mediating) and T,,2 (antibody-mediating) subtypes based on the local cytokine milieu. IFN-y
+
+and IL-12 induce T,,1 formation; IL-4 stimulates T,2 development.
+
+Educational objective:
+
+The Fas receptor acts to initiate the extrinsic pathway of apoptosis. Mutations involving the
+Fas receptor or Fas ligand can prevent apoptosis of autoreactive lymphocytes, thereby
+increasing the risk of autoimmune disorders such as systemic lupus erythematosus.

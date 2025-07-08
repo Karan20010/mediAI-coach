@@ -1,0 +1,7 @@
+Educational objective:
+
+Certain lysosomal storage diseases, including Gaucher disease, can be treated with enzyme-
+replacement therapy (eg, recombinant glucocerebrosidase). Because enzymes are large
+proteins that cannot be orally absorbed, the replacement enzyme must be administered
+intravenously. Entry into the cell occurs by endocytosis after the replacement enzyme binds to
+mannose 6-phosphate receptors on the cell surface.

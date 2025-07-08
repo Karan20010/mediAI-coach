@@ -1,0 +1,19 @@
+This patient with allergic rhinitis (eg, location-based sneezing and rhinorrhea; bluish,
+congested nasal turbinates) likely became sensitized to farm allergens during her first visit.
+Allergic rhinitis is a form of type 1 hypersensitivity, a process that involves sensitization and
+elicitation phases.
+
+Sensitization occurs when inhaled antigens penetrate the nasal epithelium and are presented
+on major histocompatibility complex (MHC) class II molecules, causing activation of naive T-
+helper (Th) cells. The release of cytokines (eg, IL-25, IL-33) from the nasal epithelium
+causes Th cells to differentiate into Th2 cells that secrete IL-4, IL-13, and other lymphokines
+that stimulate B cell maturation and production of IgE antibodies. Antigen-specific IgE
+antibodies then bind to the high-affinity IgE receptor on mast cells, priming the patient for an
+allergic response.
+
+Repeat exposure to the inhaled antigens (eg, on subsequent visits to the farm) cross-links IgE
+antibodies on the surface of the mast cell, leading to IgE receptor aggregation, which causes
+mast cell degranulation (Choices A and C). This releases histamine and other vasoactive
+mediators that lead to nasal inflammation, producing the allergic response. Subsequent
+exposure to the same antigen can lead to further allergen priming, worsening symptoms over
+time.

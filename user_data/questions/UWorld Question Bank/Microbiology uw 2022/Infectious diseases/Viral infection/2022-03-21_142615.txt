@@ -1,0 +1,12 @@
+(Choices B and E) Persistence of HBsAg in the bloodstream indicates chronic hepatitis.
+Patients with no circulating HBeAg, presence of anti-HBe, and low viral loads have a lower risk
+of disease progression and are less likely to transmit HBV.
+
+(Choice D) The presence of anti-hepatitis A virus (HAV) IgG suggests that this patient is
+protected from acute HAV infection. It is impossible to determine from the information given
+whether the anti-HAV IgG is due to previous infection or immunization with the hepatitis A
+vaccine.
+
+(Choice F) The hepatitis D virus (HDV) is replication defective and depends on the genetic
+information provided by HBV for replication. This individual is not infected with HBV (her
+HBsAg is negative) and therefore cannot be infected with HDV.

@@ -1,0 +1,17 @@
+(Choice A) False-positive HIV serology can be seen in the setting of cross-reacting antibodies
+due to pregnancy, rheumatic disease, and malignancy. Although patients with cross-reacting
+antibodies have negative plasma HIV RNA, they would not have low CD4 counts or an AIDS-
+defining defining illness (eg, esophageal thrush).
+
+(Choice B) HIV attacks host cells by binding to the host CD4 receptor and CCR5 (or CXCR4)
+chemokine coreceptor. Homozygous deletion to CCR5 usually prevents HIV infection because
+the virus is not able to enter host cells; these individuals would not typically develop low CD4
+count or signs of AIDS.
+
+(Choice C) X4 strains of HIV-1 use the chemokine receptor CXCR4 as a coreceptor during
+viral entry into host cells. Patients who are infected with X4 strains have positive plasma HIV-1
+RNA.
+
+(Choice E) The window period occurs during early HIV infection when serologic testing and
+antigen testing for HIV are not yet positive. This patient had positive HIV antigen/antibody
+testing; therefore, she is not in the window period.

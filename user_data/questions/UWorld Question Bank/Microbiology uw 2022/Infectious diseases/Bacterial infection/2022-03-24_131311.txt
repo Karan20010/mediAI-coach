@@ -1,0 +1,12 @@
+Neonatal tetanus (tetanus neonatorum) is a major cause of infant mortality in developing
+countries but is rare in the United States. Neonatal tetanus results from the introduction of
+Clostridium tetani spores to the infant, generally from unhygienic deliveries or cord care.
+Symptoms typically begin 5-7 days after birth and can progress more rapidly than in adults.
+Infected infants become irritable and have difficulty feeding and suckling due to tonic spasm
+of the masticatory muscles (trismus). As the disease progresses, spasms and hypertonicity
+become more generalized. Mortality approaches 100% without treatment.
+
+Prevention of neonatal tetanus focuses on vaccinating women who are pregnant or may
+become pregnant with inactivated tetanus toxin (tetanus toxoid). Appropriately vaccinated
+women provide transplacental IgG to the fetus, which decreases the incidence of neonatal
+tetanus by approximately 95%.

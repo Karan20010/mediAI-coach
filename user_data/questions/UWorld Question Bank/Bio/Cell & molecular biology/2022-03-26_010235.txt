@@ -1,0 +1,15 @@
+The zinc-finger structure represents the most commonly identified DNA-binding domain in
+humans. Zinc-finger motifs are composed of chains of amino acids bound together around a
+zinc atom via linkages with cysteine (and sometimes histidine) residues. This forms a stable,
+finger-shaped structure containing 2 antiparallel B- strands and an a-helix. Unique
+combinations of amino acids as well as the specific histidine and cysteine linkages determine
+DNA-binding specificity. Many transcription factors use multiple zinc-finger motifs to recognize
+specific genes and alter their activity.
+
+Although most hormones alter transcription regulation to some degree in target cells, only
+intracellular receptors located in the cytoplasm or nucleus can act directly as transcription
+factors. These intracellular receptors typically bind lipid-soluble hormones because the
+ligand has to diffuse across the cell membrane to reach the receptor. Once bound to their
+ligand, these receptors bind directly to target DNA sequences via zinc fingers to regulate gene
+expression. Examples include steroid (eg, estrogen, aldosterone, cortisol), thyroid hormone,
+and fat-soluble vitamin receptors.

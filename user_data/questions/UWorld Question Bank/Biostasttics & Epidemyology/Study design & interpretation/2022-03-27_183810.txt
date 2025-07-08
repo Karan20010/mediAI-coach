@@ -1,0 +1,38 @@
+= ltem7 of 17 5 v Mark <q Se r j @ él fcc]
+
+Question Id: 19195 Praras Next FullScreen Tutorial__—_Lab Values Notes
+
+A research group conducted a study to compare the levels of creatine kinase-MB (CK-MB)
+between type 2 diabetes mellitus (T2DM) patients given statin therapy. Participants were
+divided into 4 groups based on treatment. Groups |, II, and III consisted of T2DM patients who
+had been given statin therapy (atorvastatin, simvastatin, rosuvastatin, respectively) for at least
+6 months. Group IV consisted of T2DM patients who had not been given statin therapy.
+Which of the following statistical tests is most appropriate to compare the CK-MB levels
+between Groups |, Il, Ill, and IV in this study?
+
+JY _ A. Analysis of variance (77%)
+B. Chi-square test (11%)
+C. Independent t-test (2%)
+D. Paired t-test (3%)
+
+E. Correlation analysis (4%)
+
+Omitted
+Correct answer lil
+
+A
+
+77% 04 secs c4 2022
+Answered correctly Time Spent [3] Version
+
+Block Time Elapse
+
+Tutor
+
+e @A 8
+
+Calculator Reverse Color __Text Zoom Settings
+
+Activate Windows
+
+Feedback id ~~ End Block

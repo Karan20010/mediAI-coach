@@ -1,0 +1,59 @@
+— Item 18 of 29 <
+= a V7 Mark 4
+
+Question Id: 19806 Previous
+
+e
+
+Next
+
+ho @ al [-c} er
+
+The given table is incorrectly formatted (ie, high intake should be in the first row rather than in
+the second row of exposure status), so it is necessary to reformat the table.
+
+Probiotic yogurt intake
+; GDM + | GDM -
+during pregnancy
+High A 66
+(a) (b)
+Low 82 60
+(c) (d)
+Total 123 126
+
+Total
+
+107
+
+142
+
+249
+
+The odds of high intake of yogurt in women with GDM and women without GDM are:
+
+¢ Odds of high intake of yogurt in cases: a/c = 41/82 = 0.50
+
+¢ Odds of high intake of yogurt in controls: b/d = 66/60 = 1.10
+
+Therefore, the OR is:
+
+OR = (odds of exposure in cases) / (odds of exposure in controls) = (a/c) / (b/d) = 0.50 / Activate Windows
+
+Block Time Elapse
+
+Tutor
+
+Feedback
+
+GAA)
+
+(4) r
+Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+id
+
+63
+
+Settings
+
+End Block

@@ -1,0 +1,7 @@
+Educational objective:
+
+Immunotherapy medications often utilize fragments of a monoclonal immunoglobulin rather
+than the full immunoglobulin; because fragments are smaller, they typically have better tissue
+penetration and pharmacokinetics. Fab fragments contain a variable domain and the first
+constant region from a heavy and light chain; because they do not contain an Fc receptor, Fab
+fragments cannot trigger cell killing via complement or phagocytosis.

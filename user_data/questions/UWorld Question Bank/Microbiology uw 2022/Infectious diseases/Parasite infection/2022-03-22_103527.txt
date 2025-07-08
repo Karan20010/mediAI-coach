@@ -1,0 +1,7 @@
+This patient with an acute febrile illness has a peripheral blood smear showing
+intraerythrocytic ring inclusions. Parasites that can potentially cause disease in red blood
+cells include Plasmodium (malaria) and Babesia (babesiosis). In this patient, the epidemiology
+(residence in northeastern United States, outdoor exposure in the summer) is suggestive of
+babesiosis. This organism is transmitted by the Ixodes scapularis tick, which is also a
+vector for Borrelia burgdorferi (Lyme disease) and Anaplasma (human granulocytic
+anaplasmosis).

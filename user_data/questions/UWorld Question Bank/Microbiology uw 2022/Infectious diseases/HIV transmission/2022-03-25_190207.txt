@@ -1,0 +1,5 @@
+Educational objective:
+
+Protease inhibitors are HIV antiretroviral medications that inhibit cleavage of the polypeptide
+precursor into mature viral proteins. Their side effects as a class include hyperglycemia,
+lipodystrophy, and drug-drug interactions due to inhibition of cytochrome P450.

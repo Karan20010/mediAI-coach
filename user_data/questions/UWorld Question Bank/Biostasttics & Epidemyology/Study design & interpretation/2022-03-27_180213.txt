@@ -1,0 +1,46 @@
+— Item 18 of 29 = y Mark <I e a i @ al 5
+
+— " . L ~
+Question Id: 1173 Praras Next FullScreen Tutorial__—_Lab Values Notes
+
+Researchers conduct a prospective study that demonstrates an association between alcohol
+consumption and transitional bladder carcinoma, with a relative risk (RR) of 1.81 and a p-value
+of 0.03. They then divide the study subjects into 2 groups, smokers and non-smokers, and
+again examine the association between alcohol consumption and bladder cancer:
+
+p-
+
+value
+
+Smokers 0.95 0.87
+
+Non-
+1.03 0.96
+smokers
+The discrepancy between the overall results and the stratified results is best explained by
+
+which of the following?
+
+() A. Confounding
+©) B. Effect modification
+(©) C. Measurement bias
+
+Block Time Elapsed: 00:01:32
+Tutor
+
+e WA
+
+Calculator Reverse Color __Text Zoom
+
+Activate Windows
+
+% Feedback Suspend
+
+63
+
+Settings
+
+()
+
+End Block
+

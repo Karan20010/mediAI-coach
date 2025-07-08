@@ -1,0 +1,5 @@
+Educational objective:
+
+A precise tool is one that consistently provides very similar or the same value when measuring
+a fixed quantity. An accurate tool is one that provides a measurement identical or similar to the
+actual value (as reflected in a gold standard measurement).

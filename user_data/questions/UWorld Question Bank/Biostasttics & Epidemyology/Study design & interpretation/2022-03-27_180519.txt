@@ -1,0 +1,55 @@
+CO OVA HARUN HE
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+
+24
+25
+26
+27
+28
+29
+
+— Item 23 of 29 mY wax 4 Pe Pa ©) al [=] 4 GA &
+
+Question Id: 1184
+
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+Dependent variable
+Qualitative —
+: Quantitative
+(categorical)
+Qualitative Chi-square, logistic t-test, ANOVA, linear
+Independent (categorical) regression’ regression
+variable . 6 Correlation, linear
+Quantitative Logistic regression .
+regression
+
+* Dependent variable must be dichotomous.
+
+ANOVA = analysis of variance.
+
+Variables can be broadly classified as qualitative (ie, categorical) or quantitative (eg,
+continuous) based on their scale of measurement. Qualitative variables (eg, disease status,
+blood type) represent categories or groups, whereas quantitative variables (eg, body
+weight, glucose levels) represent numerical values. Choosing the correct statistical test
+always depends on the type of dependent and independent variables under consideration.
+
+The chi-square test for independence (also known as chi-square test for association) is used
+to evaluate the association between 2 categorical variables. In this example, patients are Activate V
+
+Block Time Elaps
+
+Tutor pend End Block

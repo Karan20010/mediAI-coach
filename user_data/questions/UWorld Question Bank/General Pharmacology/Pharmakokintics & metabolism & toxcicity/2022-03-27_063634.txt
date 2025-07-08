@@ -1,0 +1,31 @@
+— Item 22 of 32 mY wax <q Se i @ al Lo) id @A &s
+
+Question Id: 1714 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+The half-life (t,,) is the time required for the plasma concentration of a drug with first-order
+elimination kinetics to decrease by 50%. At time zero, 100% of the drug is present, and with
+the passage of each subsequent half-life, half of the remaining drug is eliminated. After 5 half-
+
+Tutor
+
+life intervals, a drug is almost completely eliminated from the body. A drug's half-life depends
+on 2 pharmacokinetic properties:
+
+¢ Clearance (CL) represents the volume of plasma completely cleared of a substance per
+unit time (eg, mL/min). The CL rate is constant for most drugs and depends on the
+particular metabolic conversion (eg, glucuronidation to inactive form) and/or elimination
+pathways (eg, biliary or urinary excretion) used to remove the drug from the body.
+Increased glucuronidation or glomerular filtration would increase plasma CL of the drug,
+leading to decreased drug half-life (Choices A and B).
+
+Volume of distribution (V.) refers to the extent to which a drug distributes in body tissue
+compared to its plasma concentration. A drug's V, is determined by its intrinsic properties
+(eg, lipid solubility, protein binding), as well as patient factors such as body weight and
+composition (eg, increased fat vs lean mass). In general, a higher V, means that the drug
+
+is increasingly bound to body tissues with a smaller proportion found in the plasma.
+
+Because plasma concentrations are lower for any given dose, drugs with higher V, take
+Block Time Elapse
+
+End Block

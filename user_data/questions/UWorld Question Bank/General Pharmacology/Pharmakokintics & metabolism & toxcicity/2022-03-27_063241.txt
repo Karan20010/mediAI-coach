@@ -1,0 +1,52 @@
+= Question Id: 15941
+
+— Item 15 of 32 = y Mark <I e a i @ al
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+macrophages (via binding to Fc receptors) and vascular endothelial cells (via pinocytosis)
+Once internalized, immunoglobulins are catabolized into amino acids within lysosomes.
+
+(Choices A and C) Many drugs undergo modifications by the cytochrome P450 system and
+subsequent conjugation reactions within hepatocytes that help facilitate excretion of the drug
+into the urine or bile. In contrast, immunoglobulins are not metabolized by these systems, but
+
+rather broken down by proteolytic enzymes.
+
+(Choices B and D) Immunoglobulins are too large to undergo substantial filtration at the
+glomerular basement membrane and are not secreted by the renal tubules. Therefore, renal
+dysfunction does not significantly affect monoclonal antibody clearance.
+
+Educational objective:
+
+Monoclonal antibodies (mAbs) are not eliminated by hepatic or renal clearance. Therefore, no
+dose adjustment is necessary with impaired hepatic/renal function or use of cytochrome P450
+inducers or inhibitors.
+
+References
+e Pharmacokinetics of monoclonal antibodies.
+
+¢ Quantification of IgG monoclonal antibody clearance in tissues.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

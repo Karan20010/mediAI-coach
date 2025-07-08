@@ -1,0 +1,38 @@
+‘Question Id: 12066
+
+Block Time Elapse 31
+
+— Item 12 of 21 mY wax <q Se i @ al Lo) id
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+(Choice A) V,... depends on how fast an enzyme can catalyze a reaction when there are
+enough substrate molecules to fully saturate its active sites. Competitive inhibitors do not
+affect V..«, as higher substrate concentrations are able to overcome the inhibition.
+
+(Choice B) Most competitive inhibitors, such as malate, bind in the substrate-binding pocket.
+In contrast, most noncompetitive inhibitors bind at allosteric sites, resulting in a conformational
+change of the enzyme that decreases enzymatic activity and slows the rate of reaction (Vinx).
+Noncompetitive inhibition does not change the apparent K,, and cannot be overcome with
+higher substrate concentrations.
+
+(Choice C) Irreversible inhibitors bind to enzymes through strong covalent bonds; this
+typically renders the enzyme permanently ineffective, decreasing the V,,a..
+
+(Choice D) Competitive inhibitors interfere with substrate binding due to the inhibitor's own
+high affinity for the enzyme's active site. This causes the measured K,, value to increase;
+however, the actual enzyme affinity for the substrate remains unchanged.
+
+Educational objective:
+
+Competitive inhibitors compete with substrate for active binding sites on enzymes. Additional
+substrate is required to achieve the same rate of reaction, increasing the measured value of
+
+Tutor
+
+63
+
+Settings
+
+End Block

@@ -1,0 +1,14 @@
+Haemophilus influenzae is a gram-negative coccobacillus that can be either encapsulated
+(serotypes a-f) or unencapsulated (nontypeable). H influenzae type b (Hib) is the most
+invasive strain due to its polyribosylribitol phosphate (PRP) capsule, which inhibits
+complement-mediated phagocytosis and allows it to invade tissues and survive in the
+bloodstream.
+
+During the first months of life, transient immunity to Hib is accomplished by IgG antibodies
+acquired transplacentally from the mother while in utero. The Hib vaccine is administered
+beginning at age 2 months to provide continued immunity. The immunization is composed of
+PRP conjugated with a protein toxoid (eg, tetanus, diphtheria), which induces a T cell—
+dependent immune response. The production of opsonizing anticapsular antibodies by B-
+lymphocytes allows for efficient phagocytosis of the bacterium. Without the protection from the
+vaccine, this child is at risk for invasive disease caused by Hib, such as meningitis,
+bacteremia, pneumonia, and epiglottitis.

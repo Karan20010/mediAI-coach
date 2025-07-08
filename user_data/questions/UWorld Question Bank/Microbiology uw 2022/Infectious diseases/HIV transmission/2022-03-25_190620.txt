@@ -1,0 +1,20 @@
+This patient with dysuria and penile discharge likely has infectious urethritis due to sexually
+transmitted infection. Most cases are caused by Neisseria gonorrhoeae, Chlamydia
+trachomatis, or Mycoplasma genitalium. The underlying pathogen is typically identified with
+nucleic acid amplification testing (NAAT) of urine, vaginal, or endocervical swab. However,
+light microscopy with Gram stain can be performed to rapidly identify N gonorrhoeae while
+awaiting NAAT results, as follows:
+
+¢ Gonococcal urethritis: leukocytes with intracellular gram-negative diplococci
+
+¢ Nongonococcal urethritis: leukocytes with no visible organisms; because Chlamydia
+and Mycoplasma do not have sufficient peptidoglycan in the cell wall to take up Gram
+stain, they cannot be ruled in or out with microscopy
+
+Patients with gonococcal urethritis who have coinfection with C trachomatis or uncertain C
+trachomatis status (as in this patient whose NAAT results are pending) require a third-
+generation cephalosporin (eg, ceftriaxone) and a tetracycline (eg, doxycycline) to cover
+gonococcus and possible C trachomatis coinfection. Patients with gonococcal urethritis who
+have negative C trachomatis NAAT should be treated with third-generation cephalosporin (eg,
+ceftriaxone) alone (Choice F). Patients with nongonococcal urethritis should be treated with
+macrolide (eg, azithromycin) or tetracycline (eg, doxycycline) monotherapy (Choice C).

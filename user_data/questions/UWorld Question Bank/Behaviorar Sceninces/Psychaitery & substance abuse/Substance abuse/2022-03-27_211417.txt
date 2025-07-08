@@ -1,0 +1,8 @@
+dependent enzyme in the citric acid cycle is alpha-ketoglutarate dehydrogenase.
+
+Educational objective:
+
+Several enzymes involved in glucose metabolism (eg, pyruvate dehydrogenase, alpha-
+ketoglutarate dehydrogenase) require thiamine as a cofactor. The administration of glucose to
+thiamine-deficient patients (eg, chronic alcohol use) can precipitate Wernicke encephalopathy
+(eg, acute confusion, ophthalmoplegia, ataxia) due to rapid thiamine consumption.

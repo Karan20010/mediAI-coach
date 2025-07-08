@@ -1,0 +1,16 @@
+Fever, vomiting, diarrhea, muscle pains, and erythroderma (diffuse macular rash resembling a
+sunburn) are manifestations of toxic shock syndrome (TSS). TSS can rapidly progress to
+severe hypotension and multisystem dysfunction (eg, elevated creatinine, elevated
+transaminases). Desquamation, particularly on the palms and soles, can occur 1-2 weeks
+after the onset of illness. TSS has been associated with the use of tampons and nasal
+packing.
+
+Staphylococcus aureus strains producing toxic shock syndrome toxin (TSST) are
+responsible for most cases of TSS. TSST acts as a superantigen that activates large
+numbers of helper T cells (compared to a regular antigen, which activates few helper T cells).
+Superantigens interact with major histocompatibility complex molecules on antigen-presenting
+cells (eg, macrophages) and with the variable region of the T lymphocyte receptor to cause
+a nonspecific, widespread activation of T lymphocytes. Activation of T cells is responsible for
+the release of interleukin (IL)-2 from the T cells and IL-1 and tumor necrosis factor from
+macrophages. These ILs cause capillary leakage, circulatory collapse, hypotension, shock,
+fever, skin findings, and multiorgan failure.

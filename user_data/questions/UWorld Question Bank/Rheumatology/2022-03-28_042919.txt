@@ -1,0 +1,97 @@
+foe
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+21
+= 22
+23
++ 24
+25
++ 26
+27
++ 28
+29
+= 30
+31
+
+— Item8 of 38 ~
+= a V7 Mark 4 >
+
+Question Id: 14805 Previous New
+
+ra a
+
+(4)
+Full Screen Tutorial Lab Values
+
+(Choice B) Glargine is a long-acting insulin analogue that forms insoluble complexes. This
+
+leads to the formation of microprecipitates at the injection site that then slowly dissolve and are
+
+released into the circulation throughout the day. Adalimumab is given as a subcutaneous
+
+injection but does not form insoluble complexes at the i
+
+njection site.
+
+(Choice C) Enterohepatic recirculation of certain cancer chemotherapeutic agents (eg,
+
+irinotecan) can lead to increased exposure of the intes
+
+inal mucosa to the agent and significant
+
+gastrointestinal toxicity. However, monoclonal antibodies do not undergo enterohepatic
+
+recirculation.
+
+(Choice D) Adalimumab and other therapeutic monocl
+by degradation via receptor-mediated endocytosis in th
+
+lonal antibodies are eliminated primarily
+e reticuloendothelial system. Renal
+
+elimination of adalimumab can lead to increased drug clearance in patients with protein-losing
+
+glomerular disorders but otherwise does not significant
+
+ly affect pharmacokinetics.
+
+(Choice E) Cytochrome P-450 enzyme inducers (eg, rifampin, carbamazepine, phenobarbital)
+
+can cause accelerated clearance of drugs that are metabolized primarily in the liver.
+
+Adalimumab does not undergo metabolism by the P-450 system.
+
+Educational objective:
+
+Adalimumab is a recombinant human IgG that binds tumor necrosis factor-alpha (TNF-alpha).
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

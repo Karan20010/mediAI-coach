@@ -1,0 +1,34 @@
+= ltem9 of 32 5 v Mark <q Se rc j @ él
+
+— " . L
+‘Question Id: 18457 Praras Next FullScreen Tutorial__—_Lab Values
+
+63
+
+Settings
+
+Heart failure can cause changes in pharmacokinetic parameters that can alter drug
+effectiveness and lead to increased toxicity. Decreased cardiac output leads to tissue
+hypoperfusion, lowering the volume of distribution of many drugs and reducing perfusion of
+organs responsible for drug clearance (eg, liver, kidneys). This can result in higher serum
+drug levels and a prolonged elimination phase, which can be particularly important for drugs
+with a narrow therapeutic index (eg, digoxin, antiarrhythmics).
+
+In this example, serum metformin levels are seen to increase in animals with experimentally
+induced heart failure. Because metformin is renally cleared, this effect is most likely due to
+decreased renal blood flow as a result of reduced cardiac output. Because of the risk of
+lactic acidosis, metformin should be used with caution in patients with heart failure or impaired
+renal function from other causes.
+
+(Choices A and D) Heart failure frequently causes high central venous pressure and hepatic
+congestion. The resulting impairment in nutrient and oxygen delivery leads to hepatocellular
+damage and downregulation of CYP enzymes involved in drug metabolism. Reduced hepatic
+blood flow also results in decreased drug delivery to the liver, further impairing hepatic drug
+metabolism and clearance. However, metformin is not metabolized by the liver; it is excreted
+unchanged by the kidney.
+
+Block Time Elapse
+
+Tutor
+
+End Block

@@ -1,0 +1,47 @@
+= Item 19 of 40 <q > Fol al
+= Question Id: 12263 La V Mark 4 @
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+Ouword
+This patient with chronic microcytic anemia requiring blood transfusions and a predominance
+of hemoglobins F and A2 on hemoglobin electrophoresis likely has beta-thalassemia, a
+hereditary blood disorder characterized by reduced B-globin chain production.
+
+The base sequence indicated by the bold red arrow in this patient's B-globin gene represents
+the CAAT box, a highly conserved (consensus) sequence that functions as a promoter of
+transcription in the eukaryotic genome. It is typically located 70-80 bases upstream from the
+transcription start site. The Hogness (TATA) box is a second promoter region in the eukaryotic
+genome and is seen just to the right of the CAAT box in the above image. The TATA box is
+generally located 25 bases upstream from the transcription start site. Both the CAAT box and
+the TATA box promote initiation of transcription by acting as binding sites for general
+transcription factors and RNA polymerase II.
+
+(Choice A) Enhancer sequences bind activator proteins that facilitate bending of DNA. DNA
+bending allows activator proteins to interact with general transcription factors and RNA
+polymerase II at the promoter, increasing the rate of transcription. Enhancers can be located
+upstream or downstream from the gene being transcribed and may be near the gene or
+thousands of base pairs away.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

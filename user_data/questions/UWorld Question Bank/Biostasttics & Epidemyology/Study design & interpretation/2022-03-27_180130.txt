@@ -1,0 +1,30 @@
+— Item 16 of 29 mY war <q = i @ a F 33
+
+Question Id: 10570 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+This observational study is analyzing population-level data to evaluate the association
+between a potential exposure (eg, low socioeconomic status population) and a given outcome
+(eg, increased cancer mortality). Using population-level (rather than individual-level) data as a
+unit of analysis in such a manner is consistent with an ecological study. Ecological studies
+are useful for generating hypotheses but should not be used to draw conclusions regarding
+individuals within these populations (ecological fallacy).
+
+(Choices A and B) Case-control and cohort studies deal with individuals rather than
+populations. In case-control studies, the odds of exposure to a certain characteristic (eg,
+personal socioeconomic status) are compared between affected individuals (eg, patients with
+cancer) and unaffected individuals who serve as controls. In cohort studies, individuals with
+and without different exposures (eg, high or low personal socioeconomic status) are followed
+over time to determine the incidence of the disease of interest (eg, cancer).
+
+(Choice C) Cross-sectional surveys evaluate the exposures and outcomes of interest in
+individuals (not populations) at a given point in time ("snapshot"). The overall design of this
+multi-country study relies on population-level data, not individual-level data.
+
+(Choice E) Nested case-control studies start with cohort studies in which participants are
+
+followed over time; those participants who develop an outcome of interest become cases for a
+Block Time Elapse
+
+Tutor oe
+
+Suspend

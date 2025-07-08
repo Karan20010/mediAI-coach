@@ -1,0 +1,31 @@
+Question Id: 19315
+
+— Item 13 of 17 mY war <q = i @ a F 33
+
+e c
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+Randomization refers to the process of randomly (ie, by chance) assigning subjects to
+experimental groups (eg, treatment vs control group). Randomization prevents selection
+bias and potentially produces comparable groups by balancing the frequency of confounding
+variables (eg, sex, age, severity of disease) between experimental groups. Making
+experimental groups as similar as possible (except for the treatment assigned) cancels the
+effect that these characteristics may have on the outcome of interest.
+
+For example, having groups that are dissimilar (ie, unbalanced) with respect to severity of
+disease may underestimate or overestimate the effect of a treatment, depending on which
+group has a greater proportion of severe cases. The best way to account for the effects of
+these variables is to randomly assign subjects to experimental groups. Afterward, the groups
+are analyzed to ensure that they are statistically similar in underlying variables, with the results
+often reported in a baseline characteristics table (eg, weight, sex, age).
+
+Therefore, randomization increases the likelihood that any difference observed between
+groups is due exclusively to the treatment and not to other characteristics.
+
+(Choices A and B) A blind study is a type of clinical trial in which either the participants or the
+researchers (ie, single blind) or both the participants and the researchers (ie, double blind) are
+
+unaware of treatment assignments. Although this study used randomization to assign patients
+Block Time Elapse
+
+Tutor ck Suspend

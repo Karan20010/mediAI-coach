@@ -1,0 +1,67 @@
+os oe
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+21
+= 22
+23
++ 24
+25
++ 26
+27
++ 28
+29
+= 30
+31
+
+—— Question Id: 361
+
+— Item 6 of 38 mY wax <q = i @ a) bo 4 Gaia)
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+Mature mRNA then transfers the genetic code to the cytoplasm and serves as a template for
+protein synthesis (translation).
+
+(Choices A and D) Polyadenylation of RNA transcripts is performed by the enzyme
+polyadenylate polymerase. This process stabilizes mRNA, helping it exit the nucleus.
+
+(Choices B and F) During eukaryotic DNA replication, DNA polymerase 6 elongates Okazaki
+fragments of the lagging strand. These Okazaki fragments are later joined by the enzyme
+DNA ligase.
+
+(Choice C) During translation, aminoacyl-tRNA synthetases catalyze the linkage of tRNAs to
+their corresponding amino acids. Each enzyme recognizes a specific amino acid and all of the
+tRNAs that match that amino acid.
+
+Educational objective:
+
+Small nuclear RNA (snRNA) is synthesized by RNA polymerase II in the nucleus and
+
+complexes with specific proteins to form small nuclear ribonucleoproteins (snRNPs). snRNPs
+
+are an essential component of spliceosomes, which remove introns from pre-mRNA to form
+
+mature MRNA. Patients with systemic lupus erythematosus can have autoantibodies directed
+
+against snRNPs (eg, anti-Smith antibody). Activate Windows
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

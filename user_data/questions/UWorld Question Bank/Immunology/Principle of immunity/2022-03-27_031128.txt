@@ -1,0 +1,44 @@
+= ltem6 of 25 5 v Mark <q Se rc j @ él
+
+Question Id: 558 Previous Next Full Screen Tutorial Lab Values
+T-lymphocytes, or thymocytes, are initially produced in the bone marrow, but they migrate from
+that location to mature during the first trimester of gestation in the thymus. In the thymus, the
+processes of T-cell receptor (TCR) gene rearrangement, positive selection, negative selection,
+and expression of extracellular membrane markers and co-stimulatory molecules occurs. Pro-
+T cells arrive at the thymus as "double negative" cells — indicating that they lack both CD4 and
+CD8 antigens and begin their differentiation in the subcapsular zone. Next, the process of
+TCR beta gene rearrangement occurs with simultaneous expression of both CD4 and CD8.
+Once in thymic cortex, the alpha genes rearrange to produce a functional alpha-beta TCR.
+Subsequently, the processes of positive and negative selection occur with cells that fail either
+of these tests being eliminated by apoptosis.
+
+Positive selection is the process by which only T cells expressing a TCR that is able to bind
+self MHC are allowed to survive. Those cells expressing a TCR that is not specific for self
+MHC are signaled for elimination by apoptosis. This process occurs after TCR DNA
+rearrangement and prior to the process of negative selection. It occurs in the thymic cortex
+and involves interaction of T cells with thymic cortical epithelial cells expressing self MHC
+(Choice D). Positive selection is responsible for development of a T cell repertoire that can
+recognize self.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

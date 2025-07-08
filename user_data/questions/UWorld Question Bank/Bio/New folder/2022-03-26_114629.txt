@@ -1,0 +1,12 @@
+(Choice C) In contrast to fatty acid oxidation, which occurs in mitochondria, fatty acid
+synthesis occurs in the cytosol. Acetyl CoA generated in mitochondria during glycolysis is
+transferred to the cytosol as citrate. In the cytoplasm, ATP citrate lyase converts citrate back
+into acetyl CoA that can be used for fatty acid chain elongation.
+
+(Choice D) Glucose-6-phosphate dehydrogenase is the first enzyme of the hexose
+monophosphate (HMP) shunt. The HMP shunt produces pentose sugars for nucleotide
+synthesis and NADPH, which is necessary for cholesterol and fatty acid biosynthesis.
+
+Educational objective:
+Glycerol produced by the degradation of triglycerides in adipose tissue can be used by glycerol
+kinase in the liver and kidney to synthesize glucose during gluconeogenesis.

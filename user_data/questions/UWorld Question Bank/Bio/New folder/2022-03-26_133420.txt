@@ -1,0 +1,15 @@
+Amatoxins are found in a variety of poisonous mushrooms (eg, Amanita phalloides, known as
+death cap) and are responsible for the majority of mushroom poisoning fatalities worldwide.
+Ingestion of 1 or more amatoxin-containing mushrooms is a life-threatening emergency. After
+absorption by the gastrointestinal tract, amatoxins are transported to the liver via the portal
+circulation where active transport by organic anion transporting polypeptide (OATP) and
+sodium taurocholate co-transporter (NTCP) concentrates the toxin within the liver cells. There,
+amatoxins bind to DNA-dependent RNA polymerase type II and halt mRNA synthesis,
+ultimately resulting in apoptosis. Other organ systems with rapid cellular turnover can also be
+affected in amatoxin poisoning, including the gastrointestinal tract and proximal convoluted
+renal tubules.
+
+Symptoms typically start 6-24 hours after ingestion and include abdominal pain, vomiting, and
+severe, cholera-like diarrhea that may contain blood and mucus. Severe poisoning can lead to
+acute hepatic and renal failure. Urine testing for a-amanitin can confirm suspected amatoxin
+poisoning.

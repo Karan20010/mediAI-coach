@@ -1,0 +1,34 @@
+Question Id: 2086
+
+— Item7 of 24 mY wax <q Se i @ al Lo) id lA)
+
+e r
+Previous Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+Mutations affecting the signal sequence would be found after the start codon (AU
+
+(Choice C) Peptide bond formation is catalyzed by peptidyl transferase, an RNA enzyme
+("ribozyme") that resides in the large ribosomal subunit. A defect in rRNA coding for ribosomes
+would interfere with this process.
+
+(Choice D) During polypeptide elongation, the ribosome moves 3 nucleotides toward the 3"
+end of mRNA, advancing peptidyl tRNA from the A site to the P site (translocation).
+Translocation is catalyzed by elongation factor 2 and requires GTP hydrolysis.
+
+(Choice E) Termination of polypeptide synthesis occurs at stop codons. Mutations in stop
+codons (nonstop mutations) can result in continued and inappropriate translation of MRNA into
+the 3'-untranslated region, producing an excessively long, nonfunctional polypeptide.
+
+Educational objective:
+The Kozak consensus sequence occurs on eukaryotic mRNA and helps initiate protein
+translation by identifying the proper methionine start codon (AUG).
+
+References
+¢ Diversity of preferred nucleotide sequences around the translation initiation codon in
+eukaryote genomes.
+
+63
+
+Settings
+
+End Block

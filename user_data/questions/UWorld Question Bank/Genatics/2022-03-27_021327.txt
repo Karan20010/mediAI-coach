@@ -1,0 +1,26 @@
+Hardy-Weinberg analysis
+Allele P+qQ = 1
+
+Normal Mutant Total
+frequency allele allele
+
+frequency frequency
+
+Phenotypic p + 2pq + q = 1
+
+frequency Frequency Carrier Frequency Total
+
+of normal
+
+frequency of diseased
+Individuals
+
+individuals
+
+Calculating 2
+mutant allele =
+frequency a - an
+from disease prevalence frequency
+prevalence
+
+©UWorld

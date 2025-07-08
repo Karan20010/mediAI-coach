@@ -1,0 +1,53 @@
+on Ld @ al
+
+e c
+Previous Next Full Screen Tutorial Lab Values Notes
+
+— Item 23 of 29
+= a V7 Mark
+
+Question Id: 19468
+
+Predictive values are performance measures of diagnostic tests that are dependent on the
+
+prevalence of disease in a population of interest.
+
+¢ Negative predictive value (NPV) is the probability (ie, likelinood) that an individual truly
+does not have the disease given a negative test result. NPV is equal to the number of
+individuals who do not have the disease and who test negative (true negatives [TN])
+divided by all those with a negative test result (TN + false negatives [FN]): NPV = TN/(TN
++ FN).
+
+¢ Positive predictive value (PPV) is the probability (ie, likelinood) that an individual truly
+does have the disease given a positive test result. PPV is equal to the number of
+individuals who have the disease and who test positive (true positives [TP]) divided by all
+those with a positive test result (TP + false positives [FP]): PPV = TP / (TP + FP).
+
+Disease prevalence affects NPV by changing the number of TN and FN tests. It affects PPV
+by changing the number of TP and FP tests (Choice A):
+
+¢ Populations with exceptionally low disease prevalence (eg, prevalence close to 0%) have
+almost all TN (ie, more TN) with almost no TP (ie, fewer TP), and most positive tests would
+be FP (ie, more FP) with almost no FN (ie, fewer FN). In this scenario, NPV is close to
+
+100%, and PPV is close to 0%. This explains why, with decreasing prevalence, NPV
+Block Time Elapse
+
+Tutor
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

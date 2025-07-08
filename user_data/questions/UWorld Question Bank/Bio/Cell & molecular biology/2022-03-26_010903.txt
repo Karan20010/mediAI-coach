@@ -1,0 +1,6 @@
+Na-, K-, and Cl are the main ions that determine the electrical potential difference (voltage)
+across a membrane (membrane potential). Under normal physiologic conditions, there is a
+low concentration of Na- and CI in the cell and high concentration of K- in the cytoplasm.
+Conversely, the extracellular space has a high concentration of Na* and CI ions and low
+
+concentration of K- ions.

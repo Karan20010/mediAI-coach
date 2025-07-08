@@ -1,0 +1,33 @@
+Purine degradation and salvage
+
+IMP AMP GMP
+P, ~| ees P, 4 5-Nucleotidase P, J
+Y
+Inosine Adenosine Guanosine
+‘Adenosine
+4 (SciD)
+Inosine
+P, P
+Ribose 1P »| C Ribose 1P
+’ Y
+Hypoxanthine Guanine
+
+(______]
+
+Hypoxanthine &
+guanine
+Allopurinol —O—» entire 1 PRPP
+4 /~
+Xanthine
+- HGPRT
+Allopurinol —O—» ~eninne Cae ee
+’ ¥
+Uric acid GMP
+IMP
+’ ’
+Urine excretion Salvage
+(10%) (90%)
+(GMP = guanosine monophosphate, HGPRT = hypoxanthine-guanine phosphonbosyltransterase;
+
+IMP = inosine monophosphate: Pi = inorganic phosphate: PRPP = phosphoribosyipyrophosphate;
+ribose 1P = nibose-1-phosphate; SCID = severe combined immunodeficiency. ©uWorld

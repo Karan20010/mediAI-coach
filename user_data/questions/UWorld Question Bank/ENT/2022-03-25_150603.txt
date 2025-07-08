@@ -1,0 +1,4 @@
+(Choice G) The superior laryngeal nerve branches off the vagus nerve high in the neck and
+divides into an external branch, which supplies the cricothyroid muscle, and an internal branch,
+which provides sensation over the supraglottic area. The external branch of this nerve may be
+misligated during thyroid surgery due to its proximity to the superior thyroid artery.

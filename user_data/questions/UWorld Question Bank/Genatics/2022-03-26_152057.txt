@@ -1,0 +1,44 @@
+= ltem4of40 5 v Mark <q Se r j @ él fcc]
+
+Question Id: 11912 Praras Next FullScreen Tutorial__—_Lab Values Notes
+
+Telomeres lie at the end of linear eukaryotic chromosomes and have tandem repeat DNA
+sequences, usually GT-rich repeats (eg, TTAGGG). They protect chromosomes from being
+recognized as damaged DNA, help to regulate gene expression, and participate in controlling
+cell replication and entry into senescence. As DNA polymerase cannot fully replicate the 3°
+end of the lagging chromosomal strands, cell division and aging lead to progressive DNA loss
+and telomere shortening at chromosomal ends. Once cells reach their maximum limit for
+proliferation (~50-70 divisions), the shortened telomeres trigger permanent growth arrest. Cell
+checkpoint genes (eg, 7P53) become activated, and the critically short and dysfunctional
+telomeres lead to programmed cell death (apoptosis).
+
+Telomerase is an RNA-dependent DNA polymerase that consists of 2 molecules, human
+telomerase reverse transcriptase (TERT) and telomerase RNA (TR or TERC). Telomerase
+synthesizes telomeric DNA sequences that can replace the lost chromosomal ends of the
+telomeres. As a result, the telomere can divide without reaching a limit. Normal human cells
+have absent telomerase activity except in cells that need to divide regularly (eg, germ cells,
+certain adult stem cells). However, >90% of cancer cells contain increased telomerase activity,
+
+allowing for continued proliferation without apoptosis.
+
+(Choice A) Matrix metalloproteinases are proteases that degrade extracellular matrix
+
+Block Time Elapse
+
+Tutor
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

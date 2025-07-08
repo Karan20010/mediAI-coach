@@ -1,0 +1,9 @@
+G protein-coupled receptor
+
+‘ Transmembrane domain contains
+hydrophobic amino acids*
+
+Intracellular C-terminus
+
+“Ala, Val, Leu, lle, Phe, Trp, Met, Pro, Gly
+@uUWorld

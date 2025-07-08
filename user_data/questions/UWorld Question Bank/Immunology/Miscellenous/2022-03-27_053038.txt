@@ -1,0 +1,33 @@
+— Item 16 of 40 mY wax <q Se i @ al Lo) id lA)
+
+Question Id: 18594 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom
+
+Paroxysmal nocturnal hemoglobinuria (PNH) is caused by a mutation in hematologic stem
+cells that eliminates production of an anchoring protein that attaches surface molecules to the
+cell membrane. Loss of this membrane anchor prevents erythrocytes from expressing the
+complement-inactivating surface proteins CD55 and CD59. Without these surface proteins,
+autoactivated components of the alternative complement cascade cannot be disabled. This
+leads to spontaneous complement amplification, the generation of membrane attack
+complexes (MACs) on the red cell membrane, and subsequent complement-mediated
+hemolysis.
+
+Treatment with a monoclonal antibody (eg, eculizumab) that targets C5, the first complement
+protein that contributes to the formation of MACs, can drastically reduce hemolysis and
+improve symptoms (eg, fatigue) in patients with PNH. However, the generation of MACs is
+crucial for defense against encapsulated organisms (eg, Neisseria meningitidis,
+Streptococcus pneumoniae) because these pathogens are resistant to other host defense
+mechanisms (eg, immunoglobulin binding, phagocytosis).
+
+Patients receiving anti-C5 therapy require vaccination against encapsulated pathogens (N
+meningitidis, S pneumoniae) and appropriate antibiotic prophylaxis (eg, penicillin) to prevent
+fulminant infection.
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

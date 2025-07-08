@@ -1,0 +1,38 @@
+Question Id: 18764
+
+— Item 11 of 20 mY wax 41 pe i (©) al @ 4 QA
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+(Choice A) CD14 is a pathogen-associated molecular pattern receptor on macrophages that
+recognizes lipopolysaccharides and rapidly activates the innate immune response; it does not
+participate in TST.
+
+(Choice B) CD16 is a receptor on natural killer cells that binds to the FC portion of IgG
+attached to foreign antigens on infected cells. Binding triggers lysis of the infected cell via
+antibody-dependent cellular cytotoxicity (part of the CMIR). Antibodies do not play a significant
+role in TST.
+
+(Choice C) CD18 on circulating neutrophils binds to ICAM-1 on the endothelium, allowing
+neutrophils to extravasate into tissue. Neutrophils are not a major part of TST reactions.
+
+(Choice E) CTLA4 is an immune checkpoint expressed by regulatory and activated T cells. It
+mutes the CMIR by competing with the T-cell costimulatory ligand CD28 for binding CD80/86
+(ie, B7) on dendritic cells (APCs). Because CTLA4 binds with greater affinity than CD28 to
+CD80/86, it slows the activation of T cells in areas with active inflammation.
+
+Educational objective:
+Tuberculin skin testing triggers a type IV delayed-hypersensitivity reaction in patients with
+previous infection due to the presence of primed, antigen-specific CD4 T lymphocytes. These
+
+lymphocytes recognize tuberculin proteins displayed on antigen-presenting cells (APCs) and
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

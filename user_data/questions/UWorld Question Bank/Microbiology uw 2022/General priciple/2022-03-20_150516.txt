@@ -1,0 +1,41 @@
+= ltem3of31 <q Se a) @ él
+Question Id: 1140
+
+(Choice B) Shiga toxin is an exotoxin synthesized by enterohemorrhagic E coli, which
+presents with bloody diarrhea. Meningitic strains of E coli do not produce Shiga toxin.
+
+(Choices C and D) Lipid Aand O antigen are components of lipopolysaccharides, which
+make up the majority of the outer membrane of gram-negative bacteria. Lipid Ais a major
+virulence factor in the pathogenesis of septic shock (not meningitis) that causes widespread
+release of IL-1, IL-6, and tumor necrosis factor-alpha; this patient with normal vital signs and
+no evidence of end-organ dysfunction is not in septic shock. O antigen is a variable
+polysaccharide on the outer surface and is used to classify gram-negative bacteria; it is nota
+major virulence factor for invasive infection (including meningitis).
+
+(Choice E) P-fimbriae (pili) enable E coli to adhere to uroepithelium, allowing infection of the
+urinary tract (eg, cystitis, pyelonephritis), not the meninges.
+
+Educational objective:
+
+Escherichia coli, a gram-negative rod, is a common cause of neonatal meningitis. The major
+virulence factor for E coli strains that cause neonatal meningitis is the K1 capsular antigen,
+which allows bacteria to survive in the bloodstream and invade the meninges.
+
+References
+
+Block Time Elapse
+
+Tutor
+
+(4)
+Previous Next Full Screen Tutorial Lab Values
+
+Text Zoom
+
+id
+
+63
+
+Settings
+
+End Block

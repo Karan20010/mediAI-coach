@@ -1,0 +1,52 @@
+to
+
+10
+at
+12
+13
+14
+15
+16
+17
+
+= Question Id: 19199
+
+= ltem8of17 5 v Mark <q Se rc j @ él
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+Correlation analysis is a statistical technique used to assess the strength and direction of a
+linear relationship between 2 quantitative variables (often, but not always, a dependent
+and an independent variable). In this study:
+
+¢ The quantitative dependent variable was diastolic pressure (DBP).
+¢ The quantitative independent variable was waist circumference (WC).
+
+Correlation analysis can determine whether there is a relationship between DBP and WC. A
+statistically significant correlation coefficient indicates that DBP and WC have a linear
+relationship (ie, the null hypothesis is rejected) that is either positive (as WC increases, DBP.
+increases) or negative (as WC increases, DBP decreases).
+
+(Choice A) The analysis of variance (ANOVA) test compares the mean of a quantitative
+variable of 23 independent groups, as in a study comparing serum ferritin concentrations (ie,
+quantitative variable) in children (age 0-12), adolescents (age 13-17), adults (age 18-59), and
+seniors (age 260).
+
+(Choice B) The chi-square test evaluates the association between 2 categorical variables, as
+in a study evaluating the association between sex (ie, "male" and "female") and myocardial
+infarction (ie, presence of myocardial infarction, absence of myocardial infarction).
+
+Block Time Elapse
+
+Tutor
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

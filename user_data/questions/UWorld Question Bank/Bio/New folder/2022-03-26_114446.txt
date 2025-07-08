@@ -1,0 +1,16 @@
+Calcium plays an important role in excitation-contraction coupling in cardiac, smooth, and
+skeletal muscle cells. Myocyte depolarization causes activation of L-type calcium channels on
+the plasma membrane. In cardiac and smooth muscle cells, this leads to an influx of
+extracellular calcium that activates sarcoplasmic RyR channels, inducing the release of
+additional calcium from the sarcoplasmic reticulum (calcium-induced calcium release). The
+released calcium binds to troponin (cardiac muscle) or calmodulin (smooth muscle), allowing
+actin and myosin to interact and cause muscle contraction.
+
+In contrast, the L-type calcium channels in skeletal muscle directly interact with RyR calcium
+channels to release calcium from the sarcoplasmic reticulum. This mechanical coupling
+between the receptors allows sarcoplasmic calcium release to occur without significant influx
+of calcium across the plasma membrane. Verapamil is a nondihydropyridine calcium channel
+blocker that acts by blocking L-type calcium channels, preventing the initial calcium influx
+into cardiac myocytes and vascular smooth muscle cells. Because skeletal muscle is not
+dependent on extracellular calcium influx, calcium channel blockers do not affect skeletal
+muscle contractility.

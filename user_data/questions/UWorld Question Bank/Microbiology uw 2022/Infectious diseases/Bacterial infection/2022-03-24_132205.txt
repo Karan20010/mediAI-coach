@@ -1,0 +1,25 @@
+Percentage of patients
+8 8
+
+Rates of bacterial colonization in cystic fibrosis based on age
+807
+
+8 8 8
+
+8
+;
+
+g
+8
+5
+
+Burkholderia
+° ™ cepacia complex
+<2 5 10 15 20 25 30 35 40 245
+Age (years)
+Culture media
+
+3 B ae Burkholderia cepacia
+-® Mannitol salt agar ~
+Re selective agar
+

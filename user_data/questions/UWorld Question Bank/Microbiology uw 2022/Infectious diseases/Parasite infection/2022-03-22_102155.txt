@@ -1,0 +1,5 @@
+Chagas disease is a vector-borne protozoan illness endemic to most Latin American
+countries. Risk is greatest in those with long-term domestic exposure to the Triatomine bug,
+which nests in thatched roofing and the cracks of adobe or unfinished brick. Transmission
+occurs when the bug feeds on human blood during the night and defecates the underlying
+pathogen, Trypanosoma cruzi, into the bite wound.

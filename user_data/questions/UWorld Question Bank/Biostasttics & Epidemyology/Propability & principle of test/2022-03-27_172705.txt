@@ -1,0 +1,30 @@
+= Item 5 of 23 a Mark | Se al @ al
+
+= Question Id: 19800 Pracars Next FullScreen Tutorial__—_—_Lab Values
+Power and p-value are related to the process of hypothesis testing. Research studies
+generally compare a null hypothesis (H,) (typically of no difference or no association [eg, no
+correlation between glycosylated hemoglobin and high-sensitivity C-reactive protein levels])
+against an alternative hypothesis (H.) (typically of a difference or an association). Hypothesis
+testing may result in 1 of 4 possible outcomes:
+¢ 2 correct decisions:
+© Fail to reject a true H, (ie, determine there is no correlation when one truly doesn't
+exists)
+© Reject a false H, (ie, determine there is a correlation when one truly exists)
+¢ 2 incorrect decisions:
+© Type | error: reject a true H, (ie, determine there is a correlation when one truly doesn't
+exist)
+© Type Il error: fail to reject a false H, (ie, determine there is no correlation when one
+truly exists)
+
+The power of a test is the probability of making the correct decision of rejecting a false H,. It
+
+is the conigternsin of the probability of a ate Il error r (B), which is the probability of failing to
+
+Block Time Elapse
+Tutor
+
+63
+
+Settings
+
+End Block

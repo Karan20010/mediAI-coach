@@ -1,0 +1,26 @@
+soa — Item 4 of 29 <q = rt é L<) id i+ ENE)
+7 2 “Question Id: 19810 LS 4 Mark Pars Next ieee ® Lab a Notes Calculator Reverse Color —Text Zoom &.
+. 3 follows:
+. - SLE + SLE -
+_ 7 240 210
+* 8 Yes
+9 History of (a) (b)
+_* endometriosis No 800 1,050
+= (c) (d)
+13
+“4 Total 1,040 1,260
+is
+: The odds of endometriosis in women with SLE and women without SLE are:
+. ¢ Odds of endometriosis in cases: a/c = 240/800 = 0.3
++ 20 e Odds of endometriosis in controls: b/d = 210/1,050 = 0.2
+» 21
+0 Therefore, the OR of endometriosis in women with SLE compared to women without SLE is:
+23
+os OR = (odds of endometriosis in cases) / (odds of endometriosis in controls) = (a/c) /
+— (b/d) = 0.3/0.2 = 1.5
+= The estimated OR = 1.5 is >1 (ie, the null value for the OR); this indicates that a history of
+29 endometriosis acts as a risk factor for SLE. Activate Windows
+
+Block Time Elapse
+
+Tutor Feedback id = End Block

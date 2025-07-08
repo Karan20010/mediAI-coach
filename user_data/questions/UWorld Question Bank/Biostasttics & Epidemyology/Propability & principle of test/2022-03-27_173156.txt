@@ -1,0 +1,52 @@
+a Pe i @® a » - &A 8
+
+e r
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+— litem 12 of 23
+= a V7 Mark
+
+Question Id: 19239
+
+Researchers want to study the effects of labyrinthectomy with cochlear implantation on
+
+hearing, vertigo, and tinnitus. A random sample of medical charts is selected from a cohort of
+
+patients who had undergone labyrinthectomy with cochlear implantation in the same ear for
+
+intractable vertigo and hearing loss and who had documentation of both preoperative and
+
+postoperative audiometric evaluations. Tinnitus is quantified using the Tinnitus Handicap
+
+Inventory (THI) before and after the interventions. The THI score ranges from 0 to 100, with
+
+higher values indicating greater tinnitus severity. Which of the following statistical tests is most
+
+appropriate for comparing preoperative and postoperative THI scores?
+
+JY E. Paired t-test (69%)
+
+A. Analysis of variance (4%)
+B. Chi-square test (11%)
+C. Correlation analysis (13%)
+
+D. Meta-analysis (1%)
+
+Gules 69% 7D 04 secs ey 2022
+
+Block Time Elapsed: 00:01:08
+
+Tutor
+
+Activate Windows
+
+%
+
+Feedback
+
+Suspend
+
+()
+
+End Block
+

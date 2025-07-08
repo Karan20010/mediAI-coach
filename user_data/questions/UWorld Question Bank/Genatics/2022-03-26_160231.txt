@@ -1,0 +1,16 @@
+Parental genome Linkage equilibrium
+
+“ : : Gesnete Posenamies:
+Equal frequencies for all haplotypes
+
+Genes on separate chromosomes
+segregate independently
+
+Parental genome inkage disequilibrium
+Gamete possibilities
+\ | yA | ,
+A Frequency Y Frequency
+Genes in close proximity Haplotype frequency unequal
+become inked
+
+©UWord

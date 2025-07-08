@@ -1,0 +1,39 @@
+= ltem2o0f23 rq Al
+
+41 Pe
+
+— : a V7 Mark L4
+Question Id: 1190 Rar Next FullScreen Tutorial _—_Lab Values
+
+Negative predictive value (NPV) is defined as the probability of not having a disease when
+the test result is negative. NPV is calculated as the proportion of true negatives divided by
+the total number of negative tests (true and false negatives); therefore, it varies with the
+prevalence of disease in the target population.
+
+The prevalence of a disease in a population may be used as an estimate for the pretest
+probability of having the disease in patients who closely resemble the population. A patient
+with a high pretest probability will have a low NPV with a negative test, whereas a patient with
+a low pretest probability will have a high NPV with a negative test.
+
+This patient has a high pretest probability for having thyroid cancer since she most likely
+received significant radiation exposure to the thyroid during childhood. As such, her negative
+cytology results would have a lower NPV when compared to another patient with no risk
+factors for thyroid malignancy who also tests negative.
+
+(Choice B) Positive predictive value also varies according to the pretest probability but
+
+applies to positive test results.
+
+(Choices C and D) Sensitivity and specificity of a test are intrinsic characteristics of a test;
+
+o
+
+Notes Calculator __ Reverse Color
+
+ck
+
+GA &
+
+Text Zoom —_ Settings
+
+Suspend

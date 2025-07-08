@@ -1,0 +1,19 @@
+Equilibration movements of charged ions under physiologic conditions
+
+Major Equilibrium a :
+lon Charge . . Equilibration movement at -70 mV
+location potential
+Extracellular gradient drives Na*
+Sodium Positive | Extracellular | +60 mV into cell, making membrane
+potential more positive (Choice E)
+Intracellular gradient drives K* out
+Potassium|Positive {Intracellular |-90 mV of cell, making membrane potential
+more negative
+Extracellular gradient drives CI into
+Chloride |Negative|Extracellular |-75 mV cell, making membrane potential
+more negative (Choices B and C)
+Extracellular gradient drives Ca2*
+Calcium |Positive |Extracellular |+125 mV into cell, making membrane
+
+potential more positive (Choice A)
+

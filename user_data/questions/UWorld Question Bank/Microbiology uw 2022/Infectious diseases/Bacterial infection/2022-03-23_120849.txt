@@ -1,0 +1,6 @@
+Educational objective:
+
+Catscratch disease is caused by Bartonella henselae, a gram-negative coccobacillus
+transmitted by a cat scratch or bite. Patients commonly present with tender lymphadenopathy
+proximal to the inoculation site (eg, axillary, epitrochlear lymph nodes). Lymph node
+histopathology often shows necrotizing granulomas and stellate-shaped microabscesses.

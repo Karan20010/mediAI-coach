@@ -1,0 +1,74 @@
+os oe
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+21
+= 22
+23
++ 24
+25
++ 26
+27
++ 28
+29
+= 30
+31
+
+Question Id: 21462
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+= ltem6 of40 5 v Mark <q Se rc j @ él
+
+(Choice B) Disabling arthritis can be associated with plaque psoriasis, which classically
+presents with thick, silvery scales involving the knees, elbows, scalp, and lower back, features
+not seen in this patient.
+
+(Choice D) Proximal muscle weakness is characteristic of juvenile dermatomyositis, which
+can cause facial erythema but classically presents with a heliotrope rash on the upper eyelids.
+In addition, the onset typically occurs in school-aged children, not infants.
+
+(Choice E) Parvovirus B19 can cause transient anemia due to viral destruction of erythrocyte
+progenitor cells, typically in patients with red blood cell disorders (eg, sickle cell anemia).
+Initial symptoms include a nonspecific prodrome (eg, fever, coryza), followed by a nonpruritic,
+malar rash (ie, slapped cheeks) in school-aged children. This patient's age, lack of prodromal
+symptoms, and pruritus make this diagnosis unlikely.
+
+Educational objective:
+
+Atopic dermatitis increases the risk for allergic rhinitis, asthma, and food allergies, likely
+because of an immune response that favors IgE production. In addition, skin barrier
+dysfunction facilitates food allergen penetration and sensitization, increasing the risk for food
+allergies.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

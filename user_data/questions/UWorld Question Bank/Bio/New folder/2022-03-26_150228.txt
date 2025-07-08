@@ -1,0 +1,38 @@
+41 be Hal
+
+Previous Next Full Screen Tutorial Lab Values Notes
+
+Text Zoom
+
+Settings
+
+acid can deaminate C, A, and G. There are also spontaneous changes, such as deamination
+of C to U and the constant low-level loss of purines via thermal disruption. Glycosylases are
+enzymes that detect and remove abnormal bases from DNA, creating an empty sugar-
+phosphate residue that is subsequently removed and replaced by the correct nucleotide (base
+excision repair).
+
+(Choice E) Exposure to ionizing radiation causes double-stranded DNA breaks that are
+repaired by end-joining repair mechanisms. Non-homologous end joining, the main
+mechanism in primates, is more prone to cause mutations than homologous recombination.
+
+Educational objective:
+
+Lynch syndrome is an autosomal dominant disease caused by abnormal nucleotide mismatch
+repair. The mismatch repair system involves several genes, including MSH2 and MLH1, which
+code for components of the human MutS and MutL homologs. Mutations in these 2 genes
+account for around 90% of cases of Lynch syndrome.
+
+Biochemistry Gastrointestinal & Nutrition Lynch syndrome
+
+Subject System Topic
+
+Copyright © UWorld. All rights reserved.
+
+rot
+
+°
+
+nd
+
+End Block

@@ -1,0 +1,15 @@
+Hemoglobin is a tetramer that consists of 2 pairs of globin chains (total of 4 chains per
+molecule). During the first few weeks of embryogenesis, hemoglobin is synthesized by the
+yolk sac and contains zeta or epsilon globin chains (Choices G and F). Thereafter, one pair
+of the globin chains should always be alpha and the other should be non-alpha.
+
+Fetal hemoglobin (Hb F) production begins around 8 weeks gestation and replaces all
+embryonic hemoglobin by 14 weeks gestation, when erythropoiesis in the fetal liver and spleen
+is established. Hb F consists of 2 alpha and 2 gamma protein subunits (a2y2). Production
+declines at birth, and Hb F comprises ~60-80% of all hemoglobin in a term newborn. Hb F is
+gradually replaced by adult hemoglobin (Hb A, a282) (Choice A) during the first 6 months of
+life, after which Hb A composes the vast majority of adult hemoglobin.
+
+Compared to red blood cells with Hb A, those with Hb F have a high oxygen affinity as Hb F
+binds to 2,3-bisphosphoglycerate poorly. The greater affinity of Hb F facilitates transplacental
+oxygen delivery from the maternal circulation to that of the fetus.

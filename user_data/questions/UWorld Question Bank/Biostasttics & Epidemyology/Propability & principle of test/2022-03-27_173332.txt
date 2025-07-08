@@ -1,0 +1,25 @@
+BRCA mutation
+
+Cutoff
+Cancer
+absent
+
+% population with marker value
+
+Serum marker value
+
+No BRCA mutation
+3 Cutoff
+= Cancer : > Cancer
+5 absent. \ : present
+= :
+2 .
+E :
+4 ‘ Sensitivity
+s 1? Specificity
+z
+&
+
+Serum marker value
+
+Specificity = TNI(TN+FP)

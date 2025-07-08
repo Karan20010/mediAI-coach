@@ -1,0 +1,43 @@
+= tem 18 of 29 <q Se rq @ él
+
+— " . La
+Question Id: 19806 Praras Next FullScreen Tutorial__—_Lab Values
+
+OR = (odds of exposure in cases) / (odds of exposure in controls) = (a/c) / (b/d) = 0.50 /
+1.10 = 0.45
+
+The OR is <1: this indicates that a high intake of probiotic yogurt during pregnancy has a
+protective effect against GDM.
+
+This example calculated the OR of exposure (ie, odds of exposure among cases relative to
+controls). The OR is sometimes described as the odds of disease among exposed individuals
+relative to nonexposed individuals, given by (a/b) / (c/d). Both OR definitions are
+mathematically equivalent and reduce to OR = (ad) / (bc).
+
+Educational objective:
+
+The odds ratio (OR) is a measure of association calculated as: OR = (odds of exposure in
+cases) / (odds of exposure in controls). For a correctly formatted contingency table: OR = (ad)
+/ (bc).
+
+Biostatistics Biostatistics & Epidemiology Odds ratio
+
+Subject System Topic
+
+Copyright © UWorld. All rights reserved.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+e @A 8
+
+Reverse Color _Text Zoom Settings
+
+Activate Windows
+
+End Block

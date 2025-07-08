@@ -1,0 +1,7 @@
+Educational objective:
+
+Dietary fructose is phosphorylated in the liver to F1P and is rapidly metabolized because it
+bypasses PFK-1, the major rate-limiting enzyme of glycolysis. Other sugars (eg, glucose,
+galactose, mannose) enter glycolysis prior to PFK-1 and as a result are metabolized more
+
+slowly.

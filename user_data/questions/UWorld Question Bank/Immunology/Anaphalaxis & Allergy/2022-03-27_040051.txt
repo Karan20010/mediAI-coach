@@ -1,0 +1,11 @@
+(Choice E) Regulatory T cells downregulate the cytotoxic T-cell response. Although cytotoxic
+T cells mediate Stevens-Johnson syndrome (destruction of keratinocytes that are displaying
+drug antigens), they do not play a role in the development of serum sickness.
+
+Educational objective:
+
+Serum sickness is an immune complex—mediated type Ill hypersensitivity reaction that
+typically forms 5-14 days after exposure to foreign proteins in an antitoxin, antivenom,
+monoclonal antibody, or vaccine. Patients typically develop fever, urticarial rash, and
+arthralgia that resolve spontaneously over days as the immune complexes are cleared by the
+mononuclear phagocyte system.

@@ -1,0 +1,15 @@
+(Choice A) Bilirubin glucuronyl transferase, or uridine 5'-diphospho-glucuronyl transferase
+(UGT), is the enzyme necessary for bilirubin conjugation to glucuronic acid. Lack of UGT or
+the use of medications that interfere with its activity impairs the liver's ability to conjugate
+bilirubin.
+
+(Choices B, D, and E) Ferrochelatase (inhibited by lead) is the final enzyme in the heme
+synthetic pathway. Porphobilinogen deaminase (PBG deaminase) and uroporphyrinogen
+decarboxylase (UROD) are also involved in heme production, not degradation; UROD
+deficiency can be seen in porphyria cutanea tarda, the most common porphyria, and PBG
+deaminase deficiency can be seen in acute intermittent porphyria.
+
+Educational objective:
+
+Heme oxygenase converts heme to biliverdin, a pigment that causes the greenish color to
+develop in bruises several days after an injury.

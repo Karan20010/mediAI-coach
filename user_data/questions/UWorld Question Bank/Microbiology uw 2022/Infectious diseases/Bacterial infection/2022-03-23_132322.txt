@@ -1,0 +1,46 @@
+1.
+
+The patient had impetigo, a skin infection caused by Staphylococcus aureus and less
+commonly by Streptococcus pyogenes (Group A streptococci [GAS]). Her facial puffiness
+(likely due to sodium and water retention and possibly proteinuria) and hematuria (likely due to
+nephritis) suggest post-streptococcal glomerulonephritis. Staphylococcal infection is not
+complicated by glomerulonephritis, so S pyogenes is the most likely causative organism of her
+symptoms.
+
+2.
+Acute poststreptococcal glomerulonephritis
+* Can be asymptomatic
+Clinical © If symptomatic: ;
+features o Gross hematuria (tea- or cola-colored urine)
+o Edema (periorbital, generalized)
+o Hypertension
+« Urinalysis: + protein, + blood, + red blood cell casts
+° Serum:
+Laboratory © | C3 & possible | C4
+findings © + Serum creatinine
+o 7 Anti-DNase B & t AHase
+o ASO & f anti-NAD (from preceding pharyngitis)
+
+AHase = antihyaluronidase; anti-DNase B = antideoxyribonuclease-B; ASO =
+antistreptolysin O; anti-NAD = antinicotinamide-adenine dinucleotidase.
+
+3.
+Nonsuppurative complications of GAS infections include acute rheumatic fever (ARF) and
+glomerulonephritis, thought to be due to the formation of different anti-streptococcal antibodies
+that cross-react with heart tissue or result in immune complex deposition in the kidney.
+Glomerulonephritis is associated with prior streptococcal pharyngeal or skin infection (eg,
+cellulitis, impetigo, erysipelas); ARF is associated with prior streptococcal pharyngitis but not
+skin infection. Previous streptococcal infection is evidenced by elevated streptococcal
+antibodies (anti-streptolysin, anti-DNaseB, and anti-hyaluronidase).
+
+S pyogenes are catalase-negative, B-hemolytic, gram-positive cocci in chains. S pyogenes is
+unique among B-hemolytic streptococci as it is susceptible to bacitracin. Because the
+bacitracin test is not very specific for S pyogenes, it has been replaced in many laboratories by
+the pyrrolidonyl arylamidase (PYR) test; S pyogenes is PYR-positive.
+4.
+Educational objective:
+Glomerulonephritis is associated with prior streptococcal pharyngeal or skin infection; acute
+rheumatic fever is associated with prior streptococcal pharyngitis but not skin infection.
+Streptococci are catalase-negative, staphylococci are catalase-positive. Streptococcus
+pyogenes (Group A Streptococcus) is B-hemolytic, bacitracin-susceptible, and pyrrolidonyl
+arylamidase-positive. Streptococcus pneumoniae is bile-soluble and optochin-susceptible.

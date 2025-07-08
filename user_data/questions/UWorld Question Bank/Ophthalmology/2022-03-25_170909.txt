@@ -1,0 +1,18 @@
+TPN = total parenteral nutrition.
+
+This patient has Candida endophthalmitis, a purulent infection of the structures and (usually)
+fluid chambers of the eye. Although molds such as Aspergillus or Fusarium generally spread
+to the eye via direct extension following surgery or trauma, yeasts such as Candida typically
+infect the eye via hematogenous dissemination in the setting of fungemia. Candida first
+seeds the highly vascular choroid layer and then spreads to the retina and fluid chambers.
+
+Most cases occur in hospitalized patients with a central venous catheter, which allows
+commensal Candida organisms from the skin to enter the bloodstream. The risk is further
+increased by total parenteral nutrition, broad-spectrum antibiotic therapy, recent abdominal
+surgery, and immunocompromise (eg, neutropenia, glucocorticoid therapy).
+
+Manifestations of Candida endophthalmitis are often unilateral and include floaters and a
+progressive loss in vision. Eye pain does not typically occur until late in the disease
+course. The patient may feel well and be otherwise asymptomatic or may have systemic
+symptoms (eg, fever) due to fungemia. Blood cultures should be obtained, but vitreous fluid
+sampling is usually required for diagnosis.

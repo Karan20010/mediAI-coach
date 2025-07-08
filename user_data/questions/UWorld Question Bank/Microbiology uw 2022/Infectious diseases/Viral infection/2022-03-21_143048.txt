@@ -1,0 +1,26 @@
+— Item 31 of 35 mY wax <q Se i @ al Lo) id @A &s
+
+. Le c
+Question Id: 7229 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+(Choice A) The HIV envelope proteins gp120 and gp41 mediate viral attachment and fusion
+with the host cell membrane. These proteins are generated as a polyprotein (gp160) from the
+env gene. Unlike the gag-pol polyprotein (which is cleaved by HIV protease) the env
+polyprotein is cleaved by a host protease, so production of glycosylated viral envelope proteins
+is not affected by HIV protease inhibitors.
+
+(Choices B and D) The po/ gene encodes the major HIV enzymes: reverse transcriptase
+(RT), integrase, and protease. RT converts the HIV RNA genome into complementary double-
+stranded DNA; it also destroys the HIV RNA genomic template during transcription
+(ribonuclease H activity). RT is inhibited by nucleoside/nonnucleoside reverse transcriptase
+inhibitors. Integrase inserts complementary viral DNA into the host chromosome. Integrase
+strand transfer inhibitors block the function of this enzyme. Both RT and integrase inhibitors
+block viral replication, but neither are associated with immature virions containing polyproteins.
+
+(Choice E) The HIV genome encodes for several regulatory proteins that are required for viral
+replication. However, all virus-encoded proteins are translated by host ribosomes, and
+blockade of protein translation would not be associated with the formation of polyproteins.
+
+Educational objective:
+
+End Block

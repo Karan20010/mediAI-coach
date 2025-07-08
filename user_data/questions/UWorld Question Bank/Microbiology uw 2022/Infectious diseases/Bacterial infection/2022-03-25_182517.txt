@@ -1,0 +1,16 @@
+Bacterial DNA replication is coordinated by the actions of multiple enzymes and proteins.
+Before DNA synthesis begins, helicase binds double-stranded DNA at the origin of replication
+with the assistance of DnaA protein, forming a replication fork that unwinds and separates the
+DNA (Choice D). Single-stranded DNA-binding protein then attaches to the separated strands
+to prevent their reannealing. Unwinding and separation of DNA produces positive supercoils
+that can lead to DNA fracture if not relieved. Topoisomerase II (DNA gyrase) relieves the
+tension created during unwinding by introducing negative supercoils into the DNA (Choice C).
+
+Before DNA polymerase III can begin elongating a new DNA strand, it requires an RNA primer
+made up of short RNA sequences base-paired to the parent DNA. This primer is synthesized
+by the enzyme primase (DNA-dependent RNA polymerase) (Choice F). DNA synthesis then
+proceeds in the 5' to 3' direction with the leading strand being formed continuously toward the
+replication fork and the lagging strand being formed discontinuously away from the replication
+fork. Replication of the lagging strand results in the formation of numerous short DNA
+segments called Okazaki fragments. These fragments are ultimately bound together by the
+enzyme ligase after their RNA primers have been removed and replaced with DNA (Choice E).

@@ -1,0 +1,28 @@
+ra =|
+= cueston 708 LS 4 Mark > i ieee ® ee a cot so &.
+e O be prese eve e
+same effect at each point along the curve. If enough of the original substrate is added, the
+reaction can still reach the same maximum effect. Thus, the log dose-response curve for a full
+agonist combined with a reversible competitive antagonist will exhibit a parallel shift to the right
+in the log-dose response curve, with an increase in the ED. and no change in the maximum
+
+effect (Emax).
+
+(Choice A) Curve A is the dose-response curve for the original agonist drug in the absence of
+modifiers such as antagonists.
+
+(Choices B and C) Both Curves B and C represent the effect of adding a noncompetitive
+antagonist to the agonist. Note that the EDso is unchanged (i.e. the EDso for Curves A, B and C
+occur at the exact same log drug concentration). This is a distinguishing characteristic of
+noncompetitive antagonism. The maximum effect (E,.ax.) of Curves B and C are reduced
+because the noncompetitive antagonist has effectively reduced the number of receptors
+available for binding. The decrease in E,,., will depend on the dose of noncompetitive
+antagonist present and is illustrated by the difference between Curves B and C, where a
+higher concentration of antagonist is present in Curve C than in Curve B.
+
+(Choice D) Curve D illustrates a rightward shift in the dose-response relationship, but the shift
+
+Block Time Elapse
+
+Tutor End Block
+

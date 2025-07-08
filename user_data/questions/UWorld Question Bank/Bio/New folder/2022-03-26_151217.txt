@@ -1,0 +1,18 @@
+Biotin (vitamin B7) as a cofactor
+
+Enzyme Reaction
+
+Pyruvate to oxaloacetate
+Pyruvate carboxylase 5
+(gluconeogenesis)
+
+Acetyl-CoA to malonyl-CoA
+
+Acetyl-CoA carboxylase ; |
+(fatty acid synthesis)
+
+F Propionyl-CoA to methylmalonyl-CoA
+Propionyl-CoA carboxylase
+
+(fatty acid oxidation)
+

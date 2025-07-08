@@ -1,0 +1,7 @@
+Educational objective:
+
+Atopic dermatitis presents with dry, erythematous patches or papules that are caused in part
+by a Th2-skewed immune response. Th2 cytokines (eg, IL-4, IL-13) stimulate IgE production,
+suppress epidermal barrier component expression, and impair host immune responses against
+
+secondary microbial infections.

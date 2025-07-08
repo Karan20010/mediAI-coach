@@ -1,0 +1,20 @@
+This patient has anisocoria (ie, pupillary asymmetry), which indicates a unilateral defect in
+input from either the ocular sympathetic (pupil dilation) or parasympathetic (pupil constriction)
+pathway. In response to dim light, input from the oculosympathetic pathway initiates
+pupillary dilation, allowing more light to reach the retina. Under bright light, parasympathetic
+input from the ipsilateral oculomotor nerve (CN Ill) initiates pupillary constriction, limiting the
+amount of light received by the retina.
+
+Determining which pathway is affected in anisocoria can be accomplished by observing the
+change in pupillary discrepancy in both bright and dim light:
+e¢ Asymmetry that increases in dim light indicates that the smaller pupil is unable to dilate
+due to loss of sympathetic nerve input. Under bright light, the asymmetry will decrease
+because parasympathetic input (pupillary constriction) is unaffected.
+
+¢ Asymmetry that increases under bright light indicates that the larger pupil is unable to
+constrict due to loss of parasympathetic nerve input. In dim light, the asymmetry will
+decrease because sympathetic input (pupillary dilation) is unaffected.
+
+This patient has increased asymmetry in a dim room, indicating that the smaller (right) pupil
+is unable to dilate due to loss of sympathetic nerve input secondary to a lesion in the right
+oculosympathetic pathway.

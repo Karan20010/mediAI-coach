@@ -1,0 +1,10 @@
+Trimethoprim-sulfamethoxazole & folic acid pathway
+
+TMP (bacteria)
+MTX (humans) i
+Sulfonamide Pyrimethamine (protozoa) Deoxythymidine monophosphate
+p-Aminobenzoic acid —+—» Dihydrofolic acid —+~——> THF ——* Purines
+DHFR
+
+Methionine
+DHFR = dihydrofolate reductase; MTX = methotrexate; THF = tetrahydrofolic acid; TMP = trimethoprim ©uworid

@@ -1,0 +1,36 @@
+‘Question Id: 14930
+
+— Item 31 of 38 mY wax 41 pe i (©) al @ 4 QA
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+Interaction between the receptor for activated nuclear factor kappa B (RANK) and its ligand
+(RANK-L), is critical for the development of mature, multinucleated osteoclasts. This binding
+is blocked by osteoprotegerin (OPG), which acts as a decoy receptor for RANK-L
+(preventing it from interacting with RANK). By binding RANK-L, OPG reduces the
+differentiation and survival of osteoclasts, resulting in decreased bone resorption and
+increased bone density.
+
+Estrogen maintains bone mass in premenopausal women by inducing production of OPG by
+osteoblasts and stromal cells and decreasing expression of RANK on osteoclast precursors.
+The loss of OPG at menopause leads to increased osteoclast activity that predisposes to
+osteoporosis.
+
+Denosumab is a monoclonal antibody used in the treatment of postmenopausal osteoporosis.
+It works similar to OPG in that it binds RANK-L and prevents its interaction with RANK
+receptor. Denosumab therefore causes decreased osteoclast differentiation and activity
+(Choice D) as well as decreased bone resorption.
+
+(Choices A and C) RANK (receptor) is not present on osteoblasts, and inhibition of binding of
+RANK-L to RANK does not affect osteoblast activity or bone mineralization.
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

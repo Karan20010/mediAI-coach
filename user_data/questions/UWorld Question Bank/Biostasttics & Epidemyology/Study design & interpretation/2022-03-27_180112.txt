@@ -1,0 +1,3 @@
+Educational objective:
+An inappropriately small sample will fail to identify important clinically significant differences as
+statistically significant because of a lack of sufficient statistical power.

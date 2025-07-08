@@ -1,0 +1,12 @@
+Hepatitis D virus (HDV) is a small, enveloped RNA virus that does not contain a replicase or
+RNA polymerase. Therefore, the virus is completely reliant on host cell machinery for
+transcription and translation. In addition, HDV is considered a replication-defective virus
+because it does not encode for viral envelope proteins, which are necessary to generate viral
+progeny. HDV can only finish its replication cycle in the setting of coinfection with hepatitis
+B virus (HBV). HBV encodes for several envelope proteins (HBsAg) that are used to
+generate the envelope of HDV. Therefore, universal vaccination against HBV would
+completely eliminate HDV.
+
+HDV infection can occur as an acute coinfection with hepatitis B or as a superinfection in a
+chronic HBV carrier. Infection with HDV dramatically increases the already elevated risk of
+cirrhosis and hepatocellular carcinoma seen with HBV.

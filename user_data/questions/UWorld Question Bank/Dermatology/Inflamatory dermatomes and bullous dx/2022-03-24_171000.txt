@@ -1,0 +1,11 @@
+This patient developed localized erythema and vesicles 2 days after reexposure to a chemical
+on patch testing, which identified the allergen responsible for allergic contact dermatitis
+(ACD). ACD is a type IV (delayed-type) hypersensitivity reaction that occurs in 2 phases:
+¢ In the sensitization phase, cutaneous Langerhans cells take up haptens (ie, allergens)
+and present them to naive CD4- and CD8- T cells in the regional lymph nodes, resulting in
+clonal expansion of hapten-sensitive T cells. This phase takes 10-14 days and does not
+result in cutaneous lesions.
+¢ On reexposure to the hapten, cutaneous antigen-presenting cells present the hapten to
+sensitized T cells recruited to the skin. When activated, these T cells mediate tissue
+damage that manifests as pruritic erythema, vesicles, and/or bullae. This elicitation
+phase occurs 2-3 days following reexposure to the hapten.

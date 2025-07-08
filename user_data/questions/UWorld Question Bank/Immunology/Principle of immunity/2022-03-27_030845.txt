@@ -1,0 +1,41 @@
+Question Id: 21420
+
+= ltem4of25 5 v Mark <q Se rc j @ él
+
+Previous Next utter Tutorial Lab Values
+fever, malaise, lethargy, poor feeding). It also stimulates antigen-presenting cells to increase
+phagocytosis, antigen display, and expression of costimulatory molecules (eg, CD80/86) for T-
+and B-cell activation, thereby triggering a strong adaptive immune response.
+
+(Choice A) Beta-2 integrin (CD18) helps leukocytes migrate from the bloodstream to tissue by
+binding to intercellular adhesion molecule-1 on the extracellular matrix of the endothelium. It
+also helps macrophages, neutrophils, and natural killer cells generate complement receptors,
+which recognize and phagocytose foreign peptides.
+
+(Choice B) The Fc receptor (CD16) on phagocytic cells binds to opsonized (eg, IgG-bound)
+foreign pathogens, leading to phagocytic destruction. The Fc receptor on natural killer cells
+mediates their ability to destroy infected or cancerous cells by antibody-dependent cellular
+cytotoxicity.
+
+(Choice C) L selectin (CD62L) is a lymphocyte adhesion molecule that binds to a ligand on
+the venule endothelium, which allows lymphocytes to leave the bloodstream and enter
+secondary lymphoid tissue.
+
+(Choice D) Major histocompatibility complex class || molecules are on antigen-presenting
+cells; they present antigens to the T cell receptor on CD4 cells.
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+id
+
+End Block

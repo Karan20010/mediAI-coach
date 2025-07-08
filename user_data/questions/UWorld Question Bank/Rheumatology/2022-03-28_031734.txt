@@ -1,0 +1,7 @@
+Educational objective:
+
+Colchicine is a second-line agent for treating acute gouty arthritis. It inhibits tubulin
+polymerization and microtubule formation in leukocytes, reducing neutrophil chemotaxis and
+emigration to sites inflamed by tissue deposition of monosodium urate crystals.
+Gastrointestinal mucosal function is also impaired by microtubule disruption, leading to
+diarrhea and, less commonly, nausea, vomiting, and abdominal pain.

@@ -1,0 +1,58 @@
+— Item3 of 29
+= a V7 Mark
+
+Question Id: 19848
+
+The specificity of the standard test to detect disease X in the general population is 73%. A
+team of researchers set forth a goal to increase specificity for detecting disease X. They
+develop a new test and conduct a study to evaluate its performance on a random sample from
+
+Previous
+
+e
+Next Full Screen
+
+the general population. The results of their study are shown below.
+
+Patients with disease X
+
+Patients without disease X
+
+Positive
+
+270
+
+45
+
+Negative
+
+30
+
+255
+
+According to these results, have the researchers achieved their goal?
+
+Block Time Elapse
+Tutor
+
+() A. Cannot be determined because the prevalence of disease X is not provided
+
+|) B. No, the researchers’ new test has about 9% lower specificity than the standard test
+©) C. No, the researchers' results lead to nearly the same specificity as the standard test
+©) D. Yes, the researchers achieved an increase in specificity of about 12%
+
+(©) E. Yes, the researchers achieved an increase in specificity of about 15%
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

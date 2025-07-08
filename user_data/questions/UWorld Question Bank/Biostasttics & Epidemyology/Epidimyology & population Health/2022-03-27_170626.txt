@@ -1,0 +1,32 @@
+— Item 23 of 29 dq > ra @ al L) er GWA &
+
+= jon (a: [Ls c
+Question Id: 19468 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+W a W Y ante, Wr V U 0
+
+100%, and PPV is close to 0%. This explains why, with decreasing prevalence, NPV
+increases (more TN, fewer FN) and PPV decreases (fewer TP, more FP).
+
+¢ Populations with exceptionally high disease prevalence (eg, prevalence close to 100%)
+have almost all TP (ie, more TP) with almost no TN (ie, fewer TN), and most negative tests
+would be FN (ie, more FN) with almost no FP (ie, fewer FP). In this scenario, NPV is close
+to 0%, and PPV is close to 100%. This explains why, with increasing prevalence, NPV
+decreases (fewer TN, more FN) and PPV increases (more TP, fewer FP).
+
+(Choices B, C, and E) In this example, population 1 has a lower prevalence (15%) of
+dementia in women age 275 compared to population 2 (30%). Therefore, NPV in population 1
+> NPV population 2, and PPV in population 1 < PPV population 2.
+
+Educational objective:
+Predictive values change depending on the prevalence of disease in a study population. As
+
+. disease prevalence increases, the positive predictive value increases, and the negative
+
+predictive value decreases.
+
+References
+¢ Diagnostic methods |: sensitivity, specificity, and other measures of accuracy. aiveteV
+
+Block Time Elapse
+
+Tutor End Block

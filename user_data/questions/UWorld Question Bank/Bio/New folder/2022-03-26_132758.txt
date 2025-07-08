@@ -1,0 +1,5 @@
+This patient has cataracts, an opacification of the lens of the eye that can lead to blindness,
+likely a result of long-standing hyperglycemia due to poorly controlled diabetes mellitus.
+Certain cells (eg, retinal, endothelial, lens, renal mesangial, Schwann) are more vulnerable to
+hyperglycemia-induced damage because they are unable to regulate glucose transport when
+circulating levels are high.

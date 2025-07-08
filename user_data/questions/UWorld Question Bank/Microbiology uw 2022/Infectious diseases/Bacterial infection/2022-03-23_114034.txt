@@ -1,0 +1,17 @@
+This patient with an uncertain vaccination history likely died from diphtheria, a clinical illness
+caused by toxigenic strains of Corynebacterium diphtheriae. The disease is rare in the
+developed world due to widespread vaccination with diphtheria toxoid, but outbreaks often
+occur in regions where vaccination efforts are insufficient (eg, Southeast Asia). Most cases
+are transmitted by aerosolized droplets from asymptomatic carriers or infected patients.
+Although the pathogen has little capacity for invasion, it generates a potent exotoxin
+(diphtheria toxin) that irreversibly inhibits protein synthesis through ADP-ribosylation of
+elongation factor-2, leading to host cell death and necrosis. Local effects of the toxin include
+pharyngitis and laryngotracheitis, often with an extensive, coalescing exudate
+(pseudomembrane). Absorption of the toxin into the bloodstream results in potentially life-
+threatening myocarditis and neuritis.
+
+Diphtheria can be prevented with the diphtheria-pertussis-tetanus (DPT) childhood
+vaccination, which generates neutralizing IgG antibodies against the binding component (B
+subunit) of the diphtheria exotoxin. The vaccine inhibits toxin-mediated cell damage and also
+reduces the competitive advantage of toxigenic strains, thereby reducing toxigenic carriage
+rates within the population.

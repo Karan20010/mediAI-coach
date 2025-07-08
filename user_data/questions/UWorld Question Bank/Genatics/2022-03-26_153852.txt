@@ -1,0 +1,37 @@
+= Item 14 of 40 5 v Mark <q Se a) @ él fcc] Pr Qala)
+
+: [Ls c
+Question Id: 1476 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom
+
+This boy with severe photosensitivity, poikiloderma, hyperpigmentation in sun-exposed areas,
+and squamous cell carcinoma of the skin has xeroderma pigmentosum, an autosomal
+recessive disorder characterized by defects in nucleotide excision repair.
+
+DNA can be damaged by ultraviolet rays, leading to formation of thymine dimers between 2
+adjacent thymine residues. These thymine dimers are repaired by UV-specific
+endonuclease, an enzyme that is frequently deficient in patients with xeroderma
+pigmentosum. This enzyme recognizes distortions in the structure of DNA caused by thymine
+dimers and subsequently excises stretches of single-stranded DNA that contain these defects.
+The gap created following this excision is then filled by DNA polymerase, which uses the
+opposite DNA strand as a template. The new strand of DNA is then joined on both ends to the
+existing DNA by the enzyme ligase.
+
+(Choice A) 3'—5' exonuclease activity describes the "proofreading" ability of DNA
+polymerase. This ability allows for the recognition and repair of mismatched bases during
+DNA replication. Hereditary nonpolyposis colon cancer is associated with DNA mismatch
+
+repair gene mutations.
+
+(Choice B) DNAligase is responsible for creating a phosphodiester linkage between the
+
+phosphate group of the 5' end of a DNA fragment and the hydroxyl group of the 3' end. DNA
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

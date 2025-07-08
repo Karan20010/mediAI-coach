@@ -1,0 +1,7 @@
+Educational objective:
+
+Methylmalonic acidemia is an organic acidemia due to complete or partial deficiency of
+methylmalonyl-CoA mutase. Complete deficiency classically presents with lethargy, vomiting,
+and tachypnea in a newborn. Laboratory testing shows hyperammonemia, ketotic
+hypoglycemia, and metabolic acidosis. The diagnosis is confirmed by elevated urine
+methylmalonic acid and propionic acid.

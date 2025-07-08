@@ -1,0 +1,17 @@
+Base excision repair
+
+7 7
+creates unusual
+base uracil
+
+Glycosylase cleaves
+the altered base
+leaving an AP site
+
+Endonuclease cleaves the
+5’ end and lyase cleaves
+the 3’ sugar-phosphate
+
+DNA polymerase fills the
+single nucleotide gap and
+ligase seals the nick

@@ -1,0 +1,5 @@
+Educational objective:
+
+DNA-binding proteins include transcription factors (Myc, CREB), steroid receptors (cortisol,
+aldosterone, progesterone), thyroid hormone receptor, fat-soluble vitamin receptors (vitamin D,
+retinoic acid), and DNA transcription and replication proteins.

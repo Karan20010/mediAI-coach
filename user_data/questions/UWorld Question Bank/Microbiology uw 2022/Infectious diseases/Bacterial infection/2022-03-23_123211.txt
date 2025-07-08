@@ -1,0 +1,19 @@
+Hemolytic uremic syndrome (HUS) is a major cause of acute renal failure in children. It is
+characterized by the triad of renal insufficiency, thrombocytopenia, and microangiopathic
+hemolytic anemia. Most cases occur due to underlying enterohemorrhagic Escherichia coli
+(EHEC) infection, particularly with the 0157:H7 serotype.
+
+EHEC is a gram-negative, enteric rod that acquires the ability to produce Shiga toxin from a
+lysogenic bacteriophage. Shiga toxin enters the cytosol of host cells and cleaves a protein
+motif off the 60S ribosomal subunit, which irreversibly halts host protein synthesis and causes
+cell death. Toxin-mediated injury to the colonic mucosa and the colonic capillaries causes
+abdominal pain and bloody diarrhea. The absorption of Shiga toxin into the systemic
+circulation causes glomerular (renal insufficiency) and vascular (thrombocytopenia,
+microangiopathic hemolytic anemia) injury in a minority of patients, leading to HUS.
+
+The primary reservoir for EHEC is the gastrointestinal tract of healthy cattle. Humans primarily
+acquire the organism after consuming contaminated, undercooked beef. Because low
+infectious doses (10-100 organisms) are required for disease, meatpacking facilities that
+process high volumes of ground beef are an important source of outbreaks. Other less
+common routes of transmission include person-to-person contact and fruits and vegetables
+contaminated with manure.

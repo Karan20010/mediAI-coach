@@ -1,0 +1,32 @@
+Question Id: 1203
+
+— Item 20 of 29 mY wax <q Se i @ al Lo) id @A &s
+
+e r
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+The scenario described above is a good example of prospective cohort study. Initially a group
+of subjects is selected (i.e., cohort) and their exposure status is determined (smoker/non-
+smoker). The cohort is then followed for a certain period of time and observed for
+development of the outcome (breast cancer). Sometimes, the exposure status is determined
+retrospectively and then patients are tracked from that point of time, typically using medical
+records (Choice B).
+
+(Choice C) A case-control study is designed by selecting patients with a particular disease
+(cases) and without that disease (controls) and then determining their previous exposure
+status.
+
+(Choice D) A cross-sectional study is also known as a prevalence study. It is characterized by
+the simultaneous measurement of exposure and outcome. It is a snapshot study design that
+frequently uses surveys. They are relatively inexpensive and easy to perform.
+
+(Choice E) A randomized clinical trial directly compares two or more treatments. Usually, the
+subjects are randomly assigned to an exposure (e.g., a medication) or placebo and then
+
+followed for the development of the outcome of interest.
+
+Educational Objective: ctivate V
+
+Block Time Elapse
+
+Tutor End Block

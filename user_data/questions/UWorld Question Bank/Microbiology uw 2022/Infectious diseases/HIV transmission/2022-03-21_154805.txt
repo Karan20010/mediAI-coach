@@ -1,0 +1,7 @@
+Educational objective:
+
+Hepatitis B virus has a partially double-stranded DNA genome and contains a viral DNA
+polymerase with reverse transcriptase activity. Reverse transcriptase serves a crucial step in
+viral replication; it converts transcribed positive sense single-stranded RNA into the partially
+
+double-stranded DNA genome of viral progeny.

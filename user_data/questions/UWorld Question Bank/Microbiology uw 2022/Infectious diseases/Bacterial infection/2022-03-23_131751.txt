@@ -1,0 +1,11 @@
+(Choice A) Efflux pumps are generally globular proteins with multiple domains. They reside
+in the bacterial cell membrane and excrete toxic substances from the interior of the cell.
+Bacteria can use efflux pumps to generate antibiotic resistance to drugs that operate in the
+interior of the cell, such as fluoroquinolones and aminoglycosides.
+
+(Choices B and C) The bacterial cell wall of S pyogenes provides mechanical support and
+protects it from osmotic lysis. It is composed primarily of peptidoglycan, which forms a mesh-
+like, cross-linked polymer of peptides and sugars.
+
+(Choice E) Porins in the cell membrane aid in the movement of nutrients into bacterial cells.
+They are composed of protein strands that group together to form a barrel (beta-barrel).

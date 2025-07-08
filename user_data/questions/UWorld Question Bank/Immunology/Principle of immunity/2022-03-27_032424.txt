@@ -1,0 +1,30 @@
+= Question Id: 762
+
+— Item 22 of 25 mY war <q = i @ a F 33
+
+e c
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+Helper T cells that have not yet contacted antigens are called naive (ThO) cells and have T-
+cell receptors (TCRs) and CD4 proteins on their surface. An antigen-MHC class II complex
+on an antigen-presenting cell (eg, macrophage, dendritic cell) can activate a naive Th cell by
+interacting with both TCR and CD4. The activated T cell then differentiates into either a Th1 or
+Th2 cell.
+
+If the antigen is presented by a macrophage, the macrophage will produce IL-12, which
+stimulates differentiation into Th1 cells. A deficiency of IL-12 receptors on naive T cells
+prevents differentiation into Th1 cells, which produce interferon-gamma (IFN-y). IFN-y is
+responsible for activation of the macrophage and CD8- cytotoxic response against intracellular
+organisms, such as mycobacteria. Therefore, individuals with an IL-12 receptor deficiency
+are susceptible to severe, persistent mycobacterial infections. Administration of IFN-y
+improves the immune response to mycobacterium in these patients.
+
+(Choices A and B) Both complement and GM-CSF (granulocyte-macrophage colony-
+stimulating factor) play a part in the immune response against pathogens such as
+mycobacterium. However, patients with an IL-12 receptor deficiency are unable to produce
+sufficient IFN-y and therefore would not be able to mount a sufficient immune response to
+mycobacterium without IFN-y supplementation.
+
+Block Time Elapse
+
+Tutor ck Suspend

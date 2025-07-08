@@ -1,0 +1,46 @@
+ra
+
+— Item 1 of 24 < @ al
+= a a V7 Mark L4
+Question Id: 802 Full Screen Tutorial Lab Values
+
+©uUWorld
+This patient most likely has cystic fibrosis (CF), an autosomal recessive disease characterized
+by recurrent sinopulmonary infections, pancreatic insufficiency, and malabsorption. It is
+caused by several different mutations that affect the CF transmembrane conductance
+regulator (CFTR) gene.
+
+The most common CFTR gene mutation (found in approximately 70% of cases) is a 3-base
+pair deletion of phenylalanine at amino acid position 508 (AF508). This mutation causes
+impaired post-translational processing (eg, improper folding and glycosylation) of CFTR,
+which is detected by the endoplasmic reticulum. As a result, the abnormal protein is targeted
+for proteasomal degradation, preventing it from reaching the cell surface. Certain drugs (eg,
+lumacaftor) can partially correct this folding defect, leading to expression of functional CFTR.
+(Choice B) Decreased production of functionally normal CFTR (eg, reduced messenger RNA
+or protein stability) often causes a milder form of the disease with normal sweat chloride levels
+that may not be diagnosed until adulthood.
+
+(Choice C) Mutations affecting regulation of chloride ion conduction through a CFTR protein
+also result in CF. However, they result in decreased chloride conductivity and are less
+
+common than the AF508 mutation.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

@@ -1,0 +1,50 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+10
+at
+12
+13
+14
+15
+
+Item 17 of 18 <j Se
+
+Question Id: 1959 previo Next Tutorial Lab Values Notes
+
+synthesizing bacteria which would otherwise have been resistant to amoxicillin alone.
+(Choice A) Clavulanic acid has negligible intrinsic antibacterial activity.
+(Choice B) Immune cells do not produce beta-lactamases.
+
+(Choice D) Clavulanic acid has no effect on the biotransformation of amoxicillin in the liver.
+Moreover amoxicillin undergoes enterohepatic recirculation and is excreted primarily in
+unchanged form in the urine.
+
+(Choice E) Probenecid is a compound that decreases the renal clearance of penicillins by
+inhibiting the tubular organic acid secretion system. This agent has been utilized to prolong
+the action of penicillin in some settings.
+
+Educational Objective:
+
+Clavulanic acid, sulbactam and tazobactam are beta-lactamase inhibitors. Concurrent
+administration of clavulanate with amoxicillin expands amoxicillin's spectrum of activity to
+include strains of B-lactamase synthesizing bacteria that are resistant to amoxicillin alone.
+
+Pharmacology Infectious Diseases Penicillin
+
+Subject System Topic
+
+Waiting for www.uworld.co
+
+Text Zoom
+
+Settings
+
+End Block

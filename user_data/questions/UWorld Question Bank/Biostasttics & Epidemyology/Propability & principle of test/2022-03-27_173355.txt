@@ -1,0 +1,26 @@
+— Item 14 of 23 mY wax <q Se i @ al Lo) id @A &s
+
+Question Id: 12854 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+A group of psychiatrists has noticed an unusual number of older individuals with depression in
+the surrounding community. A decision is taken to conduct a cross-sectional study to estimate
+the prevalence of depression in this specific population. Estimates for the prevalence of
+depression (cases per 100 individuals) in the community are as follows:
+
+Age group | Women | Men
+60-69 9.1 8.4
+70-79 11.9 | 10.4
+80-89 13.5 | 12.4
+
+90+ 13.3. | 12.1
+Total 11.9 | 10.8
+
+Suppose during an afternoon clinic, a psychiatrist sees a 65-year-old woman, a 72-year-old
+man, and an 84-year-old woman from this community. Assuming no relation between the 3
+patients, what is the probability that none of them has depression?
+
+© A. 0.001 Activate Windows
+
+Block Time Elapsed: 00:01:24 % Oo
+
+Tutor Feedback Suspend _—_End Block

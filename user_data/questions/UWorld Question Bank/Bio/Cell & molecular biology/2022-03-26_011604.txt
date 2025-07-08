@@ -1,0 +1,7 @@
+Educational objective:
+
+The phosphoinositol second messenger system begins with ligand-receptor binding and G,-
+protein activation leading to activation of phospholipase C (PLC). PLC then hydrolyzes
+phosphatidyl inositol bisphosphate and forms diacylglycerol and inositol triphosphate (IP:).
+
+Finally, IP; activates protein kinase C via an increase in intracellular Caz.

@@ -1,0 +1,16 @@
+Erythrocytes use glycolysis as the major pathway to generate energy as they do not have
+mitochondria and therefore cannot use the citric acid cycle. During normal glycolysis, ATP is
+generated when 1,3-BPG is converted to 3-phosphoglycerate by the enzyme
+phosphoglycerate kinase. However, erythrocytes can bypass this part of the pathway using
+bisphosphoglycerate mutase, an enzyme that converts 1,3-BPG to 2,3-BPG in a step that
+produces no ATP. 2,3-BPG is subsequently catabolized to 3-phosphoglycerate by
+bisphosphoglycerate phosphatase in a step that also yields no ATP. By generating 2,3-BPG
+rather than proceeding with regular glycolysis, erythrocytes sacrifice the net ATP gain achieved
+in normal glycolysis.
+
+The major function of erythrocytes is to carry hemoglobin-bound oxygen from the lungs to the
+peripheral tissues, and 2,3-BPG is a very important regulator of oxygen-hemoglobin binding.
+The conversion of 1,3-BPG to 2,3-BPG is increased in hypoxia and chronic anemia. 2,3-BPG
+allosterically decreases hemoglobin's affinity for oxygen. As a result, in the presence of lower
+blood oxygen concentrations, higher 2,3-BPG levels within erythrocytes enable increased
+oxygen delivery in the peripheral tissues.

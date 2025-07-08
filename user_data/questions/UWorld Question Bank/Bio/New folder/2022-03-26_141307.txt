@@ -1,0 +1,20 @@
+Tetrahydrobiopterin (BH.) is a cofactor in the synthesis of serotonin (a major neurotransmitter),
+tyrosine (a precursor of DOPA), and DOPA (the antecedent of the neurotransmitters dopamine,
+norepinephrine and epinephrine). Dihydropteridine reductase enzymatically reduces
+
+dihydrobiopterin (BH.) to tetrahydrobiopterin (BH,). Serotonin (5-hydroxytryptamine, or SHT) is
+
+formed through hydroxylation and decarboxylation of the amino acid tryptophan.
+
+Most cases of phenylketonuria are due to phenylalanine hydroxylase deficiency. Less
+commonly, the etiology is due to BH, deficiency secondary to dihydropteridine reductase
+deficiency. The consequences of defective phenylalanine and tryptophan metabolism are
+phenylalanine accumulation (Choice D) and low levels of serotonin and other
+neurotransmitters, respectively.
+
+The combination of high phenylalanine levels, which may disrupt neuronal and glial
+development, and low serotonin and other neurotransmitters results in progressive neurologic
+deterioration in untreated patients. Manifestations include developmental delay, hypotonia,
+dystonia, and seizures. Treatment includes both a low phenylalanine diet and BH,
+
+supplementation.

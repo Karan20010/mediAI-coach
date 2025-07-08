@@ -1,0 +1,3 @@
+Educational objective:
+Diphtheria toxin is an AB exotoxin that ribosylates and inactivates elongation factor-2. This
+action inhibits protein synthesis and ultimately leads to cell death.

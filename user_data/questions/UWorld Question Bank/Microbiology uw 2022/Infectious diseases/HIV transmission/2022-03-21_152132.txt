@@ -1,0 +1,5 @@
+Educational objective:
+
+HIV pol gene mutations are responsible for acquired resistance to reverse transcriptase
+inhibitors, protease inhibitors, and integrase strand transfer inhibitors. Mutations of the env
+gene enable escape from host-neutralizing antibodies.

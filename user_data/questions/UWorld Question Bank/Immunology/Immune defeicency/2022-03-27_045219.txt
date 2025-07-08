@@ -1,0 +1,45 @@
+= ltem9 of 22 5 v Mark <q Se rc j @ él
+
+Question Id: 22331 Previous Next Full Screen Tutorial Lab Values
+This young patient has multifocal osteomyelitis resistant to treatment, as well as a previous
+cutaneous (perianal) abscess. This history of multiple, invasive infections is worrisome for
+underlying immunodeficiency. Laboratory results show a normal white blood cell response to
+bacterial infection (ie, neutrophilic leukocytosis), but dihydrorhodamine (DHR) testing, which
+evaluates for phagocytic oxidative response, is abnormal. These findings are consistent with
+chronic granulomatous disease (CGD).
+
+CGD is a disorder of phagocytic metabolism characterized by defective NADPH oxidase, an
+enzyme in the respiratory burst pathway. Without this enzyme, neutrophils cannot form the
+reactive oxygen species required for intracellular killing of phagocytized organisms. Patients
+are predisposed to recurrent infections with certain catalase-positive organisms (eg,
+Staphylococcus aureus).
+
+The DHR assay detects the conversion of DHR (a colorless substance) to rhodamine
+(fluoresces green) by free radicals produced when the NADPH oxidase pathway is stimulated
+(eg, by a protein kinase C agonist such as phorbol myristate acetate). In unaffected patients,
+stimulated cells show increased intensity of fluorescence (ie, rightward shift along the x-axis),
+indicating appropriate NADPH activity, whereas unstimulated cells remain colorless. In
+patients with CGD, the stimulated cells show no increased fluorescence (ie, no oxidation of
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

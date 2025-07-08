@@ -1,0 +1,24 @@
+; 2 80 40
+: 8 200 120
+: 16 280 200
+© 64 400 400
+128 400 400
+
+Which of the following is the most accurate statement about malate in this experiment?
+
+© A. It alters the maximal velocity of the reaction
+
+©) B. It binds the enzyme at a different site than succinate
+©) C. It covalently binds the enzyme
+
+() D. It decreases affinity of the enzyme for succinate
+
+(> E. It is a competitive inhibitor of the enzyme
+
+Block Time Elapse
+
+Tutor
+
+Activate Windows
+
+End Blox

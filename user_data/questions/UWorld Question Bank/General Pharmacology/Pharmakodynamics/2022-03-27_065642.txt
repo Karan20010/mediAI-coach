@@ -1,0 +1,7 @@
+Educational objective:
+
+The Beers criteria identify drugs that should be used with caution in geriatric patients.
+Common drugs to avoid include anticholinergics (eg, first-generation antihistamines), centrally
+acting alpha-2 agonists, tricyclic antidepressants, benzodiazepines (and other sedating
+medications), antipsychotics, many antiarrhythmics (eg, digoxin), and skeletal muscle
+relaxants.

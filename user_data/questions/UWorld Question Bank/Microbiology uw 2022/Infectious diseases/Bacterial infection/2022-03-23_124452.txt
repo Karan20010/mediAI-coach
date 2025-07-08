@@ -1,0 +1,3 @@
+Educational objective:
+Shigella species require a low infectious dose to cause gastrointestinal disease. The
+mechanism primarily involves their ability to survive in the acidic (low pH) gastric environment.

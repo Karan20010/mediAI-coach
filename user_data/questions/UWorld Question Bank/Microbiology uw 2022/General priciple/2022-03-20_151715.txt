@@ -1,0 +1,6 @@
+Educational objective:
+
+Streptococcus pneumoniae is able to undergo transformation, which allows the bacterium to
+take up exogenous DNA fragments and express the encoded proteins. Through this method,
+strains of S pneumoniae that do not form a capsule can acquire the genes that code for the
+capsule and therefore gain virulence.

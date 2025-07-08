@@ -1,0 +1,30 @@
+Block Time Elapse
+Tutor End Block
+
+— Item 16 of 40 mY wax <q Se i @ al Lo) id @A &s
+
+Question Id: 1037
+
+e r
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+This patient likely has glucose-6-phosphate dehydrogenase (G6PD) deficiency, an X-
+linked recessive disorder causing hemolytic anemia and jaundice in response to oxidant
+stressors (eg, sulfonamide & antimalarial drugs, infection). Heinz bodies (oxidized hemoglobin
+conglomerates) precipitate in red blood cells and are removed by splenic macrophages,
+leaving behind characteristic bite cells.
+
+G6PD is an enzyme of the pentose phosphate pathway. It generates the reducing agent
+NADPH, which is essential for detoxification of hydrogen peroxide produced by partial
+reduction of molecular oxygen in red blood cells. In the absence of NADPH, reduced
+glutathione (the molecule required for reduction of hydrogen peroxide to water) remains in an
+oxidized state, and red blood cells become susceptible to oxidative damage.
+
+Glutathione reductase catalyzes the reduction of oxidized glutathione. Its absence leads to
+an inability to use NADPH to reduce glutathione, resulting in a clinical scenario similar to
+G6PD deficiency.
+
+(Choice A) Bisphosphoglycerate mutase is an enzyme unique to red blood cells and placental
+cells. It catalyzes the production of 2,3-bisphosphoglycerate, a molecule that binds to
+hemoglobin and increases offloading of oxygen in the tissues.
+

@@ -1,0 +1,12 @@
+This patient's laboratory studies are typical of hepatitis B vaccination. The hepatitis B
+vaccine is a safe and highly effective recombinant vaccine that contains HBsAg, a surface
+antigen that stimulates the production of anti-HBs in the host. Anti-HBs is a neutralizing
+antibody that prevents viral entry into cells. Therefore, individuals who receive the
+vaccination will develop immunity and be positive for anti-HBs but negative for HBsAg.
+
+In contrast to the vaccine, which only contains HBsAg, infection with hepatitis B virus (HBV)
+exposes patients to additional antigens. Hepatitis B core antigen (HBcAg) is found within the
+virus and on infected hepatocytes but does not circulate in the bloodstream. If this patient had
+actually experienced HBV infection, her anti-HBc would also be positive (Choice C). Hepatitis
+B e antigen (HBeAg) is involved in viral replication, and detection of HBeAg in the bloodstream
+implies high levels of viral replication and infectivity.

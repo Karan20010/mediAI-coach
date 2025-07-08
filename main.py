@@ -3,6 +3,7 @@ import json
 import random
 import re
 import logging
+import html
 from flask import Flask, request, render_template, jsonify, redirect, url_for
 from datetime import datetime, timedelta
 import docx
@@ -37,6 +38,7 @@ FLASHCARD_PATHS = [
     "user_data/anki_flashcards/COMP_Anki_Deck_Merged_With_Salvaged.json",
     "user_data/anki_flashcards/COMP_Anki_Deck.json"
 ]
+TEXTBOOK_FOLDER = "user_data/textbooks"  # folder containing textbook txt files
 VECTOR_DB = "user_data/vector_db"
 INDEX_FILE = os.path.join(VECTOR_DB, "comp_questions.index")
 TEXTS_FILE = os.path.join(VECTOR_DB, "texts.json")
@@ -46,6 +48,7 @@ ALLOWED_EXTENSIONS = {'txt', 'docx'}
 os.makedirs("user_data", exist_ok=True)
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(VECTOR_DB, exist_ok=True)
+os.makedirs(TEXTBOOK_FOLDER, exist_ok=True)
 
 # SentenceTransformer & FAISS setup
 model = SentenceTransformer("all-MiniLM-L6-v2")
@@ -138,6 +141,44 @@ def retrieve_similar_questions(prompt, top_k=3):
     D, I = faiss_index.search(prompt_vec, top_k)
     return [db['texts'][i] for i in I[0] if i < len(db['texts'])]
 
+def sanitize_input(user_input):
+    safe_str = html.escape(user_input.strip())
+    max_length = 100
+    if len(safe_str) > max_length:
+        safe_str = safe_str[:max_length]
+    return safe_str
+
+def search_textbooks_internal(query, top_k=3):
+    """Search across all textbook txt files for matching snippets."""
+    results = []
+    if not query:
+        return results
+
+    query_lower = query.lower()
+    for filename in os.listdir(TEXTBOOK_FOLDER):
+        if not filename.endswith(".txt"):
+            continue
+        filepath = os.path.join(TEXTBOOK_FOLDER, filename)
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                text = f.read()
+                # Simple keyword snippet search (can be improved)
+                if query_lower in text.lower():
+                    # Grab snippet around the first match (100 chars before & after)
+                    idx = text.lower().index(query_lower)
+                    start = max(idx - 100, 0)
+                    end = min(idx + len(query) + 100, len(text))
+                    snippet = text[start:end].strip().replace('\n', ' ')
+                    results.append({
+                        "title": filename,
+                        "text": snippet
+                    })
+                    if len(results) >= top_k:
+                        break
+        except Exception as e:
+            app.logger.error(f"Error reading textbook file {filename}: {e}")
+    return results
+
 @app.route("/")
 def home():
     memory = load_memory()
@@ -197,6 +238,12 @@ def ask():
         similar_qs = retrieve_similar_questions(user_input)
         examples = "\n\nUse this style as a guide:\n" + "\n\n".join(similar_qs)
 
+    # Search textbooks for relevant info
+    textbook_snippets = search_textbooks_internal(user_input)
+    textbook_text = "\n\nRelevant textbook excerpts:\n"
+    for snippet in textbook_snippets:
+        textbook_text += f"- From {snippet['title']}: {snippet['text']}\n"
+
     system_prompt = (
         f"You are {chatbot_name}, a caring, intelligent AI tutor guiding Talia through COMP prep. "
         f"Adapt your responses based on her past sessions and preferences.\n"
@@ -207,6 +254,7 @@ def ask():
         f"Focus topic type: {focus_type}.\n"
         f"Today's topic: {topic}.\n"
         f"{examples}"
+        f"{textbook_text}"
     )
 
     messages.insert(0, {"role": "system", "content": system_prompt})

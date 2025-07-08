@@ -1,0 +1,16 @@
+This patient's fever, abdominal cramps, and bloody diarrhea (dysentery) are consistent with
+bacterial enteritis. Stool culture results are most specific for Shigella species, which are non—
+lactose fermenting organisms with no hydrogen sulfide production on triple sugar iron
+agar (unlike Salmonella). In addition, Shigella ferments glucose, in contrast to Campylobacter,
+a curved rod that does not.
+
+Shigella is transmitted via the fecal-oral route (eg, person-to-person, contaminated
+food/water). Once in the gastrointestinal tract, the bacteria is able to invade the intestinal
+epithelium via the microfold (M) cells that overlie Peyer patches. After cell entry, Shigella lyses
+its containment vacuole, multiplies within the cytoplasm, and exits the basolateral surface of
+the cell where it can more easily enter enterocytes and then spread to adjacent cells via
+host-cell actin polymerization.
+
+Shigella also induces macrophage apoptosis, triggering a robust host inflammatory response.
+The disrupted epithelial barrier leads to ulcerations and leakage of blood, inflammatory cells,
+and mucus into the intestinal lumen, resulting in bloody, mucoid stools.

@@ -1,0 +1,16 @@
+Protein
+'
+Alanine Pyruvate ——+ Acetyl
+Transamination ine
+(Vitamin B6) —_
+a-Ketoglutarate Glutamate a-Ketoglutarate
+
+‘Transamination
+Glutamate (Vitamin B6)
+
+Gehydrogenase Oxaloacetate Aspartate
+NH; / \
+Nu. Urea cycle Y
+\
+
+\ ]

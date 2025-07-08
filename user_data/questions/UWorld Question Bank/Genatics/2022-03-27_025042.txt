@@ -1,0 +1,5 @@
+Educational objective:
+
+Sickle cell disease is the result of a missense mutation that causes valine to replace glutamic
+acid at position 6 in the hemoglobin beta-globin chain. RNA contains the pyrimidine base
+uracil, whereas DNA contains the base thymidine.

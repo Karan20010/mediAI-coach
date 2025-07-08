@@ -1,0 +1,13 @@
+(Choice C) IgE is the immunoglobulin most notably responsible for atopic diseases such as
+asthma, atopic dermatitis, and allergic rhinitis. It also plays a role in defense against helminth
+parasites.
+
+(Choice D) IgG crosses the placenta and remains circulating in the bloodstream of infants,
+providing them with passive immunity for up to 6 months.
+
+Educational objective:
+
+With maternal blood types A or B, hemolytic disease of the fetus and newborn very rarely
+occurs because maternal antibodies (anti-A or anti-B) are of the IgM type and cannot cross the
+placenta. In contrast, mothers with blood type O also produce IgG antibodies (anti-A and anti-
+B), which can cross the placenta and cause fetal hemolysis.

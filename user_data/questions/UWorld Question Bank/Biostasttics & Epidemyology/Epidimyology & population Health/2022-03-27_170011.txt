@@ -1,0 +1,50 @@
+Item 15 of 29
+a V7 Mark
+
+Question Id: 19445
+
+<n i. @® {4 F&F S&S
+
+(4) r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+Researchers develop a new test to detect the presence of a recently identified biomarker for
+
+hepatocellular carcinoma (HCC). The initial evaluation of the test shows the following:
+
+HCC
+
+Present | Not Present
+
+Test
+
+positive 45 30 75
+Test
+5 120 125
+negative
+50 150 200
+
+Which of the following is the likelihood that a patient with a negative test does not have HCC?
+
+A. 0.10 (3%)
+B. 0.20 (2%)
+C. 0.60 (3%)
+D. 0.80 (13%)
+
+J E. 0.96 (77%)
+
+Block Time Elapse
+
+Tutor
+
+Activate Windows
+
+GAA)
+
+pen
+
+63
+
+Settings
+
+End Blox

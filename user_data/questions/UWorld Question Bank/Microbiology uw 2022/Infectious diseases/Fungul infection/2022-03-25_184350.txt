@@ -1,0 +1,7 @@
+This patient with febrile neutropenia following chemotherapy has invasive aspergillosis (fever,
+chest pain, hemoptysis, chest imaging showing nodule with hypoattenuation consistent with
+"halo sign"). Amphotericin B is a mainstay of treatment for many systemic mycoses. It
+preferentially binds the ergosterol of fungal cell membranes, leading to fungal cell lysis. This
+drug is relatively selective as it has a higher affinity for ergosterol (in fungal membranes) than
+for cholesterol (in human cell membranes). However, it binds cholesterol to a degree, which
+explains a large number of its adverse effects.

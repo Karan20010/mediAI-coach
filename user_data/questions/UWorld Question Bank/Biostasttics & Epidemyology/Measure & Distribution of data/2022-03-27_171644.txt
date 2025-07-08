@@ -1,0 +1,9 @@
+(Choices D and E) In general, in a negatively skewed distribution (with the "tail" on the left),
+the mean is the most shifted in the negative direction, followed by the median and then the
+mode.
+
+Educational objective:
+
+In general, in a positively skewed distribution, the mean is the most shifted in the positive
+direction (to the right), followed by the median and then the mode. In such a situation, the
+median often reflects a central tendency better than the mean does.

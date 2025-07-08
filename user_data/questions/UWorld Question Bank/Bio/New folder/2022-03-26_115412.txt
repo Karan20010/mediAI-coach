@@ -1,0 +1,18 @@
+The transition from point 1 to 2 on the graph represents the loading of O, onto partially
+deoxygenated hemoglobin as occurs in the lungs. At very low partial pressure of O, (pO.),
+hemoglobin is mostly deoxygenated, and binding of O, molecules is relatively difficult (as
+indicated by the early flatness of the curve). As the partial pressure of O, increases, O, binds
+to 1 of the 4 binding sites on hemoglobin and increases the O,-binding affinity of the other
+available binding sites (steepening of the curve), a phenomenon known as cooperative
+binding. Subsequently, additional O, molecules bind more easily as the pO, increases until
+
+hemoglobin becomes nearly fully saturated.
+The binding of O, molecules to hemoglobin in the lungs has two consequences, known as the
+Haldane effect:
+¢ The affinity of hemoglobin for CO, is decreased, resulting in unloading of CO, from
+hemoglobin (this accounts for a small percentage of overall CO, in the blood and is not
+pictured above).
+
+¢ The acidity of the hemoglobin molecule is increased; in response, protons (H: ions) are
+
+released from the hemoglobin binding sites.

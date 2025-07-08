@@ -1,0 +1,33 @@
+= ae . 4 Mark ume < wibssin 2 all. al cnt Soo
+Interactions between multiple receptors and ligands are generally required to activate effector
+cells of the adaptive immune response. This redundancy slows immune cell activation and
+prevents development of autoimmunity. CD40 ligand (CD40L), a transmembrane protein on
+the surface of activated CD4 T cells, is the most important costimulatory signal for antigen-
+
+presenting cells (APCs) as follows:
+
+¢ BCells: Binding of CD40L to CD40 on B cells promotes the formation of germinal
+centers, somatic hypermutation (increased antigen-binding specificity), and
+immunoglobulin class switching (secretion of IgG/IgA/IgE instead of IgM). These actions
+significantly enhance the humoral immune response by generating the full range of
+effector immunoglobulins.
+
+Macrophages and dendritic cells: Binding of CD40L to CD40 causes the APC to
+
+produce proinflammatory cytokines, express T-cell costimulatory signals (eg, CD80/86),
+increase phagocytosis, and increase major histocompatibility complex class II surface
+
+expression. These changes promote the activation of additional CD4 T lymphocytes,
+which are critical for mounting a potent cell-mediated immune response.
+
+Because CD4OL is required for B-cells to undergo class-switching, mutations to CD40L
+
+generally cause B cells to overproduce IgM and dramatically underproduce other
+Block Time Elapse
+
+Tutor ck Suspend
+
+63
+
+Settings
+

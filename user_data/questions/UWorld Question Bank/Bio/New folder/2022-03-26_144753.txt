@@ -1,0 +1,29 @@
+Oxygen-hemoglobin dissociation curve
+
+Left shift caused by:
+
+1. Decreased H’* (increased pH)
+A 2. Decreased 2,3-BPG
+3. Decreased temperature
+
+Think LUNGS = Left shift
+
+% 4
+5 100%
+=
+£
+2
+o
+o
+5 Right shift caused by:
+2 1. Increased H* (decreased pH)
+fo} 2. Increased 2,3-BPG
+= 509% 1 3, Increased temperature
+
+25 50 75 100
+
+pO, (mm Hg)
+
+2,3-BPG = 2,3-bisphosphoglycerate; pO, = partial pressure of oxygen in the blood.
+
+©uwWorld

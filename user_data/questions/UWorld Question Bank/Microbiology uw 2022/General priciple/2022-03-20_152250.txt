@@ -1,0 +1,4 @@
+(Choice F) Vibrio cholerae, the causative agent of cholera, produces choleragen, which act:
+similarly to the heat-labile toxin of enterotoxigenic Escherichia coli. \t increases intracellular
+cyclic AMP in intestinal mucosal cells, leading to decreased absorption and increased
+secretion of sodium, chloride, and water.

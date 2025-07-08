@@ -1,0 +1,33 @@
+— Item 1 of 4 mY wax <q Se i @ al Lo) id @A &s
+
+: Le c
+Question Id: 12278 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+Rw Nis
+
+sequence of interest.
+
+(Choices B and E) RT-PCR amplification uses an mRNA template, so it cannot detect
+changes in the parts of the gene that are not transcribed (eg, promoter and enhancer
+regions). Other PCR techniques that use chromosomal DNA can detect changes in these
+nontranscribed regions.
+
+(Choice C) RT-PCR is used to detect levels of MRNA expression; it does not identify
+proteins. A Western blot study can detect the BCR-ABL protein by using monoclonal
+antibodies directed against BCR or ABL.
+
+Educational objective:
+
+Reverse transcription polymerase chain reaction (RT-PCR) is used to detect and quantify
+levels of MRNA in a sample. It uses reverse transcription to create a complementary DNA
+template that is then amplified using the standard PCR procedure. RT-PCR can be used to
+diagnose chronic myelogenous leukemia by identifying an mRNA transcript containing both
+BCR and ABL exons in affected cells.
+
+References
+
+¢ Real time polymerase chain reaction in diagnosis of chronic myeloid leukemia.
+
+Block Time Elapse
+
+Processing request... End Block

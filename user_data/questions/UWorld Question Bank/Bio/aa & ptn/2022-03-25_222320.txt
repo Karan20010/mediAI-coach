@@ -1,0 +1,26 @@
+Phenylalanine metabolism
+
+Dihydrobiopterin Dihydrobiopterin
+reductase reductase
+BHs BHe BHs BHe
+
+N 4A NN
+
+Phenylalanine ———» Tyrosine ————» _DOPA
+
+Phenylalanine Tyrosine
+hydroxylase hydroxylase Dopa
+decarboxylase
+Dopamine
+Dopamine B-
+hydroxylase
+
+Norepinephrine
+
+S-Adenosylmethionine (SAM) Phenylethanolamine-
+N-methyltransferase
+(PNMT)
+
+S-Adenosylhomocysteine
+
+©uworld Epinephrine

@@ -1,0 +1,22 @@
+Proto-oncogenes & tumor suppressor genes
+
+Proto-oncogenes
+1-hit GAIN of function
+
+Tumor suppressor genes
+2-hit LOSS of function
+
+RAS ¢ Cholangiocarcinoma BRCA1/2
+| ; ¢ Breast & ovarian
+(GTP binding |+ Pancreatic (DNA repair
+cancer
+protein) adenocarcinoma genes)
+¢ Colon, gastric &
+MYC APC/B-catenin pancreatic cancer
+(Transcription |« Burkitt lymphoma (Wnt signaling |* Familial
+factor) pathway) adenomatous
+polyposis
+ERBB1 (EGFR) TP53 ¢ Most cancers
+(Receptor e Lung adenocarcinoma (Genomic e Li-Fraumeni
+tyrosine kinase) stability) syndrome
+

@@ -1,0 +1,16 @@
+This patient with recurrent boils and skin abscesses is likely colonized with Staphylococcus
+aureus, a gram-positive cocci that grows in clusters. Methicillin-resistant strains are able to
+grow in the presence of oxacillin due to the acquisition of a mobile genetic element that
+contains the mecA gene, which encodes for penicillin-binding protein (PBP) 2a. PBPs
+catalyze peptidoglycan cross-linking during cell wall synthesis; they are the target of beta-
+lactam medications, which bind to and irreversibly destroy the enzyme. Unlike other PBPs,
+PBP 2a has a low affinity for beta-lactams and continues to cross-link peptidoglycan in the
+presence of oxacillin, methicillin, cephalosporins (eg, cefazolin), and other beta-lactam
+medications.
+
+Therefore, treatment of methicillin-resistant S aureus (MRSA) generally requires the use of a
+non—beta-lactam drug. Common medications for MRSA include trimethoprim-
+sulfamethoxazole (inhibits 2 steps in folate synthesis), clindamycin (inhibits bacterial protein
+synthesis by binding to the 50s ribosomal subunit), doxycycline (inhibits protein synthesis by
+binding to the 30s ribosomal subunit), or vancomycin (inhibits integration of peptidoglycan
+subunits) (Choices B, C, D, and E).

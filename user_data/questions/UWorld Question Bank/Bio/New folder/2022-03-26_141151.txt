@@ -1,0 +1,16 @@
+Globin chains in the hemoglobin tetramer are compactly folded due to nonpolar hydrophobic
+residues in the interior and charged polar residues on the surface. In sickle cell disease, the
+usual acidic (negatively charged) glutamic acid (glu) residue at the sixth position on the beta
+globin chain is replaced by a nonpolar (neutral charge) valine (val) residue, forming
+hemoglobin S (HbS). This single glu — val substitution leads to the formation of a
+hydrophobic pocket on the beta globin surface that interacts with a complementary nonpolar
+residue on another hemoglobin molecule. The hydrophobic interaction causes
+polymerization of HbS molecules and subsequent erythrocyte sickling, leading to
+membrane damage and permanent distortion of red blood cells. Red cell sickling is promoted
+by low oxygen levels, increased acidity, and dehydration.
+
+In patients with hemoglobin C (HbC), glu is replaced by a basic polar (positively charged)
+lysine (lys) residue. Because lys is charged (although it has opposite polarity to glu), there is
+no hydrophobic interaction between hemoglobin molecules and no polymerization/sickling.
+However, the positive charge of lys causes HbC to have decreased mobility on
+electrophoresis.

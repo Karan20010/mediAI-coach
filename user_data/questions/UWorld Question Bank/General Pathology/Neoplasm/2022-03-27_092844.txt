@@ -1,0 +1,47 @@
+= auestion id: 57
+
+= Item 29 of 30 . y Mark | aa ft i @ al
+
+Previous Full Screen Tutorial Lab Values
+
+When the humidity and temperature are favorable, STE strains of the fungi Aspergillus
+flavus and Aspergillus parasiticus grow on foods such as corn, soybeans, and peanuts,
+producing aflatoxins as a byproduct. These aflatoxins are categorized as A1, B2, G1, and G2,
+with aflatoxin B1 the most common and most toxic.
+
+High levels of dietary aflatoxin intake have been strongly associated with hepatocellular
+carcinoma. In certain areas within Asia and Africa where aflatoxin B1 exposure is high, p53
+mutations have been identified in most individuals who developed hepatocellular carcinoma.
+More than 90% of these aflatoxin-induced p53 mutations are a classic G:C — T:A transversion
+in codon 249. In addition, research suggests that the combination of chronic aflatoxin
+exposure and hepatitis B infection significantly increases the risk of developing hepatocellular
+
+carcinoma.
+
+(Choices A, B, C, E, F, G, and H) Lung cancer, infectious diarrhea, dilated cardiomyopathy,
+congenital heart defects, hypothyroidism, osteoporosis, and pancreatic cancer are not
+associated with aflatoxin-induced mutation of the p53 gene.
+
+Educational Objective:
+High levels of dietary aflatoxin exposure is associated with a G:C — T:A transversion in codon
+249 of the p53 gene, a mutation thought to greatly increase the risk of developing
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

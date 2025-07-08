@@ -1,0 +1,37 @@
+Question Id: 19691
+
+= Item 17 of 17 7 mark <q Se i @ él e
+
+e c
+Previous Next Full Screen Tutorial Lab Values Notes Calculator __ Reverse Color
+
+A case-control study is an observational study design in which potential participants are
+initially identified as cases or controls according to their disease status (ie, have or do not
+
+have the disease of interest).
+
+In the study described above, a cohort of adults newly diagnosed with hepatitis C (HCV)
+represents the cases, and a cohort of HCV-negative adults represents the controls. Note that
+"cohort" in this case refers to a group of individuals with similar characteristics (eg, HCV-
+positivity), not to a "cohort study," in which a group of individuals are followed over time.
+
+Once cases and controls are identified, the frequency of past exposure to 21 risk factors of
+interest is compared between cases and controls to estimate the association between the risk
+factors and the outcomes. Therefore, an appropriate measure for the proposed study would
+be any event that preceded HCV infection. Among the given choices, a history of past
+blood transfusions precedes HCV infection.
+
+Because of the retrospective nature of a case-control study, this study design is not able to
+compare the frequency (ie, incidence, risk, rate) of any event that occurs after a disease has
+been diagnosed (ie, prospective outcomes). Prospective outcomes are reasonable in cohort
+studies and experimental designs (Choices A, C, D, and E).
+
+Block Time Elapse
+
+Tutor oe
+
+GA &
+
+Text Zoom —_ Settings
+
+Suspend

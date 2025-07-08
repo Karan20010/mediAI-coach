@@ -1,0 +1,11 @@
+(Choice E) Glucocorticoids reduce inflammation by several mechanisms. One such
+mechanism is by promoting eosinophil apoptosis, either directly or by decreasing production of
+IL-5, which usually promotes eosinophil survival. This decreases the number of circulating
+eosinophils.
+
+Educational objective:
+
+Anaphylaxis is a type 1 (immediate) hypersensitivity reaction involving IgE-mediated mast cell
+and basophil degranulation. Epinephrine is the primary treatment for anaphylaxis because it
+decreases further mast cell release of inflammatory mediators and counteracts existing
+systemic inflammatory effects (eg, shock, bronchoconstriction).

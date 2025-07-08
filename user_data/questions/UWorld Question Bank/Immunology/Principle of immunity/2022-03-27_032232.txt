@@ -1,0 +1,31 @@
+Question Id: 12048
+
+Block Time Elapse
+Tutor End Block
+
+— Item 20 of 25 mY wax <q = i @ a) bo 4 33
+
+e r
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+©vUWorld
+
+Oncogenesis generates proteins not found in healthy cells. Pieces of these proteins
+(neoantigens) are displayed on the cell surface and may be recognized by cytotoxic T-cells as
+"non-self" (leading to cellular apoptosis). However, neoplastic cells can blunt the cytotoxic T-
+cell response through a variety of mechanisms including the overexpression of programmed
+death-ligand 1 (PD-L1), which binds to the PD-1 receptor on cytotoxic T cells and inhibits their
+ability to induce apoptosis (T-cell exhaustion).
+
+Treatment with monoclonal antibodies against PD-1 (eg, pembrolizumab, nivolumab) or PD-
+L1 (eg, atezolizumab) results in T-cell disinhibition and a restoration of the cytotoxic response
+(thereby increasing cancer cell apoptosis). Anti-PD-1 therapy is currently used in advanced
+melanoma, certain types of lung cancer, and renal cell carcinoma but is being explored for
+
+many other cancer types.
+
+(Choices A and B) HIV uses chemokine coreceptor 5 (CCRS5) to bind to CD4 cells.
+Antagonists to CCR5 have been developed for the management of patients with HIV. CCRS
+also appears to promote CD4 cell anti-tumor responses, so antibodies blocking its function
+may downregulate immune-mediated tumor destruction. Blockade of CD4 itself would inhibit
+helper T-cell activation and reduce tumor cell destruction.
+

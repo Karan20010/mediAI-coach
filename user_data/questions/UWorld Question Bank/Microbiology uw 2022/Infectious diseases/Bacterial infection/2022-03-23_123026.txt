@@ -1,0 +1,8 @@
+Educational objective:
+
+Yersinia pestis, the cause of bubonic plague, is transmitted primarily by rodent fleas.
+Manifestations include rapid-onset systemic symptoms (eg, high fever, chills, weakness,
+headache) and painful, purulent regional lymphadenitis. First-line treatment is with
+aminoglycosides, which block bacterial protein synthesis by binding to the 30S ribosomal
+
+subunit.

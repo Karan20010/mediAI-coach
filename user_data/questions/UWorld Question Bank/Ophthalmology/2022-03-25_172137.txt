@@ -1,0 +1,16 @@
+This patient has herpes zoster ophthalmicus, a condition caused by reactivation of latent
+varicella-zoster virus (VZV) in the ophthalmic division of the trigeminal nerve (CN V1).
+
+Following primary VZV infection (ie, chickenpox), the virus is transported retrograde along
+sensory nerves to cranial nerve and dorsal spinal ganglia, where it lies dormant for years.
+Reactivation of the virus most commonly occurs in elderly or immunosuppressed patients and
+typically causes sensory disturbances (eg, burning or shooting pains) and eruption of a painful
+rash (eg, scattered vesicles) in the associated dermatome (eg, unilateral forehead, side of
+the nose, periorbital area). A prodrome of systemic symptoms (eg, headache, malaise, fever)
+can also occur.
+
+Because CN V1 also conveys sensory innervation of the cornea (sensory limb of the
+corneal/blink reflex), involvement can cause acute keratitis (ie, corneal inflammation) and
+corneal ulceration (eg, linear, branching ulcerations on fluorescein stain). Involvement of the
+side or tip of the nose (ie, Hutchinson sign) correlates highly with ocular involvement because
+the nasociliary branch of CN V1 innervates both the eye and the side/tip of the nose.

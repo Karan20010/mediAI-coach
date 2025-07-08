@@ -1,0 +1,43 @@
+= ltem4of29 5 v Mark <q Se rc j @ él
+
+— " . L
+‘Question Id: 14859 Praras Next FullScreen Tutorial__—_Lab Values
+
+¢ The outcome of interest is diabetic nephropathy. Exposed and nonexposed subjects
+must be selected with no history of the outcome because the occurrence of the outcome
+is what is measured during the study period (Choice B).
+
+Therefore, the exposed group is adults with T2DM who have morbid obesity and no diabetic
+nephropathy; the nonexposed group is adults with T2DM who have normal weight (BMI
+18.5 to <25 kg/m) and no diabetic nephropathy. Comparing the frequency of the outcome
+(eg, diabetic nephropathy) between exposed and nonexposed groups is what determines
+whether exposure to the risk factor (eg, morbid obesity) is associated with the risk of
+developing the outcome (eg, diabetic nephropathy).
+
+Educational objective:
+
+In a cohort study, subjects should be initially selected from the population of interest (eg,
+T2DM) based on their exposure status to a risk factor (eg, presence or absence of morbid
+obesity). Subjects are then monitored during the study period for development of the outcome
+of interest (eg, diabetic nephropathy).
+
+References
+¢ Methodology series module 1: cohort studies.
+
+Block Time Elapse
+
+Tutor
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

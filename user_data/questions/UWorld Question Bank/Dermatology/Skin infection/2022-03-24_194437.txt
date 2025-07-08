@@ -1,0 +1,7 @@
+Educational objective:
+
+Imiquimod is a widely used topical immunomodulatory agent that stimulates a potent cellular
+and cytokine-based immune response to aberrant cells (eg, human papillomavirus-infected
+cells in anogenital warts) by activating toll-like receptors and upregulating NF-KB. Other
+antiproliferative effects of imiquimod include inhibition of angiogenesis and induction of
+apoptosis.

@@ -1,0 +1,6 @@
+3. Destruction: Both the intrinsic and extrinsic pathways converge at this step, resulting in
+caspase activation. Caspases are proteolytic enzymes that destroy cell components.
+They contain cysteine and are able to cleave aspartic acid residues (cysteine-aspartic-
+acid-proteases). The eleven caspases that have been identified are classified as either
+initiator or effector caspases. Initiator caspases activate the effector caspases, which then
+cleave the cellular proteins.

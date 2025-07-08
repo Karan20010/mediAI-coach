@@ -1,0 +1,13 @@
+This older patient has a crusted, ulcerated, hyperpigmented nodule on the nipple and areola.
+Biopsy was performed to differentiate Paget disease of the breast, an adenocarcinoma of the
+areolar epithelium, from nodular malignant melanoma. Histopathology revealed poorly
+differentiated cells with abundant mitotic activity and necrosis. Subsequent immunostaining
+was positive for S-100 (a protein expressed in cells derived from the neural crest such as
+melanocytes) and HMB-45 (a marker for immature melanosomes found in melanocytic
+tumors) indicating melanoma.
+
+Immunostaining is often used to assist the diagnosis of melanoma because histopathologic
+features are sometimes insufficient to confirm the diagnosis. Tumor cells that stain positive
+for multiple melanocyte markers (as in this case) are very likely to be melanoma. S-100 is
+positive in >95% of melanoma tumors, and HMB-45 is both highly sensitive (>95%) and highly
+specific (~100%) for the malignancy.

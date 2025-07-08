@@ -1,0 +1,13 @@
+This patient has Méniére disease, a disorder of the inner ear characterized by increased
+volume and pressure of endolymph (endolymphatic hydrops) that is thought to be due to
+defective resorption of endolymph. The resultant distension of the endolymphatic system
+causes damage to the vestibular and cochlear components of the inner ear. Méniére disease
+is characterized by the following triad:
+
+1. Low-frequency tinnitus, or ringing, in the affected ear, often accompanied by a feeling of
+fullness
+
+2. Vertigo, the subjective sensation of spinning or motion in the absence of actual motion;
+commonly associated with lightheadedness, nausea, and vomiting
+
+3. Sensorineural hearing loss, which is variable in severity but usually worsens over time

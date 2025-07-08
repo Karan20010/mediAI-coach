@@ -1,0 +1,14 @@
+Aldose
+
+reductase Galactokinase
+Galactitol <———— Galactose ——————» _ Galactose 1P UDP-glucose
+Glucose
+Galactose 1-phosphate
+Lactase uridyl transferase
+(GALT)
+Lactose
+synthase Glucose 6-
+<<
+Lactose UDP-galactose Glucose 1P ——> phosphate
+
+©uworld Pyruvate

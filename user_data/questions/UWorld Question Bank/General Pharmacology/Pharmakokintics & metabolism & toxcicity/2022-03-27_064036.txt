@@ -1,0 +1,46 @@
+a > en) rl
+
+Previous Full Screen Tutorial Lab Values
+
+— Item 27 of 32
+= a V7 Mark
+
+Question Id: 1713
+Bioavailability is the fraction of an administered ana that reaches the systemic circulation
+
+unchanged. Oral bioavailability is dependent on the intrinsic absorptive properties of the drug
+as well as any first-pass metabolism that the drug undergoes by enzymes present in the
+intestine and liver. A drug that exhibits high first-pass metabolism is broken down extensively
+and will have a low concentration in the systemic circulation (low bioavailability). To efficiently
+use drugs with high first-pass metabolism, other routes of administration are typically
+employed (eg, intravenous, sublingual, rectal) to bypass the portal circulation.
+
+Rectal drug administration (suppository) allows for partial bypass of first-pass metabolism.
+Venous drainage of the anorectum above the dentate line is to the portal venous system via
+the superior rectal veins (drain to inferior mesenteric vein). However, the region below the
+dentate line drains into the systemic circulation via the middle and inferior rectal veins (drain to
+internal iliac and internal pudendal veins, respectively). This proportion of venous blood that
+enters the systemic circulation directly from the rectal region increases the bioavailability
+of drugs that are otherwise extensively metabolized by the liver following oral administration.
+
+(Choice B) Blood flow to different regions of the intestine is directly related to the metabolic
+activity of the associated mucosa. Greater blood flow rates facilitate absorption and
+bioavailability of many drugs through the establishment of a favorable concentration gradient.
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

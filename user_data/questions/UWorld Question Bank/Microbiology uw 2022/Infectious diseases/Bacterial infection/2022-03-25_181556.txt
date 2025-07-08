@@ -1,0 +1,6 @@
+Educational objective:
+
+The rifamycins block the action of the bacterial DNA-dependent RNA polymerase, thereby
+inhibiting transcription. Resistance is acquired by modification of the rifampin binding site on
+the bacterial DNA-dependent RNA polymerase. Common side effects include hepatotoxicity,
+blood dyscrasias, and harmless red-orange discoloration of body fluids.

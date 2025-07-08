@@ -1,0 +1,32 @@
+2 = cussion se . V Mark one a 7 sO} all. Al cot so Gia) &
+Optimal antibiotic therapy often requires monitoring of serum drug concentrations to ensure
+
+5 adequate dosing, which is necessary to achieve therapeutic levels while avoiding toxicity (eg,
+
+: nephrotoxicity due to aminoglycosides). The highest level (peak) of drug concentration is
+
+8 usually % hour after intravenous or 1 hour after intramuscular dosing, whereas the lowest drug
+
+= concentration (trough) occurs during the last 2 hour before the next dose.
+
+= The drug concentration (mg/L) can be calculated by dividing the drug dose (mg) by the
+
+b volume of distribution (V,). V, refers to the theoretically required volume (in liters) if the drug
+
+- were contained completely in the plasma. It can vary depending on how well the drug
+
+distributes into tissues; the higher the V., the greater the drug binds to the tissues. When drug
+18 metabolism occurs via first-order kinetics, the half-life (t,.) represents the amount of time
+
+required to lower the drug concentration by 50%.
+
+In this example, the first dose of the drug is 240 mg, V, is 30 L, and t,, is 4 hours. The initial
+23 drug concentration is the dose (240 mg) divided by the V, (30 L), which equals 8 mg/L. After
+25 the first half-life (4 hours), the drug concentration will decrease by half to 4 mg/L. After the
+next half-life (4 hours later, or 8 hours after the initial dose), the drug concentration will
+
+: 28 decrease by half again to 2 mg/L (Choices A, B, C, and E).
+
+Block Time Elapse
+Tutor End Block
+

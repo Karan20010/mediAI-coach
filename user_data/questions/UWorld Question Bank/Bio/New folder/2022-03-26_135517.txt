@@ -1,0 +1,8 @@
+This patient has Lesch-Nyhan syndrome, an X-linked recessive disorder characterized by the
+development of dystonia, choreoathetosis, self-mutilation, and hyperuricemia within the first
+few years of life. The condition is caused by deficiency of hypoxanthine-guanine
+phosphoribosyltransferase (HGPRT), an enzyme that normally functions in the purine
+salvage pathway to convert hypoxanthine back to inosine monophosphate and guanine back
+into guanosine monophosphate. The absence of HGPRT results in increased degradation of
+guanine and hypoxanthine bases into uric acid, which increases the demand for de novo
+purine synthesis.

@@ -1,0 +1,6 @@
+Educational objective:
+
+Excessive acetaminophen use causes toxicity through its metabolite N-acetyl-p-benzoquinone
+imine, which disrupts hepatocyte mitochondrial function and induces oxidative injury
+throughout the liver. The resulting hepatocellular liver injury markedly elevates
+aminotransferase, with levels sometimes exceeding 1,000 U/L.

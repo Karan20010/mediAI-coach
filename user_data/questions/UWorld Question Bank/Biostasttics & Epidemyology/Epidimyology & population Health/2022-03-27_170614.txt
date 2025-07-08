@@ -1,0 +1,40 @@
+— Item 23 of 29
+
+1
+a2 Tutorial Lab Value: alculator
+1 3
+- 4
+1 5
+. 6 Common performance measures for diagnostic tests
+. 7 Parameter Definition Calculation
+- 8
+9 Sensitivity The probability of an individual testing Sensitivity = True positives / (true positives + false
+
+. positive given the presence of disease negatives)
++ 10
+. at Specificity The Probability of an individual testing Specificity = True negatives / (true negatives + false
+
+ri negative given the absence of disease positives)
+» 13 Positive predictive value (PPV) The probability that an individual who tests PPV = True Positives / (true positives + false
+. 14 positive actually has the disease positives)
+. 45 Negative predictive value (NPV) The Probability that an individual who tests NPV = True negatives / (true negatives + false
+» 16 negative actually does not have the disease negatives)
+7 The probability of an individual with the
+- 18 Positive likelihood ratio (LR+) disease testing positive divided by the LR+= Sensitivity I
++ 19 probability of an individual without the (1 - specificity)
+» 20 disease testing positive
++ 24 D The probability of an individual with the
+
+oss likeli . disease testing negative divided by the LR- = (1 - sensitivity) /
+Negative likelihood ratio (LR-)
+b CgeuMo INaTIisresI eto) | casmny iam inaieittoet ore specificity
+disease testing negative
++ 25
++ 26 4 >
++ 27
+G new | 9 existing FE] My Notebook
++ 28
+an /
+
++ 29 TUU%, and PPV Is Close to U%. This explains why, with decreasing prevalence, NPV : 2 ease
+

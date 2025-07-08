@@ -1,0 +1,38 @@
+Question Id: 19441
+
+= tem 22 of 29 5 v Mark <q Se r j @ él fcc]
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator
+
+Relative risk (RR) is a measure of association between exposure to a risk modifier (eg,
+treatment) and an outcome (eg, disease course) that is commonly used in cohort and
+experimental studies. RR is the risk of an outcome (eg, postpartum hemorrhage [PPH]) in the
+exposed group (eg, tranexamic acid [TXA]) divided by the risk of the same outcome or disease
+
+in the nonexposed group (eg, placebo):
+RR = (risk of disease in exposed group) / (risk of disease in nonexposed group)
+The RR may be interpreted as follows:
+
+¢ RR <1.0 indicates that the exposure decreases the risk of disease.
+¢ RR = 1.0 (null value) indicates that the exposure has no effect on the risk of disease.
+¢ RR >1.0 indicates that the exposure increases the risk of disease.
+
+The confidence interval (Cl) of RR indicates, with a certain confidence level (eg, 95%),
+whether a given RR is statistically different from the null value (ie, RR = 1.0). ACI that
+includes the null value (ie, RR = 1.0) is not statistically significant, and a Cl that excludes the
+
+null value is statistically significant.
+
+In this study, the RR of PPH (ie, disease) among women receiving TXA (ie, exposed)
+compared to women receiving placebo (ie, nonexposed) is 0.80. Because this RR is <1.0, the
+
+Block Time Elapse
+
+Tutor
+
+r oy
+
+Reverse Color _Text Zoom Settings
+
+End Block

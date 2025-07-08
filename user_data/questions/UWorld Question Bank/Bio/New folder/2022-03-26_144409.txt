@@ -1,0 +1,7 @@
+Educational objective:
+
+2,3-bisphosphoglycerate (2,3-BPG) normally forms ionic bonds with the beta subunits of
+deoxygenated hemoglobin A, facilitating oxygen release in the peripheral tissues. Mutations
+that result in loss of the 2,3-BPG binding pocket's positive charge cause hemoglobin A to
+resemble fetal hemoglobin, which binds oxygen with a higher affinity due to its inability to
+interact with 2,3-BPG.

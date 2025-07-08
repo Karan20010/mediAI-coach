@@ -1,0 +1,6 @@
+Educational objective:
+
+Hereditary nonpolyposis colon cancer (HNPCC), or Lynch syndrome, leads to occurrence of
+colonic adenocarcinomas at a young age (age <50) along with a predisposition for
+extraintestinal malignancies. Mutations of DNA mismatch repair genes are responsible for
+HNPCC.

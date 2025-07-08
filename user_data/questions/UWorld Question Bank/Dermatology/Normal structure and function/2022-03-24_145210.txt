@@ -1,0 +1,11 @@
+Langerhans cells (not to be confused with Langhans giant cells, a type of multinucleated cell
+formed from macrophages) are the form of dendritic cell most commonly found in the skin and
+mucous membranes. Dendritic cells are professional antigen presenting cells that interact
+closely with T lymphocytes. Dendritic are the most effective form of antigen presenting cell
+because they constitutively express MHC Class II and the co-stimulatory B7 cell surface
+molecules. They also take up antigen by constant endocytosis and pinocytosis from their
+environment.
+
+Langerhans cells are derived from the myeloid cell line and express myeloid cell surface
+markers. They contain characteristic "racquet-shaped" intracytoplasmic granules (Birbeck
+granules) that are only visible on electron microscopy.

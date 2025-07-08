@@ -1,0 +1,6 @@
+Educational objective:
+
+The binding of autoantibodies to host antigens can trigger the classical complement cascade,
+leading to low C4 and C3 levels. Because autoantibodies do not activate the alternative
+complement cascade, factor B levels remain normal. This pattern is frequently seen in
+rheumatologic diseases such as systemic lupus erythematosus.

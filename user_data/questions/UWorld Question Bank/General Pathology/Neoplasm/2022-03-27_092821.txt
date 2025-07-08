@@ -1,0 +1,7 @@
+Educational objective:
+
+The adenoma to carcinoma sequence is a series of gene mutations that leads to the
+development of colon adenocarcinoma. 7P53 tumor suppressor gene mutation is part of the
+final step in the sequence and leads to malignant transformation of preexisting large
+
+adenomatous polyps.

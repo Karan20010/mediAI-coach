@@ -1,0 +1,12 @@
+(Choices D and E) Incidence measures (eg, relative risk or relative rate) cannot be directly
+measured in case-control studies because cases, by definition, already have the disease (ie,
+the study does not follow a cohort for development of a disease). Relative risk and relative
+rate are calculated in prospective and retrospective cohort studies, where risk factor
+assessment occurs first and then exposed and unexposed groups are followed over time and
+assessed for development of disease.
+
+Educational objective:
+
+A case-control study is used to compare the exposure status of people with the disease (ie,
+cases) to the exposure status of people without the disease (ie, controls). The main measure
+of association is the odds ratio.

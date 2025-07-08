@@ -1,0 +1,6 @@
+Educational objective:
+Confounding occurs when the exposure-disease relationship is muddled by the effect of an
+
+extraneous factor associated with both exposure and disease. Confounding bias can result in
+
+the false association of an exposure with a disease.

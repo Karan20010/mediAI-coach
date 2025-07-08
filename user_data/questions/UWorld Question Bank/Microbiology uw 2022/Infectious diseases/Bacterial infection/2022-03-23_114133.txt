@@ -1,0 +1,16 @@
+This patient has high fever, cough, leukocytosis, and a right lung infiltrate indicating lobar
+pneumonia. Lobar pneumonia is most commonly caused by extracellular bacterial pathogens
+such as Haemophilus influenzae, Staphylococcus aureus, and Streptococcus
+
+pneumoniae (Choices A, D, and E). The immune response to extracellular organisms is
+primarily mediated by neutrophils early in infection and by the humoral antibody response (B
+lymphocytes, immunoglobulins, complement) as time goes on.
+
+In this case, components of the cell-mediated immune response were primarily involved in
+controlling the infection, suggesting that the pneumonia was most likely due to an intracellular
+pathogen such as Legionella pneumophila (a common cause of atypical community-
+acquired pneumonia). Intracellular pathogens are phagocytosed by macrophages but are
+initially resistant to destruction due to the presence of virulence factors that inhibit phagosome-
+lysosome fusion (eg, Legionella) or phagolysosome acidification (eg, Mycobacteria
+tuberculosis), or allow bacteria to escape from the phagolysosome (eg, Listeria
+monocytogenes).

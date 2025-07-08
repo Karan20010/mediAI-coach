@@ -1,0 +1,37 @@
+= Question Id: 574
+
+— Item 18 of 34 mY wax 41 pe i (©) al @ 4 QA
+
+(4) r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+Tricyclic antidepressants (TCAs), such as amitriptyline, inhibit the reuptake of
+norepinephrine and serotonin and are used in the treatment of depression. They also inhibit
+fast sodium channel conduction, slowing down myocardial depolarization and potentially
+leading to cardiac arrhythmias in overdose. Refractory hypotension results from
+decreased cardiac contractility and direct peripheral vasodilation (from peripheral alpha-1
+adrenergic receptor antagonism). Most deaths from TCA overdose are due to cardiac
+arrhythmias and refractory hypotension.
+
+Treatment of TCA overdose involves sodium bicarbonate (NaHCO.) therapy. NaHCO,
+increases serum pH, promoting TCA dissociation from sodium channels, and increases
+extracellular sodium concentration. These effects help overcome the sodium channel
+blockade induced by TCAs.
+
+(Choice A) TCAs cause antihistaminic effects by antagonizing histamine (H1) receptors. This
+can cause increased sedation and appetite but is not implicated in death from TCAs.
+
+(Choice C) TCAs block the amine reuptake pumps within the synaptic cleft, which normally
+terminate amine transmission. This permits a longer interaction between the neurotransmitter
+and the receptor, which is thought to account for TCA antidepressant properties. However,
+synaptic norepinephrine accumulation is not the mechanism by which death occurs following
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

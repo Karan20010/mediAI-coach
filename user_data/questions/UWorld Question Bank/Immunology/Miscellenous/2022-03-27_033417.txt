@@ -1,0 +1,38 @@
+= ltem3of20 5 v Mark - rc j @ él
+
+= . e
+Question Id: 17446 Full Screen Tutorial Lab Values
+
+TAP = tr associated with antigen processing. = ©uworis
+Transporter associated with antigen processing (TAP) proteins are transmembrane proteins
+necessary for the presentation of cytosolic antigens on major histocompatibility complex
+(MHC) molecules. When cellular proteins (or pathogen-derived proteins) are degraded by
+proteasomes, some of the resulting peptide fragments are transported into the endoplasmic
+reticulum by TAP proteins and loaded onto MHC class | molecules. The MHC class I-peptide
+complexes then translocate to the cell surface where they can activate cytotoxic T cells
+through interaction with T cell receptors and CD8 coreceptors.
+
+The activated T cells clonally expand and kill damaged or infected cells by releasing cytotoxins
+(eg, perforin, granzyme) that induce apoptosis. Genetic mutations (eg, TAP7) affecting MHC
+class I-peptide complex expression (eg, bare lymphocyte syndrome type |) are rare but can
+cause ulcerative, granulomatous skin lesions and frequent respiratory infections despite
+normal lymphocyte and immunoglobulin levels.
+
+(Choice A) B cell differentiation into plasma cells is impaired in common variable immune
+deficiency, a multifactorial disorder without a clearly defined genetic basis. A decrease in the
+overall production of immunoglobulin results in recurrent respiratory tract and gastrointestinal
+infections.
+
+Block Time Elapse
+
+Tutor
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

@@ -1,0 +1,16 @@
+EBV is a ubiquitous human herpes virus that causes infectious mononucleosis in a minority of
+patients (primary infection is usually asymptomatic). Initial infection is followed by life-long
+latent infection in memory B cells. While latent, the EBV genome exists as an episome in the
+nucleus of infected cells and expresses a restricted subset of EBV genes (latency genes)
+which do the following:
+
+¢ Promote periodic viral reactivation from memory B-cells, leading to recurrent
+(asymptomatic) mucosal infections.
+
+¢ Promote survival of infected memory B cells by encoding for proteins (eg, EBNA-1, LMP1)
+that prevent apoptosis. In a minority of patients, these proteins are oncogenic and lead to
+malignant transformation of infected B cells (eg, Burkitt lymphoma, Hodgkin lymphoma)
+or premalignant epithelial cells (eg, nasopharyngeal carcinoma, salivary cancer).
+
+Individuals who do not have premalignant epithelial lesions are at very low risk of EBV-
+associated epithelial cancers like NPC.

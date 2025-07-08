@@ -1,0 +1,49 @@
+Question Id: 2043
+
+— Item 11 of 40 = y Mark <I e a i @ al
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+(Choice A) Restriction sites are cleaved by specific endonucleases and can be used to
+identify polymorphisms within variant alleles on gel electrophoresis (restriction fragment length
+polymorphism analysis). However, knowing the restriction enzyme susceptibility sites within
+the target region is not necessary for PCR amplification.
+
+(Choice B) In PCR, only DNAsegments are amplified and studied; proteins are not involved.
+Proteins can be analyzed using Western blots, but even then, exact amino acid sequences do
+not need to be known.
+
+(Choice C) Complementary DNA (cDNA) is produced by the reverse transcriptase enzyme
+using mRNA as a template in reverse transcriptase PCR; it is not used in regular PCR. cDNA
+can be used to express eukaryotic proteins in prokaryotes by transferring the cDNA into the
+genome of a recipient organism.
+
+Educational objective:
+
+Polymerase chain reaction is used to amplify small fragments of DNA (eg, genes, exons,
+noncoding regions) by repeated replication. It requires primers that are complementary to the
+regions of DNA flanking the segment of interest. Thermostable DNA polymerase,
+deoxynucleotide triphosphates, and a source DNA template strand are also necessary.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+A
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

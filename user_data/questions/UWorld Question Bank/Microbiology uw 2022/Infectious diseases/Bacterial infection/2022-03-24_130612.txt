@@ -1,0 +1,5 @@
+Educational objective:
+
+The main groups of antifungal drugs are polyenes, azoles, echinocandins, and pyrimidines.
+Polyene antifungals (eg, amphotericin B, nystatin) act by binding ergosterol in the fungal cell
+membrane.

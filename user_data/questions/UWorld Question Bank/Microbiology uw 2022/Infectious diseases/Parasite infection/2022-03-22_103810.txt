@@ -1,0 +1,14 @@
+This patient has a severe headache, nausea, and an elevated eosinophil count in the
+cerebrospinal fluid, indicating eosinophilic meningitis, a condition most often caused by
+Angiostrongylus cantonensis infection. Humans are incidental hosts and typically acquire
+the helminth by eating contaminated mollusks or snails while in Southeast Asia or the Pacific
+Islands. Eosinophilic meningitis can also be caused by other helminths (eg, Gnathostoma,
+Baylisascaris) or, less commonly, by fungi (eg, coccidioidomycosis), leukoproliferative
+disorders (eg, Hodgkin lymphoma), or an adverse drug reaction.
+
+Eosinophils are of the granulocyte lineage (along with basophils and neutrophils), and the
+majority of total body eosinophils are in tissue (eg, spleen, lymph nodes, thymus, digestive
+tract). However, polyclonal expansion of peripheral eosinophils can occur due to release of
+IL-5 by T,,2 lymphocytes and innate lymphoid cells in response to helminth infection,
+allergens, drugs, or rheumatic disease; IL-5 may also be constitutively expressed by solid
+organ malignancies.

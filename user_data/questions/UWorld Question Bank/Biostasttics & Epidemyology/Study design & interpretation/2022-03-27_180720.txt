@@ -1,0 +1,64 @@
+Question Id: 1303
+
+on Ld @ al [=]
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes
+
+Item 27 of 29
+a V7 Mark
+
+Researchers studying the effects of hormone replacement therapy (HRT) on the risk of
+
+myocardial infarction (Ml) among postmenopausal women calculate the relative risk (RR) of Ml
+
+to be 1.30 (p = 0.07) among women who are taking HRT compared to those who are not. The
+
+researchers conclude that there is no statistically significant increased risk of MI with HRT
+
+(based on a cutoff of a = 0.05). Subsequently, the results of a meta-analysis determine that
+there actually is an increased risk of MI, with an overall RR = 1.32 (p = 0.03) among
+postmenopausal women who are taking HRT compared to those who are not. Which of the
+
+following was the most likely problem in the first study?
+
+SY E. Sample size (77%)
+
+A. Berkson's bias (7%)
+B. Placebo effect (1%)
+C. Poor blinding (3%)
+
+D. Researcher expectancy (9%)
+
+Gules 71% 7D 04 secs ey 2022
+
+Block Time Elapsed: 00:02:21
+
+Tutor
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+Activate Windows
+
+%
+
+Feedback
+
+Suspend
+
+63
+
+Settings
+
+()
+
+End Block
+

@@ -1,0 +1,64 @@
+Item 16 of 23
+
+Question Id: 1177
+
+a V7 Mark
+
+dq
+
+Previous
+
+e
+
+Next
+
+ra
+
+(4)
+Full Screen
+
+Tutorial
+
+al
+Lab Values
+
+The results of a study investigating a new diagnostic test for acute myocardial infarction (Ml)
+
+are given in the table below.
+
+What is the sensitivity of the new diagnostic test?
+
+MI | No MI
+Test positive | 75 20
+Test negative | 25 80
+
+O A. 25%
+© B. 37.5%
+© C.50%
+© D.75%
+© E. 79%
+© F. 80%
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Activate Windows
+
+GAA)
+
+Reverse Color _Text Zoom
+
+pen
+
+63
+
+Settings
+
+End Blox

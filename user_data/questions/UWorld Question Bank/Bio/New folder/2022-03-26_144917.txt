@@ -1,0 +1,16 @@
+Catabolism of isoleucine, valine, threonine, methionine, and odd-chain fatty acids normally
+leads to formation of propionyl CoA, which is then converted to methylmalonyl CoA by biotin-
+dependent carboxylation. Isomerization of methylmalonyl CoA through a vitamin B12-
+dependent reaction forms succinyl CoA, which subsequently enters the TCA cycle. Mutations
+in methylmalonyl-CoA mutase result in buildup of methylmalonic acid and propionic acid,
+leading to a metabolic acidosis. Hypoglycemia results from overall increased metabolic rate
+leading to increased glucose utilization and direct toxic inhibition of gluconeogenesis by the
+organic acids. The presence of hypoglycemia leads to increased free fatty acid metabolism
+that produces ketones, resulting in a further anion gap metabolic acidosis. Finally, organic
+acids also directly inhibit the urea cycle, leading to hyperammonemia.
+
+Complete deficiency of methylmalonyl-CoA mutase results in an anion gap metabolic acidosis,
+hypoglycemia, ketosis, and hyperammonemia. These metabolic derangements manifest as
+hypotonia, lethargy, vomiting, and respiratory distress (tachypnea due to acidosis) in the
+neonatal period. Diagnosis is confirmed by the presence of elevated urine methylmalonic
+acid and propionic acid.

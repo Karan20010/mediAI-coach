@@ -1,0 +1,27 @@
+Folate & nucleotide synthesis
+
+Folate
+H DHF reductase
++ (rate-limiting)
+v
+dTMP. DHF * Folate deficiency
+(DNA synthesis) * Methotrexate
+
+: DHF reductase
+1. (rate-limiting)
+y 9,
+
+Thymidylate THF
+
+synthase
+
+|
+
+Purines
+dUMP 5,10-methylene THF (RNA & DNA
+t synthesis)
+
+10-formy! THF
+
+ATMP = deoxythymidine monophosphate; dUMP = deoxyuridine monophosphate; DHF = dihydrofolate; THF = tetrahydrofolate.
+©uWorid

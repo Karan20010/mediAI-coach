@@ -1,0 +1,6 @@
+Educational objective:
+
+The size of adenomatous polyps determines their malignant potential. Adenomas <1 cm are
+unlikely to undergo malignant transformation, whereas those >4 cm are very likely to progress
+to adenocarcinoma. KRAS protooncogene mutation facilitates the growth of adenomas by
+causing uncontrolled cell proliferation.

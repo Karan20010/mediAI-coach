@@ -1,0 +1,12 @@
+(Choice A) Clostridioides difficile produces 2 exotoxins, one of which is a cytotoxin (toxin B)
+that disrupts the cytoskeleton by depolymerizing actin and causing cell death.
+
+(Choice C) Exotoxins produced by Corynebacterium diphtheriae (diphtheria toxin) inactivate
+elongation factor 2 via ribosylation, which leads to the inhibition of protein synthesis and cell
+death.
+
+(Choices D and E) Unlike STEC, enterotoxigenic E coli produces heat-labile toxin (LT) and
+heat-stable toxin (ST). LT increases intracellular cyclic AMP in intestinal mucosal cells, which
+leads to the decreased absorption and increased secretion of sodium, chloride, and water; ST
+increases intracellular cyclic guanosine monophosphate (GMP), also contributing to diarrhea
+and electrolyte loss. Watery, not bloody, diarrhea occurs.

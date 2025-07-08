@@ -1,0 +1,8 @@
+Many strains of Neisseria gonorrhoeae have pili, hair-like protein polymers projecting from the
+bacterial surface that are involved in organism attachment to mucosal surfaces. When the
+host produces antibodies against gonococcal pili, mucosal adherence is inhibited. At a given
+time, only 1 pilus gene is functional, so only 1 pilus type is expressed. However, the structural
+genes for pilus proteins undergo antigenic variation at a high frequency; they undergo
+recombination with each other to produce new antigenic types of pili. The number of possible
+antigenic pilus types is theoretically quite large. This diversity is a reason that vaccine
+development against N gonorrhoeae pili has been challenging.

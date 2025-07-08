@@ -1,0 +1,38 @@
+= Question Id: 11709
+
+— Item 7 of 40 mY wax <q Se i @ al Lo) id lA)
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+aminoglycosides to interfere with protein translation. Other common resistance mechanisms
+are the production of enzymes that inactivate the drug by altering its chemical structure or the
+production of an efflux pump that decreases the drug's intracellular concentration.
+
+(Choices B and D) Carbapenems and penicillins function similarly to other beta-lactam
+antibiotics by inhibiting a family of enzymes responsible for cell wall construction. Resistance
+to both can occur through alteration of the antibiotic binding site on the enzyme; decreased
+permeability of the antibiotic into the cell wall; or production of beta-lactamases, which alter the
+antibiotic structure by cleaving protein bonds in the antibiotic and inactivating it.
+
+(Choice C) Vancomycin is a glycopeptide antibiotic used to treat methicillin-resistant
+Staphylococcus aureus infections. It binds to D-alanine-D-alanine, thereby preventing
+peptidoglycan cell wall synthesis. Bacteria have been identified in which a D-alanine is
+replaced by a D-lactate, leading to vancomycin resistance.
+
+(Choice E) Resistance to the quinolones occurs by alteration of the genes encoding for DNA
+gyrase and topoisomerase IV, development of an efflux pump, or alteration of the membrane
+diffusion channels used by the antibiotic.
+
+Educational objective:
+
+Aminoglycosides work by interfering with the 30S ribosomal subunit and causing the cell to
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

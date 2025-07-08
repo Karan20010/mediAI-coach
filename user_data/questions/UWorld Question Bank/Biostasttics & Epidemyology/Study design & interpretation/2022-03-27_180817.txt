@@ -1,0 +1,8 @@
+(Choice D) Arandomized controlled trial follows individuals who have been randomized to
+either a treatment arm or a control arm and compares the effect of the intervention.
+
+Educational objective:
+
+A case-control study is an observational study design; it begins with individuals who have the
+outcome (cases) and compares them with individuals who do not have the outcome (controls)
+according to history of exposure to 21 risk factors.

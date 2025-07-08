@@ -1,0 +1,7 @@
+Educational objective:
+
+Bacillus anthracis is a large, sporulating, gram-positive rod that is encased in an
+antiphagocytic polypeptide capsule composed of D-glutamic acid. Inhalation of B anthracis
+spores can cause pulmonary anthrax, which is usually characterized by nonspecific symptoms
+
+followed by hemorrhagic mediastinitis, shock, and death.

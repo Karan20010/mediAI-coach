@@ -1,0 +1,29 @@
+— Item 28 of 32 mY wax <q Se i @ al Lo) id @A &s
+
+— " . uL ~
+Question Id: 17636 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+Drug dosing regimens are typically designed to maximize drug effectiveness and minimize
+toxicity. The above graph is comparing two different regimens with the same total dose (ie, 4
+grams/24 hr) but with different dosing intervals (ie, 6 hr,12 hr). Both regimens have similar
+trough levels (ie, lowest concentration level before next dose) and maintain plasma levels
+above the bactericidal cutoff (eg, 15-20 g/mL). As such, both regimens are likely to exhibit
+similar efficacy. However, peak and average drug levels are substantially higher with the
+12-hour dosing regimen. Because drug toxicity most often correlates with peak or average
+plasma drug levels, the 6-hour regimen is likely to have lower toxicity.
+
+(Choice A) Clearance (hepatic or renal) of a substance depends on the intrinsic properties of
+the agent. It is defined as the amount of plasma that is cleared of the drug over a given period
+(eg, mL/min). Drug clearance is typically the same regardless of the dosing schedule.
+
+(Choice B) Average plasma drug levels are lower when a fixed amount of drug is given in
+more divided doses. In this example, 4 grams are administered every 24 hours, either in 2
+doses (12-hr regimen) or 4 doses (6-hr regimen). Therefore, the more frequent 6-hour
+regimen would result in lower average plasma drug levels.
+
+(Choice C) Patient compliance is increased when the frequency of dosing is minimized. Only
+2 doses per day are needed with the 12-hour regimen; however, the 6-hour regimen needs 4
+
+Block Time Elapse
+
+Tutor End Block

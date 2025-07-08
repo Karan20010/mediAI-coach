@@ -1,0 +1,49 @@
+—— Question Id: 18995
+
+= ltem7 of29 5 v Mark <q Se rc j @ él
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+Genome-wide association studies (GWAS) are typically case-control studies that involve
+scanning thousands of genetic markers in subjects with and without a disease to identify
+associations between genetic variants (eg, loci) and that disease. GWAS often use single-
+nucleotide polymorphisms (SNPs), with several million SNPs analyzed on 1 microscope slide.
+
+In this case, GWAS are used to analyze hundreds of thousands of loci in Portuguese
+patients with and without rheumatoid arthritis (RA). The results are compared to those from a
+larger European cohort; both studies are then combined in a meta-analysis. A few loci have
+SNPs with an allele that is significantly more common among patients with RA than those
+without RA; these loci are therefore associated with RA.
+
+Whenever multiple tests are performed simultaneously (eg, analyzing thousands of loci), the
+possibility of false-positive results increases. Using a much smaller threshold for the p-
+value is a method to minimize this. Traditionally, a p-value <5% is considered statistically
+significant. However, if 100,000 loci are studied at that 5% (ie, 0.05, 5 x 102) level, then
+100,000 x 0.05 = 5,000 false positives would be expected. With a much smaller p-value, this
+number decreases substantially. For this reason, a p-value of 5 x 10-: ("genome-wide p-
+
+value"), as seen here, is often chosen in GWAS.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

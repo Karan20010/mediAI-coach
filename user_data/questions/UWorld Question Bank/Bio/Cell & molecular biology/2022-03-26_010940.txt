@@ -1,0 +1,7 @@
+The two primary modes of cell death are necrosis (which is induced by injury) and apoptosis
+(which is initiated by the host organism in response to cell damage, age-related atrophy, or
+specific stages of embryogenesis). Apoptosis is helpful in the elimination of cells that are no
+longer necessary and in the maintenance of a constant number of cells in rapidly growing
+tissues. Tumor cells, for example, die by apoptosis. The death of B and T lymphocytes and
+virally-infected cells also occurs through apoptosis. The remains of cells that die by this
+method are phagocytized by macrophages.

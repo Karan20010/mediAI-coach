@@ -1,0 +1,32 @@
+Pharmacokinetic
+parameter
+
+Formula
+
+Note
+
+Half life
+
+Vg x 0.7/CL
+
+Steady-state concentration is
+achieved in 4-5 half-lives.
+
+Maintenance
+dose
+
+Cys * CL x dosing interval
+
+Maintenance dose is
+decreased in patients with
+renal or hepatic impairment.
+
+Loading dose
+
+Va *s Cos
+
+Loading dose is affected by
+body weight and composition.
+
+CL = drug clearance; Css = steady-state plasma concentration; Vd = volume of distribution.
+

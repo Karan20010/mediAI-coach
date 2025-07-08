@@ -1,0 +1,17 @@
+Galactosemia results from deficiency of enzymes involved in galactose metabolism. First,
+lactose is broken down to galactose and glucose. Galactose is then phosphorylated to
+galactose-1-phosphate by the enzyme galactokinase (GALK). GALK deficiency causes
+galactose buildup and this excess is converted to galactitol, an osmotic agent that causes
+cataracts. Excess galactose also spills into the urine and causes it to test positive for a
+reducing substance. Serious systemic manifestations are not seen in GALK deficiency, and
+cataracts may be the only manifestation.
+
+In contrast, deficiency of the enzyme galactose-1-phosphate uridyl transferase (GALT) results
+in a more serious form of galactosemia. This is related to the accumulation of galactose-1-
+phosphate, a toxic metabolite that causes hepatic and renal dysfunction. Consequently,
+patients with GALT deficiency present early, in the neonatal period, with vomiting, lethargy, and
+failure to thrive.
+
+This patient's late presentation, normal growth, and the isolated presence of cataract are
+indicative of GALK deficiency. Infants born in the United States undergo routine newborn
+screens for detecting inborn errors of metabolism, such as galactosemia.

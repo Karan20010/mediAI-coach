@@ -1,0 +1,27 @@
+— Item 21 of 29 mY wax <q = i @ a) bo 4 33
+
+Question Id: 14853 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+Prevalence refers to the proportion of diseased individuals in a particular at-risk
+population, often measured in the following ways:
+
+¢ Period prevalence refers to the number of disease cases in a period (eg, from July 1 to
+July 31) divided by the number of people in the at-risk population (ie, prevalent cases at
+the beginning of a period plus any incident cases during the period).
+¢ Point prevalence refers to the number of disease cases that are active at a specific
+point in time (eg, July 31) divided by the number of people in the at-risk population.
+In this example, a study determined the number of cases of catheter-associated urinary tract
+infection (CAUTI) among patients in the intensive care unit during the month of July. There
+were 9 cases of CAUTI in July; a tenth case developed after July 31. Four of the 9 patients
+recovered before July 31; therefore, the number of cases of CAUTI still active on July 31 was
+5.
+(Choice A) Only 1 patient had developed CAUTI before July 1; this represents the number of
+point-prevalent cases on July 1.
+
+(Choice B) Four patients with CAUTI recovered during the month of July.
+
+Block Time Elapse
+
+Tutor
+
+End Block

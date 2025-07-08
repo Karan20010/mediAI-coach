@@ -1,0 +1,29 @@
+— Item 12 of 29 mY wax <q Se i @ al Lo) id @A &s
+
+Question Id: 1299 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+A researcher is interested in assessing the blood folate level of women who live in a population
+with a high incidence of neural tube defects. She takes a large random sample (n) of women
+age 18-45 and measures their blood folate levels. The researcher finds that the data are
+normally distributed, and she reports the mean and standard deviation (SD) of the sample. To
+account for sampling variation, she decides to calculate a 95% confidence interval to estimate
+
+the mean of the entire population. The researcher concludes that 2.4 to 4.6 ng/mL might be a
+likely range for the true, unknown population mean. Which of the following calculations was
+most likely used to compute this interval estimate of the population mean?
+
+(©) A. Mean + 1.96 x SD
+
+© B. Mean + 1.96 x (SD/Vn)
+(©) C. Mean + 2.58 x SD
+
+© D. Mean + 2.58 x (SD/Vn)
+©) E. Mean + (SD/n)
+
+Block Time Elapse
+
+Tutor
+
+Activate Windows
+
+End Block

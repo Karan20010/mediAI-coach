@@ -1,0 +1,5 @@
+Educational objective:
+
+Hepatitis D virus (HDV) is a replication-defective RNA virus that is capable of causing infection
+only in the setting of coinfection with hepatitis B virus (HBV). HBV provides hepatitis B surface
+antigen for the HDV envelope.

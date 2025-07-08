@@ -1,0 +1,20 @@
+Severe combined immunodeficiency
+
+net ¢ Gene defect leading to failure of T-cell development
+iolo
+uy ¢ B-cell dysfunction due to absent T cells
+
+. e X-linked recessive
+Inheritance ;
+e Autosomal recessive
+
+e Recurrent, severe viral, fungal, or opportunistic
+— (ie, Pneumocystis) infections
+
+Clinical features
+¢ Failure to thrive
+
+¢ Chronic diarrhea
+
+Treatment ¢ Stem cell transplant
+

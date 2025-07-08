@@ -1,0 +1,34 @@
+Item 1 of 3 < a)
+a V7 Mark 4 > La
+
+Question Id: 1206
+
+Previous Next Full Screen Tutorial Lab Values Notes
+
+The figure below shows the estimated incidence and mortality in 2019 for the 3 most common
+cancers affecting women in the United States, based on the American Cancer Society's
+Cancer Facts & Figures 2019. The x-axis lists the specific cancers, and the y-axis shows the
+projected number of patients affected.
+
+300,000
+
+250,000
+
+200,000
+™@ Incidence
+
+@ Deaths
+150,000
+
+100,000
+
+50,000
+
+Cancer 1 Cancer 2 Cancer 3
+
+Activate Windows
+
+63
+
+Settings
+

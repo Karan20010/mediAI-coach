@@ -1,0 +1,8 @@
+Educational objective:
+
+T helper subtype 1 cells release interferon-gamma, leading to the activation of macrophages, a
+process critical for control of Mycobacterium tuberculosis infection. Activated macrophages
+form mature phagolysosomes that destroy phagocytosed mycobacteria and can differentiate
+into epithelioid and Langhans giant cells to wall off extracellular mycobacteria within caseating
+
+granulomas.

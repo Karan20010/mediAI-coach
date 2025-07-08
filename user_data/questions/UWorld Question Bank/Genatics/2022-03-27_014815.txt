@@ -1,0 +1,29 @@
+— Item 8 of 40 mY wax dq > Ld @ al L)
+
+Question Id: 11595
+
+A pharmaceutical corporation investigating new therapeutic agents for treatment of Burkitt
+lymphoma synthesizes a double-stranded RNA molecule that is 21 base pairs in length. The
+RNA molecule has a base pair sequence that is complementary to a region of MRNA encoding
+c-Myc. Introduction of the RNA molecule into tumor cells results in a significant reduction in
+cell growth. Western blot analysis of equivalent numbers of treated and untreated cells is
+shown below.
+
+Untreated Treated
+cells cells
+
+c-myc ——>
+
+Block Time Elapsed: 00:01:08
+
+Tutor
+
+e @A 8
+
+e r
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+Activate Windows
+
+% Feedback Suspend _—_End Block
+

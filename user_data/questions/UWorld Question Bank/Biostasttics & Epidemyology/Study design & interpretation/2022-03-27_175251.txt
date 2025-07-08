@@ -1,0 +1,36 @@
+Item 2 of 29 < a)
+a V7 Mark 4 > La
+
+14864 Previous Next Full Screen Tutorial Lab Values Notes Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+Settings
+
+Research studies are classified as observational studies (eg, cross-sectional, case control,
+cohort) or experimental studies (eg, randomized control trials, factorial, crossover), depending
+on how much control a researcher has over the independent variables (eg, risk
+factors/exposures, interventions) in a study. The main differences between these 2 types of
+study designs are as follows:
+
+¢ In observational designs, the researcher observes the effect of naturally occurring risk
+factors/exposures on outcomes of interest.
+
+¢ In experimental designs, the researcher randomly assigns interventions to potential
+participants to assess the effect of the controlled interventions.
+
+A randomized control trial is one of the simplest subtypes of experimental designs; it is an
+experiment in which participants are randomly allocated to 22 groups to assess the effect
+of specific interventions (eg, treatments). In this example, 50 patients who underwent
+surgical resection of advanced oral cavity cancer were assigned by chance into either a
+tetracycline-ointment treatment group or a standard-of-care control group. The effectiveness of
+the topical application of tetracycline ointment for prevention of surgical-site infection was then
+assessed by recording the incidence and severity of infections in each group.
+
+Feedback
+
+End Block

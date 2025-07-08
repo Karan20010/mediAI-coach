@@ -1,0 +1,17 @@
+Leprosy is a chronic, slowly progressive, communicable disease caused by Mycobacterium
+leprae that typically involves the skin and peripheral nerves. Clinical manifestations are widely
+variable depending on the strength of the T,1 cell-mediated immune response to the
+organism. Disease is classified along a spectrum between tuberculoid (mild) to lepromatous
+(severe) forms. Patients with tuberculoid leprosy develop a strong T,,1-mediated response
+(interleukin [IL]-2, IFN-y, and IL-12) in affected tissues, leading to the activation of
+macrophages that kill M leprae organisms, thereby limiting disease extent. However, this
+localized inflammation damages the skin and cutaneous nerves, leading to the development of
+a small number of hypopigmented, well-demarcated plaques with decreased sensation.
+
+Lepromatous leprosy is a more disseminated form of the disease characterized by an innate
+inability to recognize and mount a cellular immune response against M leprae antigens.
+Affected tissues show extensive accumulation of acid-fast bacilli within macrophages and often
+a T,2 cytokine profile (IL-4, IL-5, and IL-10). Patients with lepromatous leprosy develop more
+numerous, poorly demarcated plaques that are widespread across the body. Over time, the
+bacterial load increases and the nodular lesions coalesce, causing the development of leonine
+facies and degeneration and loss of the nose and digits.

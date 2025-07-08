@@ -1,0 +1,13 @@
+‘Source DNA
+
+14 Denaturing
+
+Primer
+Annealing
+
+3 Extension
+
+Polymerase chain reaction
+
+Flanking region Target region Flanking region
+

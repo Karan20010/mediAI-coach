@@ -1,0 +1,46 @@
+Question Id: 19496
+
+— Item 19 of 29 = y Mark <I e a i @ al 5
+
+L c
+Previous Next Full Screen Tutorial Lab Values Notes
+within 5 years of hypertension diagnosis in the treatment group is:
+
+ARR & (RiSKeoni — RiSKreamen) = (0.10 - 0.03) = 0.07
+
+and the NNT is:
+NNT = 1/ARR = 1/0.07 = 14.3 = 15
+
+NNTs are always rounded up to the nearest whole number, so approximately 15 patients
+need to be treated with medication X + standard therapy to prevent 1 additional case of
+proteinuria within 5 years of hypertension diagnosis.
+
+(Choices A and C) 3 and 10 represent the number of patients in the treatment group and in
+the control group, respectively, who developed proteinuria within 5 years of diagnosis.
+
+(Choice B) 7 represents the ARR expressed as a percentage, calculated as: ARR = 100 =
+(RiSKeonso: — RiSKreamen) = 100(0.10 - 0.03) = 7.
+
+(Choice E) 70 represents the relative risk reduction (RRR) expressed as a percentage. The
+RRR describes the relative decrease in the risk of an adverse event in the treatment group
+compared to a control group; it is calculated as: RRR = 100 * [(RiSKesnia — RiSKrestmen) / RiSKeonra) =
+100[(0.10 - 0.03) / 0.10] = 70.
+
+Block Time Elapse
+Tutor
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

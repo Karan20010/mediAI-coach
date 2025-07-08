@@ -1,0 +1,40 @@
+Eg = ren 0or’o a V7 Mark 4 > La @ al S 4 GA fs
+
+e r
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+‘Question Id: 22656
+
+13 In order to survive and proliferate, cancer cells must develop adaptations to avoid detection by
+: the innate and adaptive immune response. One common adaptation is overexpression of
+
+16 programmed cell death ligand 1 (PD-L1) on the tumor cell surface. PD-L1 binds to
+
+= programmed cell death protein 1 (PD-1) on natural killer (NK) cells, T cells, and B cells and
+
+19 down-regulates their activity.
+
+* When PD-L1 binds to PD-1 on an activated T-cell, it converts it to an exhausted T-cell.
+
+Exhausted T-cells primarily express immunoinhibitory molecules and are unable to effectively
+24 destroy cancer cells with perforins/granzymes (Choice E) or to secrete immunostimulatory
+cytokines (eg, IL-2). In order to counter the overexpression of PD-L1 by certain tumors,
+
+27 patients can receive immunotherapy medications that block PD-1 (eg, pembrolizumab) or PD-
+L1 (eg, atezolizumab), which restores anti-tumor T-cell activity.
+
+Other common adaptations cancer cells employ to avoid immunodetection include:
+
++ 32 ¢ Down-regulation of class | major histocompatibility complexes: limits
+
+» 33
+
+2 A neoantigen expression on the tumor cell surface.
+
+» 35
+
+5 ¢ Induction of T-cell anergy: Tumor cells eliminate costimulatory surface molecules
+
+7 (CD80/86) required for T-cell activation; this induces T-cell anergy (ie, a dormant state).
+
+End Block

@@ -1,0 +1,6 @@
+Educational objective:
+
+Ubiquitin is a protein that undergoes ATP-dependent attachment to other proteins, labeling
+them for degradation. These modified proteins enter the proteasome and are degraded into
+small peptides. Impairment of the ubiquitin-proteasome system can contribute to the
+development of neurodegenerative disorders, including Parkinson’s and Alzheimer’s diseases.

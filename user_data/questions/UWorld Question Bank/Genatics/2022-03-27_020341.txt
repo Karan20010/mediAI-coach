@@ -1,0 +1,33 @@
+— Item 22 of 40 mY wax <q Se ” @ al Lo) id lA)
+
+= jon (a: [Ls c
+Question Id: 2037 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom
+
+Transfer RNA (tRNA) is a form of non-coding RNA composed of 74-93 nucleotides. Specific
+tRNAs transfer certain amino acid residues to the growing polypeptide during translation.
+tRNA functions by recognizing the 3 base codon on the MRNA being translated through its
+anticodon region, which contains complementary bases. The secondary structure of tRNA
+resembles a cloverleaf and contains the following regions:
+
+¢ The acceptor stem is created through the base pairing of the 5'-terminal nucleotides with
+the 3'-terminal nucleotides. The CCA tail hangs off the 3' end, with the amino acid bound
+to the 3' terminal hydroxyl group. tRNA is "loaded" with the appropriate amino acid by
+aminoacyl tRNA synthetase. The acceptor stem helps mediate correct tRNA recognition
+by the proper aminoacyl tRNA synthetase.
+
+A3' CCA tail is added to the 3' end of tRNA as a posttranscriptional modification in
+eukaryotes and most prokaryotes. Several enzymes utilize this tail to help recognize tRNA
+molecules.
+
+The D loop contains numerous dihydrouridine residues, which are modified bases often
+present in tRNA. The D loop (along with the acceptor stem and anticodon loop) facilitates
+correct tRNA recognition by the proper aminoacyl tRNA synthetase.
+
+Block Time Elapse
+Tutor
+
+63
+
+Settings
+
+End Block

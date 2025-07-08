@@ -1,0 +1,18 @@
+The HIV genome encodes several enzymes and structural proteins in polycistronic mRNAs
+that are then translated into polyproteins and cleaved by proteases into the individual proteins
+that compose the virus. The env gene encodes the polyprotein gp160, which is extensively
+glycosylated in the endoplasmic reticulum and Golgi body and subsequently cleaved into the
+mature envelope proteins gp120 and gp41. These envelope proteins remain associated by
+noncovalent attachments and form the glycoprotein spikes that pepper the surface of the
+HIV virus.
+
+gp120 forms the outside surface of the glycoprotein spike and mediates viral attachment to
+the host cell by binding with the CD4 receptor and a chemokine coreceptor (CXCR4, CCRS5)
+(Choice A). Binding of gp120 to these host receptors induces a conformational change in the
+structure of the glycoprotein spike that exposes the underlying transmembrane glycoprotein
+gp41. gp41 mediates fusion of the viral cell membrane with the host cell membrane, thereby
+allowing the viral core to enter the cell.
+
+Drugs that selectively bind gp41 (eg, enfuvirtide) are known as fusion inhibitors because
+they prevent gp41 from undergoing the conformational changes necessary for viral fusion,
+which prevents the HIV genome from entering uninfected cells.

@@ -1,0 +1,4 @@
+ARDS = acute respiratory distress syndrome; CHF = congestive
+heart failure; DIC = disseminated intravascular coagulation; HGA
+
+= human granulocytic anaplasmosis; LFTs = liver function tests.

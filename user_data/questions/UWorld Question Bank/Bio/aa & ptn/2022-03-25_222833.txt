@@ -1,0 +1,20 @@
+The Michaelis-Menten model describes the behavior of enzyme-driven reactions by comparing
+the rate of reaction (V) to the concentration of the substrate (S). Maximal velocity (Vina)
+represents the speed at which the reaction occurs when the enzyme's active sites are
+completely saturated with substrate. The Michaelis constant (K,,) defines the substrate
+concentration at which half of the enzyme's binding sites are occupied by substrate (72 Vina).
+
+Substrates with high affinity for the enzyme typically have a low K,,.
+
+Competitive inhibition occurs when an inhibitor binds to an enzyme and prevents it from
+binding the substrate. Most competitive inhibitors (including malate) bind at the active site
+(substrate-binding pocket) and physically impede substrate binding. Because these inhibitors
+compete with the substrate for binding to the active site, additional substrate is required to
+reach % V,,.., thereby increasing apparent K,. Competitive inhibitors have no effect on
+
+enzyme function, and therefore V,,.. is unchanged.
+
+In this example, V,,x. remains constant (at 400 umol/L/sec) while K,, increases (from 8 to 16
+
+mM) in the presence of malate. Therefore, malate is a competitive inhibitor of succinate
+dehydrogenase for succinate.

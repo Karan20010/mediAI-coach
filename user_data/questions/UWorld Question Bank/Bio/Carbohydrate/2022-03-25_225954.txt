@@ -1,0 +1,15 @@
+Metabolic fate of pyruvate
+
+Pyruvate
+
+co,
+Pyruvate Pyruvate
+carboxylase dehydrogenase
+
+co,
+___. Fatty acid
+Oxaloacetate Acetyl-CoA + cuidalion
+Gluconeogenesis Citric acid cycle
+Glucose
+
+Qi pei

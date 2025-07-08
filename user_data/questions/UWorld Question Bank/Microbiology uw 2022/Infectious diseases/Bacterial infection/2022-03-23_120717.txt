@@ -1,0 +1,12 @@
+Corynebacterium diphtheriae are nonmotile, unencapsulated, gram-positive rods. On
+microscopic examination, they are often found in clumps (classically said to resemble Chinese
+characters) or joined in V- or Y-shaped chains. Their cytoplasm contains metachromatic
+granules that stain with aniline dyes (eg, methylene blue).
+
+C diphtheriae produce classic 2-subunit AB exotoxin. The B (binding) subunit binds
+specifically to the heparin-binding epidermal growth factor receptor on cardiac and neural cells,
+which explains the toxin's affinity for heart and brain tissue. The B subunit induces
+endocytosis of the toxin, and the subsequently released A (active) subunit inhibits host cell
+protein synthesis by catalyzing the ADP-ribosylation of protein elongation factor 2 (EF-2). EF-
+2 is necessary for tRNA to insert new amino acids into the growing protein chain during
+translation. Therefore, the toxin causes cell death by inhibiting cell protein synthesis.

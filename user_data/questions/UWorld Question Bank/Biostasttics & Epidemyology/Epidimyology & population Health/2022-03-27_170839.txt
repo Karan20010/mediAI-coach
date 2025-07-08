@@ -1,0 +1,9 @@
+Even with different incidences, it is unlikely that exactly the same number of new HAV
+diagnoses were made.
+
+Educational objective:
+
+Incidence corresponds to the number of new cases of a disease in a certain population at risk
+over a given time period. Prevalence is the total number of cases in the population over a
+
+given period.

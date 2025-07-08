@@ -1,0 +1,38 @@
+to
+
+10
+at
+12
+
+Question Id: 11764
+
+= ltem8 of 12 5 v Mark <q Se rc j @ él
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+This patient's new-onset hypertension and elevated levels of serum creatinine and
+cyclosporine are suggestive of acute calcineurin inhibitor nephrotoxicity. Calcineurin
+inhibitors such as cyclosporine cause dose-dependent renal vasoconstriction and tubular cell
+damage, which can precipitate acute renal failure.
+
+Cyclosporine is extensively metabolized by the liver and gastrointestinal tract via the
+
+cytochrome P450 system, specifically the CYP3A isoenzymes. Inhibition of intestinal P450
+enzymes by the furocoumarins present in grapefruit juice can slow the breakdown of drugs
+metabolized by this pathway, raising circulating levels of the affected drugs. Medications with
+a narrow therapeutic index (eg, cyclosporine) have the highest risk of toxicity.
+
+(Choice A) Changes in gastric pH do not significantly affect the oral bioavailability of
+cyclosporine.
+
+(Choice C) Transmembrane cyclosporine transport is not affected by grapefruit juice.
+(Choice D) Pharmacodynamic potentiation is defined as a greater than additive effect that
+occurs when 2 different drugs are administered simultaneously due to functional interactions
+
+within the target tissues. Grapefruit juice increases the effect of cyclosporine by slowing its
+metabolism, which is a pharmacokinetic mechanism.
+
+Block Time Elapse
+
+Tutor End Block

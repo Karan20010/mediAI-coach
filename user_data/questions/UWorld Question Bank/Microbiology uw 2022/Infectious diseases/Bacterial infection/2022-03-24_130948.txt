@@ -1,0 +1,19 @@
+Mechanism of action of selected bacterial exotoxins
+
+Organism Toxin Mechanism & effects
+Edema factor: Increases cyclic AMP concentration by
+acting as an adenylate cyclase, causing edema &
+Bacillus Anthrax phagocyte dysfunction
+anthracis | exotoxin Lethal factor: Zinc-dependent protease that inhibits
+mitogen-activated protein kinase signaling, causing
+apoptosis & multisystem physiologic disruption
+Disinhibits adenylate cyclase through G; ADP-
+Pertussis toxin |ribosylation, increasing cAMP levels; causes edema &
+Bordetella .
+phagocyte dysfunction
+pertussis
+Adenylate Functions as an adenylate cyclase, increasing cAMP
+cyclase toxin |levels; causes edema & phagocyte dysfunction
+Clostridium Botulinum Blocks presynaptic release of acetylcholine at the
+botulinum toxin neuromuscular junction, resulting in flaccid paralysis
+

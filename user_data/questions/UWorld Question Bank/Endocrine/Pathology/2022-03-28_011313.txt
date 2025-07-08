@@ -1,0 +1,49 @@
+on Ld @ al [=]
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes
+
+— litem 19 of 33
+= a V7 Mark
+
+Question Id: 1844
+This patient has a marfanoid habitus—a tall and slender build with disproportionately long
+arms, legs, and fingers. The flesh-colored nodules on his lips and tongue are likely mucosal
+neuromas, which are unencapsulated, thickened proliferations of neural tissue. This patient
+also has a history of total thyroidectomy, which was likely due to medullary thyroid cancer
+(MTC). This combination of clinical findings is consistent with multiple endocrine neoplasia
+type 2B (MEN 2B), which is due to an autosomal dominant germ-line mutation in the RET
+proto-oncogene.
+
+Other possible manifestations of MEN 2B include pheochromocytoma and intestinal
+ganglioneuromas (which may cause constipation). The earliest manifestations of the disease
+often appear in childhood or adolescence. Early recognition of MEN 2B is important as almost
+all patients develop MTC and prophylactic thyroidectomy can be life-saving.
+
+(Choice A) Ehlers-Danlos syndrome is a heritable connective tissue disorder characterized by
+skin hyperextensibility, joint hypermobility, tissue fragility, poor wound healing, and easy
+bruising. There is no known association between Ehlers-Danlos syndrome and thyroid cancer
+or perioral nodules.
+
+(Choice B) Although this patient has a marfanoid habitus, the remainder of his presentation is
+
+more consistent with MEN 2B than Marfan syndrome. In addition, unlike true Marfan
+Block Time Elapse
+
+Tutor
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

@@ -1,0 +1,30 @@
+1 _ roa =I
+
+2 = cueston o ws LS 4 Mark mone i ieee ® alll. a cot so Gs) &.
+= There are 64 codons in the genetic code, the majority of which code for amino acids.
+
+° However, because there are only 20 amino acids, most have more than one codon. For
+
+: example, GUU, GUC, GUA, and GUG all code for valine.
+
+: In addition, there are codons that call for initiation or termination of protein synthesis. The
+
+20 universal start codon is AUG, which codes for methionine. UAA, UAG, and UGA are stop
+codons, which do not code for amino acids or bind tRNA. Instead, when the ribosome
+
+bs encounters a stop codon, releasing factor proteins bind to the ribosome and stimulate release
+45 of the formed polypeptide chain and dissolution of the ribosome-mRNA complex.
+
+(Choice A) Charged tRNA delivers amino acids to the protein synthesis complex. The
+up anticodon on a tRNA molecule recognizes the corresponding codon on mRNA, assuring
+: aa proper amino acid sequencing.
+(Choice B) Elongation factors facilitate tRNA binding and the translocation steps of protein
+23 synthesis.
+28 (Choice D) Transcription produces a pre-mRNA molecule containing both introns and exons.
+
+Splicing is a post-transcriptional modification in which introns are removed from pre-mRNA via
++ 28 small nuclear ribonucleoproteins (snRNPs).
+
+Block Time Elapse
+Tutor End Block
+

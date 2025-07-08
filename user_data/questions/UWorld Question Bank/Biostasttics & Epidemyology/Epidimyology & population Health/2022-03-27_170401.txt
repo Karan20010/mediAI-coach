@@ -1,0 +1,44 @@
+Question Id: 19451
+
+— Item 20 of 29 = y Mark <I e a i @ al
+
+Previous Next utter Tutorial Lab Values
+The positive predictive value (PPV) of a diagnostic test is the probability (ie, likelihood) that
+an individual truly has the disease given a positive test. PPV is equal to the number of
+individuals who have the disease and who test positive (ie, true positives [TP]) divided by the
+total number of individuals with a positive test result (TP + false positives [FP]):
+
+PPV =TP/ (TP + FP)
+To determine PPV in this example, it helps to construct a 2 = 2 table with the expected data for
+this population according to the properties of the diagnostic test. In this example, the
+pediatrician examined 1,000 children in a population with a 10% prevalence of asthma (ie, 100
+children have asthma, 900 do not). The sensitivity, which is equal to TP / (TP + false negatives
+[FN]), and the specificity, which is equal to true negatives (TN) / (TN + FP), are 95% and 80%
+respectively. Therefore, the number of TP is 95 (ie, 100 x 0.95), the number of FN is 5 (ie,
+100 - 95), the number of TN is 720 (ie, 900 x 0.80), and the number of FP is 180 (ie, 900 -
+720).
+
+The PPV can be calculated as follows:
+PPV = TP/ (TP + FP) = 95/ (95 + 180)
+
+Predictive values depend on the prevalence of the disease in the study population; as the
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

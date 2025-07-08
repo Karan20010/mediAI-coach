@@ -1,0 +1,10 @@
+Although many different Plasmodium species cause malaria, the 2 dominant organisms are P
+falciparum (in Africa) and P vivax (in non-African countries). This patient who traveled to India
+was likely infected with P vivax. Unlike P falciparum, P vivax (and P ovale) sporozoites can
+undergo a dormant hepatic phase (hypnozoite stage) that may cause recurrent parasitemia
+and symptoms weeks or months after initial infection. Individuals with these strains of malaria
+must be treated with a combination of drugs that target both the erythrocyte phase (eg,
+chloroquine) and the dormant hepatic phase (ie, primaquine) to ensure clearance. Patients
+who are treated with a medication that only targets the erythrocyte phase (as was likely in this
+case) may initially improve but are likely to develop recurrent symptoms when the dormant
+hepatic hypnozoites reactivate.

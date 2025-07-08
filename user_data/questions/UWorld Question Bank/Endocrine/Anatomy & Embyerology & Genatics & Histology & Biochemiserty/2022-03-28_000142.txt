@@ -1,0 +1,41 @@
+41 Pe i @ @ B&B
+
+Previous Next Full Screen Tutorial Lab Values Notes
+I
+
+converts ATP to cyclic AMP, which subsequently activates protein kinase A.
+
+(Choices C and D) Various hormones (eg, GnRH, TRH, angiotensin Il, ADH [V1 receptor])
+function by binding to G protein-coupled receptors that activate phospholipase C. Activated
+phospholipase C hydrolyzes phosphatidylinositol bisphosphate to inositol triphosphate (IP,)
+and diacylglycerol (DAG). IP; mobilizes calcium from the endoplasmic reticulum, and DAG
+directly activates protein kinase C.
+
+Educational objective:
+
+Growth hormone binds to cell surface receptors, leading to intracellular activation of the JAK-
+STAT pathway. Cytokines (eg, interferon) and hematopoietic growth factors (eg,
+erythropoietin, G-CSF) also use this pathway.
+
+References
+
+¢ The role of STAT proteins in growth hormone signaling.
+Biochemistry Endocrine, Diabetes & Metabolism Turner syndrome
+
+Subject System Topic
+
+Copyright © UWorld. All rights reserved.
+
+Block Time Elapse
+
+Tutor
+
+Calculator
+
+e @A 8
+
+Reverse Color _Text Zoom Settings
+
+Activate Windows
+
+End Block

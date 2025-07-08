@@ -1,0 +1,40 @@
+Question Id: 2035
+
+— Item 21 of 40 mY wax <q Se ” @ al Lo) id lA)
+
+(4) r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+of the precursor RNA occurs in the nucleus as the RNA is being transcribed. This methylated
+cap protects mRNA from degradation by cellular exonucleases, and allows it to exit the
+nucleus.
+
+(Choice C) mRNAis polyadenylated at the 3' end by the polyadenylate polymerase complex,
+which recognizes a specific sequence (AAUAAA), cleaves the pre-mRNA molecule a few
+residues downstream from this sequence, and then adds a stretch of 20 - 250 adenine
+residues called the poly A tail. The addition of the poly A tail occurs before the mRNA exits the
+nucleus. In the cytosol, the poly A tail is gradually shortened, eventually leading to MRNA
+degradation.
+
+(Choices D and E) Since pre-mRNA contains both introns and exons, and only exons code
+for proteins, introns must be excised before translation through a process known as splicing.
+Splicing of pre-mRNA occurs within the nucleus and is facilitated by the interaction of pre-
+mRNA with small ribonucleoprotein particles called snRNPs (or "snurps" for short).
+
+Educational objective:
+
+When mRNA is first transcribed from DNA, it is in an unprocessed form called pre-mRNA or
+
+heterogeneous nuclear MRNA (hnRNA). Several processing steps are required before
+
+finalized mRNA molecules can leave the nucleus, including 5'-capping, poly A tail addition, and Activate \
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

@@ -1,0 +1,6 @@
+Educational objective:
+
+Bloom syndrome is a rare autosomal recessive condition caused by mutations in the BLM
+gene encoding helicase, an enzyme that unwinds the double helix during DNA replication.
+Patients typically present with growth retardation, facial anomalies, photosensitive skin rash,
+and immunodeficiency due to chromosomal instability and breakage.

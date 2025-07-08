@@ -1,0 +1,38 @@
+= Question Id: 11960
+
+— Item 27 of 40 mY wax <q Se ” @ al Lo) id lA)
+
+(4) r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+The couple's 3-year-old son has sickle cell anemia, an autosomal recessive disorder that
+causes red blood cells to assume a sickle shape during times of hypoxic stress, resulting in
+painful and potentially life-threatening vasoocclusive crises. The disease can be diagnosed
+using hemoglobin electrophoresis, which is able to determine the different types of hemoglobin
+in a blood sample based on their electrical charge and the speed by which they move through
+the medium. The patient's electrophoresis results show a predominance of hemoglobin S
+(HbS), which is diagnostic for sickle cell disease.
+
+In this case, both parents are unaffected and must be heterozygous carriers (Aa) of the
+disorder because they have an affected child. This means that each parent has a 50%
+chance of passing either a normal allele (A) or a mutant allele (a) to the offspring. The
+possible genotypes of the unborn child can be calculated using a Punnett square and are as
+follows:
+
+¢ 25% chance of inheriting two normal alleles (AA, child is unaffected)
+¢ 50% chance of inheriting one normal and one mutant allele (Aa or aA, child is a carrier)
+¢ 25% chance of inheriting two mutant alleles (aa, child is affected)
+
+Only the last 2 options result in the child inheriting a mutant allele, so the probability that the
+
+unborn child is carrying one or more mutant alleles is 75%.
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

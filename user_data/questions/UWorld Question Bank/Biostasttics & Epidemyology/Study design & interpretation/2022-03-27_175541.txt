@@ -1,0 +1,45 @@
+= ltem7 of29 5 v Mark <q Se rc j @ él
+
+= : L
+‘Question Id: 18995 Praras Next FullScreen Tutorial__—_Lab Values
+
+(Choice A) A meta-analysis combines results from different studies, thereby increasing
+sample size, which increases power (eg, to detect statistical differences between groups).
+
+(Choice B) Logistic regression was used because it analyzes the association between
+exposures (eg, multiple loci) and binary outcomes (eg, yes = cases with RA; no = controls
+without RA).
+
+(Choice C) An odds ratio (OR) <1 does not imply a lack of statistically significant association.
+If an OR >1 means that patients with RA have higher odds of having a specific locus compared
+to those without RA (ie, risk factor), an OR <1 means that patients with RA have /ower odds of
+having that specific locus (ie, protective factor). The OR for the association between Locus 1
+and RA is statistically significant because its p-value (3.5 x 10+) is less than the genome-wide
+
+p-value (5 x 10-).
+
+(Choice E) GWAS help explain disease heritability (ie, effect of genotypic differences on
+phenotypic differences). Although this study identified 3 new loci, there is no indication that the
+full group of 33 loci will explain most RA disease heritability. GWAS have identified many
+genes associated with specific conditions, but these genes only seem to explain a small
+amount of the variance ("missing heritability").
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

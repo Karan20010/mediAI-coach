@@ -1,0 +1,12 @@
+Severe pharyngitis with exudates and cervical lymphadenopathy in a group of people with
+unknown vaccination status should raise suspicion for respiratory diphtheria infection.
+Diphtheria toxin can cause severe myocarditis and heart failure, which occurred in one of the
+patients in the vignette. Diphtheria toxin acts in a similar manner to exotoxin A, which is
+produced by Pseudomonas aeruginosa.
+
+P aeruginosa produces several extracellular products, including exotoxin A, collagenase,
+elastase, fibrinolysin, phospholipase C, and DNAse. These substances assist in its invasion
+and dissemination in human tissues. Although they are structurally different, both diphtheria
+toxin and exotoxin A ribosylate and inactivate elongation factor-2 (EF-2), halting human cell
+protein synthesis and causing cell death. Exotoxin Ais a major virulence factor and is
+responsible for the high mortality associated with P aeruginosa septicemia.

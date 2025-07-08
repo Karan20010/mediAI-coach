@@ -1,0 +1,9 @@
+(Choice E) Pleiotropy refers to the phenomenon in which a single gene influences multiple
+phenotypic traits.
+
+Educational objective:
+
+Genomic imprinting refers to the phenomenon in which an offspring's genes are expressed in
+a parent-specific manner. Genomic imprinting is caused by DNA methylation, an epigenetic
+process in which genes can be silenced by attaching methyl groups to cytosine residues in the
+DNA molecule.

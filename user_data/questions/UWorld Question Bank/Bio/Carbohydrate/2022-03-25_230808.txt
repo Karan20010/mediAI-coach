@@ -1,0 +1,19 @@
+Lactose (milk sugar) is degraded by lactase, the intestinal disaccharidase, to galactose and
+glucose. Galactose is then phosphorylated to galactose-1-phosphate by the enzyme
+galactokinase (GALK). Galactose-1-phosphate is converted to glucose-1-phosphate by
+epimerization with transfer of uridine diphosphate (UDP) from UDP-glucose to UDP-
+galactose. This reaction is catalyzed by galactose-1-phosphate uridyl transferase (GALT).
+UDP-galactose is then epimerized to UDP-glucose by UDP-galactose-4 epimerase. Although
+GALT deficiency is the most common form, a defect in any of these three enzymes can cause
+galactosemia.
+
+Galactosemia can present with vomiting and lethargy soon after initiation of breastfeeding.
+In GALT deficiency, toxicity of accumulated galactose-1-phosphate is responsible for impaired
+liver function (transaminitis, hyperbilirubinemia, hypoglycemia) and renal dysfunction
+(hyperchloremic metabolic acidosis, aminoaciduria). Patients are also predisposed to
+Escherichia coli (gram-negative rod) sepsis.
+
+Restricting lactose intake (eg, breast milk) and initiation of soy milk-based formula can result in
+regression of cataracts and improvement in renal and liver function. Soy milk consists of
+sucrose, which is metabolized to glucose and fructose. Glucose and fructose do not need
+GALT or GALK to enter the glycolytic pathway and generate energy.

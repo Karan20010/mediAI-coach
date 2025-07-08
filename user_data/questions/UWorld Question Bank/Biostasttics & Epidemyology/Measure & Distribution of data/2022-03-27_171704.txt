@@ -1,0 +1,47 @@
+_
+Th
+
+= ltem3of10 5 v Mark <q Se rc j @ él
+
+—— Question Id: 19309 Pars Next Full Screen Tutorial Lab Values
+Relative risk reduction (RRR) measures how much a given treatment reduces the risk of
+an unfavorable outcome relative to the control group. RRR may be defined as the difference
+in risk of the unfavorable outcome in the treatment group (eg, new drug) compared to the
+control group (eg, placebo):
+
+Re eke ee
+
+In this example, RiSKcono (ie, risk of severe cutaneous reactions in the placebo group) is 9/75 =
+0.12, and RiSKzesinen (ie, risk Of Severe cutaneous reactions in the new drug group) is 6/75 =
+0.08. Therefore, RRR for severe cutaneous reactions among patients in the new drug group
+is:
+
+RRR = (0.12 - 0.08) / 0.12 = 0.33
+Alternately, RRR may be calculated using relative risk (RR). When using RR, the formula for
+RRR is:
+
+RRR=1-RR
+
+For this example, RR is the ratio of the risk of severe cutaneous reactions in the new drug
+group to the risk of severe cutaneous reactions in the placebo group, calculated as follows:
+
+Block Time Elapse
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

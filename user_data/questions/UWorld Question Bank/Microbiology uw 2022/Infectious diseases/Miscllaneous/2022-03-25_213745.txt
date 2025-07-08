@@ -1,0 +1,10 @@
+of the vaccine.
+
+Educational objective:
+
+Initial vaccination generates an early IgM response by short-lived plasma cells followed by a
+delayed-onset, longer-lasting IgG response due to T-cell dependent class switching (IgM
+peaks before IgG). Due to formation of memory B cells, secondary responses (eg, booster
+vaccination, pathogen exposure) are characterized by a rapid and sustained IgG response
+
+with a short-term, more muted IgM response.

@@ -1,0 +1,13 @@
+HIV attaches to host cells using the viral surface glycoprotein gp120. This glycoprotein binds
+to the CD4 molecule as the primary receptor and the chemokine receptor CCRS5 (or CXCR4)
+as a coreceptor. Binding of the primary receptor and coreceptor induces a conformational
+change in gp120 that exposes the underlying transmembrane glycoprotein gp41, which
+mediates viral fusion to the host cell and release of the viral capsid into the cytoplasm.
+
+The drug described in this case does not interfere with viral attachment but does interfere with
+viral fusion. This implies that gp120 is still able to bind to the primary CD4 receptor but may be
+blocked from binding to the chemokine coreceptor, which would prevent the conformational
+change to gp120 required for viral fusion. Chemokine receptor antagonists (eg, maraviroc)
+block this step in the HIV replication cycle. The drug described in this case could also be a
+fusion inhibitor (eg, enfuvirtide), which blocks gp41 from fusing the viral and host plasma
+membranes.

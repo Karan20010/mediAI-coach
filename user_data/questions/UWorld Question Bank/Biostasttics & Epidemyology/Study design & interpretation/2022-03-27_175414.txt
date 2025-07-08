@@ -1,0 +1,49 @@
+41 be La © a
+
+Previous Next Full Screen Tutorial Lab Values
+
+— Item 4 of 29
+
+= Question Id: 14859 a 4 (Cons
+A cohort study is an observational design in which potential participants in the population of
+interest are initially identified as exposed or nonexposed according to the independent
+variable (ie, exposure status to a risk factor). Once participants are categorized based on their
+exposure status, the occurrence (ie, incidence) of the dependent variable (eg, outcome of
+
+interest) over a specific period is determined in each group. Finally, the occurrence of the
+
+outcome is compared between exposed and nonexposed groups to estimate the association
+between the risk factors and the outcomes. If there is a statistically significant difference in
+outcome occurrence between the 2 groups, it is likely that the risk factor in question is
+associated with disease development.
+In this example:
+¢ The population of interest is patients with type 2 diabetes mellitus (T2DM). Therefore,
+both the exposed and nonexposed groups must consist of patients with T2DM (Choices D
+and E).
+¢ The risk factor of interest is morbid obesity (BMI >40 kg/mz). Therefore, the exposed
+group is adults with morbid obesity, and the nonexposed group is adults with normal
+weight (BMI 18.5 to <25 kg/m2) (Choice A).
+
+¢ The outcome of interest is diabetic nephropathy. Exposed and nonexposed subjects
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

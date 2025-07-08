@@ -1,0 +1,30 @@
+Question Id: 19496
+
+— Item 19 of 29 mY wax <q = i @ a) bo 4 33
+
+e r
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+The number needed to treat (NNT) is the number of patients who need to be treated with a
+specific drug (eg, medication X) to prevent an additional negative event (eg, 1 fewer
+patients with essential hypertension who develop proteinuria within 5 years of diagnosis) when
+compared with a control group (eg, standard antihypertensive therapy). NNT is the inverse of
+the absolute risk reduction (ARR):
+NNT =1/ARR
+
+The ARR describes the difference in risk of an unfavorable event (eg, development of
+proteinuria within 5 years of hypertension diagnosis) between the treatment group (eg,
+medication X + standard antihypertensive therapy) and the control group (eg, standard
+antihypertensive therapy):
+
+ARR & (RiSKesiro: — RiSKresinen)
+In this question, 100 — 90 = 10 out of 100 patients in the control group developed proteinuria
+within 5 years of hypertension diagnosis, SO RiSKeon is 10/100 = 0.10. Similarly, 100 - 97 =3
+out of 100 patients in the treatment group developed proteinuria within 5 years of hypertension
+diagnosis, SO RiSKreamen iS 3/100 = 0.03. Therefore, the ARR for development of proteinuria
+
+within 5 years of hypertension diagnosis in the treatment group is:
+
+Block Time Elapse
+
+Tutor End Block

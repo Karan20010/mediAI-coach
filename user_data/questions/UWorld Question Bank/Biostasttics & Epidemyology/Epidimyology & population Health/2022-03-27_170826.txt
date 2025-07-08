@@ -1,0 +1,47 @@
+— Item 26 of 29 <I e a i @ al
+
+’ 4
+‘Question Id: 10579 Praras Next Full Screen torial Lab Values
+
+(Choice A). Compared to new HBV cases, there were approximately just as many new HAV
+cases in 1987 and more new HAV cases in 1989. However, the total number of HAV or HBV
+cases in the population cannot be calculated without additional information. In fact, there were
+likely more total cases (ie, higher prevalence) of HBV as it can progress to a chronic form
+(Choices B and C).
+
+A simplified diagram compares incidence and prevalence to adding new drops (incident cases)
+into a water-containing sink (prevalent cases).
+
+(Choice E) HAV incidence per 100,000 population was similar in 1982 and 1998. However,
+the overall US population, and consequently the number of new HAV cases, was different.
+Assuming HAV incidence was ~10 new cases/100,000 population for both years, then, in 1982
+(US population ~230 million):
+
+New HAV cases in 1982 = 10/100,000 x 230,000,000 = 23,000
+
+Also, in 1998 (US population ~275 million at least):
+New HAV cases in 1998 = 10/100,000 x 275,000,000 = 27,500
+
+Even with different incidences, it is unlikely that exactly the same number of new HAV
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

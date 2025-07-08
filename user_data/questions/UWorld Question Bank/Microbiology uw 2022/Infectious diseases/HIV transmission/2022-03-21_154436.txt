@@ -1,0 +1,14 @@
+(Choice A) Patients with advanced HIV who have low CD4 counts are at greater risk for
+mucocutaneous Candida infections (eg, thrush, esophagitis). However, routine prophylaxis
+against Candida infection is not recommended due to risk of drug resistance and drug
+interactions.
+
+(Choice B) Patients with HIV who have CD4 counts <100/mm: are at risk for cryptococcal
+meningitis. However, prophylaxis is not recommended against Cryptococcus due to drug
+interactions, adverse effects, risk of fungal resistance, and cost. This patient's CD4 count
+>100/mm:.
+
+(Choice C) Cytomegalovirus (CMV) is a common OI in patients with HIV who have CD4
+counts <50/mm:. Reactivation frequently leads to retinitis and gastrointestinal disease (eg,
+colitis). However, primary prophylaxis against CMV is not recommended due to cost, toxicity,
+and the high number needed to treat to reduce risk of disease.

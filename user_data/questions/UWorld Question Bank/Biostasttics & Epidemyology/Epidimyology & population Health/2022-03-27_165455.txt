@@ -1,0 +1,30 @@
+— Item 7 of 29 mY wax <q = i @ a) bo 4 33
+
+— " . uL ~
+Question Id: 19431 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+In this example, 12 out of 200 healthy controls had an abnormally high plasma heat shock
+protein 90 alpha (Hsp90q) level (ie, tested positive); therefore, FP = 12 and TN = 188 (ie, 200
+- 12). Therefore, the specificity of the test is as follows:
+
+Specificity = TN / (TN + FP) = 188 / (188 + 12) = 188 / 200 = 0.94 (or 94%)
+
+(Choice A) In this example, 6% is the false positive rate (FPR): FPR = FP/(TN + FP) =12/
+(188 + 12) = 12 / 200 = 0.06 (or 6%). FPR is the probability of a positive test in a patient
+without the disease (ie, FP); it is also the complement to specificity (ie, FPR = 1 —- specificity =
+1 - 0.94 = 0.06).
+
+(Choices B and D) The sensitivity of a test refers to its ability to correctly identify individuals
+with the disease. It is calculated as the number of individuals who have the disease and who
+test positive (true positives [TP]) divided by the total number of individuals with the disease (TP
++ false negatives [FN]): sensitivity = TP / (TP + FN). In this example, 90 of 100 liver cancer
+
+patients had an abnormally high plasma Hsp90a level (ie, tested positive); therefore, TP = 90
+and FN = 10 (ie, 100 - 90). Accordingly, the sensitivity of the test is 90 / (90 + 10) = 90 / 100 =
+0.90 (or 90%). Sensitivity is related to the false negative rate (FNR): FNR = 1 — sensitivity.
+FNR is the probability of a negative test result in a patient with the disease (ie, FN): FNR = FN
+/ (TP + FN) = 10/ (10 + 90) = 10/ 100 = 0.10 (or 10%).
+
+Block Time Elapse
+
+Tutor End Block

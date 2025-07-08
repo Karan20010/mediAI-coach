@@ -1,0 +1,56 @@
+— Item 17 of 26
+
+Quest 15363
+
+(q
+
+(4
+
+oo
+
+euvvom
+
+Q Zoom In
+
+<4
+
+Previous
+
+Q Zoom Out
+
+e
+
+Next
+
+& Reset
+
+ra
+(4)
+Full Screen
+
+Tutorial Lab Values
+
+My Notebook
+
+Notes
+
+Calculator
+
+Reverse Color
+
+Text Zoom
+
+Block Time Elapsed:
+Tutor
+
+%
+
+Feedback
+
+Suspend
+
+63
+
+Settings
+
+End Block

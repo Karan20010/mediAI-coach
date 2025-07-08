@@ -1,0 +1,15 @@
+HIV reverse transcriptase does not have a proofreading mechanism. This allows the virus to
+rapidly accumulate mutations (~1 nucleotide base pair per replication cycle) that may make it
+resistant to antiretroviral monotherapy. However, the consistent use of combination
+antiretroviral therapy, which contains medications that target multiple steps in the HIV
+replication cycle, effectively prevents the development of resistant strains.
+
+This patient was found to have a large number of viral isolates with new mutations to the pol
+gene, which encodes for the major HIV enzymes protease, reverse transcriptase, and
+integrase. Most first-line antiretroviral medications, including protease inhibitors, reverse
+transcriptase inhibitors, and integrase strand transfer inhibitors, target these enzymes. The
+emergence of a new predominant strain with mutation to the po/ gene suggests that this
+patient has become resistant to his antiretroviral therapy. Nearly all cases of acquired
+antiretroviral resistance are due to inconsistent use (transmitted resistance can also occur
+when an individual is inoculated with a resistant strain). This patient will likely need a new
+antiretroviral regimen and should be encouraged to take it as prescribed.

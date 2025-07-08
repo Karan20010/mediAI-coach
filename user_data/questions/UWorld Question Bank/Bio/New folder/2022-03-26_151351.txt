@@ -1,0 +1,52 @@
+41 be La © a
+
+Previous Next Full Screen Tutorial Lab Values
+
+— Item 15 of 15
+= question Id: 1068 . 4 Mark
+
+Non-glucose monosaccharides (eg, galactose, mannose, fructose) enter the glycolytic
+
+pathway at different points as intermediates of glycolysis. Of these, fructose is the only
+one whose metabolites bypass phosphofructokinase, one of the key enzymes involved in
+regulating the rate of glycolysis. As a result, fructose is metabolized by the liver faster than the
+other monosaccharides and is rapidly cleared from the bloodstream following dietary
+
+absorption.
+
+Metabolism of fructose in the liver begins with phosphorylation by fructokinase to fructose-1-
+phosphate (F1P). Aldolase B can use both fructose-1,6-bisphosphate and F1P as substrates;
+it converts F1P into dihydroxy acetone phosphate (DHAP) and glyceraldehyde.
+Glyceraldehyde can be either phosphorylated to glyceraldehyde-3-phosphate by triokinase or
+converted to DHAP. DHAP is converted by triose phosphate isomerase to glyceraldehyde-3-
+phosphate, which continues down the glycolytic pathway.
+
+(Choices B, C, D, and E) Galactose-1-phosphate, glucose-1-phosphate, glucose-6-
+phosphate, and mannose-6-phosphate enter glycolysis upstream of phosphofructokinase, a
+major rate-limiting enzyme of glycolysis. This slows down the rate of their metabolism relative
+to fructose and its metabolites (eg, F1P).
+
+Educational objective:
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

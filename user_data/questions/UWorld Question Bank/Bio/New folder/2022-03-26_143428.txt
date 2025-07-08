@@ -1,0 +1,36 @@
+— Item 28 of 40 mY wax <q Se i @ al Lo) id lA)
+
+Question Id: 15304 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom
+
+(Choice A) Enzyme-linked immunosorbent assay (ELISA) is used to quantify antibodies or
+antigens in a fluid.
+
+(Choice B) Flow cytometry is often used in the diagnosis of leukemia. However, this laser-
+based test evaluates surface markers (eg, CD5) on individual cells, not chromosomal
+duplications.
+
+(Choice D) Northern blotting is a technique that size-fractionates RNA in a gel and then
+targets a specific mRNA sequence of interest. It can determine the quantity and size of a
+particular MRNA section.
+
+(Choice E) Western blotting is a technique that size-fractionates proteins in a gel and then
+targets a specific protein using an antibody with a radiotracer/enzyme. It is often used to
+confirm a positive ELISA test in the setting of HIV or Lyme disease infection.
+
+Educational objective:
+
+Fluorescence in situ hybridization (FISH) can identify specific chromosomal translocations,
+duplications, or deletions using a single-stranded, complementary DNA segment that is tagged
+with a radiotracer. FISH is rapid, highly sensitive and specific, and can be used on tissues with
+low mitotic rates. However, the targeted chromosomal abnormality must be somewhat large in
+
+order to be identified.
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

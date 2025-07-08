@@ -1,0 +1,6 @@
+Of the choices listed, only the progesterone receptor can bind to DNA. The receptors for
+most steroid hormones, including progesterone, are located in the cytoplasm and translocate
+to the nucleus upon ligand binding. In contrast, receptors for thyroid hormone and vitamins A
+and D are located within the nucleus at all times. Following activation by ligand binding, both
+receptor types attach to DNA at hormone response elements located in the promoter region of
+target genes to alter gene transcription.

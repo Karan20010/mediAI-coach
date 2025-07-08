@@ -1,0 +1,47 @@
+— Item 37 of 40 <q > ra al
+= Question Id: 1791 Ld V Mark 4 (©)
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+Cystic fibrosis (CF) is an autosomal recessive disease. The patient, who is Caucasian, has a
+1/30 probability of carrying the mutant CFTR allele and her husband, who is of Asian descent,
+has a 1/100 probability of carrying the same allele. If a parent is a carrier, the probability that
+the child will inherit the mutant allele from that parent is 1/2. However, to develop CF, the child
+must independently inherit a mutant allele from each parent (1/2 x 1/2 = 1/4 probability).
+Therefore:
+
+P(affected child) = 1/4 x P(carrier mother) x P(carrier father) = 1/4 x 1/30 x 1/100 = 1/12,000.
+
+An equivalent solution would be to state that the probability that the mother is a carrier and will
+transmit the mutant allele is (1/30 x 1/2) and the probability that the father is a carrier and will
+transmit the mutant allele is (1/100 x 1/2). The probability that both events will occur,
+producing a child with CF, is the product of the probabilities of these independent events =
+(1/30 x 1/2) x (1/100 x 1/2) = 1/12,000.
+
+Educational objective:
+
+The probability that a child of parents from 2 populations with different mutant allele carrier
+frequencies will inherit an autosomal recessive disease is 25% multiplied by the carrier
+frequencies.
+
+Block Time Elapse
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

@@ -1,0 +1,22 @@
+Inheritance of an autosomal recessive trait
+
+Generation Alleles
+
+! [a | (03) D Wild-type allele
+
+d Mutant allele (recessive)
+
+Individuals
+
+M Dd (03) a) pp 1 Unaffected male
+Bl Affected male
+
+O Unaffected female
+
+Affected female
+"@GQMH ®°
+
+An individual must inherit two copies of an
+autosomal recessive allele to express the trait.
+
+©uUWorld

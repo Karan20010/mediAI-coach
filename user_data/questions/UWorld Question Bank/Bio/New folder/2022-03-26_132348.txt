@@ -1,0 +1,6 @@
+After tropoelastin is formed, it is secreted into the extracellular space where it interacts with
+microfibrils (fibrillin) that function as a scaffold. Next, lysyl oxidase, a copper-dependent
+enzyme, oxidatively deaminates some of the lysine residues of tropoelastin, facilitating the
+formation of desmosine cross-links between neighboring polypeptides that hold the elastin
+molecules together. These cross-links, along with the high content of nonpolar (hydrophobic)
+amino acids, account for the rubber-like properties of elastin.

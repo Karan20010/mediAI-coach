@@ -1,0 +1,37 @@
+CO OVA HARUN HE
+
+= Item 20 of 40 5 v Mark <q Se él Qala)
+
+Question Id: 1424 Previous Next Lab Values s Text Zoom
+
+(Choice C) Genetic transition refers to a point mutation that results in replacement of a purine
+nucleotide for another purine or a pyrimidine nucleotide for another pyrimidine. In contrast,
+transversion refers to a point mutation that results in the replacement of a purine nucleotide for
+a pyrimidine or a pyrimidine nucleotide for a purine.
+
+(Choice D) The genetic code is almost universal as amino acid codons are nearly identical
+across species; however, mitochondria and some bacteria and single-celled eukaryotes
+deviate from the standard genetic code.
+
+Educational objective:
+
+The genetic code is considered "degenerate" because more than 1 codon can code for a
+particular amino acid. Some of this degeneracy is explained by the wobble hypothesis, which
+states that the first 2 nucleotide positions on the mRNA codon require traditional (Watson-
+Crick) base pairing, whereas the third "wobble" nucleotide position may undergo less stringent
+(nontraditional) base pairing.
+
+References
+
+e tRNA's wobble decoding of the genome: 40 years of modification.
+
+Vi W W:
+Genetics Genetics (General Principles) Rna structure & function Act vate Windows
+
+nd
+
+63
+
+Settings
+
+End Block

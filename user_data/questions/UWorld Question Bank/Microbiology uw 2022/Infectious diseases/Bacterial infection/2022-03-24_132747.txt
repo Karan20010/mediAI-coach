@@ -1,0 +1,3 @@
+Educational objective:
+The virulence of Streptococcus pneumoniae is predominantly due to its polysaccharide
+capsule, which impedes phagocytosis and complement binding.

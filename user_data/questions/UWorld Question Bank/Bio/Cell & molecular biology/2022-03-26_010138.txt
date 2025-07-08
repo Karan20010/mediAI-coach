@@ -1,0 +1,27 @@
+1.
+Prokaryotes and eukaryotes use divergent cellular machinery for protein synthesis and require
+
+different signaling sequences for efficient transcription and translation. Expression cloning is a
+type of DNA cloning where the signals necessary for optimal protein expression are included in
+the DNA vector. In this example, eukaryotic complementary DNA (containing the coding
+sequence for the protein of interest) is modified with prokaryotic promoter sequences (eg,
+the Pribnow box, -35 sequence) and a ribosomal binding site (Shine-Dalgarno sequence).
+The vector is then incorporated into a suitable bacterial host (eg, Escherichia coli) and
+subsequently transcribed and translated into protein.
+
+The protein produced in the bioreactor contains a DNA-binding domain. DNA-binding
+proteins are a diverse group that include transcription factors (Myc, CREB), steroid
+receptors (cortisol, aldosterone, progesterone), thyroid hormone receptor, fat-soluble
+vitamin receptors (vitamin D, retinoic acid), and DNA transcription and replication proteins.
+2.
+Of the choices listed, only the progesterone receptor can bind to DNA. The receptors for
+most steroid hormones, including progesterone, are located in the cytoplasm and translocate
+to the nucleus upon ligand binding. In contrast, receptors for thyroid hormone and vitamins A
+and D are located within the nucleus at all times. Following activation by ligand binding, both
+receptor types attach to DNA at hormone response elements located in the promoter region of
+target genes to alter gene transcription.
+3.
+Educational objective:
+DNA-binding proteins include transcription factors (Myc, CREB), steroid receptors (cortisol,
+aldosterone, progesterone), thyroid hormone receptor, fat-soluble vitamin receptors (vitamin D,
+retinoic acid), and DNA transcription and replication proteins.

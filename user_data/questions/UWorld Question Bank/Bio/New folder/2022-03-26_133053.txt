@@ -1,0 +1,6 @@
+Educational objective:
+
+Alkaptonuria is an autosomal recessive disorder in which the lack of homogentisic acid
+dioxygenase blocks the metabolism of tyrosine, leading to an accumulation of homogentisic
+acid. Clinical features include a black urine color when exposed to air, a blue-black
+pigmentation on the face, and ochronotic arthropathy.

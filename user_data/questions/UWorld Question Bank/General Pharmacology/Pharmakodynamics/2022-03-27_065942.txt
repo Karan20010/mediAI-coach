@@ -1,0 +1,45 @@
+— Item 12 of 12 = y Mark <I e a i @ al
+
+L
+‘Question Id: 18419 Praras Next FullScreen Tutorial__—_Lab Values
+
+bioavailability by pumping the drug back into the intestinal lumen. However, inhibition of p-
+glycoprotein can have a variable effect on serum drug levels, as increased bioavailability is
+often countered by increased drug distribution (eg, into the CSF or intracellular compartments).
+
+(Choices A, B, and E) Reduced drug metabolism or decreased excretion could potentially
+improve drug efficacy by increasing average serum drug levels. However, in this experiment,
+serum drug levels increased by only 10 ng/ml (~2%) with coadministration of the adjuvant.
+This minimal increase in drug concentration is not representative of a significant change in
+drug metabolic/clearance parameters and is unlikely to lead to increased BBB penetration.
+
+(Choice C) The choroid plexus is the site of CSF production and can function as an alternate
+entryway into the CNS. However, the excretion of a substance by the choroid plexus is directly
+dependent on choroidal blood flow; diminished blood flow would reduce the excretion of a
+particular substance into the CSF.
+
+Educational objective:
+
+P-glycoprotein is an efflux pump found on brain capillary endothelial cells (part of the blood-
+brain barrier) that inhibits a wide range of substrates from entering the brain. Inhibition of p-
+glycoprotein can improve drug delivery to the CNS.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

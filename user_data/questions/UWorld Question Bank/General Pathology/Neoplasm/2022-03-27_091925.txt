@@ -1,0 +1,5 @@
+Educational objective:
+
+Hereditary breast cancer is most commonly associated with mutations in BRCA1 and BRCA2.
+These tumor suppressor genes are involved in DNA repair, and their mutations increase the
+risk of developing breast and ovarian cancer.

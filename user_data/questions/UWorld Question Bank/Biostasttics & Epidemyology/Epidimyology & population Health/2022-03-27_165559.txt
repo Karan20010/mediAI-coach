@@ -1,0 +1,37 @@
+Question Id: 1187
+
+= Item9 of 29 5 v Mark <q Se rc j @ él e
+
+Previous Next utter Tutorial Lab Values Notes Calculator Reverse Color
+Incidence and prevalence are important concepts for evaluating the impact of disease on a
+
+population. Incidence corresponds to the number of new cases of a disease diagnosed in a
+
+population at risk over a given period. Prevalence refers to the total number of diseased
+
+individuals in the population at a particular point; it is dependent on incidence and the
+
+average duration of the disease (ie, time from diagnosis to cure or death):
+
+Prevalence = (Incidence) x (Duration of disease)
+
+A simplified diagram compares incidence and prevalence to adding new drops (incident cases)
+to asink collecting water (prevalent cases).
+
+The above graph shows that the incidence of type II diabetes mellitus has been constant for
+the last 30 years (Choice F), but that prevalence is rising. Because this is a steady-state
+population with little migration, a constant incidence rate should result in a nearly stable
+disease prevalence, unless there is some additional factor affecting the duration of the
+condition. Factors that prolong disease duration can increase disease prevalence even
+when the incidence is unchanged because diseased individuals live longer on average. In this
+case, improved quality of care likely led to a lower mortality rate in diabetics over time,
+resulting in a higher prevalence of the disease in the population (Choice B).
+
+Choice A) A decreased hospitalization rate would indicate reduced morbidity (ie, burden of
+Block Time Elapse
+
+Tutor oe
+
+Text Zoom
+
+Suspend

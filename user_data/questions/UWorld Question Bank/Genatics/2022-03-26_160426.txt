@@ -1,0 +1,36 @@
+— Item 32 of 40 mY wax <q Se i @ al Lo) id lA)
+
+. Le c
+Question Id: 1790 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom
+
+63
+
+Settings
+
+Cystic fibrosis (CF) results from an autosomal recessive defect in the CF transmembrane
+conductance regulator (CFTR) gene. Although most men with CF are infertile due to
+congenital absence of the vas deferens, they are not sterile and can have children via
+assisted reproductive technology.
+
+Calculating the probability that the unborn child will have CF can be done by analyzing the
+above pedigree as follows:
+
+1. Because the father is homozygous for the mutant CFTR allele, he will always transmit the
+mutant allele to his offspring.
+
+2. Because the mother has an affected sibling and neither of her parents is affected, she
+most likely had 2 heterozygous carrier parents. Therefore, the mother's 4 possible
+genotypes are: homozygous for the normal allele, heterozygous with her mother's mutant
+allele, heterozygous with her father's mutant allele, and homozygous for the mutant allele.
+However, the mother does not have CF and therefore is not homozygous for the
+mutant allele. This leaves 3 possible genotypes for the mother. Two of the 3 remaining
+genotypes result in her being a carrier for the mutant CFTR allele, while the last one
+results in her being homozygous normal. Therefore, the mother's probability of being a
+
+carrier equals 2/3. ctivate V
+
+Block Time Elapse
+
+Tutor
+
+End Block

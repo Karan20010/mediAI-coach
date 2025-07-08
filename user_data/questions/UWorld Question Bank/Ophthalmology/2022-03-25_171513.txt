@@ -1,0 +1,15 @@
+Knudson’s 2-hit hypothesis
+Both copies of the gene must be knocked out to promote malignancy.
+
+Sporadic cancer:
+
+2 acquired mutations
+-- | > <<
+Tumor
+Hereditary cancer:
+
+1 inherited and 1 acuired mutation
+
+|-||- <<
+
+Tumor

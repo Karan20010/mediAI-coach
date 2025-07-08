@@ -1,0 +1,36 @@
+— Item 18 of 30 -
+= a V7 Mark 4 >
+
+Question Id: 18628
+
+ra a
+
+(4)
+Previous Next Full Screen Tutorial Lab Values
+
+¢ HPV viral protein E7 binds to retinoblastoma (Rb) protein, which results in the
+displacement of E2F (a transcription factor that induces cell cycle activation), promoting
+
+unregulated DNA replication and cyclin-mediated cell cycling.
+
+(Choices A and C) BRAF encodes for a serine/threonine—specific protein kinase involved in
+regulating the mitogen-activated protein kinase signaling pathway. It is often mutated in
+melanoma, non-Hodgkin lymphoma, and papillary thyroid cancer. RET encodes for a receptor
+tyrosine kinase and is associated with multiple endocrine neoplasia (MEN) 2A, MEN 2B, and
+papillary thyroid cancer. Both RET and BRAF are protooncogenes that require gain-of-
+function mutations to become oncogenes. Decreased activity can protect against uncontrolled
+proliferation (eg, BRAF inhibitors used in melanoma).
+
+(Choices D and E) BRCA7 and BRCA2 (associated with breast, ovarian, and pancreatic
+cancers) encode a DNA repair protein. MEN7 (associated with MEN1) encodes for the protein
+menin, which has diverse functions that may be related to regulation of cell cycle kinase
+inhibitor and homeobox genes. Both BRCA1/2 and MEN 7 are tumor suppressor genes,
+meaning that their inactivation (rather than overexpression) leads to tumor development.
+
+id
+
+Notes Calculator Reverse Color __Text Zoom
+
+63
+
+Settings

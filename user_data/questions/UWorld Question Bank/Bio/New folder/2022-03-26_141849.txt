@@ -1,0 +1,6 @@
+Educational objective:
+
+Following endothelial damage, von Willebrand factor (vWF) binds glycoprotein Ib receptors on
+platelets to mediate platelet adherence. The ristocetin cofactor assay measures platelet
+agglutination via binding of glycoprotein Ib receptors to vWF; it will be abnormal in vWF
+deficiency but will correct with the addition of normal (vWF-containing) plasma.

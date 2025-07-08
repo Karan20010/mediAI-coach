@@ -1,0 +1,39 @@
+Question Id: 1420
+
+= ltem2of40 5 v Mark <q Se rc j @ él
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+One codon (AUG) signals initiation of protein synthesis and 3 codons (UAA, UAG, and UGA)
+stop protein synthesis. Stop codons function only to terminate translation; they do not add
+amino acids to the polypeptide chain.
+
+Transfer RNA molecules (tRNA) transport amino acids to the ribosome and ensure placement
+of the proper amino acid. One end of the molecule serves as the amino acid binding site; the
+opposite end contains a specific nucleic acid sequence known as the anticodon that is
+complementary to one or more MRNA codons (due to base wobbling). The type of amino
+acid that is bound to each tRNA molecule is determined by its anticodon sequence; this
+ensures that the proper amino acid is added at each MRNA codon during protein synthesis.
+
+Translation of the mRNA template proceeds in the 5' to 3' direction. The mRNA of the
+dysfunctional protein in the question stem contains an extra stop codon (UAA) before the
+normal stop codon (UAG) at the end of the template. During protein translation, the first stop
+
+codon encountered will bind a release factor, halting protein synthesis. Therefore, the codon
+
+just prior to the first stop codon will be the last codon to add an amino acid. In this case, (5'-
+UUG-3’') is the last codon to add an amino acid to the truncated protein, and this amino acid
+
+will be carried by the 5'-CAA-3' anticodon (codon-anticodon binding occurs in opposite
+directions [ie, 5" to 3" binds 3° to 5’).
+
+Block Time Elapse
+
+Tutor
+
+g - &A 8
+
+Notes Calculator Reverse Color __Text Zoom Settings
+
+End Block

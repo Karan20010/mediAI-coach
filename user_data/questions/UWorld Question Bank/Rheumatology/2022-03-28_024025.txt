@@ -1,0 +1,52 @@
+on Ld @ al [=]
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes
+
+— item 14 of 40
+= a V7 Mark
+
+Question Id: 19911
+
+(Choice C) Linear deposits of calcium hydroxyapatite in the periarticular structures cause a
+painful inflammatory condition called calcific peritendinitis. However, it usually affects the
+rotator cuff; hand and wrist involvement is uncommon and would present with
+
+associated inflammatory changes (eg, redness, swelling, warmth).
+
+(Choice D) Mucinous, gelatinous fluid filling of the tendon sheath is characteristic of a
+ganglion cyst. Unlike fibrotic nodules in DC, ganglion cysts present as large, mobile, rubbery
+nodules that do not lead to contractures of the hand.
+
+(Choice E) Neutrophilic infiltration of tendon sheaths is characteristic of bacterial
+tenosynovitis. Because it is an inflammatory condition, it presents with significant redness,
+warmth, and swelling, none of which are present in DC.
+
+Educational objective:
+
+Dupuytren contracture is caused by progressive fibrosis of the superficial palmar fascia due to
+excessive fibroblast proliferation. Pathognomonic fibrotic nodules and cords form along the
+flexor tendons, limiting extension of the affected digits.
+
+References
+¢ Dupuytren's disease: where do we stand?
+
+Block Time Elapse
+
+Tutor
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

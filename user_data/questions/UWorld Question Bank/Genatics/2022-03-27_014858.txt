@@ -1,0 +1,58 @@
+foe
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+21
+= 22
+23
++ 24
+25
++ 26
+27
++ 28
+29
+= 30
+31
+
+— Item 8 of 40 mY wax <q Se i @ al Lo) id lA)
+
+Question Id: 11595 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom
+
+63
+
+Settings
+
+The results of the western blot show that the treated cell line produces less c-myc protein.
+This is most likely due to RNA interference, a mechanism by which short (20-30 base pair)
+double-stranded RNA sequences induce posttranscriptional gene silencing.
+
+Silencing RNA includes both small interfering RNA (siRNA) and microRNA (miRNA). The
+human genome encodes over 1000 miRNA genes, each one capable of repressing hundreds
+of target genes; altered expression of miRNA genes are involved in the development of many
+diseases, including hematologic and solid malignancies. In addition, synthetic sIRNA
+sequences can be introduced into cells to silence specific pathogenic genes (eg, c-Myc
+oncogene) and are being explored as possible therapeutic agents.
+
+After being transcribed, miRNA undergoes processing in the nucleus to form a double-
+stranded precursor that is then exported into the cytoplasm. There, the precursor is cleaved
+into a short RNA helix by a ribonuclease protein called dicer. The individual strands are then
+separated and incorporated into RNA-induced silencing complex (RISC). This multiprotein
+complex uses its associated miRNA as a template to bind to complementary sequences found
+on target mRNAs. An exact match generally results in mRNA degradation, but a partial
+match also causes translational repression by preventing ribosome and translation factor
+binding.
+
+Block Time Elapse
+
+Tutor
+
+End Block

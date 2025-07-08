@@ -1,0 +1,7 @@
+Educational objective:
+
+Staphylococcus epidermidis, a gram-positive coccus that grows in clusters, is a skin
+commensal that is a common cause of infection in patients with prosthetic devices such as
+artificial joints or heart valves. Unlike S aureus, S epidermidis is coagulase-negative. Unlike S
+Saprophyticus (another coagulase-negative staphylococci species), S epidermidis is
+susceptible to novobiocin.

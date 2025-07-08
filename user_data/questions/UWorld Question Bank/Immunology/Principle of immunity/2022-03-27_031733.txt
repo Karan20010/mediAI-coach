@@ -1,0 +1,12 @@
+Polyclonal fab antivenom is a collection of immunoglobulin fragments from the plasma of
+venom-inoculated animals (eg, horses). Because the antivenom contains foreign proteins,
+exposure triggers the adaptive immune response to form high-affinity IgG antibodies against
+the foreign components of the antivenom. This typically takes 1-2 weeks due to time lag
+between antigen processing, antigen presentation, CD4 T-lymphocyte activation, and T-cell-
+mediated B-cell activation/differentiation.
+
+Once formed, IgG then binds to the free-circulating antivenom, which creates immune
+complexes (ICs). The Fc portion of the IgG triggers clearance of the ICs by activating the
+classical complement system and by directly binding to the Fc receptor on mononuclear
+phagocytes in the reticuloendothelial system. Clearance of ICs generally proceeds without
+issue when there is minimal antigen because the phagocytic system has a large capacity.

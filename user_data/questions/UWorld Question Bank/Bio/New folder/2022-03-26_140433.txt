@@ -1,0 +1,13 @@
+1. Denaturing: Thermal separation of the DNA template is accomplished by exposing the
+sample to high temperatures
+
+2. Annealing: Primers combine with the denatured, single-stranded flanking ends of the
+target region when the temperature is lowered
+
+3. Elongation: DNA polymerase forms new daughter DNA strands in the 5' to 3' direction,
+
+starting from the 3' end of each primer
+
+These steps are repeated to obtain millions of copies of the target DNA segment in a short
+
+period of time (exponential amplification).

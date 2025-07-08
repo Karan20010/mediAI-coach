@@ -1,0 +1,19 @@
+The 2 major factors influencing the effectiveness of antimicrobial agents are the drug
+concentration at the target site and the amount of time that microbes are exposed to the drug.
+The relative contribution of these factors to drug efficacy depends on the particular agent. In
+general, antibiotics can be classified into 2 categories based on which factor is more important:
+
+¢ Concentration-dependent killing: Antibiotics with this pattern of activity (eg,
+aminoglycosides, fluoroquinolones) have a persistent, suppressive effect on bacterial
+growth following a limited exposure, resulting in increased killing ability when drug levels at
+the site of infection are maximized. The higher the peak drug level compared to the
+minimum inhibitory concentration (MIC), the greater the antimicrobial activity. As such,
+higher-dose, extended-interval (ie, once-daily) regimens are frequently used to optimize
+bacterial killing.
+
+Time-dependent killing: Antibiotics with this activity pattern (eg, beta-lactams [penicillins,
+cephalosporins], clindamycin) have minimal persistent effects and are dependent on long
+exposure durations for their antimicrobial activity. They are more effective when serum
+concentrations exceed the MIC for a prolonged period. Therefore, more frequent,
+multiple-daily dosing regimens are used to maintain plasma concentrations greater than
+the MIC for as long as possible.

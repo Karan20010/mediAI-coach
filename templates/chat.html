@@ -98,6 +98,7 @@
       background: white;
       box-shadow: 0 -3px 10px rgba(0,0,0,0.05);
       border-radius: 0 0 12px 12px;
+      align-items: center;
     }
 
     #messageInput {
@@ -113,21 +114,21 @@
       border-color: #005bbb;
     }
 
-    #sendBtn {
+    #sendBtn, #searchBtn {
       background: linear-gradient(90deg, #005bbb, #003f7d);
       border: none;
       border-radius: 20px;
       color: white;
       font-weight: 700;
       font-size: 16px;
-      padding: 14px 25px;
+      padding: 14px 20px;
       cursor: pointer;
       box-shadow: 0 6px 12px rgba(0,91,187,0.6);
       transition: background 0.3s ease;
       user-select: none;
       flex-shrink: 0;
     }
-    #sendBtn:hover {
+    #sendBtn:hover, #searchBtn:hover {
       background: linear-gradient(90deg, #004080, #002a52);
       box-shadow: 0 8px 18px rgba(0,64,128,0.9);
     }
@@ -141,9 +142,9 @@
         font-size: 14px;
         padding: 12px 14px;
       }
-      #sendBtn {
+      #sendBtn, #searchBtn {
         font-size: 14px;
-        padding: 12px 18px;
+        padding: 12px 14px;
       }
     }
   </style>
@@ -166,6 +167,7 @@
       required
     />
     <button id="sendBtn" type="submit" aria-label="Send message">Send</button>
+    <button id="searchBtn" type="button" aria-label="Search textbooks">Search Textbooks</button>
   </form>
 
   <script>
@@ -226,12 +228,43 @@
       }
     }
 
+    async function searchTextbooks() {
+      const query = messageInput.value.trim();
+      if (!query) return alert('Please enter a search term first.');
+
+      addMessage(`Searching textbooks for: "${query}"`, 'user');
+      typingIndicator.style.visibility = 'visible';
+
+      try {
+        const response = await fetch('/search_textbooks', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+          body: new URLSearchParams({ query }),
+        });
+        if (!response.ok) throw new Error('Network response was not ok');
+        const data = await response.json();
+        if (data.results.length === 0) {
+          addMessage("No relevant textbook excerpts found.", 'bot');
+        } else {
+          data.results.forEach(res => {
+            addMessage(`📚 From ${res.title}: ${res.text}`, 'bot');
+          });
+        }
+      } catch (error) {
+        addMessage('Error: Unable to search textbooks.', 'bot');
+      } finally {
+        typingIndicator.style.visibility = 'hidden';
+      }
+    }
+
     messageInput.addEventListener('keydown', (e) => {
       if (e.key === 'Enter' && !e.shiftKey) {
         e.preventDefault();
         sendMessage();
       }
     });
+
+    document.getElementById('searchBtn').addEventListener('click', searchTextbooks);
 
     window.onload = loadAvatarAndName;
   </script>

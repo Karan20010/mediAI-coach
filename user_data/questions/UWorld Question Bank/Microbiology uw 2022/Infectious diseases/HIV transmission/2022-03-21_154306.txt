@@ -1,0 +1,9 @@
+Educational objective:
+
+Most cases of AIDS worldwide are caused by HIV-1. However, AIDS can also be caused by
+infection with HIV-2, which is endemic to West Africa. HIV-2 infection is associated with lower
+viral loads, less risk of transmission, and a slower progression to AIDS. The diagnosis is often
+suspected when HIV tests are incongruent (positive screening serology but indeterminate
+Western blot and negative plasma HIV-1 RNA). Confirmation can be made using HIV-1/HIV-2
+
+immunodifferentiation assay.

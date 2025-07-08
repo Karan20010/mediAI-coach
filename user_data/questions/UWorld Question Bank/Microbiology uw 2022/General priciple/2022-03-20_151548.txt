@@ -1,0 +1,5 @@
+Educational objective:
+Replication of the hepatitis B genome occurs within a newly synthesized capsid through the
+action of reverse transcriptase on an RNA template. The mature capsid contains partially
+
+double-stranded circular DNA and reverse transcriptase.

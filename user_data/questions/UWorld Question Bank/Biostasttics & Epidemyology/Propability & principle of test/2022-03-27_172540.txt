@@ -1,0 +1,71 @@
+Item 3 of 23
+Question Id: 19262
+
+THE
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+
+41 ec al
+
+Previous Next Full Screen Tutorial Lab Values Notes
+
+Type I (a) and type Il (B) errors
+
+There is a true There is NO true
+difference difference
+(ie, Ho is false) (ie, Ho is true)
+
+Difference
+
+calculated as Type I (a) error
+
+statistically Correctly conclude (Falsely conclude
+there is a difference "
+
+significant there is a difference)
+
+(ie, reject Ho)
+
+Difference
+
+calculated as Type Il (8) error
+NOT statistically (Falsely conclude
+significant there is NO difference)
+(ie, fail to reject Ho)
+
+Correctly conclude
+there is NO difference
+
+Hg = null hypothesis of no difference.
+
+©UWorld
+
+Q Zoom In
+
+Q Zoom Out & Reset G New | a Existing =} My Notebook
+
+Gaia
+
+Text Zoom
+
+VS
+
+tivate
+
+63
+
+Settings
+

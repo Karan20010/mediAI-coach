@@ -1,0 +1,19 @@
+This patient's travel history, chronic intestinal symptoms, eosinophilia, and biopsy findings
+suggest schistosomiasis, a parasitic blood fluke infection primarily seen in rural parts of sub-
+Saharan Africa and East Asia. Exposure occurs when humans swim or bathe in freshwater
+that contains contaminated snails (the intermediate host). Cercariae from the snails
+penetrate human skin and migrate to the liver, where they mature into adult worms. Adult
+worms then travel through the portal circulation to the mesenteric venules (S mansoni and S
+japonicum) or the venous plexus of the bladder (S haematobium).
+
+Adult worms release eggs through host tissue to be excreted in feces or urine. Although most
+patients are asymptomatic, eggs can trigger a significant granulomatous inflammatory
+response, leading to manifestations in the gastrointestinal tract (eg, diarrhea, weight loss,
+anorexia, anemia), bladder (eg, terminal hematuria), or periportal system (eg, portal
+hypertension, splenomegaly). Eosinophilia is common early in the disease course as
+eosinophils release granules that are toxic to adult worms.
+
+Diagnostic confirmation requires the identification of round/oval eggs with a characteristic
+terminal (S. haematobium) or lateral (S. mansoni) spine on stool/urinary testing or tissue
+biopsy. Treatment with praziquantel, which alters parasite digestion and calcium transport, is
+generally curative.

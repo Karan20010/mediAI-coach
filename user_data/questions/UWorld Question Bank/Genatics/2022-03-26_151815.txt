@@ -1,0 +1,17 @@
+Western blotting is used to detect a target polypeptide or protein from within a mixed
+sample. Potential target proteins are separated by gel electrophoresis. The separated
+proteins are then transferred to a nitrocellulose membrane and probed with a primary
+antibody specific for the protein of interest. The membrane is then washed and treated with a
+(secondary) marked antibody that binds to the primary antibody and can be detected (eg, by
+colorimetry).
+
+For example, a serum sample from a patient with suspected HIV infection can be analyzed via
+Western blot to detect antibodies directed against specific viral proteins. Following separation
+of viral proteins by gel electrophoresis and protein transfer to a nitrocellulose membrane, the
+membrane is treated with the patient's serum. Patients who are HIV positive are likely to have
+antibodies that react with viral p24, gp41, and gp120/160. If 2 of these 3 bands are positive,
+the test is considered positive.
+
+Western blotting is similar to the enzyme-linked immunosorbent assay (ELISA) technique;
+however, in ELISA the patient's serum is tested directly, whereas in Western blotting the
+proteins are first separated by electrophoresis.

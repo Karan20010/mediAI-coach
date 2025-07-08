@@ -1,0 +1,38 @@
+Complement pathways
+
+Classical Alternative Lectin
+c3
+3a C3b 7 ;
+rs
+Mannose-rich
+moiety C-like complex
+
+(MBL,MASP)
+
+C3b
+
+(
+C4
+ca
+c2 ioamead » c2
+C3 convertase
+
+|
+
+c3
+
+“™
+
+C3b (opsonin) C3a (anaphylatoxin)
+
+|
+
+cS
+
+uN
+
+5b C5a (anaphylatoxin)
+| os)
+Membrane attack complex
+
+MASP = mannose-associated serine protease; MBL = mannose-binding lectin. Quweris

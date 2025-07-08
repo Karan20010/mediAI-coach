@@ -1,0 +1,18 @@
+Hemoglobin
+
+Type Name |Components
+
+Gower 1 C2e2
+
+Embryonic Portland ¢2y2
+
+Gower 2 a2e2
+
+Fetal [FP a2y2
+A a2p2
+Adult
+A2* 252
+a-thalassemia intermedia H 64
+a-thalassemia major Barts y4
+
+*Predominant in B-thalassemia.

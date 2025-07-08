@@ -1,0 +1,42 @@
+Item 14 of 23
+a V7 Mark
+
+Question Id: 12854
+
+a Li © al 2 - A 8
+
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+80-89 13.5 12.4
+90+ 13.3 12.1
+Total 11.9 10.8
+
+Suppose during an afternoon clinic, a psychiatrist sees a 65-year-old woman, a 72-year-old
+
+man, and an 84-year-old woman from this community. Assuming no relation between the 3
+patients, what is the probability that none of them has depression?
+
+A. 0.001 (8%)
+B. 0.011 (6%)
+C. 0.295 (8%)
+
+YD. 0.705 (66%)
+
+E. 0.999 (10%)
+
+Omitted
+
+Correct answer
+
+Block Time Elapsed: 00:01:31
+
+Tutor
+
+66%
+Answered correct!
+
+Tea py 2022 Activate Windows
+
+% Feedback Suspend _—_End Block
+
+Time Spent [332] Version
+

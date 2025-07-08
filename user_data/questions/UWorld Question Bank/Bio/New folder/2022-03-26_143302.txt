@@ -1,0 +1,53 @@
+on Ld @ al [=]
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes
+
+— item 27 of 40
+= a V7 Mark
+
+Question Id: 11939
+
+A 68-year-old man comes to the emergency department due to abdominal pain and nausea for
+the past 2 days. He has a history of atherosclerotic cardiovascular disease and underwent
+coronary artery bypass surgery 2 years ago. Blood pressure is 105/65 mm Hg and heart rate
+is 120/min and irregular. Abdominal examination reveals mild diffuse tenderness and
+decreased bowel sounds. Laboratory studies are as follows:
+
+Serum chemistry
+
+Sodium 142 mEq/L
+Chloride 104 mEq/L
+Bicarbonate 12 mEq/L
+
+Creatinine 0.8 mg/dL
+
+Arterial blood gases
+pH 7.25
+Paco, 29 mm Hg
+
+Lactic acid, venous blood 5.6 mmol/L (normal: 0.5 - 2.0 mmol/L)
+
+Block Time Elapse
+
+Tutor
+
+Calculator
+
+‘4
+
+Reverse Color _Text Zoom
+
+Activate Windows
+
+Feedback
+
+A
+
+id
+
+63
+
+Settings
+
+End Block

@@ -1,0 +1,13 @@
+Fructose-2,6-bisphosphate and glucose metabolism
+
+Insulin Glucose Glucagon
+(¥cAMP) (4 cAMP)
+Fructose- Phosphofructokinase-2
+—_———
+me bechcapiem Fructose-6-phosphate
+©-> Phosphofructokinase-1 | Fructose-1,6-bisphosphatase «©
+ATP
+Citrate Fructose-1,6-bisphosphate
+Pyruvate
+
+OuWord

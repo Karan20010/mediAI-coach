@@ -1,0 +1,7 @@
+Educational objective:
+
+The severity of leprosy, a systemic illness caused by Mycobacterium leprae, depends on the
+strength of the cell-mediated immune (CMI) response, with tuberculoid leprosy representing
+the milder form (intact Th1 CMI response) and lepromatous leprosy, the more severe form
+
+(weak CMI response).

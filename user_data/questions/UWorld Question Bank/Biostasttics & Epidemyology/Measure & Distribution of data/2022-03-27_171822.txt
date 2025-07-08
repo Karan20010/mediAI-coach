@@ -1,0 +1,58 @@
+_
+To
+
+41 ec en) rl
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+— Item5 of 10
+= a V7 Mark
+
+Question Id: 1765
+¢ Precision (reliability) is the ability of a test to reproduce identical or similar results with
+
+repeated measurements (bottom half of figure).
+
+¢ Accuracy (validity) is the ability of a test to measure what it is supposed to measure. For
+
+a new test to be accurate, its results should be equivalent to the results obtained with a
+gold standard (eg, best conventional test available) on the same individual (right half of
+figure).
+
+In this case, repeated measurements of the same blood sample yielded nearly identical
+
+values; therefore, the new device has high precision. However, none of the measurements
+
+with the new device were equivalent to the results obtained with the gold standard (ie, the
+
+measurements are incorrect), meaning the new device has low accuracy.
+
+(Choices C and F) Sensitivity is defined as the percentage of diseased individuals who are
+correctly identified (ie, proportion of subjects who have a positive test among all those with
+disease), whereas specificity is defined as the percentage of healthy individuals who are
+correctly identified (ie, proportion of subjects who have a negative test among all those without
+disease). Poor accuracy or precision can lead to low test sensitivity and specificity. However,
+no information is provided to determine the sensitivity or specificity of the new device
+
+compared to the gold standard test.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

@@ -1,0 +1,37 @@
++ 28
++ 29
+= 30
+* 3
+
+— Item 14 of 40
+Question Id: 19911
+
+Q Zoom In
+
+Previous
+
+Q Zoom Out
+
+& Reset
+
+ra
+
+(4)
+Full Screen
+
+G new | G2) existing
+
+Tutorial
+
+My Notebook
+
+Lab Values
+
+aA
+
+Calculator Reverse Color__—_‘Text Zoom Settings
+
+Block Time Elapsed: 00:
+Tutor
+
+% Feedback Suspend _—_ End Block

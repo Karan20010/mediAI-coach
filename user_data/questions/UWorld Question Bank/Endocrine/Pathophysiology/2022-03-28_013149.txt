@@ -1,0 +1,35 @@
+= Question Id: 849
+
+— Item 2 of 40 mY wax <q Se i @ al Lo) id lA)
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+Glucagon increases serum glucose by increasing hepatic glucose production via
+glycogenolysis (breakdown of glycogen) and gluconeogenesis (production of glucose from
+noncarbohydrate sources). Glucagon-induced glycogenolysis is the predominant initial means
+of rapidly increasing blood glucose levels during hypoglycemia.
+
+Glucagon functions by stimulating G protein-coupled receptors on hepatocytes, increasing
+intracellular CAMP concentration and activating protein kinase A. This leads to activation of
+the key glycogenolytic enzyme, glycogen phosphorylase. It also stimulates gluconeogenesis
+by activating rate-limiting gluconeogenetic enzymes (eg, pyruvate carboxylase,
+phosphoenolpyruvate carboxykinase) and decreasing intracellular fructose-2,6-bisphosphate
+levels (inhibiting glycolysis).
+
+(Choices A, B, and F) Epinephrine from the adrenals increases glucose by multiple
+mechanisms, including increased glycogenolysis and gluconeogenesis in the liver and
+decreased glucose uptake by skeletal muscle. Epinephrine also causes increased alanine
+release from skeletal muscle, which serves as a source of gluconeogenesis in the liver. In
+adipose tissue, epinephrine increases the breakdown of triglycerides, thereby increasing
+circulating free fatty acids and glycerol that can be utilized as gluconeogenetic substrates.
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

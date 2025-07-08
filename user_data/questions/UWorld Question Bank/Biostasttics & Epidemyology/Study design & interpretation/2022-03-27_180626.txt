@@ -1,0 +1,41 @@
+Item 25 of 29
+a V7 Mark
+
+Question Id: 1272
+
+a Pe i @® a » - &A 8
+
+e r
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+A 62-year-old man with diabetes, hypertension, and hyperlipidemia comes to the emergency
+department of an academic medical center with chest pain, nausea, vomiting, and
+
+diaphoresis. An electrocardiogram demonstrates ST elevation in the anterior leads, and
+
+cardiac enzymes are markedly elevated. Investigators at the center are designing a
+
+randomized control trial to test the hypothesis that drug B will decrease the mortality
+
+associated with acute ST-elevation myocardial infarction compared to standard of care. To
+
+ensure that investigators will not miss a difference between drug B and standard of care (if a
+
+difference truly exists), which of the following would they want to maximize?
+
+A. a (6%)
+B. B (9%)
+C. Type | error (6%)
+D. Type II error (5%)
+
+JY E.1-8 (72%)
+
+Omitted
+
+Block Time Elapsed: 00:02:12
+
+Tutor
+
+72% py 04 secs 44 2022 Activate Windows
+
+% Feedback Suspend _—_End Block

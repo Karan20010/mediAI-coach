@@ -1,0 +1,5 @@
+Educational objective:
+
+Azole antifungal medications (eg, fluconazole) block the fungal enzyme lanosterol 14-alpha-
+demethylase, a cytochrome p-450—dependent enzyme that converts lanosterol to ergosterol.
+Mutations to the gene for 14-alpha-demethylase can lead to azole resistance.

@@ -1,0 +1,43 @@
+40 — Item 36 of 40 mY wax dq > Ld @ a L<) id @A &s
+
+‘Question Id: 20556
+
+i1 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+42 This patient developed erythema and pruritus on the scalp, face, and neck 2 days after
+
+8 reexposure to hair dye. Hair products, including dye, frequently contain allergenic molecules
+
+14
+
+45 (eg, p-phenylenediamine) that can cause allergic contact dermatitis (ACD). ACD is a type
+
+IV (delayed-type) hypersensitivity reaction that occurs in 2 phases:
+
+18 1. Sensitization: Cutaneous Langerhans cells take up haptens (small molecules that bind
+» 19
+2 to proteins and alter their immune appearance) and present hapten-peptide complexes to
+at naive CD4- and CD8- T cells in regional lymph nodes, resulting in clonal expansion of
+22
+23 hapten-sensitive T cells. This phase takes 10-14 days and does not result in cutaneous
+* lesions.
+25
+. . 2. Elicitation: On reexposure to the hapten, sensitized T cells are recruited to skin for
++ 28 activation by hapten-protein conjugates displayed on cutaneous antigen-presenting cells.
+
+Activated CD8- T cells, the main effector cells in ACD, release cytotoxins (eg, perforin,
+
+31 granzymes) and express Fas ligand to induce keratinocyte apoptosis. They also amplify
+. the inflammatory response by releasing cytokines (eg, interferon gamma) and recruiting
++ 34 additional inflammatory cells (eg, macrophages). This phase occurs 2-3 days following
+
+reexposure to the hapten and results in erythema, pruritus, and vesicles.
+
+37
++ 38
+
+39 Block Time Elapse
++ 40 Tutor
+
+(Choice B) Mast cells are primarily responsible for immediate (type |) hypersensitivity
+
+Feedback id ~~ End Block

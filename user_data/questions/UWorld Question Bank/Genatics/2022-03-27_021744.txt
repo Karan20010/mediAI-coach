@@ -1,0 +1,48 @@
+= ltem33 of 40 5 v Mark <q Se L j @ él
+
+Question Id: 1428 Praras Next FullScreen Tutorial__—_Lab Values
+
+The image above shows the "cloverleaf" secondary structure of transfer RNA (tRNA), a small,
+noncoding subtype of RNA that is responsible for transporting amino acids to the site of protein
+synthesis and introducing them into the growing polypeptide chain at the correct locations.
+
+The acceptor stem of tRNA is created through the base pairing of the 5'-terminal nucleotides
+with the 3'-terminal nucleotides. It contains the CCA tail, which is added to the 3’ end of tRNA
+as a post-transcriptional modification and serves as the amino acid binding site. Aminoacyl
+tRNA synthetase is the enzyme responsible for "loading" the appropriate amino acid to the 3'
+terminal hydroxyl group of the CCA tail. The acceptor stem helps mediate correct tRNA
+recognition by the proper aminoacyl tRNA synthetase.
+
+(Choice B) The T loop contains the TYC sequence, which is necessary for the binding of
+tRNA to ribosomes. The TVYC sequence refers to the presence of the chemically modified
+bases ribothymidine and pseudouridine, and cytidine.
+
+(Choice C) The variable loop contains a variable number of bases that lie between the T and
+
+anticodon loops. The variable loop is not present in all tRNAs.
+
+(Choice D) The anticodon loop contains sequences that are complementary to the mRNA
+codon. During translation, the tRNA anticodon binds to the mRNA codon and assures
+placement of the proper amino acid in the growing polypeptide chain.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

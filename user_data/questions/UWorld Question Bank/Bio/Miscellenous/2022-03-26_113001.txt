@@ -1,0 +1,4 @@
+1. Load RNA samples
+‘onto gel and apply
+electric field
+

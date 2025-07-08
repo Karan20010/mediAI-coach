@@ -1,0 +1,11 @@
+Abacavir is a nucleoside reverse transcriptase inhibitor (NRTI) used in the treatment of
+HIV/AIDS. Allergic responses can occur with many HIV/AIDS medications. Abacavir
+hypersensitivity reaction (AHR) is an allergic reaction that develops in 2%—8% of patients
+and is strongly associated with the HLA-B*57:01 allele of the human leukocyte antigen (HLA)
+system. AHR occurs due to direct binding of abacavir to a segment on the HLA-B*57:01
+molecule, which alters the presentation of self-peptides to the immune system and results in a
+delayed hypersensitivity reaction (type IV). Manifestations are mediated by a cytotoxic T-
+cell response and typically include fever, malaise, gastrointestinal symptoms, and a delayed
+rash. Abacavir discontinuation results in rapid improvement. A negative test for the HLA-
+B*57:01 allele has almost a 100% negative predictive value for AHR. Therefore, genetic
+testing is usually done prior to administering the medication.

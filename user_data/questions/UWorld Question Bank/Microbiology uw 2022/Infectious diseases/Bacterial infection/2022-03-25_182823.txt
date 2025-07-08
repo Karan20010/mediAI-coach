@@ -1,0 +1,9 @@
+Educational objective:
+
+Toxic shock syndrome is typically associated with the prolonged use of tampons or wound
+packing, which allows Staphylococcus aureus to replicate locally and release pyrogenic toxic
+superantigens (eg, toxic shock syndrome toxin-1) into the blood. Superantigens bind to the
+MHC-II complex of antigen-presenting cells without processing and nonspecifically activate T
+cells. This leads to a dramatic release of inflammatory cytokines, which causes the
+manifestations of the disease (eg, hypotension; high fever; organ failure; diffuse, erythematous
+rash).

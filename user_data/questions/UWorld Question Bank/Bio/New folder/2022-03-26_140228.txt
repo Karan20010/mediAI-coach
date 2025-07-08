@@ -1,0 +1,7 @@
+Educational objective:
+
+Small nuclear ribonucleoproteins (SnRNPs) are important components of the spliceosome, a
+molecule which removes introns from pre-mRNA during processing within the nucleus. Spinal
+muscular atrophy is a disorder caused by mutations in the SMN7 gene, resulting in impaired
+assembly of snRNPs in lower motor neurons. Infants often have flaccid paralysis due to
+degeneration of anterior horn cells in the spinal cord.

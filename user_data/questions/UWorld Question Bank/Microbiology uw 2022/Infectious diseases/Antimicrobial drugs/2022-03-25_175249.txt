@@ -1,0 +1,11 @@
+Trimethoprim (in bacteria), methotrexate (in human cells), and pyrimethamine (in some
+protozoa) all prevent the reduction of folic acid to tetrahydrofolate (THF) by inhibiting
+dihydrofolate reductase (DHFR). Trimethoprim restricts bacterial growth through this
+process and works particularly well in conjunction with the sulfonamides (eg,
+sulfamethoxazole), which inhibit an earlier step in the bacterial folic acid pathway (see Choice
+E); the combination of trimethoprim and sulfamethoxazole produces a "sequential blockade."
+
+Methotrexate is a folate antimetabolite that targets rapidly proliferating human cells by halting
+DNA synthesis through binding DHFR. Methotrexate is cell-cycle specific for the S phase as it
+prevents synthesis of purines and thymine. Pyrimethamine is effective for treatment of
+malaria and toxoplasmosis because it inhibits parasitic DHFR.

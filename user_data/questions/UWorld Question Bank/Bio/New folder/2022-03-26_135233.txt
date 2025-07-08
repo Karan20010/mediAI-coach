@@ -1,0 +1,25 @@
+Pentose phosphate pathway
+
+OXIDATIVE Glucose-6-phosphate
+(IRREVERSIBLE)
+
+NADP* Glucose-6-phosphate dehydrogenase
+_ (rate-limiting step)
+NADPH |
+
++ Cholesterol & fatty
+lacid eynthesis 6-phosphogluconate
+° Asoretae antioxidant NADP*
+D) 6-phosphogluconate dehydrogenase
+NADPH
+Ribulose-5-phosphate
+NONOXIDATIVE
+(REVERSIBLE) Ribulose-5-phosphate
+/ x Nucleotide
+Xylulose-5-phosphate Ribose-S-phosphate—> s/rthesis,
+Transketolase
+‘Sedoheptulose-7-phosphate Glyceraldehyde-3-phosphate
+Transaldolase
+Erythrose-4-phosphate Fructose-6-phosphate
+
+©UuUWorld Glycolysis

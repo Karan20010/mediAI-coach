@@ -1,0 +1,6 @@
+Educational objective:
+
+Conjugation is a form of horizontal gene transfer that involves the formation of a pilus and the
+direct passing of genetic material from one bacterium to another. It is a common source of
+antibiotic resistance and environmental adaptation. The other forms of bacterial horizontal
+gene transfer are transduction (viral vector) and transformation (uptake of free DNA).

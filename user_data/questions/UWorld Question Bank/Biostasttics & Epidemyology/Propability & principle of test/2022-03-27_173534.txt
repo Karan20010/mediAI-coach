@@ -1,0 +1,3 @@
+Educational objective:
+Sensitivity = true positives / (true positives + false negatives). Screening tests should have
+high sensitivity.

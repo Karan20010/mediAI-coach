@@ -1,0 +1,33 @@
+= custo leas a 4 (Sons _— i snc sO} all. Al cat Ss
+(Choices B and C) Another function of aldose reductase is the conversion of galactose into
+galactitol (ie, this enzyme converts sugars into their corresponding sugar alcohols). Galactitol
+production via this pathway is normally insignificant. In galactosemia (galactose-1-phosphate
+uridyltransferase deficiency), an increased amount of galactitol is produced, resulting in
+
+congenital cataracts.
+
+(Choice D) The end product of sorbitol metabolism in most cells is fructose (not glucose),
+which is then excreted by the cells and taken up by the liver to produce glucose and
+triglycerides.
+
+(Choice E) Xylulose is an intermediate in the pentose phosphate pathway, which is used to
+generate NADPH (for cholesterol and fatty acid synthesis) and ribose 5-phosphate (for
+nucleotide synthesis).
+
+Educational objective:
+
+In the polyol pathway, aldose reductase converts glucose into sorbitol, which is slowly
+metabolized into fructose by sorbitol dehydrogenase. Chronic hyperglycemia overwhelms this
+pathway, causing intracellular sorbitol accumulation and increased osmotic/oxidative stress.
+This accelerates cataract development in patients with diabetes, and contributes to the
+
+pathogenesis of diabetic retinopathy, neuropathy, and nephropathy.
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

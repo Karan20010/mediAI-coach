@@ -1,0 +1,13 @@
+This patient most likely has porphyria cutanea tarda (PCT), the most common disorder of
+porphyrin (eg, heme) synthesis. Enzyme deficiencies in the early steps in porphyrin synthesis
+cause abdominal pain and neuropsychiatric manifestations (due to metabolite buildup) without
+photosensitivity. Late step (ie, following porphobilinogen [PBG] conversion) derangements
+(eg, PCT) cause photosensitivity, which is thought to be due to the accumulation of
+porphyrinogens that react with oxygen on excitation by ultraviolet (sun) light.
+
+PCT is caused by uroporphyrinogen decarboxylase (UROD) deficiency, which is either
+inherited or (more commonly) acquired, manifesting in the presence of iron and of
+susceptibility factors (eg, alcohol [as in this patient], smoking, halogenated hydrocarbons,
+hepatitis C, HIV). Photosensitivity presents as vesicle and blister formation on sun-exposed
+areas as well as edema, pruritus, pain, and erythema. Deficiencies in coproporphyrinogen
+oxidase, protoporphyrinogen oxidase, or ferrochelatase can also result in photosensitivity.

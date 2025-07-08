@@ -1,0 +1,53 @@
+41 ec en) é
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+— litem 24 of 29
+= a V7 Mark
+
+Question Id: 19723
+
+The accuracy of screening or diagnostic tests (defined as the number of true positives plus
+true negatives divided by the number of all observations) is generally quantified by the area
+under the ROC curve (AUC). ROC (receiver operating characteristic) curves are created by
+plotting sensitivity (true-positive rate) against 1 — specificity (false-positive rate) for various
+cutoff thresholds (ie, the value that determines if a given test result is positive or negative). A
+highly accurate test is highly sensitive (high true-positive rate) and highly specific (low false-
+positive rate). The more accurate the test is (ie, the higher sensitivity and specificity), the
+closer the AUC value is to 1.0. Therefore, tests with higher AUCs are more accurate than
+
+tests with lower AUCs.
+
+In this study, the ROCs for the tests (ie, biomarkers) are not provided; however, it is possible to
+draw conclusions about the accuracy of each biomarker based on the values given for their
+AUCs. Biomarker 3 has the largest AUC (0.879) compared to biomarker 1 (0.603),
+biomarker 2 (0.758), biomarker 4 (0.763), and biomarker 5 (0.756). Therefore, biomarker 3 is
+the most accurate test of the 5 tests for Barrett esophagus screening.
+
+(Choices A, B, D, and E) Biomarker 3 (0.879) is more accurate than biomarker 4 (0.763);
+biomarker 4 is more accurate than biomarker 2 (0.758); biomarker 2 is more accurate than
+biomarker 5 (0.756); and biomarker 5 is more accurate than biomarker 1 (0.603).
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

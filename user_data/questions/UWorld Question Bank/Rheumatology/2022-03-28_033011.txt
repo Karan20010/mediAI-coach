@@ -1,0 +1,7 @@
+Educational objective:
+
+Nonsteroidal anti-inflammatory drugs (NSAIDs) are first-line therapy for treating acute gouty
+arthritis. They inhibit cyclooxygenase and exert a broad anti-inflammatory effect that includes
+inhibition of neutrophils. When NSAIDs are contraindicated (eg, peptic ulcer disease, renal
+impairment), colchicine is useful in the acute management of gout as it inhibits neutrophil
+chemotaxis and phagocytosis by preventing microtubule formation.

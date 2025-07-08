@@ -1,0 +1,15 @@
+The HIV genome contains a set of structural genes (gag, pol, and env) that encode
+polyproteins. These polyproteins are subsequently cleaved by host or viral proteases into the
+individual proteins that compose the HIV virus.
+
+The only glycosylated HIV polyprotein is gp160, the product of the env gene. gp160 is
+extensively glycosylated in the rough endoplasmic reticulum and Golgi apparatus. It is then
+cleaved into the envelope proteins gp120, which mediates viral attachment, and gp41, which
+mediates viral fusion with the host cell. Glycosylation of these proteins is crucial for:
+
+¢ Immune evasion — Glycosylation acts as a shield for the conserved regions of these
+surface proteins, masking them from immune recognition.
+
+¢ Host cell binding
+
+¢ Proper protein folding

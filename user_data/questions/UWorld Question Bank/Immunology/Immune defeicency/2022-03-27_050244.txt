@@ -1,0 +1,47 @@
+= ltem21 of 22 5 v Mark <q Se rc j @ él
+
+= ‘ L
+Question Id: 21342 Praras Next FullScreen Tutorial__—_Lab Values
+
+This patient with signs of a sinus infection (eg, thick, purulent nasal drainage) has a history of
+recurrent skin abscesses and chronic atopic dermatitis. Given her normal platelet count, which
+excludes Wiskott-Aldrich syndrome, her findings are most consistent with hyper-IgE
+syndrome (Job syndrome), an autosomal dominant, primary immunodeficiency disorder.
+
+Hyper-IgE syndrome is characterized by impaired JAK-STAT signaling, leading to defective
+differentiation and function of T-helper cell type 17 (Th17). Th17 cells normally produce IL-
+17, which activates neutrophils to migrate to the site of infection. Without this cytokine,
+neutrophil function is impaired, causing recurrent skin and sinopulmonary infections most
+commonly due to Staphylococcus aureus and Candida albicans. Neutrophil-induced
+inflammation is absent, so abscesses are often nontender (ie, cold), and patients are typically
+afebrile with a normal leukocyte count, as opposed to the leukocytosis expected with infection.
+
+In addition to immunodeficiency, chronic atopic dermatitis is a prominent feature of hyper-
+IgE syndrome and typically begins in early infancy. Colonization of S aureus and C albicans
+on the skin triggers mast cell histamine release, causing severe pruritus and an eczematous
+rash. Patients characteristically have eosinophilia and elevated IgE related to the dermatitis,
+but other immunoglobulin levels are usually normal. Alow Th17 count supports the
+diagnosis, and molecular genetic testing is confirmatory.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

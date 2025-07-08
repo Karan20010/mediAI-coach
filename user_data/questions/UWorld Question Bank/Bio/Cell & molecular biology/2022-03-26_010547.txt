@@ -1,0 +1,12 @@
+(Choice A) DNA methylation silences gene transcription so that the affected protein would be
+completely absent. A pathologic example of DNA methylation is the inhibition of tumor
+suppressor genes as a mechanism for cancer development.
+
+(Choice C) A defect in protein folding, as seen with the CFTR protein in cystic fibrosis, would
+result in abnormal protein functioning. Protein concentration may be normal or low due to
+more rapid degradation of the abnormal protein.
+
+(Choices D and E) Splicing mutations can result in inappropriate removal of exons or
+persistence of introns; this creates aberrant mRNA that is presented for translation and results
+in production of an abnormal protein. Similarly, a defect in translation results in insufficient or
+abnormal protein synthesis, which is reflected both in the serum and intracellularly.

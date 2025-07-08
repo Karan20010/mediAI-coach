@@ -1,0 +1,10 @@
+Iron bound to heme is normally in the reduced ferrous (Fez) state. Nitrites cause poisoning
+by inducing the conversion of this heme iron to the oxidized ferric (Fes) state, leading to the
+formation of methemoglobin. With iron in the oxidized ferric state, methemoglobin is unable
+to bind oxygen. In addition, the affinity of any residual ferrous iron in the hemoglobin tetramer
+is increased, causing a leftward shift of the oxygen-dissociation curve. However, the partial
+pressure of oxygen in blood, which represents the amount of oxygen dissolved in the
+plasma, is unchanged.
+
+Methemoglobinemia causes dusky discoloration of the skin (similar to cyanosis), and because
+methemoglobin is unable to carry oxygen, a state of functional anemia is induced.

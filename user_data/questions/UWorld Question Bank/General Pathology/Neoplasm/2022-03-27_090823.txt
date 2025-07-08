@@ -1,0 +1,43 @@
+e
+Previous Next Full Screen Tutorial Lab Values
+
+— ltem9 of 30 <q Se a) A
+= Question Id: 11955 . 4 Mark z ® I
+
+Nuclear factor-kappa B (NF-kB) is part of a family of transcription factors that perform a
+critical role in the immune response to infection and inflammation. In inflammatory cells, NF-
+KB is normally present in a latent, inactive state bound to its inhibitor protein, IKB. As part of
+the classical activation pathway, an extracellular signal, such as the binding of bacterial
+antigens to a toll-like receptor, causes activation of IKB kinase. This results in ubiquitination
+and subsequent destruction of IkKB with the release of free NF-KB. Once free, NF-KB enters
+the nucleus and promotes the synthesis of a number of inflammatory proteins such as
+cytokines, acute phase reactants, cell adhesion molecules, and leukocyte-related growth
+factors. The inflammatory cascade is self-limiting as NF-KB also stimulates the transcription of
+more IkB, ultimately rebinding the freed NF-KB.
+
+(Choices A and E) Granulocyte colony-stimulating factor (G-CSF) is the principal protein that
+stimulates the production and release of neutrophils from the bone marrow. Tumor necrosis
+factor-a (TNF-a) plays a major role in the response to infection by increasing neutrophil
+chemotaxis and stimulating macrophage phagocytosis. Although NF-kB upregulates
+transcription of G-CSF and TNF-a, IkB degradation is not directly involved in the activation of
+these factors.
+
+(Choice B) Janus kinase 2 (JAK2) is a tyrosine kinase involved in the signaling pathway for
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+id
+
+Reverse Color _Text Zoom
+
+ck Suspend
+
+63
+
+Settings
+

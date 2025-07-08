@@ -1,0 +1,5 @@
+Educational objective:
+
+Patients with trisomy 21 (Down syndrome) have 3 copies of the amyloid precursor protein
+gene located on chromosome 21. This increases amyloid-beta accumulation in the brain,
+placing these patients at high risk for developing early-onset Alzheimer disease.

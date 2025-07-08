@@ -1,0 +1,12 @@
+Fluconazole is a triazole antifungal that treats yeast infections but has no activity against
+molds. Itis a first-line therapy for Candida albicans and Cryptococcus neoformans and offers
+some efficacy against most other Candida species, as well as endemic fungi (eg, Histoplasma,
+
+Coccidioides, Blastomyces).
+
+Azole antifungals exert their effect by blocking lanosterol 14-alpha-demethylase, a
+cytochrome p-450—dependent enzyme that converts lanosterol to ergosterol. Because
+ergosterol is a crucial component of the cell membrane of fungi, treatment with azole
+antifungals causes fungal cell membrane weakening and subsequent cell lysis and death.
+However, use of azole antifungals as long-term suppressive therapy or repeat use for recurrent
+fungal infections can lead to resistance.

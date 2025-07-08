@@ -1,0 +1,45 @@
+ra
+
+= Item 23 of 30 . y rere | e 4 (©) al
+
+— " L
+
+Question Id: 1717 Previous Next Full Screen Tutorial Lab Values
+This patient's pale red reflex and well-circumscribed white mass within the retina are indicative
+of retinoblastoma. Retinoblastoma is an intraocular tumor caused by inactivating mutations
+
+affecting the RB7tumor suppressor gene with subsequent dysregulation of the cell cycle.
+The cell cycle consists of the following stages:
+¢ Gap phase 0 (GO phase) is a resting stage in which the cell cycle is suspended.
+¢ Interphase is the stage in which the cell prepares for division. Interphase is subdivided
+into the G1 phase (synthesis of RNA, protein, lipid, and carbohydrate), S phase (DNA
+replication), and the G2 phase (ATP synthesis).
+¢ Mitosis (M) is the stage in which the cell divides into two daughter cells.
+
+Checkpoints occur at the G1/S and G2/M transitions, allowing the cell cycle to be stopped if
+damaged DNA is detected by cyclins and cyclin-dependent kinases. DNA repair mechanisms
+are activated, but if the DNA damage is too substantial, the cell undergoes apoptosis.
+
+The RB1 gene encodes the Rb protein that regulates the G1/S checkpoint. In its active form,
+Rb protein binds and inhibits E2F transcription factors, thereby halting the cell cycle. In
+contrast, when a cell is ready to divide, Rb protein is phosphorylated by cyclin-dependent
+kinases, allowing the cell to proceed through the G1/S checkpoint. Loss-of-function
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+id
+
+Reverse Color _Text Zoom
+
+ck Suspend
+
+63
+
+Settings
+

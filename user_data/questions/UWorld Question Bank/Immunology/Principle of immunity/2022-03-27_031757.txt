@@ -1,0 +1,10 @@
+(Choice C) The phagocytic Fc receptor can only bind antivenom that has bound IgG or IgM
+antibody. Unbound antivenom cannot attach to phagocytic receptors.
+
+Educational objective:
+
+Serum sickness is an immune complex—mediated type III hypersensitivity reaction that occurs
+1-2 weeks after exposure to nonhuman protein in antitoxins (eg, antivenom), monoclonal
+antibodies (eg, rituximab), or vaccines (eg, rabies antigens). Deposition of immune complexes
+in tissue leads to complement activation and subsequent self-limited fever, arthralgia, and
+urticarial rash.

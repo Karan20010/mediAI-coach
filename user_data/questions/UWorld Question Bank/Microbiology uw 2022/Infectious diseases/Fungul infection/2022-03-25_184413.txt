@@ -1,0 +1,16 @@
+(Choice B) Triazole antifungals (eg, fluconazole, itraconazole) inhibit cytochrome P450
+enzymes, suppressing the metabolism of many other medications. This effect explains the
+myriad drug interactions of this group of antifungal agents.
+
+(Choice C) Binding of microtubular proteins is the mechanism of griseofulvin, which is
+effective against dermatophytes only.
+
+(Choices D and E) Amphotericin B does not interact with ribosomal subunits or mitochondrial
+enzymes.
+
+Educational objective:
+
+Amphotericin B binds the ergosterol of fungal cell membranes to exert its antifungal effects.
+However, it also binds cholesterol to some degree, causing toxicity to human tissues. The
+most important adverse effects of amphotericin B are nephrotoxicity, hypokalemia, and
+hypomagnesemia.

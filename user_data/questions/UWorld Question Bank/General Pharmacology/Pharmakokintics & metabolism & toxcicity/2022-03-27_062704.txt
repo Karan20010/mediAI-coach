@@ -1,0 +1,6 @@
+Educational objective:
+
+Following intravenous administration, a highly lipophilic drug will be rapidly distributed to
+organs with high blood flow (eg, brain, liver, kidneys, lungs). The drug is then redistributed to
+tissues with relatively lower blood flow (eg, skeletal muscle, fat, bone). This accounts for the
+short duration of action of many commonly used anesthetics, such as propofol.

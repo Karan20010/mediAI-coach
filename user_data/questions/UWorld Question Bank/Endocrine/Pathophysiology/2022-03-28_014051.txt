@@ -1,0 +1,29 @@
+— Item 17 of 40 mY wax <q Se i @ al Lo) id @A &s
+
+: Le c
+Question Id: 1326 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+©uWorld *IRS = Insulin receptor substrate
+The insulin receptor (IR) is a tetrameric structure consisting of 2 alpha and 2 beta subunits.
+The alpha subunits are extracellular and provide the binding site for insulin. The beta subunits
+are intracellular and contain tyrosine kinase domains that are activated when insulin attaches
+to the alpha subunits. A series of downstream signaling is then triggered, starting with the
+autophosphorylation of IR, phosphorylation of IR substrates 1 and 2 (IRS-1/2), and ultimately,
+translocation of glucose transporter-4 (GLUT-4) to the cell membrane.
+
+Tumor necrosis factor alpha (TNF-a) is a proinflammatory cytokine that induces insulin
+resistance through the activation of serine kinases, which then phosphorylate serine residues
+
+on the beta subunits of IR and IRS-1. This inhibits tyrosine phosphorylation of IRS-1 by IR and
+subsequently hinders downstream signaling, resulting in resistance to the normal actions of
+insulin. Phosphorylation of threonine residues has similar effects. Catecholamines,
+glucocorticoids, and glucagon can also induce insulin resistance by this same mechanism.
+
+(Choice A) Cyclic AMP (cAMP) is inactivated via hydrolysis by phosphodiesterase.
+Phosphodiesterase can thereby dampen the effects of various hormones (eg, glucagon) that
+use CAMP as a second messenger. cAMP is also involved in insulin release by pancreatic
+beta cells, but it does not participate in IR downstream signaling.
+
+Block Time Elapse
+
+Tutor End Block

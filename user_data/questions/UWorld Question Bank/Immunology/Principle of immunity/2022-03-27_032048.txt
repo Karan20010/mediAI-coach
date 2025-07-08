@@ -1,0 +1,25 @@
+— Item 18 of 25 mY war <q = i @ a F 33
+
+Question Id: 1614 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+B-cell precursors proliferate and mature in the bone marrow. Mature B-cells then leave the
+bone marrow and migrate to lymphoid organs and peripheral tissues, where they are exposed
+to antigens. On first exposure to a new antigen, a clone of B-cells becomes activated. Some
+activated B-cells differentiate into short-lived plasma cells that release antigen-specific IgM
+through a T-cell independent process. However, most activated B-cells migrate to lymphoid
+follicles located in the lymph node cortex where they form germinal centers (arrows) that are
+the site of B-cell proliferation during the immune response. A portion of these activated B-cells
+form long-lived memory cells that remain dormant in the lymph node until the next encounter
+with the same antigen, but the majority transform into antibody-secreting plasma cells.
+
+Isotype switching (from IgM to other types of immunoglobulins) also occurs in the germinal
+
+centers late in the primary response, providing activated B-cells the ability to produce antigen-
+specific antibodies of differing isotypes. Heavy chain constant regions are isotype-specific and
+distinguish the 5 isotypes (IgM, IgG, IgA, IgE, and IgD), while the variable regions are antigen-
+specific. Light chains are antigen-specific and do not determine isotype. Isotype switching
+first requires interaction of the CD40 receptor on activated B-cells with the CD40 ligand
+(CD154) expressed by activated T-cells. Afterward, isotype switching can occur through
+genetic rearrangement of the heavy chain constant regions. This process is modulated by T-
+
+ck Suspend

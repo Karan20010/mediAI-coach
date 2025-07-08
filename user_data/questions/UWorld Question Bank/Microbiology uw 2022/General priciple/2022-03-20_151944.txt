@@ -1,0 +1,6 @@
+Educational Objective:
+
+Bacterial mRNA can be polycistronic, meaning that one mRNA codes for several proteins. An
+example of polycistronic mRNA is the bacterial lac operon, which codes for the proteins
+necessary for lactose metabolism by E. coli; the transcription and translation of these bacterial
+proteins is regulated by a single promoter, operator, and set of regulatory elements.

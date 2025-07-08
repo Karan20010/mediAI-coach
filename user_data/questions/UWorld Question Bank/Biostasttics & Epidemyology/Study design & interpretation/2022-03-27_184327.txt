@@ -1,0 +1,53 @@
+41 ec en) é
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+—_— litem 15 of 17
+= a V7 Mark
+
+Question Id: 1274
+
+Relative risk (RR) is used in cohort studies to determine how strongly a risk factor (ie,
+exposure) is associated with an outcome. RR is the risk of an outcome (eg, breast cancer) in
+the exposed group (eg, individuals who consume alcohol daily) divided by the risk of that
+outcome in the unexposed group (eg, individuals who do not consume alcohol daily). If the RR
+= 1.0 (null value), then there is no association between the exposure and the disease. An RR
+>1.0 indicates that the exposure is associated with increased risk of disease. An RR <1.0
+means that the exposure is associated with decreased risk of disease.
+
+The RR by itself does not account for the possibility that chance alone is responsible for the
+results. The 95% confidence interval (Cl) and p-value are 2 measures of statistical
+significance that can help strengthen the findings of a study using RR. For a result to be
+considered statistically significant, its corresponding Cl must NOT contain the null value.
+When the 95% Cl does not include the null value, this gives a corresponding p-value <0.05
+and the association between exposure and outcome is considered statistically significant. A p-
+value <0.05 reflects that there is a very low probability that the result was due to chance alone;
+formally, the p-value is the probability of observing a given (or more extreme) result due to
+
+chance alone assuming that the null hypothesis is true.
+
+In this example, the RR is 1.4 with a 95% Cl of 1.02-1.85. It can be concluded that daily
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

@@ -1,0 +1,34 @@
+— Item 13 of 40 mY wax <q Se ” @ al Lo) id lA)
+
+= jon (a: [Ls c
+Question Id: 15048 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom
+
+Leukocyte surface molecules are categorized using cluster of differentiation (CD)
+nomenclature to assist with immunophenotyping, the differentiation of immune cells based
+on cell surface features (ie, with flow cytometry). Although some CD molecules are expressed
+on most immune cells (eg, CD45), others are restricted to a specific population of leukocytes.
+
+CD19 is a transmembrane protein unique to B lymphocytes that reduces the cytokine
+threshold for B-cell activation and proliferation following antigen binding. Because B-cell
+cancers (eg, acute lymphocytic leukemia, diffuse B-cell lymphoma) often overexpress CD19 to
+increase replication rate, anti-CD19 immunotherapy has been developed to treat these
+malignancies.
+
+CAR T-cell therapy is a specific type of immunotherapy that involves the following:
+1. Extraction and purification of T cells from a patient or donor
+
+2. Genetic modification to form a chimeric antigen receptor (CAR), which combines an
+extracellular antigen recognition domain for an antigen overexpressed in a tumor with an
+intracellular stimulatory T-cell signaling domain that promotes T-cell activation/proliferation
+and tumor-killing activity.
+
+3. Reinfusion of the modified T cells into the patient
+
+Block Time Elapse
+Tutor
+
+63
+
+Settings
+
+End Block

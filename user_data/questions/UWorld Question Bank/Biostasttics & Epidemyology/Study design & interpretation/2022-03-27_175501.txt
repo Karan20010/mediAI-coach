@@ -1,0 +1,53 @@
+aa
+
+10
+il
+12
+13
+14
+15
+16
+17
+18
+19
+20
+24
+22
+23
+24
+25
+26
+27
+28
+29
+
+= emo a Y Mark 4a 6-6 i @® a » - &A 8
+
+Question Id: 19197
+
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+Dependent variable
+Qualitative
+. Quantitative
+(categorical)
+Qualitative Chi-square, logistic t-test, ANOVA, linear
+Independent (categorical) regression’ regression
+variable . | Correlation, linear
+Quantitative Logistic regression :
+regression
+
+* Dependent variable must be dichotomous.
+
+ANOVA = analysis of variance.
+
+Variables are broadly classified as qualitative (ie, categorical) or quantitative (eg, continuous)
+based on their scale of measurement. Qualitative variables (eg, type of treatment, blood
+type) represent categories or groups whereas quantitative variables (eg, temperature,
+glucose levels) represent numerical values. The scale of measurement of the dependent
+(eg, outcome) and independent (eg, exposures, risk factors) variables in a study determines
+the correct statistical test.
+
+Block Time Elaps
+
+Tutor pend End Block

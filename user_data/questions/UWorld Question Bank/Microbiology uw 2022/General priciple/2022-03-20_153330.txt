@@ -1,0 +1,17 @@
+This patient had self-limited traveler's diarrhea, which is most commonly caused by
+enterotoxigenic Escherichia coli (ETEC), a gram-negative, motile, enteric rod bacterium.
+Patients traveling to resource-limited regions with poor sanitation are at greatest risk.
+
+Following ingestion, ETEC colonizes and adheres to small intestine enterocytes (mediated by
+pili). The typical manifestations of abdominal cramping, nausea/vomiting, and (occasionally)
+low-grade fever occur due to the elaboration of plasmid-encoded heat-labile (LT) and/or heat-
+stable (ST) enterotoxins:
+
+e The LT enterotoxin, which resembles cholera toxin in structure and mode of action,
+increases cyclic AMP in gut mucosal cells by activating adenylate cyclase.
+¢ The ST enterotoxin (which is not inactivated by heat likely due to its small molecular
+
+size) causes an increase in cyclic GMP by activating guanylate cyclase.
+
+Both mechanisms result in increased chloride secretion and decreased sodium reabsorption
+by enterocytes, resulting in watery diarrhea.

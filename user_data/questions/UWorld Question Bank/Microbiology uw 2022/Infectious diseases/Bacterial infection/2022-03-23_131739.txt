@@ -1,0 +1,7 @@
+Educational objective:
+
+The major virulence factor of Streptococcus pyogenes is M protein, an alpha-helical coiled-coil
+protein that shares structural homology with tropomyosin and myosin. It extends from the cell
+wall and prevents phagocytosis, inhibits complement binding, and mediates bacterial
+adherence. Antibodies against M protein form shortly after acute infection and may cross-
+react with epitopes on myosin, leading to rheumatic carditis.

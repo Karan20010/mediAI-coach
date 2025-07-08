@@ -1,0 +1,45 @@
+to
+
+10
+at
+12
+13
+14
+15
+16
+17
+
+— Item 8 of 17 mY wax <q = i @ a) bo 4 Gaia)
+
+Question Id: 19199 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom
+
+A pediatric cardiologist decides to determine whether there is a relationship between body
+composition and blood pressure in a random sample of children and adolescents age 5-15.
+He used standard procedures to collect anthropometric measurements that included weight,
+height, hip circumference (HC), and waist circumference (WC). Systolic blood pressure (SBP)
+and diastolic pressure (DBP) readings were taken at least 3 times at 5-minute intervals after
+the participants had been seated, and average SBP and DBP readings were calculated based
+on these measurements. Which of the following statistical tests is adequate to determine
+whether there is a relationship between WC and average DBP?
+
+A. Analysis of variance (5%)
+B. Chi-square test (9%)
+
+SY C. Correlation analysis (55%)
+D. Meta-analysis (1%)
+E. Two-sample t-test (27%)
+
+‘ort cou p04 secs 44 2022 Act vate Windows
+
+Block Time Elapsed: 00:00:40 %
+
+Tutor Feedback Suspend
+
+63
+
+Settings
+
+()
+
+End Block
+

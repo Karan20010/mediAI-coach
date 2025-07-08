@@ -1,0 +1,6 @@
+When excess ammonia is present in the blood, it crosses the blood-brain barrier and is taken
+up by astrocytes, increasing glutamine production. The presence of excess glutamine
+within astrocytes leads to increased intracellular osmolarity, causing astrocyte swelling and
+impaired glutamine release. Hyperammonemia consequently decreases the amount of
+glutamine available for conversion to glutamate in neurons, resulting in disruption of
+excitatory neurotransmission.

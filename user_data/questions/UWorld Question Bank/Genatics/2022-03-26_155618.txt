@@ -1,0 +1,9 @@
+(Choice D) Increased telomerase activity helps promote cancer cell longevity; telomerase
+activity is frequently increased in tumors, but it is not mediated by MGMT.
+
+Educational objective:
+
+Cancer cells alter expression of genes controlling survival and replication by histone
+modification, transcription factor expression, and CpG methylation. Methylation of the CpG
+region adjacent to the MGMT gene, which produces an enzyme that repairs DNA, makes
+tumor cells much more susceptible to alkylating chemotherapy.

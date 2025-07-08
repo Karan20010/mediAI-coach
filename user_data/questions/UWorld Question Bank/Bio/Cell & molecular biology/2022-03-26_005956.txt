@@ -1,0 +1,7 @@
+Educational objective:
+
+Transport of glucose into the cells of most tissues occurs by means of facilitated diffusion.
+Glucose moves from areas of high concentration to areas of low concentration with the help of
+transmembrane glucose transporter proteins (GLUT). These carrier proteins are
+
+stereoselective and have preference for D-glucose.

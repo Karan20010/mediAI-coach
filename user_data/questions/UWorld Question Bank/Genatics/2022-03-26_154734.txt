@@ -1,0 +1,15 @@
+Locus heterogeneity in oculocutaneous albinism
+
+Mutations at different genetic loci result in similar phenotypes.
+
+Father Mother
+Homozygous Homozygous Homozygous Homozygous
+abnormal normal abnormal
+chromosome 11 ecmeom 15 chromosome 11 chromosome 15
+Paternal abnormal Maternal normal Paternal normal Maternal abnormal
+chromosome 11 chromosome 11 chromosome 15 chromosome 15
+
+Child
+
+Double heterozygote, phenotypically normal
+

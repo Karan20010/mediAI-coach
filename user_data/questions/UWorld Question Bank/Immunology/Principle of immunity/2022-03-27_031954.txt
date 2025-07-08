@@ -1,0 +1,30 @@
+— Item 17 of 25 mY wax <q = i @ a) bo 4 33
+
+Question Id: 7609 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+The complement cascade is an ancient proteolytic defense mechanism that plays a major role
+in both the innate and adaptive immune responses. It is activated by 3 major inciting events,
+all of which terminate in the generation of C3 convertase as follows:
+
+¢ Antibody-antigen binding (classical pathway): The C1 complex (C1q/r/s) forms on the
+Fc portion of an IgM or IgG antibody that is bound to an antigen; the C1 complex then
+cleaves C4 and C2 into C3 convertase.
+
+¢ Lectin pattern recognition receptor binding (lectin pathway): Host pattern recognition
+receptors bind to carbohydrates that are produced only by foreign pathogens; binding
+
+generates proteases that cleave C4 and C2 into C3 convertase without requiring the C1
+
+complex.
+
+¢ C3b binding (alternative pathway): A small amount of autoactivated C3b continually
+forms in the intravascular space and is rapidly inactivated by healthy cells. However, the
+presence of microbes or damaged cells amplifies the production of C3b, which then
+engages with factor B and factor D and generates C3 convertase.
+
+C3 convertase catalyzes the formation of proteins that opsonize pathogens, promote
+inflammation, and lead to the generation of membrane attack complexes.
+
+Block Time Elapse
+
+Tutor End Block

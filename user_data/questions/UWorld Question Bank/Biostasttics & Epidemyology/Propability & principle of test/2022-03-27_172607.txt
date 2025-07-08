@@ -1,0 +1,64 @@
+— Item 4 of 23
+Question Id: 1233
+
+a V7 Mark
+
+41 Pe i @ @ B&B
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator
+
+An 89-year-old man is brought to a geriatric clinic by family members who are concerned that
+
+he is developing dementia due to recent worsening of his memory. The attending physician
+
+uses a new cognitive test (test X) to help rule out the possibility of dementia. The patient's test
+
+result is negative. A study evaluating the efficacy of test X in a sample of 200 individuals age
+
+>85, in which the prevalence of dementia is 50%, has determined that the test has a specificity
+
+of 80% and a sensitivity of 90%. Assuming that this patient's pretest probability of having
+
+dementia is equivalent to the disease prevalence in the study population, what is the
+
+probability that this patient truly does not have dementia?
+
+v
+
+A. 18% (4%)
+B. 53% (4%)
+C. 66% (8%)
+D. 82% (25%)
+E. 89% (56%)
+
+Omitted
+
+Block Time Elapsed: 00:00:21
+
+Tutor
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+56% py 04 secs 44 2022 Activate Windows
+
+%
+
+Feedback
+
+Suspend
+
+63
+
+Settings
+
+()
+
+End Block
+

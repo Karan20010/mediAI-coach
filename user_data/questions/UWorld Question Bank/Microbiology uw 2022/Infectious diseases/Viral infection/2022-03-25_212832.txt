@@ -1,0 +1,15 @@
+Patients who undergo organ transplantation and are on immunosuppressive therapy are at risk
+for cytomegalovirus (CMV) reactivation with end-organ disease (eg, colitis, retinitis,
+pneumonitis). This patient has classic manifestations of CMV colitis including fever, fatigue,
+abdominal pain, and diarrhea. Because serum testing for CMV DNA may be negative, patients
+with suspected CMV colitis usually undergo colonoscopy with biopsy. Typical findings include
+colonic mucosal erythema/ulcerations. Biopsy generally reveals large cells with intranuclear
+and intracytoplasmic inclusions ("owl's-eye" appearance).
+
+First-line therapy for CMV colitis is intravenous ganciclovir. This guanine nucleoside
+analogue interferes with viral DNA replication by competitively inhibiting the incorporation of
+guanosine triphosphate into CMV DNA strands by CMV DNA polymerase. However, this drug
+also impedes human DNA polymerase to a lesser degree and can interfere with host cell
+replication, particularly in areas of high turnover (eg, hematologic progenitor cells). Therefore,
+ganciclovir is often associated with prominent hematologic side effects such as neutropenia,
+anemia, and thrombocytopenia.

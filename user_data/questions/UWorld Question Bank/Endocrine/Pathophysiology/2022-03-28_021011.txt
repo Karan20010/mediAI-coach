@@ -1,0 +1,68 @@
+— Item3of19
+—— Question Id: 14818
+
+a V7 Mark
+
+Previous
+
+Oe)
+a
+
+e
+Full Screen Tutorial
+
+Lab Values
+
+Medication-induced gynecomastia*
+
+Drug
+
+Mechanism
+
+Estrogens
+
+Direct stimulation of ductal epithelial hyperplasia
+
+Antiandrogens
+(eg, flutamide,
+bicalutamide)
+
+Competitive inhibition of testosterone receptor
+
+5-alpha reductase
+inhibitors (eg, finasteride)
+
+{ Conversion of testosterone to dihydrotestosterone
+
+Spironolactone
+
+| Testosterone synthesis & inhibition of testosterone
+
+receptor
+
+Ketoconazole
+
+{ Synthesis of steroid hormones (| androgen > |
+
+estrogen)
+
+Cimetidine
+
+Inhibition of testosterone receptor
+
+Androgen-anabolic
+steroids
+
+Block Time Elapse
+
+Aromatization of androgens to estrogen
+
+Notes
+
+Calculator
+
+r oy
+
+Reverse Color _Text Zoom Settings
+
+End Block

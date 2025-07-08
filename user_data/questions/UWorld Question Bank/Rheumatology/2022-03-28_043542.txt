@@ -1,0 +1,49 @@
+on Ld @ al [=]
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes
+
+— Item 16 of 38
+= a V7 Mark
+
+Question Id: 18475
+(Choice B) Antiplatelet agents (eg, aspirin, clopidogrel) are indicated for patients with
+amaurosis fugax (eg, transient vision loss) due to carotid atherosclerosis. However, this
+patient's unilateral headaches and proximal muscle pain makes GCA a more likely diagnosis.
+
+(Choice C) Ganciclovir is used to treat cytomegalovirus retinitis, which presents with blurred
+vision, floaters, and photopsia (sensation of flashing lights). It occurs primarily in patients with
+significant immune suppression (eg, advanced AIDS).
+
+(Choice E) Sumatriptan is used for the treatment of migraine, which can cause a variety of
+ocular symptoms. However, new-onset migraines are uncommon in older individuals, and this
+patient's other symptoms are more consistent with GCA and PMR.
+
+Educational objective:
+
+Ocular manifestations in giant cell arteritis (temporal arteritis) can lead to rapid, severe, and
+irreversible vision loss. Involvement of the ciliary arteries in GCA leads to anterior ischemic
+optic neuropathy, which presents with a painless, rapidly progressive decrease in visual
+acuity. Treatment includes systemic glucocorticoids (eg, prednisone, methylprednisolone).
+
+References
+¢ Giant cell arteritis: ophthalmic manifestations of a systemic disease.
+
+Block Time Elapse
+Tutor
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

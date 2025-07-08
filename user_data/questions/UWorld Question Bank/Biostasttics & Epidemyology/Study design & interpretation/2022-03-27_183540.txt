@@ -1,0 +1,5 @@
+Educational objective:
+
+A case-control study is an observational study design; it begins with selecting individuals who
+have the outcome ("cases") and individuals who do not have the outcome ("controls") and then
+retrospectively comparing their history of exposure to risk factors.

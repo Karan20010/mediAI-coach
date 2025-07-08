@@ -1,0 +1,17 @@
+(Choice A) During trauma resuscitation, most patients are given isotonic fluids (eg, normal
+saline, Ringer lactate), which are unlikely to cause hyperglycemia. Even if mild fluid-induced
+hyperglycemia occurs, blood glucose levels typically normalize quickly after fluid boluses.
+
+(Choice B) Norepinephrine stimulates peripheral lipolysis, releasing glycerol, which can be
+taken up by the liver for use in gluconeogenesis. Therefore, stress increases, not decreases,
+the hepatic glycerol supply.
+
+(Choice C) Severe illness is often associated with increased anaerobic glycolysis due to
+systemic or local tissue hypoxia (blood loss in this patient). Increased conversion of glucose to
+lactate in ischemic tissues raises plasma lactate levels. Glucose levels are often concurrently
+elevated due to stress hyperglycemia, but anaerobic glycolysis itself depletes glucose.
+
+(Choice E) The renal cortex can convert lactate to glucose via gluconeogenesis. However, it
+
+makes a significantly smaller contribution to circulating glucose levels than hepatic
+gluconeogenesis.

@@ -1,0 +1,16 @@
+This patient's clinical picture is consistent with granulomatosis with polyangiitis (GPA), a c-
+ANCA- positive inflammatory vasculitis that primarily attacks the upper/lower respiratory tract,
+kidneys, and skin. Molecular and immunologic advances have led to a dramatic expansion in
+treatments for chronic systemic inflammatory diseases such as GPA; treatments are generally
+classified as follows:
+
+¢ Cytokine inhibitors: These bind free inflammatory cytokines or block cytokine receptors
+on cell surfaces; they target tumor necrosis factor (eg, infliximab, etanercept), IL-1, IL-6,
+IL-17, or IL-12/23 (Choice E).
+
+T-cell costimulation inhibitors: Two steps are required to activate cytotoxic T cells. The
+T cell must bind a specific antigen on the major histocompatibility complex type 1 of an
+antigen-presenting cell, and then the T cell must be costimulated by the interaction
+between the T-cell surface receptor CD28 and the antigen-presenting cell surface ligand
+CD80/86. T-cell costimulatory inhibitors (eg, abatacept) block the CD28 receptor on the
+cytotoxic T cell, which prevents T-cell costimulation and causes T-cell anergy (Choice A).

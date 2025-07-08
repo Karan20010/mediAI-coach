@@ -1,0 +1,38 @@
+Question Id: 7791
+
+— Item 15 of 40 mY wax <q Se ” @ al Lo) id lA)
+
+(4) r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+DNA methylation refers to the addition of methyl groups to nucleotide residues (often adenine
+and cytosine) by DNA methyltransferase, an enzyme that uses S-adenosyl-methionine
+(SAM) as the methyl group donor.
+
+DNA methylation is an epigenetic process by which eukaryotic organisms modify gene
+expression without altering the genetic code. For example, methylation of cytosine-guanine
+dinucleotide repeats (CpGs) in the promoter region of genes effectively silences transcription
+of those genes. Fragile X syndrome is an X-linked disorder caused by an increased number of
+CGG trinucleotide repeats on the fragile X mental retardation 1 (FIMR7) gene, leading to
+hypermethylation of cytosine residues and FMR7 inactivation.
+
+Cytosine methylation is also used in genomic imprinting, a phenomenon in which an
+offspring's genes are expressed in a parent-specific manner. For instance, an allele inherited
+from the father may be inactivated or "imprinted" by methylation so that only the allele from the
+mother is expressed.
+
+(Choices A and D) Aneuploidy refers to the presence of an abnormal number of
+chromosomes and is the result of chromosomal nondisjunction during mitosis or meiosis.
+
+(Choice B) Epistasis is a phenomenon in which the allele of one gene affects the phenotypic
+
+expression of alleles in another gene.
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

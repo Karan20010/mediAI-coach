@@ -1,0 +1,15 @@
+Influenza vaccination is administered either by injection (inactivated [killed] vaccine) or nasal
+spray (live attenuated vaccine). Each seasonal influenza vaccine contains antigens (or
+attenuated virions) from 3 or 4 influenza A and B virus strains. Antigens from multiple influenza
+types are included in the vaccine because antibodies against 1 strain confer limited or no
+protection against the others. Annual vaccination is recommended due to waning
+effectiveness over time and because circulating strains of influenza change from year to year.
+All individuals age >6 months should be immunized, especially health care workers and those
+at risk of serious complications such as the elderly, patients with chronic illness (eg, chronic
+obstructive pulmonary disease), and immunocompromised individuals.
+
+Inactivated versions of the influenza vaccine stimulate the formation of neutralizing
+antibodies against the hemagglutinin antigen of included strains. Subsequent exposure to
+a strain of influenza included in the vaccine will not result in infection because the antibodies
+bind to hemagglutinin, thereby preventing hemagglutinin from attaching to the sialic acid
+receptor on host respiratory epithelial cells (preventing viral entry).

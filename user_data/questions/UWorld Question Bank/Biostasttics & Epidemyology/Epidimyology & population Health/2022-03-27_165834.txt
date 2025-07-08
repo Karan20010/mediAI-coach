@@ -1,0 +1,33 @@
+Question Id: 19511
+
+— Item 12 of 29 mY wax <q = i @ a) bo 4 33
+
+e r
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+The absolute risk reduction (ARR) describes the efficacy of a treatment (eg, Drug A)
+compared to a control group (eg, placebo); it is the difference in the risk (or rate) of a negative
+event (eg, death) between treatment and control groups:
+
+ARR = (RisKenio ~ RiSKyesinen)
+
+ARR expressed as a percentage describes the number of negative events (eg, deaths)
+prevented in 100 patients. For example, an ARR of 0.05 indicates that 5 of 100 patients
+treated with a treatment (eg, Drug A) would be prevented from developing a negative event.
+Therefore, to prevent 1 patient from developing a negative event, it would be necessary to
+treat 100 /5 = 1/0.05 = 20 patients. This is the number needed to treat (NNT).
+
+NNT is the number of patients who need to be treated with a treatment (eg, Drug A) to prevent
+
+1 additional negative event (eg, death) compared to a control group (eg, placebo); NNT is
+the inverse of the ARR:
+
+NNT =1/ARR
+
+A lower NNT indicates more effective treatments because fewer patients would need to be
+treated to prevent 1 additional negative outcome. NNTs can be used to compare the
+effectiveness of different treatments within a single study or between similar studies (eg,
+
+Block Time Elapse
+
+Tutor End Block

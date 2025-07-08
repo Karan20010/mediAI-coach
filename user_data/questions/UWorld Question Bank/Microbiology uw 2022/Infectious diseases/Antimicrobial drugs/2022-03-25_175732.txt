@@ -1,0 +1,12 @@
+(Choices A, B, and E) Mutations in viral DNA polymerase can lead to acyclovir resistance,
+but differences in TK are the best explanation for the observed results. Drug degradation rate
+and viral protease activity are not responsible for differences in viral susceptibility to acyclovir.
+
+(Choice D) TK is an enzyme produced in infected cells, but it is not present in the capsid.
+
+Educational objective:
+
+Monophosphorylation of acyclovir by a viral thymidine kinase is the first (and rate-limiting) step
+in conversion of acyclovir to its active triphosphate form. Acyclovir and related drugs (eg,
+famciclovir, valaciclovir) are more effective against herpes simplex virus and varicella zoster
+virus than cytomegalovirus and Epstein-Barr virus.

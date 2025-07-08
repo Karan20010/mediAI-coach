@@ -1,0 +1,36 @@
+Question Id: 15279
+
+— Item 21 of 40 mY wax <q Se ” @ al Lo) id lA)
+
+(4) r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+HER2 is an epidermal growth factor receptor overexpressed by aggressive breast cancers.
+Treatment with a monoclonal antibody (eg, trastuzumab) that targets the HER2 surface
+receptor often results in tumor regression. Although antibody binding can trigger cancer cell
+death through a variety of mechanisms (eg, receptor downregulation, complement deposition),
+much of the response is due to antibody-dependent cellular cytotoxicity (ADCC).
+
+ADCC classically involves the following:
+1. Anaturally occurring or monoclonal IgG binds to a complementary surface antigen on a
+host or foreign cell.
+2. A patrolling natural killer (NK) cell binds the Fe portion of the attached IgG using CD16.
+3. Binding triggers the NK cell to release its granules, which contain perforin and
+granzymes (proteases) that induce apoptosis/osmotic lysis of the antibody-bound cell.
+
+Although NK cells are derived from the same lymphocyte lineage as B- and T-cells, they are
+considered part of the innate immune system because they do not engage with major
+histocompatibility complexes (MHCs) to differentiate self from nonself. Unlike cytotoxic T-cells,
+NK cells can often identify neoplasms that have downregulated surface expression of MHC-I
+
+molecules.
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

@@ -1,0 +1,13 @@
+(Choice B) Antibodies against HIV surface glycoproteins (eg, gp120) help neutralize
+circulating virus and reduce viral load. However, HIV surface glycoproteins display a high
+degree of antigenic variation, which prevents the formation of a completely effective antibody
+response.
+
+(Choices C and E) Patients with HIV develop immunosuppression primarily due to
+impairments in the cell-mediated immune response. Although the humoral immune response
+is also impaired, patients are able to generate anti-HIV antibodies that partially neutralize the
+virus. It is very rare that a patient with HIV will be too immunodeficient to seroconvert.
+
+(Choice D) Acute retroviral syndrome is marked by an extremely high rate of viral replication.
+Although antibodies eventually form, the response is delayed because the humoral immune
+response takes several weeks to fully develon.

@@ -1,0 +1,6 @@
+Educational objective:
+Escherichia coli is the most common cause of urinary tract infections. The primary virulence
+
+factor of uropathogenic E coli are P fimbriae (pili) which allow the bacteria to adhere to
+
+uroepithelial cells and infect the bladder, ureters, and kidneys.

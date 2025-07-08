@@ -1,0 +1,10 @@
+(Choice B) Placebo effect refers to patients' expectations affecting an outcome. However, in
+this case, the control group is taking neither HRT nor a placebo medication.
+
+(Choices C and D) Given that the RR obtained in the first study was similar to the one
+obtained in the meta-analysis (1.32 versus 1.30), it is unlikely that design flaws (eg, poor
+blinding, researcher expectancy) were present in the study.
+
+Educational objective:
+A study's power increases as its sample size increases. Therefore, the larger the sample, the
+greater the ability of a study to detect a difference when one truly exists.

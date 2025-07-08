@@ -1,0 +1,7 @@
+Aminoglycosides interfere with the aminoacyl binding site on the 30S ribosomal subunit.
+Binding of aminoglycoside causes the cell to misread mRNA and, as a result, it is unable to
+perform protein synthesis. An important mechanism of resistance to aminoglycosides is the
+methylation of the aminoglycoside-binding portion of the ribosome, which inhibits the ability of
+aminoglycosides to interfere with protein translation. Other common resistance mechanisms
+are the production of enzymes that inactivate the drug by altering its chemical structure or the
+production of an efflux pump that decreases the drug's intracellular concentration.

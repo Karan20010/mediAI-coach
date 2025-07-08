@@ -1,0 +1,13 @@
+(Choices C, D, and E) Following influenza attachment and endocytosis, the viral bilayer
+envelope fuses with the endosome membrane, which liberates the nucleocapsid protein
+(bound to the RNA genome), viral RNA-dependent RNA polymerase, and viral MRNA
+endonuclease into the cytoplasm. These travel to the nucleus to initiate viral replication.
+Although mutations to these proteins could affect viral replication, they would be unlikely to
+alter tissue tropism because they are not on the surface of the virus and, therefore, do not
+mediate viral attachment.
+
+Educational objective:
+
+The tissue tropism of viruses is primarily mediated by viral surface glycoproteins that bind to
+specific host cell receptors. Mutations to viral surface glycoproteins can alter tissue tropism
+and cause noninfective viruses to become infectious.

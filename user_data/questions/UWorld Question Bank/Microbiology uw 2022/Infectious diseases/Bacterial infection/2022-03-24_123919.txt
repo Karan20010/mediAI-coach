@@ -1,0 +1,18 @@
+This patient most likely has typhoid fever, an invasive Sa/monella infection. Salmonella
+species are gram-negative, non-lactose-fermenting, motile enteric rods divided into
+nontyphoidal and typhoidal strains. Both strains penetrate enterocytes, where they travel in
+vacuoles from the apical to the basolateral end of the cell and invade the lamina propria.
+However, the pathogenesis then diverges, as follows:
+
+¢ Nontyphoidal strains (eg, S Enteritidis) are phagocytosed by neutrophils and macrophages
+in the lamina propria and induce a massive inflammatory response with neutrophilic
+infiltration. This cytokine-mediated response causes gastroenteritis (eg, watery diarrhea,
+abdominal pain, fever), which usually self-resolves, as in this patient's prior history.
+
+In contrast, typhoidal strains contain specialized virulence factors (eg, Vi capsular
+antigen) that inhibit neutrophil recruitment and phagocytosis, limiting the acute
+inflammatory response that helps contain nontyphoidal species. It also inhibits
+macrophages from generating an oxidative burst to destroy the bacteria, allowing the
+pathogen to undergo extensive, unchecked intraphagocytic replication and
+dissemination through the lymphatic and reticuloendothelial system. This results in
+typhoid fever, as seen in this patient.

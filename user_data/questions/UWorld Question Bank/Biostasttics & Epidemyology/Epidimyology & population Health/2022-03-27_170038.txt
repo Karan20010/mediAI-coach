@@ -1,0 +1,13 @@
+(Choice D) 0.80 is the test's specificity. Specificity is equal to TN / (TN + FP) and describes
+the proportion of individuals who do not have the disease for which the test result is negative.
+It is an intrinsic measure of the test's ability to correctly identify individuals without the disease,
+but by itself, it does not provide enough information to interpret a negative test result ina
+particular individual.
+
+Educational objective:
+
+Negative predictive value (NPV) is the probability that an individual does not have a disease
+given a negative test result. It is equal to the number of individuals who do not have the
+disease and who have a negative test result (ie, true negatives [TN]) divided by the total
+number of individuals with a negative test result (TN + false negatives [FN]): NPV = TN/(TN +
+FN).

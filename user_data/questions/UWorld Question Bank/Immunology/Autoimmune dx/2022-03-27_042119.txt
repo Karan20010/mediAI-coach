@@ -1,0 +1,5 @@
+Educational objective:
+Serum sickness is a type III hypersensitivity reaction to nonhuman proteins characterized by
+
+vasculitis resulting from tissue deposition of circulating immune complexes. Clinical findings
+include fever, pruritic skin rash, arthralgias, and low serum C3 and C4 complement levels.

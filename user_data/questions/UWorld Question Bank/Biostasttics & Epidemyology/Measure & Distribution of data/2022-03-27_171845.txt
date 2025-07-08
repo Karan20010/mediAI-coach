@@ -1,0 +1,33 @@
+= ltem6or10 mY war <q = i @ a F 33
+
+i Le c
+Question Id: 1183 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+An outlier is defined as an extreme and unusual value observed in a dataset. It may be the
+
+a result of a recording error, a measurement error, or a natural phenomenon. In this case, the
+
+value of 26 mm Hg is an outlier as all the other values lie between 10 and 12 mm Hg. An
+outlier can affect measures of central tendency (mean, median, mode) as well as measures of
+dispersion (standard deviation, variance).
+
+This patient had 20 initial measurements that were all between 10 and 12 mm Hg. Although it
+is not required to answer this question correctly, a numerical example can help to explain the
+effect of an outlier such as 26 mm Hg. Assume that the patient's 20 initial measurements
+were: 9 measurements of 10 mm Hg, 6 measurements of 11 mm Hg, and 5 measurements of
+12 mm Hg. The mode is the most frequently observed data point, so the mode for this initial
+dataset is 10 mm Hg (because this value is observed 9 times whereas the other 2 values are
+observed 6 times and 5 times). If the next measurement is 26 mm Hg, the mode would remain
+10 mm Hg because this would still be the most commonly observed value. Therefore, the
+mode would remain unchanged. The mode tends to be resistant to outliers because outliers
+are not likely to affect the most frequently observed value in a dataset.
+
+(Choice A) The mean (or average) can be quite sensitive to outliers, especially in the case of
+
+small datasets and extreme outliers. For instance, the mean of the 20 initial measurements is
+
+Block Time Elapse
+
+Tutor oe
+
+Suspend

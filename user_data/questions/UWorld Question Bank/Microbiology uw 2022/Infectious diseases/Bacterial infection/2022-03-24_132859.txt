@@ -1,0 +1,9 @@
+This infant with high fever, irritability, vomiting, and cerebrospinal fluid pleocytosis has
+meningitis. Empiric treatment with cefotaxime and vancomycin would cover the majority of
+likely pathogens in this age group including Streptococcus pneumoniae, Neisseria
+meningitidis, Haemophilus influenzae, group B streptococcus, and Escherichia coli. However,
+it would not cover Listeria monocytogenes, which has intrinsic resistance to third-
+generation cephalosporins (eg, cefotaxime, ceftriaxone) due to the presence of penicillin-
+binding proteins that have a low-affinity for this drug class. Coverage of Listeria requires
+the addition of ampicillin, a beta-lactam antibiotic with a specialized side-group that allows it
+to bind to and inactivate the penicillin bindina proteins of Listeria.

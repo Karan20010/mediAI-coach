@@ -1,0 +1,34 @@
+aa
+
+10
+at
+12
+13
+14
+15
+
+= ltem6of15 5 v Mark <q Se rc j @ él
+
+Question Id: 8425 Pars Next Full Screen Tutorial Lab Values
+Leptin is a protein hormone that plays an important role in regulating appetite and metabolism.
+It is produced primarily in adipocytes, and large fat cells produce more leptin than small ones.
+Serum leptin concentrations are highly correlated with body fat content.
+
+Leptin decreases food intake in the following important ways:
+
+1. Leptin decreases the production of neuropeptide Y, a potent appetite stimulant, in the
+arcuate nucleus of the hypothalamus.
+
+2. Leptin stimulates the production of proopiomelanocortin (POMC) in the arcuate nucleus.
+Alpha-melanocyte-stimulating hormone (alpha-MSH) is produced by cleavage of POMC
+and inhibits food intake.
+
+The knockout mouse described is homozygous for a mutation in the gene encoding the leptin
+receptor (db/db), resulting in ineffective leptin signaling. As a result, these mice become
+hyperphagic and profoundly obese. As leptin production is normal in these mice, leptin levels
+are elevated due to the increased lipocyte mass. In contrast, mice that are homozygous for a
+mutation resulting in impaired leptin production (ob/ob) also become hyperphagic and
+profoundly obese, but their leptin levels are low (Choice A).
+
+Human obesity resulting from mutations in the leptin receptor and the leptin gene has been
+

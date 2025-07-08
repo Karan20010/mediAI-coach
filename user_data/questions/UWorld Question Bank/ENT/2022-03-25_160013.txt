@@ -1,0 +1,21 @@
+; = = 2 = . V Mark one a 7 sO} all. a cot so Gia) &
+8 (Choice A) HIV is a retrovirus that contains SS(+) RNA. However, viral infectivity requires the
+= action of reverse transcriptase for integration into the host genome; purified RNA by itself
+at cannot cause infection. In addition, HIV is enveloped, unlike the particles isolated from this
+Qe patient.
+: (Choices B and C) Influenza Ais an orthomyxovirus that contains SS(—) RNA; similarly,
+16 respiratory syncytial virus is a paramyxovirus that contains SS(—) RNA. For these viruses to
+= replicate in a host cell, an RNA-dependent RNA polymerase must also gain entry into the host
+19 cell.
+20
+21 (Choice E) Rotavirus is a reovirus containing dsRNA. Its purified RNA is therefore incapable
+, of inducing viral protein synthesis in a host cell on its own (ie, it is non-infectious). For this
++ 24 virus to replicate in a host cell, a specific viral RNA polymerase present in the intact virion must
+= also gain entry into the host cell.
+= Educational objective:
+29 For a purified RNA molecule to induce viral protein synthesis in a host cell, it must be able to
+° act directly as mRNA using the host's intracellular machinery for translation. Therefore, in
++ 32 general, purified single-stranded positive-sense RNA can be infectious; single-stranded
+= negative sense or double-stranded RNA is not. Activate Windows
+
+End Block

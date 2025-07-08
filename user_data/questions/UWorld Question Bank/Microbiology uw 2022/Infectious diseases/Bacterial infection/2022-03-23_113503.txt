@@ -1,0 +1,17 @@
+Streptococcus pneumoniae is a gram-positive, lancet-shaped organism that grows in pairs
+(diplococci). It colonizes the nasopharynx and is a leading cause of community-acquired
+pneumonia, bacterial meningitis, sinusitis, otitis media, and sepsis.
+
+The major virulence factor of S pneumoniae is a thick polysaccharide capsule, which
+impedes phagocytosis and complement binding. Antibodies against the capsule form during
+infection and are protective against future infections with that strain. However, over 90
+capsular serotypes have been identified. Therefore, previous infection is rarely protective
+against future infection. Other S pneumoniae virulence factors include IgA protease
+(inactivates secretory IgA), adhesins (necessary for adhesion to epithelial cells), and
+pneumolysin (a cytotoxin that causes pores in cell membranes and cell lysis).
+
+Patients with HIV are at higher risk than the general population for S pneumoniae infection
+because HIV impairs opsonizing antibody production, phagocyte recruitment, and cytokine
+signaling, which are crucial for the control of encapsulated pathogens. Most patients with HIV
+should receive the pneumococcal vaccine, which contains polysaccharide antigens from the
+most common strains.

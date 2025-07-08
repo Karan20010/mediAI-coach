@@ -1,0 +1,17 @@
+The 2 most important factors in osteoclast differentiation are macrophage colony-stimulating
+factor (M-CSF) and receptor activator of nuclear factor kappa B ligand (RANK-L), which
+stimulate the development of mature, multinucleated osteoclasts. The interaction of RANK-L
+with RANK (receptor) is blocked by osteoprotegerin (OPG), which acts as a decoy receptor.
+By binding RANK-L, OPG reduces the differentiation and survival of osteoclasts, resulting in
+decreased bone resorption and increased bone density. Bone turnover is therefore regulated
+by the ratio of OPG to RANK-L; bone turnover increases when OPG is low and RANK-L is
+high.
+
+Estrogen maintains bone mass in premenopausal women by inducing the production of OPG
+by osteoblasts and stromal cells. It also decreases the expression of RANK on osteoclast
+precursors. By contrast, the loss of estrogen effect (eg, menopause, oophorectomy)
+increases the expression of RANK-L and decreases production of OPG (Choice E). The
+decreased OPG to RANK-L ratio leads to increased osteoclast activity and bone resorption.
+Denosumab is a monoclonal antibody used in the treatment of postmenopausal osteoporosis.
+It works in a manner similar to OPG by binding RANK-L and blocking its interaction with
+RANK.

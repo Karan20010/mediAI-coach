@@ -1,0 +1,17 @@
+This immunosuppressed patient has febrile neutropenia (absolute neutrophil count [ANC] of
+0.60 x 800 = 480/mm.:, likely in the setting of chemotherapy) and sepsis. With neutropenia
+(typically ANC <500/mms), there is increased susceptibility to infections with gram-negative
+organisms such as Pseudomonas aeruginosa. The dermatologic lesions in this patient are
+consistent with ecthyma gangrenosum (EG), which is strongly associated with P
+aeruginosa bacteremia.
+
+Perivascular bacterial invasion of arteries and veins in the dermis and subcutaneous tissue,
+with subsequent release of exotoxins destructive to human tissue, leads to characteristic skin
+patches exhibiting necrosis and ulceration as a result of insufficient blood flow. P
+aeruginosa virulence factors that may contribute to EG include exotoxin A (protein synthesis
+inhibition), elastase (degrades elastin - important for blood vessel destruction), phospholipase
+C (degrades cellular membranes), and pyocyanin (generates reactive oxygen species).
+
+Although gram-negative sepsis is sometimes associated with disseminated intravascular
+coagulation (DIC) and resultant purpuric skin lesions, DIC is unlikely given the normal platelet
+count and coagulation times (prothrombin and activated thromboplastin times).

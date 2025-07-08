@@ -1,0 +1,21 @@
+without treatment.
+
+(Choices A, B, E, and G) Glycolytic enzyme deficiencies (eg, aldolase A, enolase,
+phosphofructokinase, pyruvate kinase) generally present with hemolytic anemia because red
+blood cells rely completely on anaerobic glycolysis for energy production.
+
+(Choice D) Lactate dehydrogenase is present in most cells and catalyzes the conversion of
+pyruvate to lactate during anaerobic glycolysis. Deficiency can cause decreased exercise
+tolerance and muscle stiffness.
+
+(Choice F) Pyruvate carboxylase, one of the gluconeogenesis pathway enzymes in the
+mitochondria, catalyzes the conversion of pyruvate to oxaloacetate. Deficiency of pyruvate
+carboxylase causes lactic acidosis and fasting hypoglycemia.
+
+Educational objective:
+Insulin release by pancreatic beta cells is stimulated by increased glucose metabolism and
+ATP production. Glucokinase functions as a glucose sensor in pancreatic beta cells by
+controlling the rate of glucose entry into the glycolytic pathway. Mutations in the glucokinase
+
+gene lead to a state in which higher glucose levels are required to stimulate insulin secretion
+and are a cause of maturity-onset diabetes of the young.

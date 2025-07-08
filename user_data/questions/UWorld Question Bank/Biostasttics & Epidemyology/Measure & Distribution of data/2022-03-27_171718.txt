@@ -1,0 +1,7 @@
+Educational objective:
+Relative risk reduction (RRR) measures how much a treatment reduces the risk of an
+unfavorable outcome. Two methods to calculate it are:
+
+@ RRR & (RiSKesntar — RiSKeeatnent) / RISKconti
+
+e¢ RRR = 1 - relative risk

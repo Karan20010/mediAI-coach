@@ -1,0 +1,6 @@
+Educational objective:
+
+Haemophilus influenzae is a "blood-loving" organism that requires X (hematin) and V (NAD+)
+factors for growth. This can be accomplished by growing H influenzae in the presence of
+Staphylococcus aureus and demonstrating the "satellite phenomenon," whereby H influenzae
+grow only near the B-hemolytic S aureus colonies that produce the needed X and V factors.

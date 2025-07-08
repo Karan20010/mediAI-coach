@@ -1,0 +1,34 @@
+Mechanism of action of HIV antiretroviral medications
+
+Class Example(s) Mechanism of action
+Neat Tenofovir, emtricitabine, lamivudine Inhibits HIV DNA synthesis from RNA template by terminating DNA chain
+abacavir, zidovudine elongation
+* NRTI: Competitive nucleoside/nucleotide RT inhibitor
+NNRTI Efavirenz, nevirapine « NNRTI: Allosteric RT inhibitor
+Atazanavir, darunavir, indinavir, A
+PI , Inhibits HIV polyprotein cleavage
+
+ritonavir
+
+Integrase inhibitor
+
+Dolutegravir, raltegravir
+
+Inhibits HIV DNA integration into host genome
+
+Fusion inhibitor
+
+Enfuvirtide
+
+Inhibits HIV fusion with target cell membrane by binding to HIV gp41
+
+CCRS antagonist
+
+Maraviroc
+
+Inhibits HIV entry by blocking the HIV gp120 allosteric interaction with
+CCRS (tropism testing required)
+
+CCR = chemokine (C-C motif) receptor 5; NNRTI = non-nucleoside reverse transcriptase inhibitor; NRTI = nucleoside/nucleotide reverse transcriptase
+inhibitor; Pl = protease inhibitor, RT = reverse transcriptase.
+

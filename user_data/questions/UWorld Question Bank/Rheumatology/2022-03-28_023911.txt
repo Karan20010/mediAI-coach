@@ -1,0 +1,36 @@
+Question Id: 1558
+
+— Item 12 of 40 mY wax <q Se i @ al Lo) id lA)
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+The sarcoplasmic reticulum (SR) is a modified endoplasmic reticulum within skeletal muscle
+cells. The SR forms a network of tubules with terminal cisterns that are in close contact with
+the T tubules (cytoplasmic membrane invaginations), allowing the membrane depolarization
+signal to reach the SR. The Ca-ATPase pump in the SR membrane actively sequesters
+calcium to keep intracellular concentrations low. Cell membrane depolarization causes
+calcium release from the SR into the cytoplasm via the SR ryanodine receptor.
+
+Actin filaments, troponin complex (troponins C, T, and |), and tropomyosin form the thin
+filaments of muscle fibers. In the resting state, tropomyosin covers the myosin binding sites
+on the actin filaments. On release from the SR, calcium binds to troponin C on the thin
+filaments (Choices A and C). This induces a conformation change in the troponin complex,
+causing it to displace tropomyosin and expose the myosin binding sites on the actin filaments.
+
+Myosin makes up the thick filaments of skeletal muscle. ATP is bound by the myosin head and
+cleaved to form ADP and inorganic phosphate ion, which are retained at the myosin head.
+When the myosin head binds to an actin filament, a conformational change causes the myosin
+to pull the actin filament, leading to muscle contraction and ADP release. Anew ATP molecule
+then is bound to the myosin head, causing release of the actin filament. The cycle then
+repeats until calcium is displaced from troponin C and the myosin binding sites are again
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

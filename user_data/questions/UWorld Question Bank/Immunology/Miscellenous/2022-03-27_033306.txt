@@ -1,0 +1,53 @@
+— Item 1 of 20 -
+= a V7 Mark 4 >
+
+ra a
+
+i L4
+Question Id: 17447 Praras Full Screen Tutorial__—_Lab Values
+
+a segment of chromosome q11.2). Failed development of the thymus results in T ce
+deficiency, which would be evident by a reduction in CD3- cells on flow cytometry.
+
+(Choice B) CD40 ligand (CD40L) is expressed on activated T helper cells and interacts with
+CD40 on B cells to promote immunoglobulin class-switching. Impaired CD40L expression can
+result in hyperimmunoglobulin M syndrome (ie, high IgM levels and low/absent circulating IgG,
+IgA, and IgE). Although this patient's mutation impairs activation of T cells, his CD4- T cells
+
+would still be capable of expressing CD40L upon activation.
+
+(Choice C) Maturation of pro-B cells into pre-B cells with resulting expression of B cell—
+specific surface markers (eg, CD19, CD40) is dependent on signal transduction by Bruton
+tyrosine kinases. A mutation in the BTK gene causes X-linked agammaglobulinemia, which is
+characterized by hypogammaglobulinemia and recurrent infections after maternal IgG is
+depleted (~3 months of age). Flow cytometry would show a marked decrease in CD19- cells.
+
+Educational objective:
+
+Major histocompatibility complex (MHC) class II molecules are encoded by the HLA-DP, HLA-
+DQ, and HLA-DR genes and present extracellular antigens processed in acidified lysosomes
+by antigen-presenting cells (eg, B cells, macrophages). Absence of MHC class II expression
+impairs activation of B and T cells, resulting in a form of severe combined immunodeficiency.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

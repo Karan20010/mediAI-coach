@@ -1,0 +1,12 @@
+Thiamine (vitamin B,) participates in glucose metabolism and is a cofactor for the following
+enzymes:
+¢ Pyruvate dehydrogenase, which converts pyruvate (glycolysis end product) into acetyl-
+CoA, which then enters the citric acid cycle
+e Alpha-ketoglutarate dehydrogenase, an enzyme of the citric acid cycle
+¢ Branched-chain alpha-ketoacid dehydrogenase, which is essential for the catabolism of
+branched-chain amino acids (eg, leucine, isoleucine, valine)
+
+¢ Transketolase, an enzyme of the pentose phosphate pathway that helps convert ribulose-
+5-phosphate (derived from glucose) to glycolysis intermediates (eg, glyceraldehyde-3-
+
+phosphate)

@@ -1,0 +1,39 @@
+Question Id: 1477
+
+— Item 25 of 40 mY wax 41 pe i (©) al @ 4 QA
+
+(4) r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+DNA can be damaged by a number of agents, including chemicals, ultraviolet radiation, and
+ionizing radiation. Ultraviolet rays damage DNA primarily through formation of abnormal
+covalent bonds between adjacent thymine or cytosine residues (pyrimidine dimers). The
+presence of pyrimidine dimers interferes with base recognition during transcription and
+replication, and DNA mutations can result if the damage is not repaired.
+
+Pyrimidine dimers are removed by nucleotide excision repair. In this process, a specific
+endonuclease complex detects abnormalities in the DNA structure caused by the formation of
+DNA photoproducts. The endonuclease complex then nicks the damaged strand on both
+sides of the pyrimidine dimer, and the defective region is excised. DNA polymerase
+synthesizes new DNA in the place of the damaged DNA, and DNA ligase seals the final
+remaining nick.
+
+Mutations that impair the components involved in nucleotide excision repair cause xeroderma
+pigmentosum, a condition characterized by severe photosensitivity and the development of
+
+skin cancers at a young age.
+
+(Choice A) Ultraviolet radiation causes the formation of pyrimidine-pyrimidine dimers, not
+
+purine-purine dimers.
+
+(Choice B) Exposure to ionizing radiation (x-rays and gamma rays) causes double-strand
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

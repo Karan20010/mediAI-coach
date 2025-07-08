@@ -1,0 +1,30 @@
+1 = tem 22 of 29 <q Se rq Al fcc] Pr @ A
+2 “Question Id: 19444 LS 4 Mark Pars Next ieee ® Lab a Notes Gata RecesGr  i@aem &.
+= compared to women receiving placebo (ie, nonexposed) is 0.80. Because this RR is <1.0, the
+5 exposure decreases the risk of disease. The RR of 0.80 indicates that adding TXA decreases
+: the risk of PPH by 20% (ie, 1 - 0.80 = 0.20) (Choices A and B).
+: (Choice D) In this study, 0.80 represents the relative risk (not absolute risk) of PPH among
+to women receiving TXA compared to those receiving placebo. For instance, the actual risk of
+= PPH could be 1.6% with TXA compared to 2.0% with placebo, producing the RR of 0.80 (ie,
+13 RR = 1.6 / 2.0 = 0.80).
+14
+15 (Choice E) The reported Cl for RR in this study is 0.66-0.96. It excludes the null value (ie, RR
+: = 1.0); therefore, adding TXA has a statistically significant effect on the risk of PPH.
+. Educational objective:
+20 Relative risk is the ratio of the probability of an event (eg, disease outcome) occurring in the
+
+exposed group (eg, treatment group) versus the probability of the event occurring in the
+
++ 23 unexposed group (eg, control group).
+
+24
+25 References
+. ¢ Measures of effect in epidemiological research.
+28
+29 Biostatistics Biostatistics & Epidemiology Statistical vs. clinical significance Activate Windows
+
+Block Time Elapse
+
+Tutor
+
+End Block

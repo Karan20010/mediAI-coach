@@ -1,0 +1,14 @@
+Chagas disease is divided into 2 phases:
+
+The acute phase (8-12 weeks after transmission) is characterized by circulating
+trypomastigotes that are detectable on blood microscopy. Most patients are
+asymptomatic, but a minority develop nonspecific symptoms (eg, fever, malaise, anorexia)
+and inflammation/swelling at the site of inoculation (eg, eye swelling following conjunctival
+inoculation).
+
+The chronic phase begins when the immune system eliminates circulating parasitemia,
+leading to resolution of acute symptoms. Patients subsequently develop a prolonged
+asymptomatic phase ("indeterminate form"), whereby serology is positive for T cruzi, but
+there are no symptoms, signs, detectable parasitemia, or indications of end-organ
+damage. After 1-3 decades, a minority of those with asymptomatic chronic infection
+develop end-organ disease of the heart or gastrointestinal system.

@@ -1,0 +1,11 @@
+Malaria is a mosquito-borne, protozoal infection caused by Plasmodium species.
+Transmission occurs when an infected female Anopheles mosquito injects Plasmodium
+sporozoites into subcutaneous capillaries during feeding. Within hours, sporozoites attach to
+and enter hepatocytes and undergo asexual reproduction. This results in the production of
+tens of thousands of daughter cells (merozoites) that eventually rupture the hepatocyte and
+spread to erythrocytes, where another asexual reproduction cycle occurs.
+
+Manifestations of malaria arise due to erythrocyte rupture and include fever, flu-like
+symptoms (eg, myalgia, fatigue, headache, chills), anemia, and indirect bilirubinemia
+(hepatosplenomegaly is also common). The diagnosis is confirmed when trophozoites
+(intraerythrocytic, ringed inclusions) are seen on peripheral blood smear using Giemsa stain.

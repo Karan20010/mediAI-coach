@@ -1,0 +1,19 @@
+Vibrio cholerae is an oxidase-positive, gram-negative, comma-shaped organism that requires
+salt for growth and exists naturally in aquatic environments. Transmission occurs due to
+ingestion of contaminated food or water. Sporadic cases are often caused by the consumption
+of contaminated shellfish; outbreaks may occur in areas where safe water, sanitation, and
+health care services are limited.
+
+Pathogens typically cause diarrhea by invading/damaging the intestinal epithelium or releasing
+enterotoxins. V cholerae is a noninvasive organism. It clumps together in colonies along the
+surface of the small intestine and causes diarrhea via the elaboration of cholera toxin (related
+to enterotoxigenic Escherichia coli heat-labile toxin). This enterotoxin enters intestinal
+epithelial cells and activates adenylate cyclase, leading to increased chloride efflux, reduced
+sodium reabsorption, and the subsequent movement of water from the enterocyte to the
+gastrointestinal lumen.
+
+Patients typically present with high-volume, watery diarrhea that can cause dehydration and
+death within 12 hours. Because the pathogen is noninvasive and the toxin does not cause cell
+death, stool microscopy generally reveals no leukocytes or erythrocytes. However, flecks of
+mucus are often seen (rice-water stool) due to the activation of goblet cells. Aggressive fluid
+resuscitation is the mainstay of therapy.

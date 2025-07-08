@@ -1,0 +1,38 @@
+os oe
+
+Block Time Elapsed: 00:01: %
+
+Tutor
+
+Item 6 of 32 <j Se al
+
+Question 865 Previous Next Tutorial Lab Values Text Zoom
+(Choice A) Basal cell carcinoma usually appears on the face as a nodular, flesh colored
+papule. Although scaly trunk lesions can occasionally occur, this tumor is derived from basal
+epithelial cells and would not stain positive for melanocyte markers.
+
+(Choice C) Paget disease of the breast is a rare form of breast cancer that occurs due to
+intraductal spread of an underlying breast malignancy to the nipple skin. Although this can
+cause an itchy, ulcerative nipple lesion, biopsy would show malignant, intraepithelial
+adenocarcinoma cells (ie, Paget cells) within the epidermis that would not stain positive for
+melanocyte markers.
+
+(Choice D) Seborrheic keratosis is a benign skin lesion that is well demarcated (appears
+"stuck on") with a verrucous surface. These lesions are derived from immature keratinocytes
+and would not stain positive for multiple melanin markers.
+
+(Choice E) Squamous cell carcinoma is most common on the head and neck but can also
+occasionally arise on the trunk. It generally appears as a hyperkeratotic nodule, papule, or
+plaque. Because it is derived from epithelial cells (not melanocytes), multiple melanin markers
+would not be positive.
+
+Educational objective:
+
+Feedback Suspend
+
+Settings
+
+()
+
+End Block
+

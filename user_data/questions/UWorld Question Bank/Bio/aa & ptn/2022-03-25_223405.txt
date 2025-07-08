@@ -1,0 +1,14 @@
+This patient likely has vitamin C deficiency (scurvy). In the United States, vitamin C
+deficiency is seen primarily among malnourished populations, including patients with alcohol
+use disorder and the elderly. The symptoms of scurvy reflect impaired formation of collagen
+and include gingival swelling/bleeding, petechiae, ecchymoses, and poor wound healing.
+Perifollicular hemorrhages and coiled (corkscrew) hairs are also commonly seen.
+
+Collagen synthesis is a complex process that begins with the transcription of collagen genes in
+the nucleus (Choice E). Collagen a-chains are then synthesized by rough endoplasmic
+reticulum (RER)-bound ribosomes and directed into the cisternae of the RER. Within the RER,
+specific proline and lysine residues are post-translationally hydroxylated to hydroxyproline
+and hydroxylysine by prolyl hydroxylase and lysyl hydroxylase, respectively. Vitamin C is a
+required cofactor for this post-translational modification. Defective hydroxylation of these
+residues severely diminishes the amount of collagen secreted by fibroblasts and impairs triple
+helix stability and covalent crosslink formation.

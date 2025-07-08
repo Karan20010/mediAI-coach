@@ -1,0 +1,8 @@
+Michaelis-Menten plot
+
+Ku
+Ky = [S] at %Vmax
+
+[s]
+
+©uWorld

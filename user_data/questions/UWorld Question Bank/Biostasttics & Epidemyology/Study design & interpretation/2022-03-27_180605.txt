@@ -1,0 +1,46 @@
+Question Id: 1275
+
+— Item 24 of 29 = y Mark <I e a i @ al
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+(Choice B) Lead-time bias refers to the apparent prolongation of survival in patients who
+undergo a screening test that allows for earlier diagnosis but does not actually improve
+prognosis. For example, a patient with pancreatic cancer presents with metastases at age 58
+for which he receives treatment, but he dies at age 60. Had the same patient been screened
+and diagnosed with pancreatic cancer at age 55, he would have received earlier treatment, but
+the disease could have progressed such that he would have still died at age 60 (ie, age at
+death would not have been affected by screening).
+
+(Choice D) Recall bias results from inaccurate recall of past exposure by people in a study; it
+applies most often to retrospective designs such as case-control studies. People who have
+experienced an adverse outcome are more likely to recall previous risk factors than people
+who have not experienced an adverse outcome.
+
+(Choice E) Selection bias can occur with inappropriate (ie, nonrandom) selection methods or
+through selective attrition of the study participants. For example, many patients drop from a
+clinical trial due to the severity of side effects associated with the treatment. This type of
+attrition is selective (ie, different attrition rates between groups) and reduces the
+generalizability of the study.
+
+Educational objective:
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

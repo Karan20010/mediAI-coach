@@ -1,0 +1,35 @@
+1 — Item 29 of 29 << i Pu al [=] ‘J Qala
+2 ‘Question id: 8519 . 4 Mark Previous Next Full Screen 2 Lab a Notes Calculator Reverse Color __Text Zoom
+3
+: A study is conducted to assess the relationship between smoking status and forced expiratory
+6 volume in one second (FEV,). Subjects are randomly selected and categorized based on
+z smoking status. Group A consists of 200 nonsmokers, group B consists of 200 light smokers
+9 (1-7 cigarettes per day), group C consists of 200 moderate smokers (8-22 cigarettes per day),
+tt and group D consists of 200 heavy smokers (23+ cigarettes per day). FEV, is quantitatively
+a measured in all participants using properly calibrated office spirometers. Which of the
+= following is the most appropriate statistical method to compare the mean FEV, results among
+is o)
+is all 4 groups?
+17 . .
+48 © A. Analysis of variance
+19 .
+20 ©) B. Chi-square test
+21 .
+©) C. Meta-analysis
+23 = toa :
+oa ©) D. Multiple logistic regression
+* |) E. Pearson correlation coefficient
+26
+27
+8 () F. Two-sample t-test
+Activate Windows
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

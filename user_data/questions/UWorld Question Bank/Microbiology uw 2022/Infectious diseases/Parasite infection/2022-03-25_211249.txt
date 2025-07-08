@@ -1,0 +1,14 @@
+Schistosomiasis is a parasitic blood fluke infection endemic to rural areas of sub-Saharan
+Africa, Asia, and South America. Transmission occurs when humans bathe in freshwater
+ponds, lakes, or rivers contaminated with cercariae from infected snails. Cercariae penetrate
+the dermis and travel to the liver, where they evolve into adult worms and subsequently
+migrate into the venules in the walls of the intestines, colon, or bladder.
+
+Because adult schistosomes absorb host proteins and display host antigens on their surface,
+they are relatively protected from immune recognition and generally do not cause symptoms.
+However, adult worms shed eggs into the circulation that travel through host tissues and
+induce eosinophilic granulomatous inflammation and fibrosis (as seen in the image
+above). This can lead to indolent symptoms in the liver, spleen, bowel wall, and genitourinary
+system. One characteristic manifestation of genitourinary schistosomiasis is the development
+of hematuria at the end of voiding ("terminal hematuria") due to bladder wall inflammation
+and ulcers; urinary calcifications, obstruction, and bladder cancer may eventually develop.

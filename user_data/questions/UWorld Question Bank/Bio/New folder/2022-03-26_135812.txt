@@ -1,0 +1,18 @@
+In healthy children and adults, the predominant hemoglobin is hemoglobin A (HbA), which
+contains a pair of alpha and beta globulins. However, small quantities of other hemoglobin
+types are also present; these include hemoglobin A2 (HbA2), which contains a pair of alpha
+and delta globulins, and hemoglobin F (HbF), which contains a pair of alpha and gamma
+globulins.
+
+In homozygous sickle cell disease (sickle cell anemia), there are point mutations in both
+beta globulin genes that substitute valine for glutamate at position 6. This generates a new
+type of hemoglobin called hemoglobin S (HbS), which is composed of a pair of alpha and a
+pair of beta sickle globulins. HbS polymerizes when deoxygenated, reducing erythrocyte
+deformability and promoting painful vasoocclusion and chronic hemolysis.
+
+Because patients with sickle cell anemia have mutations in both beta globulin genes, they are
+unable to produce HbA (Choices B, C, and D). However, forms of normal hemoglobin that
+do not contain beta globulin (eg, HbF, HbA2) are present at normal or mildly increased levels.
+Raising the concentration of these normal hemoglobins is particularly helpful because it dilutes
+HbS, preventing it from polymerizing. Therefore, hydroxyurea, which increases HbF
+production, is often administered to limit symptoms and complications of the disease.

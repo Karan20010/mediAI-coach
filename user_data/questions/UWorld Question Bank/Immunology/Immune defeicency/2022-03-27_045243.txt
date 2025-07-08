@@ -1,0 +1,6 @@
+Educational objective:
+
+Chronic granulomatous disease (CGD) is due to defective NADPH oxidase and is diagnosed
+by dihydrorhodamine testing, which measures neutrophil respiratory burst. When NADPH
+oxidase is stimulated, dihydrorhodamine is normally oxidized and fluoresces green (increased
+fluorescence intensity); it remains colorless (ie, no oxidation) in patients with CGD.

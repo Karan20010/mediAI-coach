@@ -1,0 +1,53 @@
+— Item 11 of 22 . y Mark <| e a i @ al
+
+L
+Question Id: 544 Praras Next FullScreen Tutorial__—_Lab Values
+
+This patient's recurrent infections, failure to thrive, and defective signaling between CD4 cells
+and B cells indicate hyper-lgM syndrome, a genetic disorder most often caused by mutations
+in CD40 ligand (CD40L).
+
+CD4OL is expressed on the surface of activated CD4 cells. It binds to CD40 on activated B-
+
+cells, which is required for B-cells to undergo class-switch recombination, allowing them to
+
+produce IgE, IgA, or IgG instead of IgM and IgD. Cytokines released by nearby CD4 T cells
+
+determine which isotype is produced by promoting specific splicing of the heavy-chain
+
+constant region. The heavy-chain variable region, which binds antigenic epitopes, is
+
+unaffected.
+
+Because patients with defects in CD40L are unable to generate significant immunoglobulins
+
+other than IgM, laboratory evaluation shows elevated IgM and absent or low IgE, IgA, and
+
+IgG. Common manifestations of hyper-IgM syndrome include the following:
+
+¢ Sinopulmonary infections (eg, pneumonia, otitis media) due to insufficient opsonizing
+
+IgG to help clear encapsulated bacteria (eg, Streptococcus pneumoniae, Haemophilus
+influenzae)
+
+¢ Chronic diarrhea (eg, Giardia lamblia) due to an absence of significant IgA at the mucosal
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

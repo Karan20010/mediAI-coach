@@ -1,0 +1,14 @@
+(Choice A) Alpha hemolysis (partial, green hemolysis when plated on blood agar) is a feature
+of viridans streptococci, a common cause of infective endocarditis. Staphylococci species are
+either beta-hemolytic (complete hemolysis) or gamma-hemolytic (no hemolysis). S
+epidermidis is gamma-hemolytic.
+
+(Choice B) S aureus and S haemolyticus can ferment mannitol, but S epidermidis cannot.
+
+(Choice E) Novobiocin is an antibiotic that can be applied to plated colonies to differentiate S
+Saprophyticus from other coagulase-negative Staphylococcus species: S saprophyticus is
+novobiocin-resistant whereas others, such as S epidermidis, are novobiocin-sensitive.
+
+(Choice F) S aureus produces a golden-yellow surface pigment, which accounts for its name
+(aureus means gold in Latin). S aureus is a common cause of infective endocarditis and
+osteomyelitis, particularly in intravenous drug users.

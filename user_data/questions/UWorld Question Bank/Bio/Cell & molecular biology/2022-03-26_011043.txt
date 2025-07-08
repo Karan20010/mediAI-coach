@@ -1,0 +1,38 @@
+The two primary modes of cell death are necrosis (which is induced by injury) and apoptosis
+(which is initiated by the host organism in response to cell damage, age-related atrophy, or
+specific stages of embryogenesis). Apoptosis is helpful in the elimination of cells that are no
+longer necessary and in the maintenance of a constant number of cells in rapidly growing
+tissues. Tumor cells, for example, die by apoptosis. The death of B and T lymphocytes and
+virally-infected cells also occurs through apoptosis. The remains of cells that die by this
+method are phagocytized by macrophages.
+
+2.
+
+The process of apoptosis involves the following steps:
+
+1. Initiation: Apoptosis is triggered by different stimuli and can occur through either the
+intrinsic, mitochondria-mediated pathway or the extrinsic, receptor-initiated pathway. Cells
+damaged by ultraviolet light, heat, hypoxia, toxins, or radiation display intrinsic apoptotic
+signals (eg, phosphatidylserine or thrombospondin) on their plasma membranes. Extrinsic
+apoptosis, in contrast, is induced by the tumor necrosis factor (TNF) when bound to tumor
+necrosis factor receptor 1 (TNFR71) or the Fas ligand when bound to cell surface receptor
+Fas.
+
+2. Control: Intrinsic apoptosis is mediated by a group of bcl-2 proteins. Some of the
+components of this system are pro-apoptotic (eg, Bak, Bax, and Bim proteins), while
+others are anti-apoptotic (eg, Bcl-x and Bcl-2 proteins). Apoptotic signals tip the balance
+between these two forces, resulting in changes of the inner mitochondrial membrane.
+These changes are responsible for the formation of the mitochondrial permeability
+transition (MPT) and the release of cytochrome c and other pro-apoptotic proteins into the
+cytoplasm, which then activate caspases. In extrinsic apoptosis, the binding of the death
+ligand and the death receptor allows for pro-caspase molecules to be brought into close
+proximity.
+
+3.
+
+3. Destruction: Both the intrinsic and extrinsic pathways converge at this step, resulting in
+caspase activation. Caspases are proteolytic enzymes that destroy cell components.
+They contain cysteine and are able to cleave aspartic acid residues (cysteine-aspartic-
+acid-proteases). The eleven caspases that have been identified are classified as either
+initiator or effector caspases. Initiator caspases activate the effector caspases, which then
+cleave the cellular proteins.

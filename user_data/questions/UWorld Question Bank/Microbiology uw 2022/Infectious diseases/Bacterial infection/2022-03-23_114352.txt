@@ -1,0 +1,39 @@
+1.
+This patient has high fever, cough, leukocytosis, and a right lung infiltrate indicating lobar
+pneumonia. Lobar pneumonia is most commonly caused by extracellular bacterial pathogens
+such as Haemophilus influenzae, Staphylococcus aureus, and Streptococcus
+
+pneumoniae (Choices A, D, and E). The immune response to extracellular organisms is
+primarily mediated by neutrophils early in infection and by the humoral antibody response (B
+lymphocytes, immunoglobulins, complement) as time goes on.
+
+In this case, components of the cell-mediated immune response were primarily involved in
+controlling the infection, suggesting that the pneumonia was most likely due to an intracellular
+pathogen such as Legionella pneumophila (a common cause of atypical community-
+acquired pneumonia). Intracellular pathogens are phagocytosed by macrophages but are
+initially resistant to destruction due to the presence of virulence factors that inhibit phagosome-
+lysosome fusion (eg, Legionella) or phagolysosome acidification (eg, Mycobacteria
+tuberculosis), or allow bacteria to escape from the phagolysosome (eg, Listeria
+monocytogenes).
+
+2.
+
+Legionella and other intracellular pathogens that initially replicate within the phagosome
+eventually undergo some degree of digestion by lysosomes, leading to the display of bacterial
+antigens on major histocompatibility complex (MHC) class || molecules. This stimulates naive
+CD4 T lymphocytes to differentiate into T-helper subtype 1 (Th1) cells. Th1 cells release
+interferon-gamma, which activates macrophages and allows them to form fully mature
+(acidified) phagolysosomes capable of efficiently killing the intracellular bacteria. Th1 cells
+also release interleukin-2, which activates and expands the population of naive T cells, Th1
+cells, and memory T cells.
+
+3.
+
+Class I MHC pathway Class ll MHC pathway
+
+Educational objective:
+
+Intracellular bacterial organisms such as Legionella pneumophila are primarily countered by
+the cell-mediated immune response. Intracellular pathogens that replicate within phagosomes
+(eg, Legionella, Mycobacterium tuberculosis) trigger activation and differentiation of T-helper
+subtype 1 cells with subsequent macrophage activation via interferon-gamma.

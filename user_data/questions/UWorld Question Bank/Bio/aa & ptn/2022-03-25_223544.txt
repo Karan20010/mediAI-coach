@@ -1,0 +1,13 @@
+This child likely has Ehlers-Danlos syndrome, a group of rare hereditary disorders
+characterized by defective collagen synthesis. The condition can be caused by a
+deficiency in procollagen peptidase, the enzyme that cleaves terminal propeptides from
+procollagen in the extracellular space. Impaired propeptide removal results in the formation of
+soluble collagen that does not properly crosslink. Consequently, patients often have joint
+laxity, hyperextensible skin, fragile tissue with easy bruising, and poor wound healing.
+
+Each collagen molecule consists of 3 polypeptide a-chains held together by hydrogen bonds,
+forming a triple helix. Collagen assumes this conformation because each of the a-chains has
+a simple, repetitive amino acid sequence represented as (Gly-X-Y),. The smallest amino acid,
+glycine (Gly), is necessary at every third position to ensure compact coiling of the helix. Many
+of the amino acids represented by X and Y are proline residues, which kink the polypeptide
+chain and enhance the rigidity of the helical structure due to their ring configuration.

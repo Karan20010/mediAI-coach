@@ -1,0 +1,55 @@
+CO OVA HARUN HE
+
++ 10
+at
+= 12
++ 13
+. 14
++ 15
++ 16
+- 17
++ 18
++ 19
++ 20
+* 21
+
++ 23
+- 24
++ 25
++ 26
++ 27
++ 28
++ 29
+= 30
+* 3
+
+— Item 22 of 31
+Question Id: 1379
+
+Block Time Elapsed: 00:
+Tutor
+
+Osmolarity (mOsm)
+
+ALMA
+
+Q Zoom In
+
+Intracellular fluid (ICF)
+
+Tutorial
+
+Extracellular fluid (ECF)
+———
+
+Fluid volume (L) 0
+
+Q Zoom Out & Reset
+
+G new | G2) existing
+
+My Notebook
+
+Lab Value:
+
+Suspend End Block

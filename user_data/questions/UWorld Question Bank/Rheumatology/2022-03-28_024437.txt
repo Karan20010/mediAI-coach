@@ -1,0 +1,76 @@
+CO OVA HARUN HE
+
+» 10
+.* il
+* 12
+» 13
+. 14
+» 15
+. 16
+. 17
+
+18
+* 20
+. 21
+* 22
+* 23
+« 24
+. 25
+* 26
+* 27
++ 28
+* 29
+* 30
+. 31
+
+— Item 19 of 40
+
+Question Id: 11776
+
+Tutorial
+
+Lab Value:
+
+tubercle
+
+rotation
+
+T
+p
+Rotator cuff muscles
+a
+Muscle Origin on scapula Attachment on humerus Function on arm Innervation
+$s
+Supraspinous Abduction
+Supraspinatus prasp! Superior aspect of greater tubercle a 0 Suprascapular nerve
+a fossa (primarily <15°)
+Posterolateral aspect of greater
+Infraspinatus | Infraspinous fossa P 9 External rotation Suprascapular nerve
+tubercle
+Posterolateral aspect of greater Adduction & external
+Teres minor Lateral border P 9 Axillary nerve
+
+Subscapularis
+
+Subscapular fossa
+
+Lesser tubercle
+
+Adduction & internal
+rotation
+
+Upper & lower subscapular
+nerve
+
+(4
+
+4
+
+G new | 9 existing FE] My Notebook
+
+»
+
+Block Time Elapsed: 00:
+Tutor
+
+Suspend End Block

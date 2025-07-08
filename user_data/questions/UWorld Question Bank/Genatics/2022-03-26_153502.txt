@@ -1,0 +1,72 @@
++B
+an
+
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+21
+= 22
+23
++ 24
+25
++ 26
+27
++ 28
+29
+= 30
+31
+
+Question Id: 1436
+
+= tem 10 of 40 5 v Mark <q Se r j @ él fcc]
+
+Previous Next utter Tutorial Lab Values Notes Calculator
+DNA replication occurs during the S phase (synthesis phase) of the cell cycle and is
+
+coordinated by the effects of multiple proteins. First, the origin of replication is identified and
+
+bound by a multi-subunit protein (the origin recognition complex), which locally dissociates
+
+double-stranded DNA (dsDNA) into single-stranded DNA (ssDNA). ssDNA-binding proteins
+
+then bind to and stabilize the ssDNA, preventing it from reannealing (Choice C).
+
+Helicase subsequently binds to ssDNA at the origin of replication, moves into the replication
+fork, and proceeds to separate and unwind the dsDNA. As DNA is unwound, superhelical
+tension is generated as supercoils are being formed. Topoisomerase relieves this tension by
+introducing transient single- or double-stranded nicks in the DNA. This enzyme is located
+ahead of helicase on the dsDNA segment of the replication fork (Choice A).
+
+(Choice D) Before DNA polymerase can begin synthesizing DNA, it requires an RNA primer
+made up of short RNA sequences base-paired to the parent DNA. This primer is synthesized
+by the enzyme primase (DNA-dependent RNA polymerase).
+
+(Choice E) DNA polymerase synthesizes new daughter strand DNA in the 5' to 3' direction.
+
+The leading strand is formed continuously, whereas the lagging strand is formed
+discontinuously, creating Okazaki fragments.
+
+Choice F) Okazaki fragments are ultimately bound together by the enzyme ligase.
+Block Time Elapse
+
+Tutor
+
+‘4
+
+Reverse Color
+
+A
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

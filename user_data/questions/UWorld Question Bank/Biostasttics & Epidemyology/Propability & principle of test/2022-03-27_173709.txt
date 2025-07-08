@@ -1,0 +1,52 @@
+41 ec en) rl
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+— Item 20 of 23
+= a V7 Mark
+
+Question Id: 1278
+A measurement tool should be precise and accurate to be useful in the clinical setting.
+Precision and accuracy are defined as follows:
+
+¢ Precision (reliability) is the ability of a test to reproduce identical or similar results with
+repeated measurements (bottom half of figure).
+
+¢ Accuracy (validity) is the ability of a test to measure what it is supposed to measure. For
+a new test to be accurate, its results should be equivalent to the results obtained with a
+"gold standard" (eg, best conventional test available) on the same individual (right half of
+figure).
+A precise test gives similar or very close results on repeat measurements. In this example,
+repeat measurements of the same sample yielded different results; therefore, the new test has
+
+low precision.
+
+(Choices A and E) To evaluate the accuracy of a new test, its results should be compared to
+those obtained with the gold standard test on the same individual. A test can be highly precise
+(ie, gives very similar results on repeat measurements) but inaccurate (ie, the measurements
+are all incorrect compared to the gold standard). A test that is highly imprecise is also highly
+inaccurate. In this case, as there were no test results obtained using the "gold standard", the
+
+accuracy/validity of the test cannot be determined.
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

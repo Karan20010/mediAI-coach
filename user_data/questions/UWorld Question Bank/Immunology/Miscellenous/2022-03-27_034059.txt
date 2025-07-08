@@ -1,0 +1,5 @@
+Educational objective:
+
+A radioimmunoassay uses specific antibodies and a fixed quantity of radiolabeled antigen to
+determine the amount of antigen present in an unknown sample. This is done by measuring
+the amount of radiolabeled antigen displaced from the antibodies in the system.

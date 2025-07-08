@@ -1,0 +1,17 @@
+A variety of hormone receptors are known to exert their intracellular effects via the
+phosphoinositol system. Examples include a,-adrenergic, M,; and M, cholinergic, V,
+(vasopressin), H, (histamine), oxytocin, angiotensin Il, TRH, and GnRH receptors. This signal
+transduction pathway proceeds through the following steps:
+
+1. Binding of a ligand to its cell surface receptor causes the exchange of GDP for GTP on
+the a-subunit of a G,-protein associated with the receptor. The activated a-subunit
+undergoes a conformational change and exposes a phospholipase C (PLC) activating
+site.
+
+2. After activation, PLC hydrolyzes phosphatidyl inositol bisphosphate (PIP.) into
+diacylglycerol (DAG) and inositol triphosphate (IP:).
+
+3. DAG is able to directly stimulate protein kinase C (PKC), but the major activator of PKC is
+increased intracellular Caz that occurs due to IP; mediated-release of intracellular Caz
+stores from the endoplasmic reticulum. PKC is the major effector molecule in this
+pathway; it directly modulates the activity of other proteins via phosphorylation.

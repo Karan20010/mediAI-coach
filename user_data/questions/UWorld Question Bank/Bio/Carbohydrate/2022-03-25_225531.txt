@@ -1,0 +1,10 @@
+Polyol pathway
+
+Glucose
+Sorbitol
+dehydrogenase
+ae Sorbitol TT ~ Fructose
+NADPH NADP* NAD* NADH
+Glycolysis
+
+Ouwond

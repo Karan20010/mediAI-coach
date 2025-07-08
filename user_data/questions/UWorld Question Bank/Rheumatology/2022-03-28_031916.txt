@@ -1,0 +1,7 @@
+Educational objective:
+
+The pathogenesis of rheumatoid arthritis involves early activation of CD4- T cells (especially
+Th1 and Th17 subsets) with release of cytokines such as tumor necrosis factor-alpha and IL-1
+that cause destruction of cartilage and bone. Monoclonal antibodies that inhibit tumor necrosis
+
+factor-alpha or IL-1 receptors can slow progression of the disease.

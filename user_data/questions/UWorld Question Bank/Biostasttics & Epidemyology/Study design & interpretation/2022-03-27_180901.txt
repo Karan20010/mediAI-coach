@@ -1,0 +1,7 @@
+Educational objective:
+
+A t-test is used to compare the difference between the means of 2 groups. Analysis of
+variance (ANOVA) compares the difference between the means of 2 or more groups. Results
+from a t-test and ANOVA test will be equivalent when comparing the difference between the
+
+means of 2 groups.

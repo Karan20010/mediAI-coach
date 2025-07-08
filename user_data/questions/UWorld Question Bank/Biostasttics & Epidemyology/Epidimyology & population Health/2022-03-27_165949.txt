@@ -1,0 +1,7 @@
+Educational objective:
+
+The relative risk (RR) is the measure of association between the exposure to a risk factor or
+treatment and an outcome or disease and is commonly used in cohort and experimental
+studies. The interpretation of the RR depends on which groups are identified as exposed and
+
+unexposed.

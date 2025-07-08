@@ -1,0 +1,32 @@
+— Item 15 of 23 <q = i @ a F 33
+
+Question Id: 1283 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+The two-sample t test is commonly employed to determine if the means of 2 populations are
+equal. Several statistical approaches can be used, but the basic numerical requirements
+needed to perform this test are the 2 mean values, the sample variances (eg, standard
+deviations), and the sample sizes. The t statistic is then calculated, from which the p value
+can be determined. If p < 0.05, the null hypothesis (which assumes that there is no difference
+between 2 groups) is rejected and the 2 means are assumed to be statistically different.
+
+(Choice B) Linear regression is used to model the linear relationship between a dependent
+variable and an independent variable. For example, linear regression could be used to
+determine the relationship (described in terms of a trend line) between the number of
+cigarettes smoked per day and the number of yearly hospitalizations in COPD patients.
+
+(Choice C) The correlation coefficient is a measure of the strength and direction of a linear
+relationship between 2 variables. For example, a study may report a correlation coefficient
+describing the association between estrogen levels and breast cancer risk in postmenopausal
+women. It is different from linear regression in that a single number is reported describing the
+strength and magnitude of the association.
+
+(Choice D) The chi-square test is most appropriate for use with categorical data. It can be
+
+Block Time Elapse
+
+Tutor
+
+ck
+
+Suspend
+

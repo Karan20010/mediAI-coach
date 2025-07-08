@@ -1,0 +1,18 @@
+The low ID;, of Shigella is related to virulence factors expressed in various locations in the
+
+gastrointestinal tract:
+
+¢ Stomach: Shigella can survive a low-pH environment, the primary reason for its low
+ID. On exposure to acidic conditions, Shigella species upregulate the transcription of pH-
+resistant virulence genes, making them relatively resistant to degradation in the
+stomach. This characteristic is in contrast to the acid-sensitivity of Salmonella, which
+contributes to its higher ID...
+
+¢ Proximal small intestine: Bile salts are normally bactericidal, but exposure to them
+upregulates production of adhesin proteins and promotes formation of Shigella biofilms.
+
+¢ Distal small intestine: Shigella invades cells forming the epithelial barrier and can spread
+to other cells laterally (ie, cell-to-cell spread) without reentering the gut lumen.
+
+Other organisms that can cause diarrhea with a small inoculum include Campylobacter jejuni
+(500 organisms), Entamoeba histolytica (1-10), and Giardia lamblia (1-10).

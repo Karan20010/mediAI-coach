@@ -1,0 +1,12 @@
+(Choice A) Glutamine is converted to alpha-ketoglutarate, a component of the tricarboxylic
+acid (TCA) cycle; it is used as an alternative to glucose to generate NADH. Tumor cells often
+increase (not decrease) glutamine absorption/conversion to increase NADH generation.
+
+(Choice B) One-carbon donor molecules (eg, serine, glycine, methionine) are used to
+generate nucleotides, phospholipids, and reduction factors as part of the folate and methionine
+pathways. The production/use of one-carbon donor molecules is generally increased (not
+decreased) in rapidly dividing cells to provide adequate substrates for cellular proliferation.
+
+(Choice C) Tumors require large amounts of fatty acids as part of cell growth and replication;
+therefore, enzymes that generate fatty acids (eg, acetyl-CoA carboxylase) are typically
+upregulated (not downregulated).

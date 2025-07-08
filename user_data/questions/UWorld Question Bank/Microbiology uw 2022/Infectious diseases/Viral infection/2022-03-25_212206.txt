@@ -1,0 +1,14 @@
+This patient's peripheral blood smear reveals a reactive (atypical) lymphocyte. In contrast to
+normal lymphocytes, which are small, round, and have minimal cytoplasm, reactive
+lymphocytes are large, scalloped, and have abundant cytoplasm.
+
+Reactive lymphocytes are activated, pathogen-specific cytotoxic T cells and natural killer
+cells that form in response to certain intracellular infections (eg, HIV, cytomegalovirus,
+toxoplasmosis); they are particularly linked to infectious mononucleosis, a primary Epstein-
+Barr virus characterized by fever, pharyngitis, adenopathy, splenomegaly, and severe fatigue
+(as is likely in this patient).
+
+Reactive lymphocytes are effector cells that contain cytotoxic granules composed of
+perforin (creates holes in the infected cell's membrane) and granzymes (enter the cytoplasm
+of infected cells and trigger cell death), which are released in response to foreign antigens on
+the surface (MHC class | receptors) of infected host cells.

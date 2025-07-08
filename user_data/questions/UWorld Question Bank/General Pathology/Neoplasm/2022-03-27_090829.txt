@@ -1,0 +1,32 @@
+= Question Id: 11955
+
+— Item 9 of 30 mY wax <q Se i @ al Lo) id @A &s
+
+e r
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+(Choice B) Janus kinase 2 (JAK2) is a tyrosine kinase involved in the signaling pathway for
+myeloproliferation. Constituent activation of JAK2 is associated with polycythemia vera,
+essential thrombocytosis, and myelofibrosis. It does not play a major role in the immune
+response to infection.
+
+(Choice D) Although transforming growth factor-8 (TGF-B) also has a role in the immune
+response and is triggered by inflammatory pathways, it is complexed to TGF-8 binding protein
+and latency-associated peptide, not IkB.
+
+Educational objective:
+
+Nuclear factor-kappa B (NF-KB) is a transcription factor with a critical role in the immune
+response to infection. NF-kB is normally present in the cytoplasm in a latent, inactive state
+bound to its inhibitor protein, IKB. Extracellular substances such as lipopolysaccharide can
+initiate a signal cascade that results in the destruction of IKB and translocation of free NF-kB to
+the nucleus.
+
+References
+¢ The nuclear factor NF-?B pathway in inflammation.
+
+e Regulation and function of NF-kappaB transcription factors in the immune system.
+
+Block Time Elapse
+
+Tutor End Block

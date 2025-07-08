@@ -1,0 +1,31 @@
+Error disclosure to patients
+
+Describe the error
+
+"Unfortunately, the biopsy sample was lost, and a repeat
+procedure is necessary."
+
+Explain why the error
+occurred
+
+"The laboratory never received the sample, possibly due
+to a tracking or staffing error."
+
+Express regret or apologize
+for error
+
+"| apologize on behalf of our team."
+
+Describe steps to minimize
+consequences
+
+"We will waive all charges associated with the repeat
+procedure."
+
+Outline actions to prevent
+future recurrences
+
+"| will notify our administrators now of this error, and we
+will change our procedure so this does not happen
+again."
+

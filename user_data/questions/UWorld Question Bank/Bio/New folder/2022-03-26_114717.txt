@@ -1,0 +1,67 @@
+pes
+
+10
+il
+12
+13
+14
+15
+16
+17
+18
+19
+
++ 20
+24
+
++ 22
+23
+
++ 24
+25
+
++ 26
+27
+
++ 28
+29
+
++ 30
+31
+
+Question Id: 1034
+
+— Item 6 of 40 mY wax <q Se i @ al Lo) id lA)
+
+L c
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom
+gluconeogenesis, leading to decreased conversion of alanine and other gluconeogenic
+substrates to glucose.
+
+(Choice A) Fatty acid synthesis is upregulated by insulin and high citrate levels (which
+increase when acetyl-CoA is abundant, as with active glycolysis). Therefore, fatty acid
+synthesis is likely to be upregulated in metabolic states in which fructose 2,6-bisphosphate
+concentration is increased.
+
+(Choice C) The conversion of fructose-6-phosphate to fructose-1,6-bisphosphate is catalyzed
+by the enzyme PFK-1. This enzyme is allosterically activated by high levels of fructose-2,6-
+bisphosphate, and so conversion would be increased.
+
+(Choice D) Glycogen formation is stimulated by increased levels of insulin and glucose-6-
+phosphate. Because elevated insulin levels also increase fructose 2,6-bisphosphate
+formation, the rise of fructose 2,6-bisphosphate levels in hepatocytes is typically concurrent
+with increased glycogen synthesis.
+
+(Choice E) The rise in fructose-2,6-bisphosphate accelerates glycolysis, leading to increased
+conversion of NAD: to NADH.
+
+Educational objective:
+
+Block Time Elapse
+Tutor
+
+63
+
+Settings
+
+End Block

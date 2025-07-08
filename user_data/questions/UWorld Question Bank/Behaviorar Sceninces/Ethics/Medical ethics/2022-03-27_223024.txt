@@ -1,0 +1,16 @@
+Next-of-kin surrogate decision-maker
+
+Inability to communicate wishes regarding medical decision-making
+
+Patient
+- « Advance directive not available/applicable
+selection . .
+* No previously designated surrogate decision-maker
+Surrogate © Priority to patient's spouse
+selection ¢ Alternate: adult children, parents, adult siblings, other family members
+
+Implementation
+
+Substituted judgment: what the patient, not family, would have wanted
+Decisions in the patient's best interest
+

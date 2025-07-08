@@ -1,0 +1,3 @@
+Educational objective:
+Autosomal dominant mutations in the TTN gene, which encodes for the sarcomere protein titin,
+are the most common cause of familial dilated cardiomyopathy.

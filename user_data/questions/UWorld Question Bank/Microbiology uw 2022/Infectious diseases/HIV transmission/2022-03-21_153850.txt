@@ -1,0 +1,17 @@
+Most patients infected with HIV develop mononucleosis-like symptoms (eg, fever, diffuse
+lymphadenopathy, malaise, myalgia, sore throat, and headache) 2-4 weeks after inoculation
+(acute retroviral syndrome). The presence of oropharyngeal ulcers and a diffuse
+maculopapular rash are important diagnostic clues.
+
+Acute retroviral syndrome is associated with extremely high levels of viral replication (~5
+million copies/mL) as the cell-mediated and humoral antibody response against the virus is not
+yet fully activated. Therefore, laboratory results during this period usually show evidence of
+HIV in the plasma (positive viral load and p24 antigen) with a negative serologic response
+(negative HIV-1/HIV-2 antibody). This is referred to as the "window period," as patients are
+infected with HIV but HIV antibody screening tests may be negative (newer screening tests.
+incorporate testing for HIV p24 antigen and are more sensitive in early infection).
+
+The humoral response to HIV typically develops 6-8 weeks after initial infection. At this time,
+anti-HIV antibodies in the serum neutralize circulating virus, which reduces viral load and leads
+to resolution of acute retroviral symptoms. Most patients then enter a long asymptomatic
+period until diminished CD4 counts open the door to opportunistic infections.

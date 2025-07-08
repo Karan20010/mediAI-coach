@@ -1,0 +1,17 @@
+Cells produce energy via 2 main pathways depending on oxygen availability, as follows:
+
+¢ Anaerobic glycolysis occurs in oxygen-poor states. This pathway converts glucose —
+pyruvate — lactate in the cytosol, which is then excreted from the cell. It nets 2 ATP.
+
+¢ Oxidative phosphorylation occurs in oxygen-rich states. This pathway moves pyruvate
+from the cytosol to the mitochondria, where it is converted to acetyl-CoA and run through
+the tricarboxylic acid cycle. This generates NADH, a reductive compound used to
+produce ATP in the electron transport chain. Oxidative phosphorylation nets up to 36 ATP
+for each glucose molecule.
+
+Oxidative phosphorylation is the primary driver of energy metabolism in most terminally
+differentiated cells during normal conditions. However, rapidly dividing cells such as stem cells
+and cancer cells generate most of their energy through anaerobic glycolysis despite the
+presence of adequate oxygen (Warburg effect) (Choice D). These cells produce significantly
+more lactate than a normal terminally differentiated cell as almost all glucose is converted to
+lactate and excreted.

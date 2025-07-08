@@ -1,0 +1,32 @@
+= Question Id: 539
+
+— Item 13 of 20 mY wax <q = i @ a) bo 4 33
+
+e r
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+¢ Complement activation: The second heavy-chain constant region serves as a platform
+for activation of the classical complement cascade. This generates membrane attack
+complexes and opsonizing C3b ligands for the CR1 receptor on erythrocytes and
+reticuloendothelial phagocytes.
+
+¢ Direct phagocytosis: The third heavy-chain constant region is the ligand for the Fe
+receptor (CD16) on the surface of phagocytic cells. Binding results in phagocytosis of
+the immunoglobulin-covered bacteria and subsequent destruction.
+
+(Choice B) The constant region of the light chain is bound to the first constant region of the
+heavy chain with disulfide bonds. It does not play a significant role in opsonization or
+phagocyte binding.
+
+(Choice C) Immunoglobulins have hinge regions between the Fab and Fc fragments that
+provide flexibility to the Fab arms. Longer hinge regions are associated with increased
+antibody avidity because the Fab fragments can reach antigens that are farther apart on the
+bacteria. The hinge region does not bind to the Fc receptor on phagocytes.
+
+Educational objective:
+Immunoglobulin contains a Fab fragment that binds to antigen and an Fc fragment that
+activates complement and/or interacts with immune cells. The Fc fragment of IgG activates
+
+Block Time Elapse
+
+Tutor End Block

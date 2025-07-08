@@ -1,0 +1,43 @@
+Question Id: 8530
+
+— Item 9 of 40 mY wax <q Se i @ al Lo) id lA)
+
+Previous Next utter Tutorial Lab Values Notes Calculator Reverse Color Text Zoom
+(Choice C) Monoclonal antibodies that target specific cell surface molecules on the tumor can
+
+induce tumor cell death via antibody-dependent cellular cytotoxicity. An example of this type of
+
+immunotherapy is alemtuzumab, a drug for chronic lymphocytic leukemia that targets a cell
+
+surface receptor (CD52) found primarily on mature lymphocytes. However, IL-2 does not
+
+directly interact with the Fc receptor on cytotoxic cells.
+
+(Choice E) Although IL-2 triggers CD8 cells to increase expression of the inhibitory receptor
+PD-1 (programmed cell death protein 1), engagement of this receptor leads to T-cell
+exhaustion, not increased antitumor activity.
+
+Educational objective:
+
+Interleukin-2 (IL-2) is endogenously produced by CD4 cells, CD8 cells, and natural killer (NK)
+cells and has strong proinflammatory and some anti-inflammatory effects. High-dose IL-2
+therapy can be used for advanced renal cell carcinoma and metastatic melanoma; this can
+lead to long-lasting remission due to increased cytotoxic activity of NK cells against the tumor.
+
+Immunology Pharmacology (General Principles) Cytokines
+
+Subject System Topic
+
+Copyright © UWorld. All rights reserved
+
+Activate Windows
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

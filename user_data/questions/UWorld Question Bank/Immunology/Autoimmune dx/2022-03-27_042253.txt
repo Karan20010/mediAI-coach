@@ -1,0 +1,7 @@
+Educational objective:
+
+FOXP%3 is a transcriptional regulator protein that is required for the development of regulatory T
+cells; it triggers production of cytokines (eg, IL-10, transforming growth factor-beta) and ligands
+(eg, cytotoxic T-lymphocyte antigen-4) that suppress immune activation. FOXP3 mutations
+result in immune dysregulation marked by excessive immunoglobulin production and the
+development of autoimmunity.

@@ -1,0 +1,17 @@
+(Choice A) Ethambutol appears to inhibit synthesis of the mycobacterial cell wall. Resistance
+to this drug develops when the mycobacteria increase production of arabinosyl transferase (an
+enzyme in the pathway to arabinogalactan, one of the key constituents of the mycobacterial
+cell wall).
+
+(Choice C) Because pyrazinamide must be converted to an active form by the mycobacterial
+enzyme pyrazinamidase, drug resistance can occur in those organisms that have modified
+their pyrazinamidase to be structurally ineffective.
+
+(Choice D) Resistance to rifampin in M tuberculosis is primarily due to a mutation in the gene
+that codes for a DNA-dependent RNA polymerase necessary for transcription and RNA
+prolongation.
+
+(Choice E) Streptomycin (used in some cases of tuberculosis) is an aminoglycoside that
+inhibits mycobacterial protein synthesis by disabling the bacterial ribosomal 30S subunit
+(which disrupts translation). Resistance to this drug is primarily achieved by a modification of
+the 30S ribosomal protein.

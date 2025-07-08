@@ -1,0 +1,35 @@
+— Item 25 of 40 = y Mark <I e a i @ al
+
+— " . L
+Question Id: 2033 Praras Next FullScreen Tutorial__—_Lab Values
+
+(Choice A) Aminoacyl-tRNA is tRNA charged with its amino acid. The cloverleaf structure of
+tRNA consists of a 3' CCA tail (amino acid binding site); a T loop abundant in ribothymidine,
+pseudouridine, and cytidine residues; a D loop rich in dihydrouridine residues; and an
+anticodon loop.
+
+(Choice C) DNA promoter regions help initiate transcription by binding transcription factors
+and RNA polymerase II. Promoter regions contain consensus sequences that are typically AT-
+rich (eg, TATA and CAAT boxes) or GC-rich (eg, GC box).
+
+(Choice D) Ribosomal RNA (rRNA) is a component of the ribosome that catalyzes peptide
+bond formation during translation.
+
+(Choice F) Telomeres are located at the ends of chromosomes and contain TTAGGG repeats,
+which are added by the enzyme telomerase (RNA-dependent DNA polymerase). Critical
+shortening in telomere length is thought to signal programmed cell death.
+
+Educational objective:
+
+The poly-A tail is not transcribed from DNA; instead, it is added as a post-transcriptional
+modification downstream of the consensus sequence (AAUAAA) located near the 3' end of the
+mRNA molecule. This tail protects mRNA from degradation within the cytoplasm after it exits
+
+Block Time Elapse
+Tutor
+
+g - &A 8
+
+Notes Calculator Reverse Color __Text Zoom Settings
+
+End Block

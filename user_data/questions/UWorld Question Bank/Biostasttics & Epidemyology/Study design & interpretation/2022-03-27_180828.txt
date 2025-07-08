@@ -1,0 +1,33 @@
+— Item 29 of 29
+Question Id: 8519
+volume
+
+News Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+avi = S S
+
+smoking status. Group A consists of 200 nonsmokers, group B consists of 200 light smokers
+(1-7 cigarettes per day), group C consists of 200 moderate smokers (8-22 cigarettes per day),
+and group D consists of 200 heavy smokers (23+ cigarettes per day). FEV, is quantitatively
+measured in all participants using properly calibrated office spirometers. Which of the
+following is the most appropriate statistical method to compare the mean FEV, results among
+
+all 4 groups?
+
+JY _ A. Analysis of variance (63%)
+B. Chi-square test (21%)
+C. Meta-analysis (4%)
+D. Multiple logistic regression (2%)
+E. Pearson correlation coefficient (4%)
+
+F. Two-sample t-test (2%)
+
+Omitted
+63% Coase py 2022 Activate Windows
+
+Correct answer dU ee erie Time Spent Version
+
+Block Time Elapsed: 00:02:29 % CJ O
+Feedback Suspend _ End Block
+
+Tutor
+

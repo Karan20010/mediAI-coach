@@ -1,0 +1,7 @@
+Educational objective:
+
+Listeria monocytogenes is a facultative, intracellular, gram-positive rod that produces a very
+narrow zone of beta hemolysis on blood agar, shows tumbling motility at room temperature,
+and can grow at refrigerated temperatures. Intracellular pathogens such as Listeria are largely
+eliminated by the cell-mediated immune response (eg, T-cells, macrophages, cytokines).
+Patients with impaired cell-mediated immunity are at risk for invasive Listeria infections.

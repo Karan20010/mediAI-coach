@@ -1,0 +1,7 @@
+Educational objective:
+
+Zidovudine (ZDT) is a nucleoside reverse transcriptase inhibitor used to prevent maternal to
+fetal transmission of HIV during labor (when the mother is not virally suppressed). Itis a
+thymidine analogue that does not have the normal 3’-hydroxyl group found on thymidine.
+Because new nucleotides are added to growing DNA chains only at the 3’-hydroxyl group, the
+addition of ZDT into DNA results in chain termination.

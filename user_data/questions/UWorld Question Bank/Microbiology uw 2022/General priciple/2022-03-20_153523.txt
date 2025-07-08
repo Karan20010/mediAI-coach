@@ -1,0 +1,7 @@
+Educational objective:
+
+Plasmodium vivax is the most common cause of malaria in non-African countries. It is
+transmitted by the female Anopheles mosquito and is associated with a latent liver phase that
+must be treated (with primaquine) independently of the erythrocytic phase to fully eliminate the
+
+organism.

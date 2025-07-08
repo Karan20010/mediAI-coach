@@ -1,0 +1,17 @@
+This patient with a history of uncontrolled diabetes mellitus has a nonhealing wound with
+evidence of ongoing inflammation (eg, erythema).
+
+Wound healing normally progress through the inflammatory, proliferative, and remodeling
+phases. In the days after the initial injury, neutrophils and other immune cells are recruited to
+the wound and produce an inflammatory response that helps prevent bacterial overgrowth in
+the nutrient-rich environment of a healing wound. However, this inflammation also impairs
+formation of granulation tissue that is needed for normal wound healing. As healing
+progresses, release of growth factors and anti-inflammatory cytokines (eg, IL-10) by
+macrophages and regulatory T cells suppresses the inflammatory response, facilitating
+fibroblast proliferation and reepithelialization of the wound.
+
+In patients with diabetes mellitus, constitutively elevated blood glucose increases
+inflammation by stimulating the release of proinflammatory cytokines and reactive oxygen
+species from neutrophils (Choice E). Elevated glucose also leads to a marked decrease in
+IL-10 production that contributes to the increased susceptibility for chronic, nonhealing
+wounds and ulcers in patients with uncontrolled diabetes.

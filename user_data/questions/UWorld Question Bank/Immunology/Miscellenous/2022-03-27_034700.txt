@@ -1,0 +1,41 @@
+‘= Question Id: 745
+
+— Item 18 of 20 = y Mark <I e a i @ al 5
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes
+
+(Choice A) Neutrophils do not directly kill malignant cells.
+
+(Choice B) The functions of macrophages include phagocytosis, antigen presentation to T-
+helper lymphocytes in association with MHC class II molecules, and secretion of
+immunomodulatory cytokines, like TNF and IL-1.
+
+(Choice C) Dendritic cells are avid antigen presenting cells that constantly sample their
+environment by endocytosis and become activated upon encountering a foreign antigen.
+When activated, dendritic cells migrate to the lymph nodes and spleen where they display
+antigen with MHC II and co-stimulatory molecules to activate T-cells and B-cells.
+
+(Choice D) CD4+ T-lymphocytes (T, cells) are activated by antigen presented in association
+with MHC II molecules and can promote cell-mediated (macrophages and CD8®- cells) and/or
+humoral (B-cells) immune responses.
+
+(Choice E) B-cells transform into plasma cells under the influence of activated T,, cells.
+Plasma cells secrete antigen-specific immunoglobulins.
+
+Educational Objective:
+
+NK cells recognize and kill cells with decreased MHC class | antigen cell surface expression,
+such as virus-infected cells and tumor cells. They are large lymphocytes that contain perforins
+
+Block Time Elapse
+
+Tutor
+
+Calculator
+
+r oy
+
+Reverse Color _Text Zoom Settings
+
+End Block

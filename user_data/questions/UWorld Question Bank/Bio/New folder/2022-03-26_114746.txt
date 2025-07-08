@@ -1,0 +1,36 @@
+Question Id: 2017
+
+— Item 7 of 40 mY wax <q Se i @ al Lo) id lA)
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+This question describes a scenario in which uracil is found in association with bacterial DNA
+during prokaryotic DNA replication. In general, uracil is found only in RNA, so the question
+essentially asks which enzyme involved in DNA synthesis catalyzes the formation of RNA
+strands. In prokaryotic DNA replication, primase (an RNA polymerase) is responsible for
+synthesizing a short RNA primer using the separated strands of DNA at the replication fork as
+templates. DNA replication then proceeds, with DNA polymerase using the 3' hydroxyl group
+of the RNA primer as a starting point for synthesis. Primase is a crucial enzyme for bacterial
+replication as DNA polymerase cannot initiate DNA synthesis without this short nucleic acid
+sequence primer.
+
+(Choice A) DNA ligase is the enzyme that repairs single-strand breaks in duplex DNA during
+DNA replication and repair.
+
+(Choices B and C) During replication, DNA polymerase III is the primary enzyme responsible
+for synthesis of daughter DNA strands; DNA polymerase | functions chiefly to replace the RNA
+primers with DNA segments. Unlike DNA polymerase III, DNA polymerase | has 5'= 3'
+exonuclease activity that can remove RNA primers and damaged DNA segments. The 3'> 5'
+exonuclease activity of DNA polymerase | and III provides a proofreading function that fixes
+mismatched nucleotides in the newly formed daughter strands.
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

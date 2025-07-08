@@ -1,0 +1,7 @@
+Educational objective:
+
+Fructose 2,6-bisphosphate (F2,6BP) activates phosphofructokinase-1 (increasing glycolysis)
+and inhibits fructose 1,6-bisphosphatase (decreasing gluconeogenesis). F2,6BP
+concentration is regulated by a bifunctional enzyme complex: phosphofructokinase-2
+increases F2,6BP levels in response to insulin, and fructose 2,6-bisphosphatase decreases
+F2,6BP levels in response to glucagon.

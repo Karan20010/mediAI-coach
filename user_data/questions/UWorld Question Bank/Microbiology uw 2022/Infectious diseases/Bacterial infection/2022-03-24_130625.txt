@@ -1,0 +1,14 @@
+(Choice A) Caspofungin is an antifungal agent that blocks synthesis of the glucan component
+of the fungal cell wall. It is active against Candida and Aspergillus. Caspofungin does not bind
+ergosterol.
+
+(Choice B) Cyclosporine is an immunosuppressant used in transplant recipients to prevent
+rejection. It decreases the synthesis of IL-2, thereby inhibiting T cell proliferation.
+
+(Choice C) Flucytosine is used in combination with amphotericin B primarily for the treatment
+of cryptococcal meningitis in patients with HIV. It is a nucleotide analog that competitively
+inhibits RNA synthesis in fungal cells.
+
+(Choice D) Griseofulvin interacts with fungal cell microtubules, inhibiting mitosis. It
+accumulates in keratin-containing tissues and is used to treat dermatophyte infections (eg,
+Microsporum, Epidermophyton, Trichophyton).

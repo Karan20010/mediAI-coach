@@ -1,0 +1,19 @@
+This patient with fever, tachycardia, and altered mental status has sepsis; the presence of
+leukocytes, nitrites, leukocyte esterase, and bacteria in the urine make a urinary tract
+infection (UTI) the most likely infectious source.
+
+The pathogenic organism can be determined based on microbiological features. For instance,
+MacConkey agar is selective for gram-negative rods because gram-positive bacteria are
+unable to grow on this culture medium. Some gram-negative rods can ferment lactose,
+causing colonies to turn pink, and both Escherichia coli and Enterobacter cloacae are fast
+lactose fermenters. The ability to convert tryptophan to indole (ie, indole-positive) can further
+differentiate bacteria, and the indole-positivity of E coli distinguishes it from E cloacae (Choice
+A).
+
+Among the organisms listed, this patient with lactose-fermenting, indole-positive bacterial
+growth on MacConkey agar has infection due to E coli, the most common cause of UTI.
+Women are more likely than men to develop UTIs due to a shorter distance between the anus
+and urethra, and fecal incontinence increases the risk of introducing gastrointestinal flora such
+as E coli into the urinary tract. Other predisposing factors for E coli UTl—particularly in older
+women—include diabetes, urinary retention or incontinence, and instrumentation of the urethra
+(eg, intermittent catheterization), all of which are present in this patient.

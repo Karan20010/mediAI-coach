@@ -1,0 +1,7 @@
+Educational objective:
+
+Statins, primarily simvastatin, lovastatin, and atorvastatin, are metabolized by CYP3A4. Drugs
+that inhibit this enzyme (eg, macrolide antibiotics, ketoconazole, non—dihydropyridine calcium
+channel blockers, amiodarone) can cause increased statin drug levels and lead to statin
+
+myopathy.

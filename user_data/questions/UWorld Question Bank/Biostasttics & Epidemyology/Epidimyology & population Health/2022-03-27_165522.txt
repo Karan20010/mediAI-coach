@@ -1,0 +1,70 @@
+to
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+21
+= 22
+23
++ 24
+25
++ 26
+27
++ 28
+29
+
+= Question Id: 1270
+
+= ltem8of29 5 v Mark <q Se rc j @ él
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+Cumulative incidence (Cl) is calculated as the total number of new cases of a disease (eg,
+neurodegenerative condition) over a specific period (eg, during 2016) divided by the number
+of people at risk at the beginning of the period. It does not account for deaths in the period
+under study because the patients who died were, at some point in the intervening period, still
+considered part of the baseline population at risk for the disease. In this case, there were
+3,980,000 people at risk (ie, 4,000,000 - 20,000 already with the disease) at the beginning of
+2016, and 7,000 new cases of the disease occurred over the 1-year period being analyzed.
+Therefore, the Cl is:
+
+Cl = 7,000 / (4,000,000 - 20,000) = 7,000 / 3,980,000
+Unlike incidence rate (which is typically reported as the number of cases per person-year), Cl
+
+does not incorporate time into the denominator; it is simply the proportion of at-risk individuals
+who contract the disease over the specified period.
+
+(Choice A) The disease-specific mortality (in this example: 1,000 / 4,000,000) is the number
+of deaths attributable to a disease per year divided by the total population.
+
+(Choice B) The Cl does not account for deaths in the period under study. In this case, the
+numerator is 7,000, not 6,000.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

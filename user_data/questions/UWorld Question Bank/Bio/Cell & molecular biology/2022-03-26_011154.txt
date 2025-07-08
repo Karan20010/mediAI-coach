@@ -1,0 +1,10 @@
+G protein-coupled receptors that bind glycoprotein hormones (eg, TSH, LH, FSH) contain 3
+major domains: an extracellular domain responsible for ligand binding, a transmembrane
+domain, and an intracellular domain coupled with heterotrimeric G proteins.
+
+The transmembrane domain is made up of nonpolar, hydrophobic amino acids (eg,
+alanine, valine, leucine, isoleucine, phenylalanine, tryptophan, methionine, proline, glycine).
+These amino acids are arranged in an alpha-helical fashion and project their hydrophobic R
+groups outwardly, anchoring the transmembrane region of the protein to the hydrophobic core
+of the phospholipid bilayer. The transmembrane domain may also play an important role in
+cellular signaling and transport.

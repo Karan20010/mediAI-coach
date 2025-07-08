@@ -1,0 +1,6 @@
+Educational objective:
+
+Programmed-death receptor 1 (PD-1) is a checkpoint inhibitor that downregulates the cytotoxic
+T-cell response. Neoplastic cells often exploit this receptor via the overexpression of PD-1
+ligand. PD-1 receptor inhibitors (eg, Pembrolizumab) restore the T-cell response, allowing
+cytotoxic T cells to invade the tumor and induce apoptosis of neoplastic cells.

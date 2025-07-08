@@ -1,0 +1,16 @@
+¢ GU alone: ceftriaxone
+
+¢ GU + Chlamydia*:
+ceftriaxone + doxycycline
+
+Treatment |¢ Chlamydia/Mycoplasma:
+azithromycin
+
+¢ Trichomonas:
+metronidazole
+
+*GU + uncertain Chlamydia status is also treated
+with ceftriaxone + doxycycline.
+
+GU = gonococcal urethritis.
+

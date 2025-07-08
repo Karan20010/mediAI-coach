@@ -1,0 +1,41 @@
+— Item9 of17 _ roa al
+
+= auestion id: 1381 mV mark oe a Full Screen 2 Lab a
+Because intracellular K- concentration is much greater than its extracellular concentration,
+opening of cellular potassium channels leads to K- efflux from the cell along the K-
+concentration gradient. Within the cell, the positive charge of the K- ions is normally
+neutralized by the negative charge of intracellular anions (eg, phosphates and proteins) that
+
+are trapped in the cell. As K- ions leave the cell, negatively charged anions accumulate along
+the inner side of the cell membrane. This continually increasing negative charge attracts the
+positively charged K- ions back into the cell. When the difference in concentration (diffusion
+potential) of K- inside and outside the cell is large, the efflux of K- ions will continue despite the
+increasing negative charge. At a certain point, however, the negative intracellular charge
+(electrical potential) of the membrane becomes large enough that the number of K- ions it
+attracts into the cell equals the number of K: ions that leave the cell along the concentration
+gradient. The electrical potential difference that moves K- ions into the cell at the same rate as
+they leave the cell along the concentration gradient is called the equilibrium potential.
+Educational objective:
+
+When a specific ion channel opens, the respective ions will flow across the membrane in a
+direction that brings the resting membrane potential closer to that ion's equilibrium potential.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

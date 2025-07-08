@@ -1,0 +1,18 @@
+Trimethoprim-sulfamethoxazole (TMP-SMX) is a combination of 2 bacteriostatic antibiotics
+that act synergistically to inhibit bacterial tetrahydrofolate formation, resulting in bactericidal
+activity. It has a broad spectrum of activity against many aerobic gram-positive and gram-
+negative bacteria and is commonly used for urinary tract infections, Pneumocystis jiroveci
+pneumonia, and Nocardia infections.
+
+Common adverse effects of TMP-SMX include rash, nausea and vomiting, and folate
+deficiency (with prolonged use). In addition, hyperkalemia is a common adverse effect that
+can occur, regardless of dose. Similar to the actions of amiloride (a potassium-sparing
+diuretic), trimethoprim blocks the epithelial sodium channel in the distal tubule and collecting
+duct. This reduces transepithelial voltage and impairs sodium-potassium exchange,
+leading to reduced potassium excretion and hyperkalemia.
+
+This effect is often magnified in the elderly population, those with renal failure, or those given
+other potassium-sparing diuretics (eg, spironolactone, amiloride), ACE inhibitors (eg,
+lisinopril), or angiotensin receptor blockers (eg, losartan). This patient with hypertension and
+diabetes may be receiving an ACE inhibitor, which further increases his risk of developing
+hyperkalemia.

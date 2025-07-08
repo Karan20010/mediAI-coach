@@ -1,0 +1,16 @@
+DNA replication begins at multiple sites within eukaryotic chromosomes called origins of
+replication. At these sites, the parent DNA double helix is separated and unwound in a
+process facilitated by the helicase enzyme and single-stranded DNA-binding proteins. The
+locations where unwound DNA meets the double helix are known as replication forks.
+Replication forks travel bidirectionally away from the origin of replication as DNA polymerase
+synthesizes complementary daughter DNA strands.
+
+Synthesis of the daughter strands occurs simultaneously from both parent strands. Because
+DNA synthesis can occur only in the 5'—3' direction, one daughter strand is synthesized
+continuously toward the replication fork (leading strand). However, the other strand must be
+synthesized discontinuously in a direction away from the replication fork (lagging strand),
+with more and more segments being added as the replication fork moves across the DNA
+double helix. This results in the formation of Okazaki fragments, short stretches of newly
+synthesized DNA that are separated by RNA primers. These primers are removed and
+replaced with DNA, and the Okazaki fragments are subsequently joined together by DNA
+ligase.

@@ -1,0 +1,35 @@
+Item 2 of 17 5 v Mark <q Se rc j @ él
+
+‘ L
+‘Question Id: 14862 Praras Next FullScreen Tutorial__—_Lab Values
+
+Observational studies (eg, case series, case-control studies, cohort studies, cross-sectional
+studies) differ from experimental studies (eg, clinical trials) in that the researchers passively
+observe the study participants rather than monitor the result of a specific intervention.
+Observational studies can be subdivided as follows:
+
+¢ Descriptive studies collect data to characterize a specific health problem (eg, disease
+prevalence, incidence rates).
+
+e Analytical studies test hypotheses to evaluate associations between risk factors and
+disease.
+
+A case-control study is an analytical observational design in which potential participants are
+initially identified as "cases" or "controls" according to an outcome status (ie, disease of
+interest). In this example, children diagnosed with cognitive deficits are cases and children
+without cognitive deficits are controls. Once identified, cases and controls are then assessed
+retrospectively for exposure to risk factors of interest. In this case, the risk factor of interest
+is environmental lead exposure, as measured by the distance between the patients' residence
+and known lead-contaminated areas. Finally, the prevalence of exposure to the risk factors
+(ie, frequency of exposure) is compared between cases and controls to estimate the
+association between the risk factors and the outcomes.
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

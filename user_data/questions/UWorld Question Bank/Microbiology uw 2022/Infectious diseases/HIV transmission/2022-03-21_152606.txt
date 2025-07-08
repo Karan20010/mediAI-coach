@@ -1,0 +1,11 @@
+Syphilis: diagnostic serology
+
+Nontreponemal ¢ Antibody to cardiolipin-cholesterol-lecithin antigen
+(RPR, VDRL) ¢ Lower sensitivity in early infection
+
+Treponemal ¢ Antibody to treponemal antigens
+(FTA-ABS, TP-EIA) |¢ Greater sensitivity in early infection
+
+FTA-ABS = fluorescent treponemal antibody-absorption (test); RPR = rapid plasma reagin (test);
+
+TP-EIA = Treponema pallidum enzyme immunoassay.

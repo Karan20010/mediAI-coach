@@ -1,0 +1,12 @@
+(Choices B and C) The two other forms of horizontal gene transfer are transduction and
+transformation. Transduction involves the introduction of foreign DNA into a bacterial cell by a
+virus or viral vector. Transformation involves the uptake of free DNA from the environment
+through the cell membrane. Neither involves direct contact between bacterial cells or the
+formation of pili.
+
+(Choice D) Transposition involves the movement of a DNA sequence from one location to
+another within the genome (frequently with duplication of the transposon), which often results
+in genetic mutations due to incorrect DNA repair and/or insertional mutagenesis.
+
+(Choice E) Vertical gene transfer is the transmission of genes from parent to offspring. This
+occurs in bacteria when they divide by binary fission; it does not involve pili.

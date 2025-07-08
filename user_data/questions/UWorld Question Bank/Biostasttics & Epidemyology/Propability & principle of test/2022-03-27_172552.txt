@@ -1,0 +1,28 @@
+— Item 3 of 23 mY war <q = i @ a F 33
+
+Question Id: 19262 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+©UWorld
+Alpha (a) is the significance level used to establish the statistical significance of study
+results. It is usually predetermined by investigators as the threshold to reject a null hypothesis
+(H,). The results of a study are considered statistically significant when the p-value (ie,
+probability of obtaining results as extreme as the observed results when H, is true) is less than
+the significance level (ie, p-value < a). Alpha is also the probability of making a type | error,
+which is rejecting a true H, (ie, a false positive: finding a statistically significant difference when
+one does not truly exist). The complement of alpha/significance level is the confidence level
+(1 - a), which represents the probability of not rejecting a true H, (ie, a true negative, or not
+
+finding a statistically significant difference when one does not truly exist).
+
+The lower the significance level, the lower the probability of a type | error. However, this
+means that the threshold to attain statistical significance is more stringent. Therefore,
+reducing the significance level (eg, from a = 5% to a = 1%) decreases the probability of a
+type | error along with the probability of finding statistical significance (eg, p-value < 0.05
+to p-value < 0.01) (Choices B and C). Adecreased significance level also means an
+increased confidence level (1 - a); therefore, any statistically significant findings can be
+
+reported with a greater level of confidence.
+
+Block Time Elapse
+
+Tutor ck Suspend

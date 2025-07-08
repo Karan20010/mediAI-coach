@@ -1,0 +1,30 @@
+= ltem2of12 5 v Mark <q Se rc j @ él
+
+‘ L
+‘Question Id: 18722 Praras Next FullScreen Tutorial__—_Lab Values
+
+A clinical trial is conducted to assess the effectiveness of a novel formulation of cisplatin for
+treating advanced non-small cell lung cancer. Study participants are randomly assigned to 2
+different cisplatin-based chemotherapy regimens. Subjects in the control arm are
+administered conventional cisplatin chemotherapy, whereas those in the experimental arm are
+given a formulation of cisplatin encapsulated in liposomes coated with anti-epidermal growth
+factor receptor (EGFR) antibodies. Patients in the experimental group are found to have a
+statistically significant decrease in residual tumor burden compared with those in the control
+group. The incidence of adverse effects was also lower in the experimental group. Compared
+to conventional cisplatin chemotherapy, the new formulation is most likely to have which of the
+following effects?
+
+() A. Decreased drug efflux from tumor cells
+
+©) B. Enhanced cytotoxic T-cell response
+
+©) C. Increased penetration through dense desmoplasia
+©) D. Inhibition of tumor-induced angiogenesis
+
+©) E. Selective drug uptake by cancer cells
+
+g - &A 8
+
+Notes Calculator Reverse Color __Text Zoom Settings
+
+End Block

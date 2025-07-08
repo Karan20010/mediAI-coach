@@ -1,0 +1,5 @@
+Educational objective:
+
+Patients who require stem cell transplantation due to a congenital genomic disease typically
+receive matched unrelated donor cells because they will have matched human leukocyte
+antigen alleles but will not have the genomic mutation that caused the condition.

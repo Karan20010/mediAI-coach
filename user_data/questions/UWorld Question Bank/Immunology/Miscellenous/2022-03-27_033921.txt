@@ -1,0 +1,42 @@
+to
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+
+— Item 8 of 20 mY wax <q Se i @ al Lo) id @A &s
+
+. Le c
+Question Id: 542 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+(Choice C) Most nucleated cells of the human body express MHC Class | molecules on their
+surfaces. MHC Class | molecules present intracellular antigens produced in tumor or virus-
+infected cells. Cytoplasmic proteins are degraded by a proteasome and transported into the
+rough endoplasmic reticulum (via TAP proteins) where they are loaded onto MHC Class |
+molecules and routed to the cell surface. This pathway does not depend on acidified
+lysosomes.
+
+(Choice E) The T cell receptor (TCR) is a membrane-bound protein on T cells that is
+responsible for recognizing specific antigens bound to an MHC molecule. Although the TCR is
+essential for T cell activation in response to antigens presented on MHC Class II molecules,
+prevention of lysosome acidification would have no effect on the expression of TCR on the
+surface of T cells.
+
+Educational objective:
+
+MHC class II is expressed on the surface of antigen presenting cells (APC) and presents
+extracellular antigens to T cells after extracellular protein is degraded within acidified
+lysosomes. Failure to acidify lysosomes would lead to deficient expression of MHC class II-
+antigen complexes with subsequent impaired interaction between APCs and T cells.
+
+Block Time Elapse
+
+Tutor End Block

@@ -1,0 +1,48 @@
+= Question Id: 1284
+
+— Item 18 of 23 = y Mark <I e a i @ al
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+Each of the 8 blood sample results is an independent event (ie, one patient's result has no
+impact on another's) with a 0.95 (95%) probability of correctly testing negative and a 0.05 (5%)
+probability of incorrectly testing positive. To calculate the chance of all 8 tests testing negative,
+multiply the probability of each test returning a negative result:
+
+0.95 x 0.95 x 0.95 x 0.95 x 0.95 x 0.95 x 0.95 x 0.95 = 0.952
+
+(Choices A and B) The value 0.05 x 8 is equivalent to adding the probability of a sample
+testing positive 8 times, and 0.95 x 8 is equivalent to adding the probability of a sample testing
+negative 8 times. However, the combined probability for a series of independent events is
+calculated using multiplication, not addition. For instance, when flipping a coin twice the
+probability of getting 2 heads in a row is not 0.5 + 0.5 = 0.5 x 2 = 1 (100%) but rather 0.5 x 0.5
+= 0.25 (25%).
+
+(Choice C) The probability of all 8 samples incorrectly testing positive is given by 0.05».
+
+(Choices E and F) Overall, 2 outcomes are possible: either all 8 samples will return the
+same test result or at least 1 sample will test differently. Because the total probability must
+add up to 1 (100%) and the probability that all 8 samples will return negative is given by 0.95,
+
+the probability of at least 1 sample testing positive is 1 - 0.95:. Conversely, the probability that
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

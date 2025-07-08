@@ -1,0 +1,21 @@
+Item 8 of 29
+
+Tutorial Lab Value:
+
+2 24 B 1B Slowly progressive cases
+
++ 25 i Rapidly progressive cases
+
++ 26 L
+
++ 27 Outioss
+
+= 28 S Q Zoom In Q Zoom Out & Reset
+ar) m 5 5 5
+
+G new | G2) existing
+
+Time
+
+=} My Notebook
+

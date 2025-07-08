@@ -1,0 +1,29 @@
+2 = cueston 569 LS 4 Mark: mone i snc 2 alll. a A an &.
+- A statistical hypothesis is an initial assumption (that may or may not be true) regarding
+5 population parameters (eg, mean values in two different groups) or the relationship between
+: variables within a population (eg, association between an exposure and a disease). The null
+2 8 hypothesis (H,) is a statement of no difference or no association. The alternative hypothesis
+a
+
+(H,) is a statement of difference or association.
+
+In this case, patients are initially identified based on their disease status (ie, cases: patients
+with methicillin-resistant Staphylococcus aureus [MRSA] bacteremia, controls: patients without
+MRSA bacteremia). The frequency of factors (ie, exposure to insertion of a central line or
+urinary catheter, surgical site infection) is subsequently compared between cases and
+controls. Therefore, this is a case-control study; the most appropriate measure of
+association between an exposure and a disease in case-control studies is the odds ratio
+(OR), which represents the odds of disease among exposed patients relative to nonexposed
+patients.
+
+The OR may be interpreted as follows:
+
+¢ OR = 1.0 (null value) indicates that the odds of exposure among cases are the same as
+the odds of exposure among controls; therefore, exposure is not associated with the
+
+disease.
+Block Time Elapse
+
+Tutor oe
+
+Suspend

@@ -1,0 +1,59 @@
++B
+THT
+
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+21
+22
+23
++ 24
+25
++ 26
+27
+
+= = = eS . 4 Mark ume < wibssin 2 all. al =)
+Researchers develop a novel drug to treat HIV infection. In an in vitro experiment, wild-type
+viral isolates are cultured with human CD4 T lymphocytes in the presence of the drug.
+Microscopic evaluation of these cells reveals no cytopathic changes, and no intracellular viral
+particles can be detected. Further analysis reveals that in the presence of the drug the virus
+attaches to the cellular membrane, but fusion of the viral and cell membranes does not occur.
+
+Which of the following is the most likely target of this medication?
+
+©) A. Viral integrase enzyme
+©) B. Viral Nef gene product
+©) C. Viral Tat gene product
+©) D. T-cell antigen receptor-CD3 complex
+
+©) E. T-cell chemokine receptor
+
+© F. T-cell CTLA4 (CD152)
+
+Block Time Elapse
+
+Tutor
+
+‘4
+
+Activate Windows
+
+Feedback
+
+GAA)
+
+Reverse Color _Text Zoom
+
+id
+
+63
+
+Settings
+
+End Block

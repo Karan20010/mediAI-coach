@@ -1,0 +1,46 @@
+soot = ltem5of5 <q Se rq Al
+
+- 2 ——~ Question Id: 112 W 4 Mark: Previous Next Full Screen 2 Lab a
++ 3 (Choice A) Early complement proteins (eg, C3b, C5b) assist opsonization, and late
+
+28 complement proteins (C5-C9) form the membrane attack complex. Complement is crucial for
+
+control of bacterial infections, but it plays a minimal role in the control of Candida. In addition,
+complement levels are not particularly diminished by chemotherapy.
+
+(Choice B) Candida is primarily controlled by neutrophils, macrophages, and helper T cells;
+immunoglobulins have more of an adjunctive role. In addition, immunoglobulin levels are not
+typically affected by most cytotoxic chemotherapy because memory B cells are long lasting
+and have low rates of cellular division.
+
+(Choice C) Although chemotherapy impairs the production of granulocytes, which include
+eosinophils, basophils, and neutrophils, transient reduction in eosinophil and basophil count
+does not drastically increase risk of infection.
+
+(Choice E) T lymphocytes (particularly Ty1 and T)17 subtypes) primarily prevent
+
+superficial Candida infection by strengthening the mucosal immune defense; conditions that
+impair cell-mediated immunity (eg, HIV) are associated with higher risk of mucocutaneous
+Candida infection (eg, thrush, esophagitis). However, protection against invasive disease is
+
+mediated primarily by neutrophils, not lymphocytes.
+
+Educational objective:
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+Waiting for www.uworl
+
+End Block

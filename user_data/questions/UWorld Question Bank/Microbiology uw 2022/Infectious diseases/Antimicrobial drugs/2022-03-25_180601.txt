@@ -1,0 +1,9 @@
+Educational objective:
+
+Hyperkalemia is a common adverse effect of trimethoprim-sulfamethoxazole due to the
+trimethoprim-induced blockade of the sodium channels in the collecting duct, which prevents
+sodium-potassium exchange and reduces renal excretion of potassium (similar to the action of
+amiloride). This effect is often magnified in the elderly population, those with renal failure, or
+those given other potassium-sparing diuretics, ACE inhibitors, or angiotensin receptor
+
+blockers.

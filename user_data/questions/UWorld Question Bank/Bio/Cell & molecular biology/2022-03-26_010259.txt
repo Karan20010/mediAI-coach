@@ -1,0 +1,15 @@
+In contrast, non-lipid-soluble hormones interact with transmembrane receptors found on the
+cell membrane. These receptors use a signal transduction cascade involving second
+messengers with subsequent activation of non-receptor-associated transcription factors; they
+do not contain DNA-binding domains. Examples include the G-protein-coupled receptors that
+bind ACTH, ADH, epinephrine, and glucagon (Choices A, B, C, and D) as well as receptors
+with intrinsic and associated tyrosine kinase activity (eg, insulin and growth hormone
+receptors, respectively) (Choices E and F).
+
+Educational objective:
+
+Zinc-finger motifs are composed of chains of amino acids bound together around a zinc atom
+via linkages with cysteine and histidine residues. They recognize specific DNA sequences and
+are used by many transcription factors to bind DNA and alter activity of target genes.
+Intracellular receptors that bind steroids, thyroid hormone, and fat-soluble vitamins act directly
+as transcription factors and contain zinc-finger binding domains.

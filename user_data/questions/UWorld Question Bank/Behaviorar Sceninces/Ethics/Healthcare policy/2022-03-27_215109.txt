@@ -1,0 +1,13 @@
+Types of health insurance plans
+
+PPO HMO POS
+Monthly premiums $$$ $ $$
+Copayments & deductibles $$ $ Variable
+PCP referral required for specialist visits? No Yes Yes
+Size of "in network" provider panel Large Limited Limited
+May go outside provider network? Yes No Yes”
+
+“Requires additional out-of-pocket cost.
+HMO = health maintenance organization; PCP = primary care provider; POS = point of service;
+
+PPO = preferred provider organization.

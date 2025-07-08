@@ -1,0 +1,30 @@
+Question Id: 1479
+
+— Item 5 of 31 mY war <q = i @ a F 33
+
+e c
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+The /ac operon consists of a regulatory gene (/ac /), a promoter region (/ac p), an operator
+region (/ac o), and three structural genes (lac Z, lac Y, and lac A). The lac Z gene codes for B-
+galactosidase, which is responsible for the hydrolysis of lactose to glucose and galactose. The
+lac Y gene codes for permease, which allows lactose to enter the bacterium. The /ac p region
+is the binding site for RNA polymerase during the initiation of transcription. The Lac |
+repressor protein is the product of the /ac / gene and is constitutively expressed. Repressor
+proteins, when bound to the operator region, prevent binding of RNA polymerase to the
+promoter region, thus decreasing transcription of the /ac Z, lac Y, and lac A genes. Culture of
+E coli in lactose-containing media causes a conformational change in the repressor protein,
+preventing its attachment to the operator region and increasing transcription of the Jac operon
+
+structural genes.
+
+Culturing E coli in media containing glucose results in reduced expression of the /ac operon,
+even when the media contains lactose as well. This occurs because the /ac operon is
+positively regulated by the binding of catabolite activator protein (CAP) to a site slightly
+upstream from the promoter region. This only occurs when cAMP concentrations are high.
+Since glucose decreases the activity of adenylyl cyclase (reducing intracellular cAMP), the /ac
+operon is repressed in high-glucose conditions. In summary, the /ac operon is regulated by 2
+
+Block Time Elapse
+Tutor ck Suspend
+

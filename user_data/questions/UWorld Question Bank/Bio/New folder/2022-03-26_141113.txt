@@ -1,0 +1,14 @@
+Hemeproteins such as hemoglobin and myoglobin contain heme groups that are used to
+reversibly bind oxygen for transportation and storage. Hemoglobin A (the major form of
+hemoglobin in adults) is a tetramer consisting of 2 alpha and 2 beta chains. Each hemoglobin
+subunit is associated with a heme moiety, so each hemoglobin molecule has 4 heme groups.
+After binding to 1 oxygen molecule, the oxygen affinity of other heme molecules increases; this
+heme-heme interaction is responsible for the characteristic sigmoid shape of the oxygen-
+hemoglobin dissociation curve.
+
+In contrast to hemoglobin, myoglobin is a monomeric protein and the primary oxygen-storing
+protein in skeletal and cardiac muscle tissue; it is only found in the bloodstream after muscle
+injury. The partial pressure of oxygen at which 50% of myoglobin molecules are oxygen
+saturated (P:.) is only 1 mm Hg, which is much lower than the P;, of hemoglobin (26 mm Hg).
+Myoglobin also has only a single heme group and so does not experience heme-heme
+interactions; therefore, its oxygen-dissociation curve is hyperbolic.

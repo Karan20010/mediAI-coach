@@ -1,0 +1,17 @@
+Enzymes and the biochemical processes they catalyze often require distinct chemical
+environments for optimal function; small variations in temperature, molecular concentrations,
+and pH may render them ineffective. Cellular compartmentalization provides a means by
+which multiple heterogeneous environments can exist within a cell. Organelles such as the
+nucleus and mitochondria form distinct, membrane-bound regions with a chemical composition
+different from the cytosol. This allows multiple biochemical processes to occur simultaneously
+at maximum efficiency.
+
+The cytosol and mitochondria are the predominant sites of metabolism in the cell.
+Mitochondria are the site of beta-oxidation of fatty acids, the citric acid cycle, and the
+carboxylation of pyruvate (gluconeogenesis). The cytosol is home to enzymes necessary for
+glycolysis, fatty acid synthesis, and the pentose phosphate pathway. Transketolase is an
+enzyme of the pentose phosphate pathway that uses thiamine (vitamin B,) as a cofactor to
+shuttle 2-carbon fragments between sugar molecules. Other processes such as heme
+synthesis, the urea cycle, and gluconeogenesis rely on a complex interplay between the
+mitochondria and cytosol to function optimally; enzymes present in both cellular compartments
+are required for these metabolic pathways.

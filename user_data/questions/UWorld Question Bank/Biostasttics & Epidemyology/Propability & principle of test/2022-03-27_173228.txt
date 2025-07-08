@@ -1,0 +1,31 @@
+Question Id: 19239
+
+— Item 12 of 23 mY wax <q Se i @ al Lo) id @A &s
+
+e r
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+before and after an intervention) and one in which 2 groups of individuals have been matched
+based on certain attributes (eg, age, severity of disease). In this case, THI scores are
+assessed twice for each patient (preoperative and postoperative audiometric evaluations);
+therefore, a paired t-test is used.
+
+(Choice A) The analysis of variance (ANOVA) test compares the mean of 23 independent
+groups, as in a study comparing serum ferritin concentrations (ie, quantitative variable) in
+children (age 0-17), adults (age 18-59), and seniors (age 260).
+
+(Choice B) The chi-square test evaluates the association between 2 categorical variables, as
+in a study evaluating the association between sex (ie, "male" and "female") and myocardial
+infarction (ie, presence or absence).
+
+(Choice C) Acorrelation analysis uses the correlation coefficient to describe the linear
+relationship between 2 quantitative variables, as in a study evaluating the linear relationship
+between hours of sleep and irritability score.
+
+(Choice D) Meta-analysis is a statistical technique used to combine and analyze data from
+several studies to conduct an analysis with a greater statistical power than that of the
+individual studies.
+
+Block Time Elapse
+
+Tutor End Block

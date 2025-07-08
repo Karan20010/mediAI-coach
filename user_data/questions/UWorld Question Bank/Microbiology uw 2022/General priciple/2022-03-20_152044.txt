@@ -1,0 +1,15 @@
+Travelers to malaria-endemic regions should be counseled on mosquito avoidance measures
+and given chemoprophylaxis. Mosquito avoidance strategies include staying indoors at
+dawn/dusk (when mosquitos are most active), wearing insect repellant, limiting exposed skin,
+and sleeping within insecticide-treated nets. Chemoprophylaxis targets the predominant
+species of the region and takes into account the presence of drug resistance. In Africa, where
+chloroquine-resistant Plasmodium falciparum is endemic, common chemoprophylaxis
+regimens include atovaquone-proguanil, doxycycline, and mefloquine.
+
+Mefloquine is a schizonticide that actively destroys replicating parasites within red blood
+cells. However, it is inactivated in the liver and has no efficacy against hepatic schizonts.
+Therefore, patients must receive mefloquine chemoprophylaxis for 4 weeks upon return to
+ensure that parasites released from the liver are destroyed when they infect red blood cells
+(liver schizonts rupture over 8-30 days). Individuals who do not take mefloquine upon return
+(as in this case) are at risk for hepatic schizont release and subsequent red cell infection,
+leading to symptomatic malaria.

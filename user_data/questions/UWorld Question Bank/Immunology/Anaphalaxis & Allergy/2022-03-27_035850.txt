@@ -1,0 +1,6 @@
+Educational objective:
+
+Vasovagal syncope is a known complication of vaccine administration, particularly in
+adolescents. It typically involves a prodrome and can be differentiated from anaphylaxis
+based on skin findings (pallor vs urticaria), absence of respiratory symptoms (eg, upper airway
+edema, bronchospasm), and presence of bradycardia (vs tachycardia).

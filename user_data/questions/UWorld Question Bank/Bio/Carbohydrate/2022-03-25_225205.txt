@@ -1,0 +1,15 @@
+This patient has pyruvate dehydrogenase deficiency, an inherited inborn error of
+metabolism often presenting in infancy with lactic acidosis and neurologic defects. The
+disease results from deficient activity of the pyruvate dehydrogenase complex, a multi-enzyme
+complex generating acetyl-CoA from pyruvate, thereby linking glycolysis and the TCA cycle.
+Dietary carbohydrates are broken down into pyruvate via glycolysis; in patients with pyruvate
+dehydrogenase deficiency, the lack of enzymatic activity leads to a buildup of pyruvate,
+which is shunted to lactate via lactate dehydrogenase, generating a potentially life-threatening
+
+lactic acidosis.
+
+Disease management involves the implementation of a ketogenic diet: a high-fat, low-
+carbohydrate diet with moderate levels of protein. This diet forces the production of ketone
+bodies from fat and amino acid catabolism to fuel the body in the place of glucose. The near-
+absence of glucose in the diet decreases the amount of pyruvate generated, thereby
+decreasing lactate levels.

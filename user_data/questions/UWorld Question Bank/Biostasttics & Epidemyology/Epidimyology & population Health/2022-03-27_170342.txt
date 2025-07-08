@@ -1,0 +1,51 @@
+Item 20 of 29
+a V7 Mark
+
+Question Id: 19451
+
+dq
+
+Previous
+
+e
+
+Next
+
+ra
+
+(4)
+Full Screen
+
+Tutorial
+
+Lab Values
+
+A pediatrician examines a population of 1,000 children with a new test to diagnose asthma.
+
+The prevalence of asthma in this population is 10%. The sensitivity of the pediatrician's
+diagnostic test is 95%, and the specificity is 80%. Which of the following is the likelihood that a
+child from this population with a positive test result really has asthma?
+
+O A.51(5 +95)
+
+© B. 95/ (95 + 180)
+© C.95/(95 +5)
+
+© D. 720 / (720 + 180)
+© E. 720/ (720 + 5)
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+e @A 8
+
+Reverse Color _Text Zoom Settings
+
+Activate Windows
+
+Feedback id ~~ End Block

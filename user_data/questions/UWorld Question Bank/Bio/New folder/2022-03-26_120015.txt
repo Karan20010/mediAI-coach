@@ -1,0 +1,5 @@
+Educational objective:
+Protein kinase A is responsible for the intracellular effects of the G protein-mediated adenylate
+cyclase second messenger system. Hormone receptors that use this system include the TSH,
+
+glucagon, and PTH receptors.

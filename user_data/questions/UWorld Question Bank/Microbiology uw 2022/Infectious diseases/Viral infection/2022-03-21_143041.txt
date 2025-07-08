@@ -1,0 +1,8 @@
+Educational objective:
+
+The HIV genome contains 3 major structural genes that are translated as polyproteins and
+subsequently cleaved by host protease (env gene products) or viral protease (gag-po/ gene
+products) into the individual proteins that compose the HIV virus. Protease inhibitors block
+viral protease from cleaving gag-pol polyproteins, which results in the formation of immature
+
+virions that are noninfectious.

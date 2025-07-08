@@ -1,0 +1,15 @@
+(Choice A) In contrast to the gastrointestinal epithelium, which has a very high turnover rate,
+the urothelial barrier regenerates every 3-6 months. Therefore, it is minimally affected by short
+chemotherapy cycles.
+
+(Choices B and D) Unlike neutrophils, which live 5-10 days, plasma cells have low turnover
+rates; therefore, levels of circulating immunoglobulin are typically unaffected by most
+chemotherapy for solid tumors (eg, breast cancer). Similarly, tissue-resident macrophages
+have a long life-span and are not significantly impaired by chemotherapy cycles.
+
+Educational objective:
+
+Cytotoxic chemotherapy nonselectively kills rapidly dividing cells, including tumor, hair follicle,
+bone marrow, and gastrointestinal epithelial cells. Severe infections are common due to
+neutropenia from myelosuppression and commensal bacterial invasion via gastrointestinal
+epithelial damage from mucositis.

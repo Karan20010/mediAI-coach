@@ -1,0 +1,17 @@
+Normal male erectile function involves interplay between psychological and physical
+stimulation and the vascular, neurologic, and hormonal systems. On a vascular level, penile
+erection is induced by increased blood flow to the corpora cavernosa and corpus spongiosum
+accompanied by decreased outflow. Endothelial factors required for erection include formation
+of nitric oxide, which induces formation of cyclic GMP (CGMP), which in turn mediates vascular
+smooth muscle relaxation. cGMP is inactivated by cGMP phosphodiesterase (PDE) (ie,
+PDES), which cleaves cGMP and terminates penile erection.
+
+PDES inhibitors (eg, sildenafil, tadalafil) are widely used, first-line agents for treatment of
+erectile dysfunction (ED). PDE5S inhibitors increase activity of CGMP in the penile corpora,
+leading to greater and more prolonged tumescence in men with ED.
+
+However, PDE5S inhibitors can also inhibit PDE6 in the retina, which is involved in color vision.
+Patients experience this effect as a transient bluish discoloration to vision. Less common
+ocular effects of PDES inhibitors include nonarteritic anterior ischemic optic neuropathy,
+which presents with sudden monocular vision loss associated with an afferent pupillary defect,
+decreased visual acuity, and optic disc edema.

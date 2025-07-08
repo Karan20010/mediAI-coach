@@ -1,0 +1,15 @@
+This patient's rheumatoid arthritis is being treated with adalimumab, a tumor necrosis factor
+(TNF)-alpha inhibitor. TNF-alpha is a crucial cytokine of the cell-mediated immune response
+that aids in macrophage activation, phagolysosome function, and the formation and
+maintenance of granulomas. Blockade of TNF-alpha increases the risk of infection with
+pathogens controlled by the cell-mediated immune response such as intracellular bacteria (eg,
+Mycobacterium tuberculosis), viruses, and granulomatous fungi.
+
+This patient's pulmonary and reticuloendothelial (eg, lymphadenopathy, splenomegaly)
+findings and positive urine fungal antigen test raise strong suspicion for infection with
+Histoplasma capsulatum, a dimorphic fungus endemic to the Ohio and Mississippi River
+Valleys. H capsulatum is a mold that is inhaled from contaminated soil and converts to a yeast
+form in the lungs. Phagocytosis by alveolar macrophages does not result in destruction of the
+organism due to microbial virulence factors that prevent phagolysosome acidification.
+Therefore, for the first several weeks of infection, H capsulatum is able to proliferate within
+macrophages in an unchecked fashion.

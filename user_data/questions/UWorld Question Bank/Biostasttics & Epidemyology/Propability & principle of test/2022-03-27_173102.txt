@@ -1,0 +1,5 @@
+Educational objective:
+
+The p-value is the probability of obtaining a result (ie, sample estimate) at least as large as the
+one observed when the population value claimed in the null hypothesis is assumed to be true.
+A p-value <0.05 typically indicates that results are statistically significant.

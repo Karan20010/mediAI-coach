@@ -1,0 +1,37 @@
+Heme synthesis
+
+Mitochondria
+Cytoplasm
+
+Succinyl
+ALA synthase | CoA
++
+
+6-Aminolevulinic acid (ALA)
+
+ALA dehydratase
+vy
+
+Porphobilinogen (PBG)
+
+PBG deaminase
+v
+
+Fe helate
+Hydroxymethylbilane (HMB) ialdcalocade
+
+Fe
+Uroporphyrinogen II
+synthase
+i Protoporphyrin IX
+Uroporphyrinogen III
+
+Uroporphyrinogen
+decarboxylase
+
+vy
+Coproporphyrinogen III Protoporphyrinogen IX
+Coproporphyrinogen
+oxidase
+©uWorld =
+

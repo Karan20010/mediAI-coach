@@ -1,0 +1,5 @@
+(Choice E) In this example, both treatment regimens were effective, with extended-interval
+dosing having a slightly better response time. Because serum concentrations with the
+extended-interval regimen remain above the MIC for a much shorter period of time compared
+to multiple-daily dosing, time-dependent killing does not contribute significantly to overall drug
+efficacy.

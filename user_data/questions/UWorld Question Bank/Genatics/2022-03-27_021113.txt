@@ -1,0 +1,38 @@
+Question Id: 8276
+
+— Item 26 of 40 mY wax <q Se i @ al Lo) id lA)
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+(Choice B) DNA (gene) rearrangement occurs during the development and maturation of B
+cells and T cells. VDJ (Variable, Diverse, and Joining) gene recombination is a random
+process that takes place in the primary lymphoid tissue (the bone marrow for B cells, and
+Thymus for T cells).
+
+(Choice C) A mutation is a change in the DNA sequence of a gene. While somatic mutations
+do sporadically occur throughout the body, they do so only in a minority of cells. The vast
+majority of DNA throughout the body’s tissues consists of identical gene coding sequences.
+
+(Choice D & E) Transcription factors influence RNA polymerase’s affinity for specific genes by
+binding to DNA promoter sequences or enhancer regions, which can either stimulate or inhibit
+gene transcription. Transcription factors and enhancer regions affect the expression of pre-
+mRNA, but they do not influence post-transcriptional processing.
+
+Educational objective:
+
+Alternative splicing is a process where the exons of a gene are reconnected in multiple ways
+during post-transcriptional processing. This creates different mRNA sequences and
+subsequently, different protein isoforms. It is a normal phenomenon in eukaryotes that greatly
+increases the biodiversity of proteins encoded by the genome.
+
+References
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

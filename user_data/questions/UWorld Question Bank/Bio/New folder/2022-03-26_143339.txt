@@ -1,0 +1,12 @@
+This patient has acute ischemic colitis, which is most likely due to embolic disease related to
+his atrial fibrillation. The ischemic bowel undergoes anaerobic metabolism, causing lactate
+accumulation in the blood that leads to an anion gap metabolic acidosis. Acidosis stimulates
+renal ammoniagenesis, a process by which renal epithelial cells metabolize glutamine,
+generating ammonium and bicarbonate. Ammonium ions are transported into the tubular fluid
+and excreted in the urine while peritubular capillaries absorb bicarbonate, which functions to
+buffer acids in the blood.
+
+Under normal physiologic conditions, about half of the total amount of acid secreted in the
+urine is in the form of ammonium, and the remainder is excreted primarily as titratable acids,
+particularly inorganic phosphate. However, increased ammonium production is almost
+entirely responsible for the increase in renal acid excretion seen with chronic acidosis.

@@ -1,0 +1,35 @@
+ra a
+
+a
+Full Screen Tutorial Lab Values
+
+(either X or Y). Most sex-linked disorders are X-linked recessive (XLR). In XLR disorders,
+women with a copy of the defective gene will not have the disorder but will be carriers; men
+who inherit the defective gene will be affected. In X-linked dominant disorders, both males and
+females are affected following inheritance of the defective gene.
+
+(Choice C) Inheritance of an AD trait does not always result in the disease phenotype in
+conditions with incomplete penetrance. However, achondroplasia is a fully penetrant genetic
+disorder; if the mother carried the trait, she would have short stature.
+
+(Choice D) About 25% of children are affected in autosomal recessive (AR) disorders if both
+parents carry 1 copy of the defective gene (most common scenario). Many AR disorders are
+the result of enzymatic deficiencies (eg, phenylketonuria) that require both copies of the gene
+to be knocked out, as 1 functional copy usually provides sufficient activity to prevent
+occurrence of the disease.
+
+Educational objective:
+
+Achondroplasia is an autosomal dominant (AD) disorder that results in a gain-of-function
+mutation in the FGFR3 gene. Most individuals affected by AD disorders are heterozygous and
+have a 50% chance of transmitting the mutation to their offspring.
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

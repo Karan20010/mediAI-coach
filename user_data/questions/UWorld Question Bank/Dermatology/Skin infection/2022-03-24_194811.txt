@@ -1,0 +1,10 @@
+The patient described in this vignette is presenting with symptoms of tinea corporis. Clinically
+tinea corporis presents as an annular scaling plaque with well-demarcated, raised
+erythematous borders and central clearing.
+
+Terbinafine is a commonly used drug for treatment of dermatophytosis. It belongs to the class
+of antifungals called allylamines and may be used topically or orally. Terbinafine inhibits
+synthesis of ergosterol of the fungal membrane by inhibiting the enzyme squalene epoxidase.
+Ergosterol is a cell membrane sterol that is unique to fungi and does not occur in human cell
+membranes. This drug tends to accumulate in skin and its appendages, and its side effects
+are mild by the topical route.

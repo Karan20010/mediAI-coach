@@ -1,0 +1,52 @@
+41 ec en) é
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+— litem 11 of 31
+= a V7 Mark
+
+Question Id: 994
+Glucagon exerts its effects through G protein-coupled receptors using the adenylate cyclase
+second messenger system. G protein is a heterotrimer consisting of alpha, beta, and
+gamma subunits associated with the intracellular domain of these transmembrane receptors.
+The alpha subunit of the inactivated G protein is bound to GDP. On receptor activation, the
+alpha subunit undergoes a conformational change, which releases GDP and binds GTP. GTP
+binding allows the alpha subunit to dissociate from the remainder of the G protein complex.
+
+There are multiple subtypes of alpha G proteins, each with different secondary effects. A
+specific alpha subunit known as G, (present in glucagon, TSH, and PTH receptor complexes)
+activates adenylate cyclase when released from the G protein complex. Adenylate cyclase
+converts ATP to cAMP, which activates protein kinase A. Protein kinase A phosphorylates
+specific serine/threonine residues in various enzymes, leading to their activation or
+deactivation. Protein kinase A also phosphorylates proteins that bind to the regulatory regions
+
+of genes on DNA.
+
+(Choice A) cGMP activates protein kinase G, which mediates a number of intracellular effects
+(eg, smooth muscle relaxation, platelet activation, sperm metabolism). cGMP is inactivated by
+cGMP phosphodiesterase, which cleaves cGMP in the corpus cavernosum of the penis and
+regulates penile erection. Drugs that inhibit c6GMP-specific phosphodiesterase (eg, sildenafil)
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

@@ -1,0 +1,43 @@
+“= Question Id:
+
+ra =
+FullScreen Tutorial + Lab Values Notes Calculator Reverse Color__—_Text Zoom
+e probab r
+
+41 Pe
+
+Next
+erro
+
+Previous
+Vbpe
+
+reject a false H,; in other words, power = (1 - 8). This study reported a 10% chance (ie, 0.10
+probability) of concluding that there is no relationship (ie, no correlation) between the 2
+variables under study when one truly exists: this is the probability of a type II error (8).
+Therefore, the power of the test (ie, probability of rejecting a false H,: stating there is a
+
+correlation when one truly exists) is 1 - 0.10 = 0.90.
+
+One way to determine whether to reject H, is to calculate the p-value, the probability of
+obtaining the observed result (or results more extreme) when H, is assumed to be true. The p-
+value is also informally interpreted as the probability that the observed results are due to
+chance (although this is not technically correct). In this case, researchers concluded that the
+probability that results were due to chance is 0.03; therefore, the p-value = 0.03.
+
+Educational objective:
+
+The power of a test is the probability of making the correct decision of rejecting a false H, (ie,
+determining there is a correlation when one truly exists). The p-value is the probability of
+obtaining the observed result (or results more extreme) when H, is assumed to be true; it is
+
+informally interpreted as the probability that the observed results are due to chance.
+
+Block Time Elapse
+
+Tutor ck Suspend
+
+63
+
+Settings
+

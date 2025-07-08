@@ -1,0 +1,7 @@
+Educational objective:
+
+Keratinocytes are responsible for wound reepithelization. They migrate into the wound from its
+edges and are repopulated by replication within the stratum basale. Keratinocytes continue to
+migrate and proliferate until they contact other similar cells, a regulatory mechanism known as
+
+contact inhibition.

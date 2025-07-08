@@ -1,0 +1,7 @@
+Educational objective:
+
+Vitamin K is a cofactor for gamma-glutamyl carboxylase, an enzyme that activates coagulation
+factors Il, VII, IX, and X via posttranslational gamma carboxylation. Intestinal diseases
+associated with malabsorption (eg, inflammatory bowel disease) are a risk factor for vitamin K
+deficiency, which typically presents with mucosal bleeding, bruising, and prolonged PT and
+PTT (if severe).

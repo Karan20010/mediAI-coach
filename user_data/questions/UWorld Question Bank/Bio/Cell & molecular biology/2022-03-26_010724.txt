@@ -1,0 +1,17 @@
+The image above illustrates the difference between the rate of transport of solute across the
+cell membrane in simple diffusion (line 2) and carrier-mediated transport (line 1).
+
+There are two types of diffusion:
+
+¢ Simple diffusion — molecules move through a membrane without the help of carrier
+proteins.
+¢ Facilitated diffusion — requires carrier proteins.
+
+Carrier proteins are typically transmembrane proteins that possess binding sites for the
+substrate they transport. Binding is followed by movement of the substrate across the cell
+membrane to the intracellular space, where it is released into the cytoplasm. Because there is
+a finite number of carrier proteins in the cell membrane, transporter saturation occurs with
+facilitated diffusion, and can be seen as a flattening of the curve (maximum diffusion speed),
+even as solute concentration continues to increase. This maximum rate of transport is referred
+to as the transport maximum (T,,) and is similar in principle to the V,,.. in standard enzyme
+kinetics.

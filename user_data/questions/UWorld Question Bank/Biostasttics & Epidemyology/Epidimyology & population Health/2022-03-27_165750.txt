@@ -1,0 +1,8 @@
+(Choice E) The placebo effect occurs in randomized controlled trials and refers to patients’
+expectations affecting an outcome. In this case, the study is a case-control.
+
+Educational objective:
+
+Misclassification bias is an incorrect categorization of subjects regarding their exposure,
+outcome status, or both. In case-control studies, recall bias usually leads to misclassification
+of the exposure status.

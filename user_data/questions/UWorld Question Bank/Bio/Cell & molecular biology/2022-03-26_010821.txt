@@ -1,0 +1,8 @@
+Educational Objective:
+
+The resting membrane potential is the difference in the electrical charges across the cell
+membrane under steady-state conditions. The ions that are most permeable to the cell
+membrane make the largest contribution to the resting membrane potential. In general, a high
+potassium efflux and some sodium influx are responsible for the value of the resting potential,
+
+which is typically about -70 mV.

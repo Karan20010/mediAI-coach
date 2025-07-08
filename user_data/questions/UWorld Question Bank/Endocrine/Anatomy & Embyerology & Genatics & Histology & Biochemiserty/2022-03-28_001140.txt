@@ -1,0 +1,31 @@
+1 Item 31 of 31 -
+2 Question Id: 1990 LILY
+5 a
+a pain/osteopenia
+5
+6 e Macular cherry-r
+; A . spot
+Niemann-Pick . . . . A
+9 | Sphingomyelinase Sphingomyelin ¢ Progressive
+10 disease AR .
+4 neurodegenerati
+2 ¢ Hepatosplenome
+13 —————
+14 ¢ Progressive
+= . neurodegenerati
+Krabbe : Galactocerebroside & '
+7 . Galactocerebrosidase ; ¢ Peripheral
+18 disease psychosine
+49 neuropathy
+2 ¢ Optic atrophy
+21 ————
+22 ¢ Progressive
+= Metachromatic . neurodegenerati
+Arylsulfatase A Cerebroside sulfate :
+2s leukodystrophy ¢ Peripheral
+26
+7 neuropathy
+28 .
+29 * Subtype of lysosomal storage disorder. Activate Windows
+
+nd End Block

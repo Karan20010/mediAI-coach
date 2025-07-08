@@ -1,0 +1,5 @@
+Educational Objective:
+Prospective cohort studies are organized by selecting a group of individuals (i.e., cohort),
+determining their exposure status, and then following them over time for development of the
+
+disease of interest.

@@ -1,0 +1,17 @@
+This patient with fever, abdominal pain, and mucopurulent cervical discharge has pelvic
+inflammatory disease (PID). PID is typically treated with empiric broad-spectrum antibiotics
+(eg, ceftriaxone plus doxycycline) to cover the most common pathogens (ie, Chlamydia
+trachomatis, Neisseria gonorrhoeae).
+
+However, patients with long-term intrauterine devices (IUDs) are at increased risk for
+developing an active Actinomyces infection, as evidenced by this patient's culture that
+reveals acute-angle branching, gram-positive bacilli. Actinomyces is a facultative
+anaerobic bacterium and part of normal gastrointestinal flora. Because of the proximity of the
+anus to the vagina, lower genital tract colonization with Actinomyces is common in women.
+The bacteria can ascend to the upper genital tract to colonize an indwelling IUD.
+
+An Actinomyces infection is difficult to eradicate in the presence of a foreign body; therefore,
+IUD removal is required. In addition to empiric broad-spectrum antibiotics, patients need
+
+targeted antibiotic pharmacotherapy with penicillin, which works by binding penicillin-binding
+proteins, blocking transpeptidase formation in the cell wall, and activating autolytic enzymes.

@@ -1,0 +1,17 @@
+This patient with fever, icterus, splenomegaly, and ring-shaped parasites within red blood cells
+has malaria, which is caused by 4 main species of Plasmodium (P falciparum, P vivax, P
+ovale, P knowles/). Although malaria has been eradicated from the United States, cases still
+arise due to travel to endemic regions, particularly when no chemoprophylaxis is taken.
+
+The parasite is transmitted by female Anopheles mosquitos during blood feeding, travels to the
+liver where it infects hepatocytes, and then subsequently undergoes asexual reproduction,
+which generates hepatic schizonts with thousands of daughter cells (merozoites). Rupture of
+the schizont into the circulatory system leads to erythrocyte infection and cycles of
+intraerythrocytic reproduction.
+
+As the parasite disseminates throughout the circulation, production of inflammatory cytokines
+causes nonspecific symptoms (eg, fatigue, fever, malaise, headache) and, sometimes, life-
+threatening complications (eg, seizure, renal failure, circulatory collapse).
+Hepatosplenomegaly and signs of anemia and hyperbilirubinemia (eg, scleral icterus) are often
+present. The diagnosis is confirmed when peripheral blood microscopy shows
+intraerythrocytic trophozoites with a "diamond ring" appearance.

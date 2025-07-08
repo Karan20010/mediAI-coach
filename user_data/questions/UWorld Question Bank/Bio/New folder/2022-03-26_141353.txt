@@ -1,0 +1,18 @@
+This patient most likely has carbon monoxide (CO) poisoning, a condition that presents with
+nonspecific findings ranging from headache and dizziness to convulsions and respiratory
+arrest depending on concentration and exposure. CO is a colorless, odorless, tasteless gas
+that is a byproduct of incomplete hydrocarbon combustion. CO poisoning is most often
+caused by smoke inhalation from a fire or the burning of fuel sources such as wood, coal, or
+natural gas in poorly ventilated environments.
+
+CO toxicity occurs because of CO's ability to competitively bind iron present in heme proteins.
+The gas binds to heme iron with a much higher affinity than oxygen, forming
+carboxyhemoglobin. Even if only 1 of the 4 heme sites is affected, the remaining 3 heme
+groups have increased oxygen affinity (leftward shift of the oxygen dissociation curve),
+impeding oxygen delivery to tissues. CO is also capable of binding cardiac myoglobin with
+high affinity, disrupting the heart's ability to use oxygen and thereby decreasing cardiac
+output. At a cellular level, CO binds to cytochrome oxidase, inhibiting aerobic metabolism and
+exacerbating tissue hypoxia.
+
+Treatment for CO poisoning is administration of high-flow or hyperbaric oxygen therapy as
+this hastens the dissociation of CO from carboxyhemoglobin.

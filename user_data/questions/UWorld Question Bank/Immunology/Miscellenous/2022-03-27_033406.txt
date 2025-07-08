@@ -1,0 +1,15 @@
+Class | MHC pathway
+
+\
+
+Peptide
+@ fragments
+e
+e
+e
+Intracellular = Proteasome
+pathogen
+
+ER = endoplasmic reticulum, MHC = major histocompatibilty complex.
+
+‘TAP = transporter associated with antigen processing Ouwera

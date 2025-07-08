@@ -1,0 +1,3 @@
+(Choice F) tRNA charging refers to initial covalent bonding between tRNA and the
+corresponding AA, facilitated by aminoacyl-tRNA synthetase; inhibitors of this enzyme are
+potential antibiotics.

@@ -1,0 +1,11 @@
+HIV is a single-stranded RNA virus that is converted into cDNA by the HIV enzyme reverse
+transcriptase. This enzyme grows DNA by adding nucleotides to the terminal 3’-hydroxyl
+group using a 3-5’ phosphodiester bond. Nucleoside reverse transcriptase inhibitors
+(NRTIs) such as zidovudine block this step in viral replication. This class of medications is
+composed of nucleoside/nucleotide analogues that do not have a 3’-hydroxyl group. When
+reverse transcriptase incorporates an NRTI into a growing DNA strand, it results in chain
+termination because no 3'-hydroxyl group is available to add additional base pairs.
+
+Zidovudine (ZDT) was the first approved HIV medication but is now used primarily to prevent
+maternal to fetal transmission of HIV during labor and delivery. It is a thymidine analogue that
+contains an azido group in place of the hydroxyl group usually found at the 3’ end of thymidine.

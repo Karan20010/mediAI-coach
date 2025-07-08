@@ -1,0 +1,55 @@
+— ‘Item7 of 23
+Question Id: 1192
+
+ra al SB
+
+Lab Values Notes Calculator
+
+TP / (TP + FN)
+
+<4 e
+mY Mark = tes ae
+Positive Negative
+condition condition
+PPV =
+Positive test result a Fe
+TP / (TP + FP)
+: NPV =
+Negative test result FN TN
+JM/UN#EN)
+Sensitivity = Specificity =
+
+TN/(TN + FP)
+
+FN = false negative; FP = false positive; NPV = negative predictive value; PPV =
+
+positive predictive value; TN = true negative; TP = true positive.
+
+PPV = TP/ (TP + FP), where TP is true positives and FP is false positives.
+
+NPV = TN/(TN + FN), where TN is true negatives and FN is false negatives.
+
+In this case, PPV = 130 / (130 + 60) = 130/190.
+
+(Choices A and E) Sensitivity is a test's ability to correctly identify individuals with the
+disease. Sensitivity = TP / (TP + FN) = 130 / (130 + 50) = 130/180. Specificity is a test's
+
+Block Time Elapse
+
+Tutor
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+Activate Windows
+
+63
+
+Settings
+
+End Block

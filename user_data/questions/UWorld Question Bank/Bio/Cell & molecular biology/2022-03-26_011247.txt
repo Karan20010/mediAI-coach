@@ -1,0 +1,15 @@
+RAS genes code for a family of small G-proteins involved in signal transduction in the Ras-
+MAPK pathway. Ras proteins exist in 2 different states: an inactive GDP-bound state and an
+active GTP-bound state. Ras becomes activated when a growth factor ligand binds to a
+receptor tyrosine kinase located on the cell membrane, causing autophosphorylation of the
+receptor. This triggers binding of adaptor proteins that interact with Ras, promoting GDP
+removal and GTP binding. Activated Ras then begins a phosphorylation cascade that results
+in the activation of mitogen-activated protein kinase (MAPK), which enters the nucleus to
+influence gene transcription.
+
+Ras proteins have intrinsic GTPase activity that allows them to hydrolyze GTP; this
+mechanism prevents accumulation of active Ras (GTP-bound) in the absence of hormonal
+signaling. RAS gene mutations can lead to decreased intrinsic GTPase activity; this results in
+a constitutively activated Ras protein that causes constant and unregulated cell proliferation.
+RAS mutations are commonly identified in cancerous tumors, specifically colorectal and
+pancreatic malignancies.

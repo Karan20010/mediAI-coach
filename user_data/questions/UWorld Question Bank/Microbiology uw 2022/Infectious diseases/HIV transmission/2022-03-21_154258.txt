@@ -1,0 +1,12 @@
+¢ Positive fourth-generation HIV testing (HIV antigen/antibody test) — This test evaluates
+for the presence of p24 antigen and HIV-1 and HIV-2 antibodies but does not usually
+differentiate between HIV-1 and HIV-2.
+
+¢ Indeterminate or negative HIV-1 confirmatory testing — HIV-1 Western blot evaluates
+for proteins in HIV-1 and is usually indeterminate in the setting of HIV-2 infection. Plasma
+HIV-1 RNA testing will be negative.
+
+Confirmation of HIV-2 infection can be made using an HIV-1/HIV-2 differentiation
+immunoassay. Treatment with antiretroviral therapy is required to prevent HIV-2 disease
+progression. However, nonnucleoside reverse transcriptase inhibitors and fusion inhibitors
+must be avoided because HIV-2 is intrinsically resistant to these HIV medications.

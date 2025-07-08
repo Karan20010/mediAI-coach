@@ -1,0 +1,39 @@
+= Item8 of 23 5 v Mark <q Se rc j @ él e
+
+i Le c
+Question Id: 1191 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color
+
+sensitivity or specificity may be preferred and the cutoff value adjusted accordingly. A cutoff
+value just outside the overlapping region of the curves can maximize the sensitivity or
+specificity at 100% by correctly classifying all diseased or healthy individuals, respectively.
+
+In the above example, changing the cutoff point to a lower value (shift to the left) would cause
+more patients with the disease to test positive (TP, |FN), increasing the sensitivity of the
+test. However, as a consequence, more patients without the disease would also test positive
+(TN, TFP), resulting in decreased specificity.
+
+(Choices A, D, and E) Raising the cutoff value (shift to the right) would cause fewer
+individuals with the disease to have a positive test result ({TP, TFN), so sensitivity would
+decrease. Fewer individuals without the disease would also test positive (tTN, |FP), so
+specificity would increase.
+
+(Choice B) Positive predictive value (PPV = TP / [TP + FP]) represents the probability that a
+patient with a positive test result actually has the disease. In this case, the lower cutoff value
+would increase both TP and FP; how this affects the PPV depends on disease prevalence,
+which is not provided. In a population with very low disease prevalence, the number of FP
+
+would be expected to increase proportionately more than the number of TP, which would lower
+the PPV.
+
+Block Time Elapse
+
+Tutor oe
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

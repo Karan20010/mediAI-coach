@@ -1,0 +1,52 @@
+41 ec en) rl
+
+— litem 12 of 29
+= a V7 Mark
+
+Question Id: 19511
+effectiveness of different treatments within a single study or between similar studies (eg,
+similar patient characteristics, control groups, duration of follow-up). In this example, a single
+study is testing 2 treatments (ie, Drugs A and B) against placebo (ie, control group) to prevent
+death (ie, negative effect) in recently diagnosed children randomized to treatment groups with
+a similar follow-up (ie, 2-week survival):
+
+¢ Drug A versus placebo: ARR = 0.05, so NNT = 1/ 0.05 = 20
+¢ Drug B versus placebo: ARR = 0.20, so NNT = 1/0.20=5
+
+Drug A requires treating more children to prevent 1 additional death compared to Drug B
+(20 vs 5). Ahigher NNT indicates a lower effectiveness; therefore, Drug A is less effective
+compared to Drug B (Choices A, B, C, and E).
+
+Educational objective:
+
+The number needed to treat (NNT) is the number of patients who need to receive a treatment
+to prevent 1 additional negative event. NNT is the inverse of the absolute risk reduction. The
+lower the NNT, the more effective the treatment because fewer patients need be treated to
+prevent 1 additional negative event.
+
+Biostatistics Biostatistics & Epidemiology Number Needed To Treat
+
+Block Time Elapse
+
+Tutor
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

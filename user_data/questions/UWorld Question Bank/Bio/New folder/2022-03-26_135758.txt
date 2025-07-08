@@ -1,0 +1,12 @@
+Electrophoresis patterns in sickle cell syndromes
+
+HbA |HbA2|HbF| HbS | HbC
+
+Normal t+t+t++) + + |None|None
+Sickle cell trait +++ + + | +++ |None
+Sickle cell anemia (SCA)|None) + ap ser ||Nome
+
+SCA on hydroxyurea |None| + ++ | +++ |None
+
+Hemoglobin SC disease |None| + + | +++ | +44
+

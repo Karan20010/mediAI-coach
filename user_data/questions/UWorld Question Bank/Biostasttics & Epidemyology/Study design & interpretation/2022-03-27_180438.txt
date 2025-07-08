@@ -1,0 +1,11 @@
+Therefore, the cases are young athletes with a diagnosis of AIS irrespective of SIJ status; the
+controls are young athletes with no diagnosis of AIS irrespective of SIJ status because
+
+what determines whether the disease (ie, AIS) is associated with the risk factor (ie, SlJ) is the
+difference in the frequency of the risk factor between cases and controls.
+
+Educational objective:
+
+A case-control study is an observational study design; it begins with individuals who have the
+outcome ("cases") and compares them with individuals who do not have the outcome
+("controls") according to history of exposure to 21 risk factors.

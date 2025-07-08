@@ -1,0 +1,9 @@
+Isoniazid is an antimicrobial agent that is active only against mycobacteria. Its specificity is
+derived from its inhibition of mycolic acid synthesis. Mycolic acids form long branched-
+chain fatty acids in the outer portion of the mycobacterial peptidoglycan cell wall; they are
+essential for proper cell wall structure and virulence factor synthesis (eg, sulfatides, wax D,
+cord factor). If mycobacteria are unable to synthesize mycolic acids, they cannot create
+proper cell walls or divide to form new cells. Mycolic acids in the cell wall cause mycobacteria
+to be acid-fast as they retain the carbolfuchsin dye and resist decoloration by an acid-alcohol
+
+decolorizing agent.

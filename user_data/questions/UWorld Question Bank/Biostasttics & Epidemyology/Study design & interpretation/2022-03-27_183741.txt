@@ -1,0 +1,43 @@
+aa
+
+10
+at
+12
+13
+14
+15
+16
+17
+
+Question Id: 1231
+
+— Item 6 of 17 mY wax <q Se i @ al Lo) id @A &s
+
+Previous Next utter Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+Unfortunately, not all interventions or new treatments end up helping patients. The number
+
+needed to harm (NNH) represents the number of people who must be treated before 1
+
+additional adverse event occurs. It is calculated in a manner similar to the number needed to
+
+treat (NNT) but using the absolute risk increase (attributable risk) instead of the absolute risk
+
+reduction:
+
+NNH = 1/ Absolute risk increase
+
+To determine the absolute risk increase, first calculate the adverse event rate (eg, death) in
+the experimental and control groups. In this case, the adverse event of interest is death at 1
+year. There were 40 + 60 = 100 people treated with the experimental treatment (ie,
+zeracizumab-containing regimen); of those, 60 were dead at 1 year. Similarly, there were 51 +
+69 = 120 people treated with standard chemotherapy; of those, 69 were dead at 1 year.
+Therefore:
+
+Adverse event rate in experimental group = 60 / 100 = 0.60 (ie, 60%)
+Adverse event rate in control group = 69 / 120 = 0.575 (ie, 57.5%)
+The absolute risk increase can then be calculated by subtracting the adverse event rate in
+the control group from the adverse event rate in the treatment group:
+
+Block Time Elapse
+
+Tutor End Block

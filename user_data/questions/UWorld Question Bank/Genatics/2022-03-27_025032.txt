@@ -1,0 +1,20 @@
+Types of DNA mutations
+
+Silent
+
+Base substitution codes for same amino acid
+
+Missense
+
+Base substitution codes for different amino acid
+
+Conservative
+
+Base substitution codes for different amino acid with similar chemical structure
+
+Nonsense | Base substitution introduces premature stop codon
+
+Nonstop Base substitution within stop codon results in continued translation
+Splice site | Mutation at splice site alters intron removal from pre-mRNA
+Frameshift | Deletion/insertion of bases causes downstream misreading
+

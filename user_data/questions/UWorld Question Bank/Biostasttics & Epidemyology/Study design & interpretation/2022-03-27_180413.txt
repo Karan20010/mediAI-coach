@@ -1,0 +1,51 @@
+— Item 21 of 29
+Question Id: 19742
+
+Tutorial Lab Value:
+
+Temporality of different study designs
+
+CO OVA HARUN HE
+
+: Present Future
+>
+
+= Clinical trial
+
+. Treatment Compare
+
+. 10 a for outcome
+tt Control group _—> of interest
+
++ 12 Prospective cohort
+
++» 13 Risk factor + —» Compare
+
+disease
+» 14 Risk factor~ —> incidence
+» 15
+
+iS ‘eview past
+- 17 pprteset
+. 18
+
++ 19
+
+ar Diseased cases
+Nondiseased controls
+.
++ 23
+
++ 34 Risk factor + wary of
+» 25
+
+\_Risk factor - ——>
+» 26
+oun
+» 27
++ 28 @ Zoomin © Zoomout © Reset YF New | F] Existing (E] my Notebook
+» 29
+
+Block Time Elapsed: 00:
+
+Tutor e Suspend _—_End Block

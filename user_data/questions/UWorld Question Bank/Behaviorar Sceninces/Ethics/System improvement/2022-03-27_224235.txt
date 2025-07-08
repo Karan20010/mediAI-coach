@@ -1,0 +1,34 @@
+Types of studies in the health sciences
+
+Experimental
+
+Randomized
+controlled trial
+
+Random allocation into treatment & placebo groups
+
+Can determine efficacy of the intervention
+
+Nonrandomized
+
+Nonrandom allocation into treatment & placebo groups
+
+design ¢ Can determine efficacy of the intervention
+Observational
+¢ Data gathered from the same individuals over time
+Cohort (longitudinal)
+
+Can assess risk factors or outcomes
+
+Cross-sectional
+
+Data gathered at one point in time
+
+Can determine prevalence of an outcome in a population
+
+Case-control
+
+Data gathered from individuals with the condition of interest
+(cases) & compared to individuals without the condition
+
+(controls)

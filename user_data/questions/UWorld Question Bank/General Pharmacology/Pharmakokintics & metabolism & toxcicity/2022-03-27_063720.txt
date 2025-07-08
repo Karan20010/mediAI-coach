@@ -1,0 +1,8 @@
+Educational objective:
+Half-life (t,.) is a measure of how quickly a drug with first-order kinetics is eliminated from the
+
+body. A drug is almost completely eliminated after 5 half-life intervals. The half-life can be
+calculated from the drug's volume of distribution (V.) and clearance rate (CL) using the
+following equation:
+
+tie = (0.7 x V.)/ CL.

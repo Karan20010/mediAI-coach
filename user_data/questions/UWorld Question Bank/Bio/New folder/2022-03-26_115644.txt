@@ -1,0 +1,14 @@
+Catecholamine synthesis
+
+Tyrosine
+| Tyrosine hydroxylase
+DOPA
+| Dopa decarboxylase
+Dopamine
+| Dopamine B-hydroxylase
+Norepinephrine
+| PNMT <-@— Cortisol
+Epinephrine
+
+PNMT = phenylethanolamine-N-methyltransferase
+UWorld

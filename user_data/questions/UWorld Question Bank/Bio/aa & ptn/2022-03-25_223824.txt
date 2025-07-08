@@ -1,0 +1,18 @@
+This patient has inclusion cell (I-cell) disease, an autosomal recessive lysosomal storage
+disorder. |-cell disease occurs due to defects in protein targeting, a process by which proteins
+are transported to their appropriate intra- or extracellular location.
+
+Normally, posttranslational modifications (eg, folding, glycosylation, phosphorylation) function
+as markers that help guide proteins to their final destination. For lysosome-bound proteins
+(ie, acid hydrolases), a Golgi body phosphotransferase enzyme catalyzes the phosphorylation
+of mannose residues on the proteins. Once tagged with mannose-6-phosphate, these
+proteins traverse the Golgi network and are ultimately transported to the lysosome, where they
+serve as catalysts for degradation of cellular components.
+
+In I-cell disease, a defective phosphotransferase enzyme results in deficient
+phosphorylation (ie, incorrect targeting) of mannose residues on acid hydrolases, which are
+then inappropriately secreted to the extracellular space. This leads to lack of degradation of
+lysosomal cellular debris, which accumulates within the lysosome, forming the characteristic
+inclusion bodies. Patients with this disorder typically have failure to thrive, respiratory tract
+infections, and cognitive deficits in the first year of life, along with characteristic physical
+features (eg, coarse facies, corneal clouding, hepatosplenomegaly).

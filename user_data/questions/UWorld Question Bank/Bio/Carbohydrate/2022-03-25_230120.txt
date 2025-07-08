@@ -1,0 +1,18 @@
+Glycogen is broken down by the enzyme glycogen phosphorylase, which is regulated
+through phosphorylation (active state) and dephosphorylation (inactive state). Phosphorylase
+kinase (PK) is the enzyme responsible for the phosphorylation of glycogen phosphorylase,
+whereas phosphoprotein phosphatase catalyzes its dephosphorylation.
+
+PK is regulated differently in liver than in muscles. Glycogen stored in the liver is used to
+maintain blood glucose levels during the fasting state, whereas glycogen in the muscles is
+used to provide energy for muscle contraction. In the liver, PK is activated primarily through
+the binding of epinephrine and glucagon to G, protein-coupled receptors, which increases
+
+cAMP concentrations and causes phosphorylation of PK (via protein kinase A).
+
+Skeletal muscle lacks glucagon receptors, but muscle PK can still be phosphorylated in
+response to an epinephrine-induced increase in cAMP concentrations. However, increased
+intracellular calcium is a more powerful activator of muscle PK. Release of sarcoplasmic
+calcium stores following neuromuscular acetylcholine stimulation allows for synchronization
+of skeletal muscle contraction and glycogen breakdown, providing the energy necessary for
+anaerobic muscle contraction.

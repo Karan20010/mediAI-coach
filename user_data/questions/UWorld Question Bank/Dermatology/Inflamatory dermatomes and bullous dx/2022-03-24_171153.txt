@@ -1,0 +1,22 @@
+This patient has chronic allergic contact dermatitis (ACD), presenting with localized itching
+and lichenification (ie, skin thickening). Nickel is a common trigger and typically causes
+symptoms at the wrists (eg, watches), earlobes (eg, earrings), or umbilicus (eg, belt buckles).
+Corrosion of metal alloys by electrolytes in sweat releases soluble metal ions that trigger a
+hypersensitivity reaction. ACD is a type IV (delayed-type) hypersensitivity reaction occurring
+in 2 phases:
+
+1. Sensitization: Cutaneous Langerhans cells take up haptens (ie, allergens) and present
+them to naive CD4- and CD8- T cells in regional lymph nodes, resulting in clonal expansion
+
+of hapten-sensitive T cells. This phase takes 10-14 days and does not result in cutaneous
+lesions.
+
+Ny
+
+. Elicitation: On reexposure, sensitized T cells are recruited to the dermis. There, they
+release cytokines (eg, interferon gamma) that recruit additional inflammatory cells (eg,
+macrophages, mast cells, eosinophils), resulting in erythema and pruritus. Dermal edema,
+caused by leaky dermal vessels, seeps into the epidermal intercellular spaces
+(spongiosis), pulling apart intercellular attachments and sometimes resulting in
+intraepidermal vesicles. With persistent exposure, the lesions become thickened and less
+vesicular; histopathology shows epidermal hyperplasia.

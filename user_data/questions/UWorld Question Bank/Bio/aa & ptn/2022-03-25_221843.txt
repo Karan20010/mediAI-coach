@@ -1,0 +1,14 @@
+Catabolism of several essential amino acids (valine, isoleucine, methionine, and threonine)
+along with odd-chain fatty acids results in the generation of propionyl-CoA. Propionyl-CoA is
+subsequently converted to methylmalonyl-CoA in a reaction catalyzed by biotin-dependent
+propionyl-CoA carboxylase. Isomerization of methylmalonyl-CoA then generates succinyl-
+CoA, which enters the TCA cycle.
+
+This patient's presentation is consistent with propionic acidemia, an autosomal recessive
+organic acidemia caused by congenital deficiency of propionyl-CoA carboxylase. This enzyme
+catalyzes the conversion of propionyl-CoA to methylmalonyl-CoA. In its absence, excess
+propionic acid accumulates in the bloodstream, causing severe metabolic acidosis.
+Hypoglycemia and ketosis frequently develop secondary to the acidosis. Affected patients
+present 1-2 weeks after birth with lethargy, poor feeding, vomiting, and hypotonia. Treatment
+involves starting a low-protein diet containing minimal amounts of valine, isoleucine,
+methionine, and threonine.

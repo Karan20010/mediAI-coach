@@ -1,0 +1,38 @@
+—— Question Id: 161
+
+— Item 26 of 32 mY wax <q = Ld @ a) bo 4 Gaia)
+
+(4) r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+(Choice A) Amoxicillin does not inhibit CYP3A4 or increase circulating simvastatin levels.
+Penicillin antibiotics generally have only minor effects on the cytochrome P-450 system.
+
+(Choice B) Bismuth subsalicylate can cause black stools due to the formation of bismuth
+sulfate in the gastrointestinal tract. However, this medication does not cause myopathy or
+myoglobinuria. Excessive intake of bismuth can cause motor weakness, but this is due
+primarily to neural rather than muscle toxicity.
+
+(Choice C) Polyvalent cations (eg, calcium, iron) can form insoluble chelate complexes with
+certain antibiotics (eg, tetracyclines, fluoroquinolones) and other drugs (eg, levothyroxine,
+levodopa), leading to decreased drug absorption. Simvastatin does not form chelate
+complexes, and decreased absorption would lower, not increase, the risk for myopathy.
+
+(Choice E) Both metronidazole and simvastatin carry a small risk for peripheral neuropathy.
+In some patients, the effect can be additive and lead to numbness, pain, and paresthesia in
+the hands and feet. However, this neuropathy would not cause muscle tenderness or
+myoglobinuria.
+
+Educational objective:
+
+Statins, primarily simvastatin, lovastatin, and atorvastatin, are metabolized by CYP3A4. Drugs
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

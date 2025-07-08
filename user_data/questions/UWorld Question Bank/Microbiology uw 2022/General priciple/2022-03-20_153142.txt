@@ -1,0 +1,19 @@
+Giardia lamblia is an intestinal flagellate that exists in 2 forms: a trophozoite (pathogenic
+stage) or a cyst (infective stage). The trophozoite is a bilaterally symmetric, pear-shaped
+organism with multiple flagella and 2 nuclei (owl's eyes appearance); the cysts are oval and
+contain up to 4 nuclei. The disease is transmitted by drinking contaminated water (eg,
+campers, travelers to endemic areas) or via fecal-oral transmission (eg, children in day care
+centers).
+
+Giardiasis can be asymptomatic or present with a variable combination of diarrhea, nausea,
+abdominal cramps, and fat malabsorption (eg, foul-smelling stools). The diagnosis is
+confirmed by stool microscopy for ova and parasites or fecal immunoassays for Giardia
+antigens. Small-bowel biopsy is sometimes performed when stool studies are nondiagnostic
+and can show varying degrees of villous atrophy and crypt hyperplasia depending on disease
+severity.
+
+Immune defence against Giardia involves CD4+ T helper cell induction of secretory IgA
+production. Secretory IgA helps prevent and clear infection by binding to trophozoites and
+impairing their adherence to the upper small-bowel mucosa. Children with IgA deficiency, X-
+linked agammaglobulinemia, and common variable immune deficiency have a predisposition to
+developing chronic giardiasis.

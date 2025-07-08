@@ -1,0 +1,60 @@
+CO OVA HARUN HE
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+
+24
+22
+23
+24
+25
+26
+27
+28
+29
+
+= Item 19 0f 20 wD mark << i i @ al [=] ‘J
+
+Question Id: 1202 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color
+
+exposure between the case and control groups Is what determines whether the exposure Is
+more prevalent among cases as compared to controls.
+
+Ideally, exposure frequency among controls should be representative of that among the
+population of individuals "at risk" of becoming cases. In other words, for a given case-control
+study, controls are nondiseased individuals who could be considered cases if they had the
+disease. Often, controls and cases are matched based on independent variables (eg, age,
+sex) to decrease the effects of confounding.
+
+(Choices D, E, and F) AML is the outcome of interest; therefore, children who have AML can
+be used only to form the cases group and cannot be used as controls. Cases should also be
+selected regardless of exposure status.
+
+Educational objective:
+
+Selection of control subjects in case-control studies is intended to provide an accurate
+estimation of exposure frequency among the nondiseased general population. Cases and
+controls should be selected based on disease status, not exposure status.
+
+Biostatistics Biostatistics & Epidemiology Study designs
+
+Subject System Topic
+
+GAA)
+
+Text Zoom
+
+nd
+
+63
+
+Settings
+
+End Block

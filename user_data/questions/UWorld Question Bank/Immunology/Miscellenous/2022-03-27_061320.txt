@@ -1,0 +1,68 @@
+Hit
+
+at
+12
+13
+
+Item 10 of 13
+Question Id: 797
+
+dq
+
+Previous
+
+é
+
+Lab Values
+
+Which of the following sets of immune cells and cytokines is most likely responsible for the
+
+development of this patient's pathologic findings?
+
+ZY A. Th1, IL-2, interferon-y (68%)
+B. Th1, IL-5, IL-10 (1%)
+C. Th2, IL-3, interferon-y (6%)
+
+D. Th2, IL-4, IL-5 (10%)
+
+E. Th2, IL-5, tumor necrosis factor-alpha (12%)
+
+Bloc!
+Tutor
+
+Omitted
+
+Correct answer il
+
+68%
+
+Answered correctly
+
+k Time Elapsed: 00:01:15
+
+12 secs
+Time Spent
+
+2022
+[#3] Version
+
+Iculator
+
+er
+
+Reverse Color
+
+Text Zoom
+
+Activate Windows
+
+%
+
+Feedback
+
+Settings
+
+()
+
+End Block
+

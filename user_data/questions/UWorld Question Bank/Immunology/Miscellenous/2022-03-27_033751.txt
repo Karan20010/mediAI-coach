@@ -1,0 +1,6 @@
+Educational objective:
+IgG, IgA, and IgD have a hinge region between the Fab fragment and the Fc fragment of the
+
+immunoglobulin. The hinge region increases flexibility of the Fab arms, which makes the
+antibody more likely to bind to more than one site on the antigen. This increases the avidity of
+the immunoglobulin but makes it more susceptible to destruction by bacterial proteases.

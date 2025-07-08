@@ -1,0 +1,13 @@
+Azathioprine metabolism
+
+HGPRT
+Azathioprine —————» 6-mercaptopurine ——————» 6-TG active metabolites
+(inhibition of cellular proliferation)
+
+Allopurinol > Xanthine PI
+Febuxostat oxidase TPMT
+Inactive metabolites
+
+“Genetic deficiency of TPMT is common
+6-TG = 6-thioguanine, HGPRT = hypoxanthine-guanine phosphonbosyltransferase,
+TPMT = thiopurine methyltransferase Ouworid

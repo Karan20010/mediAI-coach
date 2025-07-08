@@ -1,0 +1,3 @@
+Educational objective:
+Field cancerization can occur when a large area of cells is exposed to carcinogens that induce
+mutations, leading to a higher risk of forming cancers.

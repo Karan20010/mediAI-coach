@@ -1,0 +1,53 @@
+Item 15 of 17
+
+= Question Id: 1274
+
+a V7 Mark
+
+dq
+
+Previous
+
+e
+
+Next
+
+ra
+
+(4)
+Full Screen
+
+Tutorial
+
+Lab Values
+
+A prospective cohort study was conducted to assess the role of daily alcohol consumption in
+
+the occurrence of breast carcinoma. The investigators reported a 5-year relative risk of 1.4 for
+people who consume alcohol daily compared to those who do not. The 95% confidence
+
+interval was 1.02-1.85. Which of the following p-values is most consistent with the results
+
+described above?
+
+© A. 0.03
+© B. 0.06
+© C.0.09
+© D.0.11
+© E.0.20
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+e @A 8
+
+Reverse Color _Text Zoom Settings
+
+Activate Windows
+
+Feedback id ~~ End Block

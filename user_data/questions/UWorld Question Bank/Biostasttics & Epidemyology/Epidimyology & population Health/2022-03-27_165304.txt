@@ -1,0 +1,47 @@
+= ltem5of29 5 v Mark <q Se rc j @ él
+
+— " . L
+Question Id: 19447 Praras Next FullScreen Tutorial__—_Lab Values
+
+The relative risk (RR) is commonly used in cohort and experimental studies as a measure of
+association between a risk factor or treatment and a disease or outcome. RR is equal to the
+risk of an outcome or disease (eg, infection) in a group exposed to a treatment (eg, Treatment
+A) divided by the risk of the same outcome or disease in a group exposed to a different
+treatment (eg, Treatment B).
+
+RR = (risk of disease in Treatment A) / (risk of disease in Treatment B)
+
+The RR may be interpreted as follows:
+
+e RR < 1.0 indicates that exposure to Treatment A is associated with a decrease in risk of
+disease with respect to Treatment B.
+
+¢ RR = 1.0 (null value) indicates that there is no association between the treatments and
+risk of disease.
+
+¢ RR > 1.0 indicates that exposure to Treatment A is associated with an increase in risk of
+disease with respect to Treatment B.
+
+The confidence interval (Cl) of a RR indicates, with a certain confidence level, whether a
+given RR is statistically different from the null value (ie, RR = 1). ACI that includes the null
+
+value (ie, RR = 1) is not statistically significant, and a Cl that excludes the null value (ie,
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

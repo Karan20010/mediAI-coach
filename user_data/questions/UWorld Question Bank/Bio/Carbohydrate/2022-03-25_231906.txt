@@ -1,0 +1,39 @@
+41 be uu @® @4§ &® &= FF &) &
+
+e c
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+— Item 23 of 23
+= a V7 Mark
+
+Question Id: 1036
+
+This patient is likely suffering from glucose-6-phosphate dehydrogenase (G6PD) deficiency,
+an X-linked recessive disorder resulting in episodic bouts of hemolysis when red blood cells
+
+experience increased oxidative stress.
+
+G6PD is the rate-limiting enzyme of the pentose phosphate pathway (PPP). This enzyme
+catalyzes the conversion of glucose-6-phosphate to 6-phosphogluconolactone, which is
+subsequently converted to 6-phosphogluconate. The PPP serves to generate both NADPH
+and ribose-5-phosphate, a precursor for nucleotide synthesis. Red blood cells utilize
+reduced NADPH to maintain a steady supply of glutathione, a molecule capable of
+neutralizing free radicals and therefore protecting the cells against oxidative damage. As the
+PPP is the only mechanism for red blood cells to generate NADPH, enzymatic defects in the
+pathway increase their susceptibility to oxidative damage.
+
+Increased oxidative stress can occur as a result of exposure to medications (eg,
+antimalarials, sulfonamides), certain foods (eg, fava beans), and infection. This patient was
+likely treated with a sulfonamide drug for his bacterial skin infection, which precipitated
+hemolytic anemia. Oxidative damage to red blood cells also causes hemoglobin to denature,
+forming insoluble Heinz bodies that are removed in the spleen (produces characteristic bite
+cells).
+
+Block Time Elapse
+
+Tutor
+
+ck
+
+Suspend
+

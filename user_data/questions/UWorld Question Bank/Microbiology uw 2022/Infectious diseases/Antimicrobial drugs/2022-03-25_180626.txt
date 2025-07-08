@@ -1,0 +1,8 @@
+Certain strains of bacteria produce the beta-lactamase enzyme, which hydrolyzes the beta-
+lactam ring of penicillin family antibiotics rendering them ineffective. To help prevent this
+effect, beta-lactamase inhibiting compounds have been developed. The beta-lactamase
+inhibitors include clavulanic acid, sulbactam and tazobactam. Concurrent administration of a
+beta-lactamase inhibitor with a beta-lactamase susceptible antibiotic allows that antibiotic to
+retain its efficacy against the offending bacterium. For example, giving clavulanate together
+with amoxicillin expands amoxicillin's spectrum of activity to include strains of beta-lactamase
+synthesizing bacteria which would otherwise have been resistant to amoxicillin alone.

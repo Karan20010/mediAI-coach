@@ -1,0 +1,18 @@
+The image demonstrates a Kayser-Fleischer ring, an ophthalmologic finding most strongly
+associated with Wilson's disease (although it can also be seen in chronic cholestatic diseases
+such as primary biliary cirrhosis). Kayser-Fleischer rings are best identified on slit-lamp
+examination, but they can be observed grossly, especially with long-standing, untreated
+disease. The rings are formed through the granular deposition of copper within Descemet's
+membrane in the cornea.
+
+Wilson's disease is a rare, autosomal recessive disease most often identified in individuals 5-
+40 years old. The genetic mutations associated with Wilson's disease hinder copper
+metabolism by reducing the formation and secretion of ceruloplasmin and decreasing hepatic
+secretion of copper into the biliary system. Copper is a pro-oxidant and causes damage to
+hepatic tissue through the generation of free radicals. Eventually, it leaks from injured
+hepatocytes into the circulation to be deposited in various tissues, including the cornea and
+basal ganglia. Atrophy of the basal ganglia then ensues.
+
+Treatment is life-long and focuses on removing accumulated copper in the tissues and
+preventing its re-accumulation. First-line medications include copper chelators such as d-
+penicillamine and trientine.

@@ -1,0 +1,35 @@
+— Item 33 of 40 mY wax <q Se i @ al Lo) id lA)
+
+. Le c
+Question Id: 2044 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom
+
+oncogenes following a mutation or with constitutive expression.
+
+(Choice A) Ras is a proto-oncogene that codes for a membrane-bound G-protein. This G-
+protein acts as a secondary mediator for several hormones and cytokines that act on cell
+membrane receptors. Ras activation activates the MAP kinase pathway and ultimately affects
+transcription. However, Ras itself does not bind directly to DNA.
+
+(Choices C and E) The 81-adrenergic receptor is a classic Gs-protein-coupled receptor
+located in the cell membrane. It does not interact directly with DNA. Adenylyl cyclase is the
+enzyme that cleaves ATP to form cAMP, the second messenger associated with G,-protein-
+coupled receptors. cAMP activates protein kinase A for further downstream signaling.
+
+(Choice D) S-100 proteins are homodimeric calcium-binding proteins, similar in structure to
+calmodulin and important in intracellular functions such as protein phosphorylation and cell
+growth and differentiation. S-100 is a marker for cells of neural crest derivation (melanocytes
+and Schwann cells), as well as Langerhans cells and other dendritic cells.
+
+Educational objective:
+Southwestern blotting is used to detect DNA-binding proteins such as transcription factors,
+nucleases, and histones.
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

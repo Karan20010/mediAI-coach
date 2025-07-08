@@ -1,0 +1,28 @@
+— Item 12 of 17 mY war <q = i @ a F 33
+
+Question Id: 1188 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+Bias refers to a systematic error (due to nonrandom factors) that can result in an incorrect
+association between the exposure and outcome. In general, when bias is present, the results
+are consistently distorted in one direction. In prospective studies, if loss to follow-up
+occurs disproportionately between the exposed and unexposed groups, attrition bias can
+result if the lost subjects differ in their risk of developing the outcome compared to the
+remaining subjects. Attrition bias is a form of selection bias (a term that most often refers to
+
+systematic differences between groups in terms of treatment response or prognosis). Attrition
+
+bias does not occur when the losses happen randomly between the exposed and unexposed
+
+groups, as this simply leads to a smaller study population.
+
+In this example, a substantial number of subjects (800 / 4000 = 20%) were lost to follow-up,
+primarily those with higher levels of alcohol consumption. If these lost subjects had a higher
+incidence of breast cancer than those remaining in the study, then a selective loss of high-risk
+subjects would have occurred in the exposed group. As a result, the measure of the
+association between alcohol use and breast cancer would be underestimated, which might
+explain why no significant association was seen in this study (as the confidence interval of
+0.90 to 1.85 crosses 1, which is the null value for relative risk).
+
+(Choice A) Lead-time bias occurs when a screening test diagnoses a disease earlier than it
+
+ck Suspend

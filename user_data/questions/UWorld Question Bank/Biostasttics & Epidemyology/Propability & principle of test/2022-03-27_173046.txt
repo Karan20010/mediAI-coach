@@ -1,0 +1,36 @@
+= Item 10 of 23 5 v Mark <q Se rc j @ él e
+
+Question Id: 19621 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color
+
+Statistical tests contrast a null hypothesis (H,) and an alternative hypothesis (H.), in this case:
+
+¢ H, is aclaim of no difference between populations (eg, no difference in mean body weight
+between the low-carbohydrate population and the low-fat population).
+¢ H, is a claim of a difference between populations (eg, difference in mean body weight
+between the 2 populations).
+Statistical inference uses data from samples (eg, 75 adults in the low-carbohydrate sample,
+75 adults in the low-fat sample) to draw conclusions about underlying populations. Sample
+estimates or differences (eg, sample mean, difference in mean between 2 samples) generally
+vary with distinct samples (eg, if a different sample of 75 adults was chosen for each group)
+and may be close but not equal to the underlying population value.
+
+One way to account for sampling variation is to calculate the p-value, which is the
+probability of obtaining a sample value at least as large as the one observed when the
+population value claimed in H, is assumed to be true. The magnitude of the p-value
+compared to a predetermined significance level (eg, 0.05 [or 5%] commonly used as the
+threshold) determines whether there is convincing evidence against H,.
+
+¢ Alow p-value (eg, <0.05) occurs when the sample value significantly disagrees with the
+
+Block Time Elapse
+
+Tutor oe
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

@@ -1,0 +1,3 @@
+Educational objective:
+The paired t-test compares the mean of 2 related groups. The test requires that a quantitative
+dependent variable (ie, outcome) be evaluated in 2 related (ie, matched, paired) groups.

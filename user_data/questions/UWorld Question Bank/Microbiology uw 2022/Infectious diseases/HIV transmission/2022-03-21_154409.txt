@@ -1,0 +1,21 @@
+Patients with HIV have progressive impairment of the cell-mediated immune response that
+puts them at risk for opportunistic infections (Ols) with bacterial, viral, fungal, and protozoal
+pathogens. Ols are associated with significant morbidity and mortality and also worsen HIV
+progression and viremia. Antimicrobial prophylaxis can decrease the risk of developing
+certain Ols and is recommended in addition to antiretroviral therapy for all patients with HIV
+who have CD4 counts <200/mm:.
+
+Antimicrobial prophylaxis is guided by the patient's CD4 count, as follows:
+
+¢ CD4 count <200/mm: — Antimicrobial prophylaxis against Pneumocystis jiroveci
+
+pneumonia is indicated. Trimethoprim-sulfamethoxazole is the first-line agent.
+
+¢ CD4 count <100/mm: — Patients require antimicrobial prophylaxis against Toxoplasma
+gondii reactivation if they have serologic evidence of previous exposure (positive
+Toxoplasma |gG antibody). Trimethoprim-sulfamethoxazole is also used for prophylaxis
+against this condition (Choice F).
+
+¢ CD4 count <50/mm: — Patients require antimicrobial prophylaxis against Mycobacterium
+avium-intracellular (mycobacterium avium complex). Azithromycin is used most commonly
+(Choice D).

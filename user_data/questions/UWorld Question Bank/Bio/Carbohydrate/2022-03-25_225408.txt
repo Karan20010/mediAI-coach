@@ -1,0 +1,18 @@
+The 2 major processes that maintain plasma glucose between meals are glycogenolysis and
+gluconeogenesis. Glycogenolysis is the primary source of glucose for the first 12-18 hours of
+fasting. Once hepatic glycogen stores become depleted, gluconeogenesis becomes the
+major process used by the body to keep blood glucose levels within the normal range. During
+gluconeogenesis, glucose is formed from lactate, glycerol, and glucogenic amino acids. This
+process uses many of the enzymes involved in glycolysis. However, hexokinase,
+phosphofructokinase, and pyruvate kinase are unidirectional and must be bypassed by
+distinct gluconeogenic enzymes.
+
+The first committed step of gluconeogenesis is the biotin-dependent carboxylation of pyruvate
+to oxaloacetate by mitochondrial pyruvate carboxylase. Oxaloacetate is subsequently
+converted to malate by malate dehydrogenase to facilitate exit from the mitochondria, and then
+is converted back to oxaloacetate by cytosolic malate dehydrogenase (malate shuttle). In the
+cytosol, phosphoenolpyruvate carboxykinase (PEPCK) converts oxaloacetate to
+phosphoenolpyruvate. Therefore, pyruvate carboxylase and PEPCK work together to bypass
+pyruvate kinase. The 2 other unique gluconeogenic enzymes are fructose 1,6-
+bisphosphatase (bypasses phosphofructokinase) and glucose-6-phosphatase (bypasses
+hexokinase).

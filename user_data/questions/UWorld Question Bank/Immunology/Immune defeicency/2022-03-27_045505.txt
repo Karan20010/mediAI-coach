@@ -1,0 +1,6 @@
+Educational objective:
+
+Hyper-IgM syndrome is usually caused by a defect in CD40 ligand, which prevents B cells
+from undergoing class-switch recombination. Clinical features include recurrent
+sinopulmonary, gastrointestinal (eg, Giardia), and opportunistic infections. Laboratory findings
+include elevated IgM and low or absent IgG, IgA, and IgE.

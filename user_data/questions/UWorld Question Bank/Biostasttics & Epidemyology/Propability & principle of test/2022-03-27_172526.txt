@@ -1,0 +1,44 @@
+= ltem2of23 5 v Mark <q Se r j @ él fcc]
+
+eureten eed Previous Next FullScreen Tatorial__Lab Values Notes
+(Choices C and D) Sensitivity and specificity of a test are intrinsic characteristics of a test;
+their values are fixed and do not vary with the pretest probability of a disease. An ideal
+diagnostic test should be both highly sensitive and highly specific. In this case, fine-needle
+aspiration has a high sensitivity and specificity; however, the NPV is a better parameter for
+addressing the patient's question (ie, how likely is she to not have thyroid cancer given her
+negative test result?); in this case her NPV might be low given her prior radiation exposure.
+
+(Choice E) Validity represents the accuracy of the test (ie, the test measures what it is
+supposed to measure). It does not depend on the pretest probability of the disease.
+
+Educational objective:
+
+Negative predictive value (NPV) is the probability of not having a disease when the test result
+is negative. The NPV will vary with the pretest probability of a disease. A patient with a high
+probability of having a disease will have a low NPV with a negative test, but a patient with a
+low probability of having a disease will have a high NPV with a negative test.
+
+Biostatistics Biostatistics & Epidemiology Sensitivity, specificity, NPV, PPV
+
+Subject System Topic
+
+Copyright © UWorld. All rights reserved.
+
+Block Time Elapse
+Tutor
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

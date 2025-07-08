@@ -1,0 +1,38 @@
+— Item 1 of 23 mY wax <q Ld (@) é) = r MA 8
+
+— " . uL ~
+Queen i (BED Previous FullScreen Tutorial__—_—_Lab Values Notes Calculator Reverse Color _—‘TextZoom _ Settings
+
+Disease Disease
+positive negative
+b
+Test a
+a i False a+b
+positive | True positive i
+positive
+c d
+Test
+. False True ct+d
+negative | ;
+negative negative
+at+c bt+d
+
+Sensitivity = a/(a + c); Specificity = d/(b + d)
+
+False positives describe people who test positive for a disease but do not actually have it.
+The number of false positives can be calculated using the test's specificity and total number of
+patients without urinary tract infections (UTIs). The specificity of a test refers to the number
+of true negatives (d) divided by the total number of patients without the disease (b + d). In this
+case, the specificity is 90% (ie, 0.9) and the total number of patients without UTIs (b + d)
+
+Block Time Elapse
+
+Tutor
+
+Activate Windows
+
+Feedback
+
+id
+
+End Block

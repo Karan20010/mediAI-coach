@@ -1,0 +1,14 @@
+Patients with untreated AIDS who have CD4 counts <50/mm: are at high risk for
+cytomegalovirus (CMV) retinitis. Suspicion is often raised when a patient with advanced
+AIDS develops slowly progressive blurred vision, scotoma (blind spots), floaters, or photopsia
+(flashing lights). Although most cases are thought to arise due to hematogenous
+dissemination of CMV, serum testing for the virus is often (~50%) negative. Therefore, the
+diagnosis is typically established when funduscopy reveals yellow-white, fluffy retinal
+lesions near the retinal vessels associated with hemorrhage.
+
+Treatment is required to prevent progression and blindness. Ganciclovir, a guanine
+nucleoside analogue that is structurally similar to acyclovir but expresses greater activity
+against CMV DNA polymerase, is first-line therapy. Patients are also typically started on
+antiretroviral therapy to increase CD4 count. A major complication of CMV retinitis is retinal
+detachment due to the replacement of damaged retina with thin, atrophic scar tissue (which is
+prone to tear).

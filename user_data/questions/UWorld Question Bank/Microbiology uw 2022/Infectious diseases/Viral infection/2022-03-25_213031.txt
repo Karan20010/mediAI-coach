@@ -1,0 +1,41 @@
+lo
+
+= Seen . 4 Mark ume < wibssin 2 all.
+(Choice A) RNase enzymes present in the extracellular milieu as part of the innate immune
+defense against viruses rapidly destroy unprotected mRNA. Therefore, mRNA vaccines are
+generally encased in a carrier compound (eg, lipid bilayer) to protect it and to efficiently deliver
+it into host cells.
+
+(Choice C) mRNA vaccines provide protective immunity only when the MRNA is translated to
+its encoded protein and expressed on the surface of host cells. An adaptive immune response
+targeting the mRNA directly would not provide protective immunity, as the viral
+capsid/membrane protects the genome while the viron remains extracellular.
+
+(Choice D) Retroviruses (eg, HIV) can convert their genomic RNA to DNA and then integrate
+into the host genome. However, mRNA is transcribed to protein and then degraded within host
+cells; it is not integrated into the genome.
+
+Educational objective:
+
+mRNA vaccines deliver MRNA molecules encoding foreign protein into the cytoplasm of host
+cells (particularly antigen presenting cells that avidly engulf the associated carrier compound).
+The mRNA is then translated by ribosomes and displayed on the cell surface, leading to a
+robust adaptive immune response.
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

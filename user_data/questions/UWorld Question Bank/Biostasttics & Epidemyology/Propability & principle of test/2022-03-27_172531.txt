@@ -1,0 +1,30 @@
+= ltem3of23 <q Se a) A fcc] Pr Qala
+“Question Id: 19262 . 4 Mark Previous Next Full Screen 2 Lab a Notes Calculator Reverse Color__Text Zoom
+A research group conducted a placebo-controlled clinical trial to assess whether a new drug to
+treat acute migraine with or without aura in adults is more effective than standard therapy. A
+total of 3,500 patients with acute migraine were enrolled in the study and randomly assigned to
+either the new drug or standard treatment. During the data analysis phase, the researchers
+
+decide to set alpha at 0.01 rather than 0.05. Which of the following is the most likely result of
+this change?
+
+© A. Any significant findings will be reported with greater confidence
+
+©) B. There will be a higher probability of a type | error
+
+©) C. There will be a higher probability of finding statistically significant results
+©) D. There will be a lower probability of a type II error
+
+©) E. The study will have more statistical power
+
+Activate Windows
+
+Block Time Elapse
+
+63
+
+Settings
+
+Tutor Feedback id
+
+End Block

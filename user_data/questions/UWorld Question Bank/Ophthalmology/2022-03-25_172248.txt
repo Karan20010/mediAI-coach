@@ -1,0 +1,19 @@
+This patient has diplopia (suggesting a lesion impacting extraocular muscles) and a left
+efferent pupillary defect (absent left pupillary response when light enters either eye). This is
+likely due to dysfunction of the left oculomotor nerve (CN Ill), which has multiple functions:
+
+¢ Innervation of most of the extraocular muscles (superior rectus, medial rectus, inferior
+rectus, inferior oblique). Paralysis of these muscles leads to unopposed action of the
+superior oblique and lateral rectus, which results in the characteristic "down and out"
+pupil.
+
+¢ Parasympathetic fibers innervate the iris sphincter and ciliary muscle. Paralysis of
+these fibers causes an efferent pupillary defect, as seen in this patient.
+
+¢ Somatic innervation of the levator palpebrae superioris. This elevates the upper eyelid,
+and paralysis of it leads to ptosis (ie, drooping of the eyelid).
+
+Although the most common causes of acquired oculomotor nerve palsy are diabetes mellitus
+and hypertensive ischemia, patients are often evaluated with neuroimaging to rule out an
+enlarging aneurysm of the posterior-communicating artery, which can present with isolated CN
+Ill palsy.

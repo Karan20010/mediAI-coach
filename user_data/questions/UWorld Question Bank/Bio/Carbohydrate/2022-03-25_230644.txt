@@ -1,0 +1,13 @@
+nonoxidative reactions are responsible for conversion of fructose-6-phosphate to ribose-5-
+phosphate.
+
+(Choice D) Glutathione reductase catalyzes the reduction of glutathione disulfide to
+glutathione using NADPH. Glutathione aids red blood cells in resisting oxidative stress.
+
+Educational objective:
+
+The pentose phosphate pathway consists of an oxidative (irreversible) branch and a
+nonoxidative (reversible) branch, and each can function independently based on cellular
+requirements. Transketolase, an enzyme of the nonoxidative branch, is responsible in part for
+the interconversion of ribose-5-phosphate (nucleotide precursor) and fructose-6-phosphate
+(glycolytic intermediate).

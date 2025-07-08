@@ -1,0 +1,8 @@
+Educational Objective:
+
+Osler-Weber-Rendu syndrome (hereditary hemorrhagic telangiectasia) is an autosomal
+dominant condition marked by the presence of telangiectasias in the skin as well as the
+mucous membranes of the lips, oronasopharynx, respiratory tract, gastrointestinal tract, and
+urinary tract. Rupture of these telangiectasias may cause epistaxis, gastrointestinal bleeding,
+
+or hematuria.

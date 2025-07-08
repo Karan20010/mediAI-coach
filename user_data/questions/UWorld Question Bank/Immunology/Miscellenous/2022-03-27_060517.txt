@@ -1,0 +1,32 @@
+= tem 1 of 13 5 v Mark <q Se rc j @ él
+
+Question Id: 538
+
+(Choice B) Terminal complement deficiency (C5b-CQ) results in an inability to form the
+membrane attack complex and predisposes to recurrent Neisseria infections. CD18 is not
+affected by this condition, and Neisseria infections are not common in LAD.
+
+(Choice D) The absence of B lymphocytes in X-linked agammaglobulinemia leads to
+hypoplasia of lymphoid tissue (eg, tonsils, lymph nodes). Patients have recurrent
+sinopulmonary infections, but nonpurulent skin infections and absence of CD18 are
+inconsistent with the diagnosis.
+
+(Choice E) Wiskott-Aldrich syndrome is an X-linked disorder characterized by the triad of
+thrombocytopenia, immunodeficiency, and eczema. It is caused by a defect in cytoskeleton
+rearrangement, not by CD18 deficiency.
+
+Educational objective:
+
+Leukocyte adhesion deficiency is due to the absence of CD18 antigens, which are necessary
+for the formation of integrins. Failure of leukocyte adhesion and migration results in recurrent
+skin and mucosal infections without purulence, delayed umbilical cord separation, and
+peripheral leukocytosis.
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+63
+
+Settings
+
+End Block

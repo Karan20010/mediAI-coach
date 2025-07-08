@@ -1,0 +1,37 @@
+— Item 19 of 23 mY wax <q = Ld @ a) bo 4 Gaia)
+
+= jon (a: [Ls c
+Question Id: 1232 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom
+
+A 54-year-old man with hypertension and hyperlipidemia who came to the emergency
+department with chest pain wants to know if he is having a heart attack. Test Ais newly
+available for diagnosing myocardial infarction (Ml). In a recent study, the results of test A
+(compared to a gold standard diagnosis of Ml) were as follows:
+
+No
+MI
+MI
+Test A
+_ 200 | 50
+positive
+Test A
+; 120 | 80
+negative
+
+The patient has a positive result on test A. Assuming his pre-test probability is equivalent to
+the prevalence of MI in the study, what is the probability that the patient has an MI?
+
+© A. 40%
+© B. 50%
+Activate Windows
+Block Time Elapsed: 00:01:48 %
+Tutor Feedback Suspend
+
+63
+
+Settings
+
+()
+
+End Block
+

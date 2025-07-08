@@ -1,0 +1,5 @@
+Educational objective:
+
+Mycobacterial resistance to isoniazid (INH) can be accomplished through non-expression of
+the catalase-peroxidase enzyme or through genetic modification of the INH binding site on the
+mycolic acid synthesis enzyme.

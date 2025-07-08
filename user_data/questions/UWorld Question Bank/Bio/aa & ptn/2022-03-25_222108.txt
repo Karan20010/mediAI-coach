@@ -1,0 +1,7 @@
+Educational objective:
+
+Orotic aciduria is a rare autosomal recessive disorder of de novo pyrimidine synthesis that
+occurs due to a defect in uridine 5'-monophosphate (UMP) synthase. Children typically
+present with physical and mental retardation, megaloblastic anemia, and large amounts of
+urinary orotic acid. Uridine supplementation can improve symptoms as uridine is converted to
+UMP via nucleoside kinases.

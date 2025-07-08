@@ -1,0 +1,67 @@
+to
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+21
+= 22
+23
++ 24
+25
+
+— ltem8of25 5 v Mark <q Se rc j @ él
+
+= Question Id: 750
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+Eosinophils perform the following functions:
+
+¢ Parasitic defense: Eosinophil proliferation and activation during multicellular parasitic
+infection is stimulated by IL-5 produced by T,2 and mast cells (not to be confused with IL-
+4, which stimulates IgE production). When a parasite invades the mucosa or enters the
+bloodstream, it is coated by IgG and IgA antibodies that bind the Fc receptors located on
+the eosinophil cell surface. This triggers eosinophil degranulation and release of cytotoxic
+proteins (eg, major basic protein) and reactive oxygen intermediates, substances that
+damage and destroy antibody-bound parasites. This mechanism is an example of
+antibody-dependent cell-mediated cytotoxicity (ADCC), which is also used by
+macrophages, neutrophils, and natural killer cells.
+
+Type | hypersensitivity reactions: Eosinophils also synthesize prostaglandins,
+leukotrienes, and cytokines that contribute to the inflammation seen in late-phase type 1
+hypersensitivity and chronic allergic reactions.
+
+(Choice B) Eosinophils contain a diverse number of immunomodulatory cytokines that are
+
+important for directing the T,.2 immune response; but they do not significantly affect B cell
+
+chemotaxis.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

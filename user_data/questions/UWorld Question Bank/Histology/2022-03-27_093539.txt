@@ -1,0 +1,61 @@
+- 8
+» 9
++ 10
+at
+= 12
++ 13
+. 14
++ 15
++ 16
+- 17
++ 18
++ 19
++ 20
+* 21
+= 22
++ 23
+- 24
++ 25
++ 26
+
+— Item6 of 26
+Question Id: 21262
+
+Block Time Elapsed: 00:
+Tutor
+
+Q Zoom In
+
+PSS RGAE LTT TS GY TSS LST IT ATA ST STS
+
+4a - Ls
+
+Previous Next Full Screen
+
+Chronic allergic contact dermatitis
+
+Q Zoom Out & Reset G New | a Existing
+
+Tutorial
+
+My Notebook
+
+Lab Values
+
+Calculator
+
+Reverse Color
+
+Text Zoom
+
+%
+
+Feedback
+
+Suspend
+
+63
+
+Settings
+
+End Block

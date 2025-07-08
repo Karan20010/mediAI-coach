@@ -1,0 +1,46 @@
+ra
+
+= Item 16 of 20 . y rere | e 4 (©) al
+
+= i L
+Question Id: 1468 Praras Next FullScreen Tutorial__—_Lab Values
+
+Type | interferons (a and B) are synthesized by most human cells in response to viral
+infections. Once secreted, a and 8 interferons bind to type | interferon receptors found on
+infected and neighboring cells (autocrine/paracrine signaling). This results in transcription of
+antiviral enzymes capable of halting protein synthesis, such as RNase L (endonuclease that
+degrades all RNA in the cell) and protein kinase R (inactivates elF-2, inhibiting translation
+initiation). However, these enzymes become active only in the presence of double-stranded
+RNA, which forms in infected cells as a result of viral replication. As a result, normal
+metabolism and protein synthesis can continue in uninfected cells but is selectively inhibited
+in virally infected cells.
+
+(Choice A) Interferons a and B induce MHC class | expression on all cells and stimulate the
+activity of natural killer (NK) and cytotoxic T cells. These processes act to increase the
+proportion of virally infected cells that undergo apoptosis.
+
+(Choices C and D) Interferon y is a type II interferon produced mainly by T cells and NK
+cells. It promotes T,,1 differentiation, increases expression of class Il MHC molecules on
+antigen-presenting cells, and improves the intracellular killing ability of macrophages.
+However, virally infected respiratory epithelial cells would secrete interferons a and B, not
+
+interferon y.
+
+Block Time Elapse
+
+Tutor
+
+o
+
+Notes Calculator __ Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

@@ -1,0 +1,7 @@
+Educational objective:
+
+Escherichia coli is the most common cause of urinary tract infection (UTI) in both healthy
+adults and elderly patients. E coli is part of the normal gastrointestinal flora, and special
+adhesive proteins (pili) allow some strains to colonize and ascend the urinary tract, causing
+UTI, pyelonephritis, and bacteremia/sepsis. UTIs are the most common cause of E coli
+bacteremia.

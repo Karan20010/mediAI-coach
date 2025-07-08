@@ -1,0 +1,50 @@
+= Question Id: 934
+
+= ltem5of31 5 v Mark <q Se rq @ él
+
+(4)
+Previous Next Full Screen Tutorial Lab Values
+
+This patient has cataracts, a vision-impairing opacification of the lens that causes loss of the
+red reflex with decreased visualization of retinal details on ophthalmoscopic evaluation. The
+incidence of cataracts increases with age; other risk factors include smoking, excessive
+sunlight exposure, diabetes mellitus, and glucocorticoid use. In this patient, long-term
+hyperglycemia most likely contributed to cataract formation by causing oversaturation of the
+polyol pathway.
+
+The first step in the polyol pathway (an alternative route of glucose metabolism) is the
+conversion of glucose into sorbitol by aldose reductase. Sorbitol cannot readily cross cell
+membranes and is therefore trapped inside the cells where it forms. The second enzyme in
+the pathway, sorbitol dehydrogenase, is able to convert sorbitol into fructose at a sufficient
+rate to prevent accumulation when glucose levels are normal. However, the process is slow;
+in long-standing hyperglycemia, sorbitol accumulates in tissues with lower sorbitol
+dehydrogenase activity, such as the retina, lens, kidney, and peripheral nerves.
+
+Sorbitol accumulation increases cellular osmotic and oxidative stress and contributes to
+the pathogenesis of diabetic retinopathy, neuropathy, and nephropathy. In lens cells, the
+increased stress leads to the development of hydropic lens fibers that degenerate, eventually
+
+resulting in lens opacification and cataract formation.
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

@@ -1,0 +1,80 @@
+to
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+21
+= 22
+23
++ 24
+25
++ 26
+27
++ 28
+29
+
+= ltem8of29 5 v Mark <q Se r j @ él fcc]
+
+— " . L ~
+Question Id: 1170 Praras Next FullScreen Tutorial__—_Lab Values Notes
+
+A new biomarker has been shown to allow for the early detection of non-small cell lung
+carcinoma. A preliminary analysis on a cohort study of this new test demonstrates that its use
+prolongs survival of lung cancer patients by 3 months when compared to the survival of
+patients diagnosed by conventional methods. A secondary analysis reveals no difference in 6-
+month mortality rates between the 2 groups. Which of the following factors most likely
+explains the study results?
+
+A. Confounding (1%)
+
+Y/Y B. Lead-time bias (84%)
+C. Length-time bias (11%)
+D. Measurement bias (1%)
+E. Observer bias (0%)
+
+F. Rare disease assumption (0%)
+
+Omitted
+
+04 secs ce 2022
+Correct answer lil
+
+84'
+‘Answered correctly Time Spent [32] Version
+
+Block Time Elapsed: 00:00:44
+Tutor
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+Activate Windows
+
+%
+
+Feedback
+
+Suspend
+
+63
+
+Settings
+
+()
+
+End Block

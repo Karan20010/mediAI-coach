@@ -1,0 +1,18 @@
+This patient has bloody diarrhea due to Escherichia coli, with enzyme immunoassay
+detecting a substance capable of inhibiting protein synthesis in human cells. These findings
+are characteristic of Shiga toxin produced by Shiga toxin—producing E coli, or
+enterohemorrhagic E coli.
+
+E coli and Shigella species are closely related genetically, and Shiga toxin is also produced by
+Shigella dysenteriae. Shiga toxin is an AB cytotoxin with an active (A) subunit and 5 binding
+(B) subunits:
+
+¢ The B subunits, which form pentamers with a central pore, recognize specific receptors on
+target cells and induce receptor-mediated endocytosis and toxin internalization.
+
+¢ The enzymatically active A subunit is then released and catalyzes the removal of a specific
+adenine residue in the 60S ribosomal subunit, thereby preventing transfer RNA from
+binding to the ribosome complex and inhibiting protein synthesis.
+
+This leads to intestinal mucosal cell death (bloody diarrhea) and, with hematogenous spread,
+toxicity to renal epithelial cells (hemolytic uremic syndrome).

@@ -1,0 +1,50 @@
+aa
+
+10
+at
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+21
+= 22
+23
+
+= ltem6 of 23 <q Se a) A fcc] Pr
+Question ta: 1274 . 4 Mark Previous Next Full Screen 2 Lab a Notes Calculator Reverse Color__Text Zoom
+Researchers are developing an enzyme-linked immunosorbent assay test for diagnosing
+rheumatoid arthritis. The test is designed to detect the presence of serum antibodies against
+citrullinated proteins. Two test populations with a differing prevalence of rheumatoid arthritis
+are selected. The researchers plan to assess the test's performance in the 2 populations by
+
+comparing a number of diagnostic test parameters. Which of the following performance
+measures is most likely to be different between the 2 test populations?
+
+©) A. Negative likelihood ratio
+©) B. Positive likelihood ratio
+©) C. Positive predictive value
+
+©) D. Sensitivity
+
+©) E. Specificity
+
+Activate Windows
+
+Block Time Elapse
+
+GAA)
+
+63
+
+Settings
+
+Tutor Feedback
+
+id
+
+End Block

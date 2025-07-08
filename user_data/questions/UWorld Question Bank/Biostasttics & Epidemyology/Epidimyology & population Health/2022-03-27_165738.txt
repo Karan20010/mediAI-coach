@@ -1,0 +1,32 @@
+Item 11 of 29 < a)
+a V7 Mark <4 eS Lo J
+
+Que: 19732 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color
+
+Misclassification bias results from an incorrect categorization of subjects regarding their
+exposure status, outcome status, or both.
+
+¢ Nondifferential misclassification reflects equal misclassification rates between groups,
+making them look more similar than they are and pushing the association toward the null
+value (eg, odds ratio = 1) (ie, bias toward null hypothesis)
+
+¢ Differential misclassification reflects unequal misclassification rates between groups and
+can push the association toward or away from the null value
+
+Case-control studies that rely on questionnaires or interviews to determine exposure
+status are particularly susceptible to misclassification bias in the form of recall bias.
+Subjects who have experienced an adverse event such as head and neck squamous cell
+carcinoma (HNSCC) are more likely to recall previous potential exposures (eg, pesticide
+exposure) than subjects who have not experienced an adverse event.
+
+In this case-control study, cases (ie, HNSCCs) may have a better recall of past pesticide
+exposures than controls (ie, no HNSCCs); this may cause differential misclassification bias
+when assessing exposure status.
+
+(Choice A) Confounding bias occurs when an extraneous variable distorts the relationship
+
+Settings
+
+Feedback
+
+End Block

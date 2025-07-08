@@ -1,0 +1,38 @@
+= Item 17 of 31 5 v Mark - @ él
+
+Tutorial Lab Values
+
+Question Id: 1336
+—
+
+(Choice B) Cobalamin (vitamin B,.) deficiency leads to megaloblastic anemia, neurologic
+changes including peripheral neuropathy, and elevated plasma levels of homocysteine (a
+prothrombotic substance). Supplementation of cobalamin is recommended to lower
+homocysteine levels in patients with hyperhomocysteinemia.
+
+(Choice C) Pyridoxine (vitamin B,) is involved in the transamination and decarboxylation
+steps in amino acid metabolism as well as heme and neurotransmitter synthesis.
+Supplemental pyridoxine is typically prescribed in conjunction with drugs known to interfere
+with vitamin B, metabolism (eg, isoniazid, penicillamine).
+
+(Choice D) Tetrahydrobiopterin deficiency results in phenylketonuria because
+tetrahydrobiopterin is a cofactor for phenylalanine hydroxylase. Phenylalanine levels can be
+reduced by tetrahydrobiopterin supplementation in patients with tetrahydrobiopterin deficiency.
+
+Educational objective:
+
+Maple syrup urine disease (MSUD) is caused by a deficiency of branched-chain alpha-keto
+acid dehydrogenase, an enzyme that requires several coenzymes (thiamine; lipoate;
+coenzymes A, FAD, NAD) to metabolize branched-chain amino acids (BCAAs). Some patients
+
+with milder forms of MSUD improve with high-dose thiamine treatment.
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

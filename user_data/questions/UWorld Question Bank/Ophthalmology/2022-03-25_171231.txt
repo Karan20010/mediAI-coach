@@ -1,0 +1,13 @@
+This patient has internuclear ophthalmoplegia, a disorder of impaired horizontal gaze caused
+by damage to the medial longitudinal fasciculus (MLF). The frontal eye field initiates
+horizontal gaze through the contralateral abducens (CN VI) nucleus, which communicates with
+the ipsilateral oculomotor (CN III) nucleus by way of the MLF. This allows for simultaneous
+activation of the lateral rectus muscle in the contralateral eye (abduction) and the medial
+rectus muscle in the ipsilateral eye (adduction), resulting in coordinated conjugate horizontal
+gaze.
+
+Unilateral MLF lesions typically occur in older patients with lacunar strokes in the dorsal pons
+or midbrain (pontine artery distribution) and result in impaired adduction of the ipsilateral
+eye during horizontal gaze, causing diplopia. Abduction in the contralateral eye is preserved
+(but often with gaze-evoked nystagmus). The pathways for convergence and the pupillary
+light reflex bypass the MLF lesion, so these reflexes are generally preserved.

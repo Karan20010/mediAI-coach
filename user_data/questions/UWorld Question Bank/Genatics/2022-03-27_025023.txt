@@ -1,0 +1,31 @@
+— Item 18 of 24 mY wax <q = i @ a) bo 4 33
+
+— " . uL ~
+Question Id: 12019 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+This patient has sickle cell disease (SCD), an autosomal recessive hematologic disorder
+resulting in hemoglobin molecules that polymerize during times of hypoxic stress. SCD results
+from a DNA point mutation in the coding region of the hemoglobin beta-globin chain. This
+single nucleotide substitution is a missense mutation that causes a glutamic acid to valine
+substitution at position 6 during protein translation. The genetic code figure shows that 2
+distinct nucleotide combinations code for glutamic acid, GAG and GAA. In addition, only 2
+possible single nucleotide substitutions could occur in DNA that result in glutamic acid being
+replaced by valine, GAA > GTA and GAG —> GTG.
+
+(Choices A, B, and F) Examples of missense mutations include glutamine (CAA) substitution
+
+by valine (GTT), histidine (CAT) substitution by leucine (CTT), and valine (GTA) substitution by
+
+glutamic acid (GAA). However, they are unrelated to SCD.
+
+(Choice C) This substitution results in a silent mutation as both TTA and CTA code for leucine.
+(Choice D) Acodon change from GAA to GUA also results in glutamic acid being replaced by
+valine. However, the pyrimidine base uracil occurs only in RNA (not DNA), so it would only be
+present in the mRNA transcript that codes for the beta-globin protein and not in the beta-globin
+
+gene itself.
+
+Block Time Elapse
+Tutor
+
+End Block

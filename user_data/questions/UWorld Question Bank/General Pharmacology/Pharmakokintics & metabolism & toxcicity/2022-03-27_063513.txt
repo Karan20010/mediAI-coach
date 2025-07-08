@@ -1,0 +1,32 @@
+Question Id: 1716
+
+— Item 20 of 32 mY wax <q Se i @ al Lo) id @A &s
+
+e r
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+The drug under investigation is glucuronated by the liver into water-soluble byproducts that
+can then be excreted by the kidney. The graph above shows how the rate of drug
+glucuronidation changes with increasing drug doses. At lower doses, the quantity of drug-
+glucuronide formed is directly proportional to the dose administered (ie, as more of the drug is
+administered, more drug-glucuronide is produced). Because a fixed proportion of drug is
+converted to the metabolite, this early portion of the graph represents first-order kinetics.
+
+As the active sites on glucuronosyltransferase become saturated, the drug-glucuronide rate
+does not continue to rise with increasing doses of the substrate drug. At this point (2 on the
+graph), the kinetics change from first- to zero-order kinetics and the graph levels out to a
+zero slope. With zero-order kinetics, a constant amount of drug is metabolized and
+eliminated per unit of time regardless of its concentration or dose.
+
+Zero- and first-order kinetics can also be represented graphically by showing the decrease in
+drug concentration over time after a single dose. Zero-order metabolism is indicated by a
+
+straight line with negative slope (fixed amount eliminated per unit of time), whereas first-order
+kinetics manifest as an exponential decay curve (fixed proportion eliminated per unit of time).
+
+(Choice A) After point 3, the curve remains flat, indicating that a constant amount of drug is
+metabolized per unit of time regardless of the dose. As higher doses are administered, the
+
+Block Time Elapse
+
+Tutor End Block

@@ -1,0 +1,6 @@
+Educational objective:
+
+Hemoglobin C is caused by a missense mutation that results in a glutamate residue being
+substituted by lysine in the beta globin chain. This results in an overall decrease in negative
+charge for the hemoglobin molecule. The speed of hemoglobin movement during gel
+electrophoresis is hemoglobin A > hemoglobin S > hemoglobin C.

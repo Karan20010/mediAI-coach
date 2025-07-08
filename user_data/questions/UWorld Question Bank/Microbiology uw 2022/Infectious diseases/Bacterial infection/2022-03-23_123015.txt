@@ -1,0 +1,16 @@
+This patient with rapidly progressive systemic symptoms, generalized lymphadenopathy, and
+an enlarged, painful lymph node likely has bubonic plague, an infection caused by the gram-
+negative bacillus/coccobacillus Yersinia pestis. This highly virulent pathogen is endemic to
+areas of North and South America, Asia, Africa, and Russia. It is primarily transmitted by
+rodent fleas.
+
+Manifestations begin with rapidly progressive fever, chills, weakness, and headache. Painful
+regional lymphadenopathy develops concurrently or within a few days; lymph nodes swell,
+develop overlying erythema, and often drain purulent fluid (buboes). When left untreated,
+plague progresses to sepsis with disseminated intravascular coagulation (DIC); the disease is
+sometimes called "black death" due to tissue necrosis from DIC.
+
+The most common first-line treatment for plague is an aminoglycoside. This class of
+antibiotic prevents bacterial protein synthesis by binding with high affinity to the 30S
+ribosomal subunit. Aminoglycosides have particular potency against the Enterobacteriaceae
+family, Francisella tularensis, and Y pestis.

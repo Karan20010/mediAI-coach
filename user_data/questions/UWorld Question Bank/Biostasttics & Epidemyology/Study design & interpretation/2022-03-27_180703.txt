@@ -1,0 +1,33 @@
+= Question Id: 1204
+
+— Item 26 of 29 mY wax <q Se i @ al Lo) id @A &s
+
+e r
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+The power of a study is the ability of a study to detect a difference between groups when such
+a difference truly exists. Power is related to type Il error (8), which is the probability of
+concluding there is no difference between groups when one truly exists. Mathematically,
+power is given by:
+
+Power =1-8
+
+In this example, the power of the study is the probability of detecting a difference in blood
+cholesterol level between diabetics and non-diabetics if there is a real difference. The
+probability of concluding that there is no difference in blood cholesterol level when in reality
+there is one is given as 20%; this corresponds to the definition of B (ie, B = 0.20 in this
+
+example). Therefore:
+
+Power = 1—B = 1—0.20 = 0.80
+
+(Choice A) Type | error (a) describes the probability of seeing a difference when there is no
+difference in reality. The value of a is generally compared to the probability that the observed
+difference is due to chance alone (a simplified explanation of the p-value). In this example, the
+probability that the observed difference between diabetic and nondiabetic patients is due to
+
+chance alone is given as 5% (0.05).
+
+Block Time Elapse
+
+Tutor End Block

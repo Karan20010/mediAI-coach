@@ -1,0 +1,18 @@
+This patient most likely has McArdle disease (glycogen storage disease type V). This
+condition is caused by a deficiency of myophosphorylase, an isoenzyme of glycogen
+phosphorylase present in muscle tissue. Deficiency leads to decreased breakdown of
+glycogen during exercise, resulting in poor exercise tolerance, muscle cramps, and
+rhabdomyolysis (eg, red urine). The prognosis is generally good, and symptoms can be
+improved by consuming simple sugars before beginning physical activity.
+
+During glycogenolysis, glycogen phosphorylase shortens glycogen chains by cleaving 1,4-
+alpha-glycosidic linkages between glucose residues, liberating glucose-1-phosphate in the
+process. This occurs until 4 residues remain before a branch point (the limit dextrin). At this
+point, the debranching enzyme performs 2 enzymatic functions:
+
+1. Glucosyltransferase cleaves the 3 outer glucose residues of the 4 that are left by glycogen
+phosphorylase and transfers them to a nearby branch
+
+2. The enzyme alpha-1,6-glucosidase removes the single remaining branch residue,
+producing free glucose and a linear glycogen chain that can be further shortened by
+glycogen phosphorylase

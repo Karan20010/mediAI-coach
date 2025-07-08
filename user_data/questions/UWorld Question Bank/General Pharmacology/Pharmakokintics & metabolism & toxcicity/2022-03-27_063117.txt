@@ -1,0 +1,50 @@
+on Ld @ al [=]
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes
+
+— litem 13 of 32
+= a V7 Mark
+
+Question Id: 1714
+
+Cytochrome P450 (CYP) enzymes are a group of heme-containing proteins that are
+responsible for the majority of drug metabolism, which occurs predominately in the liver.
+Various CYP subtypes exist, with CYP3A, CYP2D, and CYP2C as the most active subtypes
+involved in drug metabolism. These enzymes generally function to deactivate drugs and
+facilitate excretion from the body by improving water solubility. However, they also metabolize
+certain compounds to their active forms.
+
+Polymorphisms may occur in the genes coding for these enzymes, altering their expression
+or activity. Three important phenotypes exist: poor, intermediate, and rapid metabolizer.
+Identifying these variations on an individual basis provides a framework for optimizing therapy,
+predicting treatment efficacy, and minimizing toxicity.
+
+Tamoxifen, a selective estrogen receptor modulator used in the treatment of estrogen
+receptor-positive breast cancer, is a prodrug metabolized by CYP2D to its active metabolite,
+endoxifen. Patients with genetic polymorphisms resulting in poor CYP2D activity are exposed
+to decreased levels of the active metabolite and have a higher risk of disease relapse.
+
+(Choice A) Activation of downstream signal transducer proteins, such as KRAS, leads to
+activation of transcription factors that promote cell growth. Mutations in the KRAS gene are
+associated with the development of colorectal and lung cancers.
+
+Block Time Elapse
+
+Tutor
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

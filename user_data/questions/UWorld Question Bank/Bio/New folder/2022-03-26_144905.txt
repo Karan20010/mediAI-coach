@@ -1,0 +1,3 @@
+This patient's presentation is consistent with methylmalonic acidemia, an autosomal
+recessive organic acidemia resulting from complete or partial deficiency of the enzyme
+methylmalonyl-CoA mutase.

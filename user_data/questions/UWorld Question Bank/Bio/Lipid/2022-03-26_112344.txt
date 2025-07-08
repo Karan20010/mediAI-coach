@@ -1,0 +1,31 @@
+Item 1 of 3 mY wax <q Se i @ al Lo) id @A &s
+
+: Le c
+Question Id: 11918 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom Settings
+
+short supply and acetyl-CoA is in excess.
+
+(Choice B) Carnitine is an amino acid that is essential for the transport of fatty acids through
+the mitochondrial membrane. It is a necessary component of fatty acid oxidation.
+
+(Choice C) Citrate is an intermediate in the TCA cycle. It can be exported out of the
+mitochondrial matrix and into the cytosol, where it is broken down into acetyl-CoA for use in de
+novo fatty acid synthesis.
+
+(Choice E) NADPH is a reducing molecule necessary for the synthesis of fatty acids. In
+contrast, beta-oxidation of fats produces FADH, and NADH-reducing equivalents.
+
+Educational objective:
+
+Cytosolic acetyl-CoA carboxylase converts acetyl-CoA to malonyl-CoA during the rate-limiting
+step of de novo fatty acid synthesis. Malonyl-CoA also inhibits the action of mitochondrial
+carnitine acyltransferase, thereby inhibiting beta-oxidation of newly formed fatty acids.
+
+References
+¢ Malonyl-CoA: the regulator of fatty acid synthesis and oxidation.
+
+Biochemistry Biochemistry (General Principles) Beta oxidation Activate Windows
+
+Block Time Elapse
+
+Tutor Feedback id = End Block

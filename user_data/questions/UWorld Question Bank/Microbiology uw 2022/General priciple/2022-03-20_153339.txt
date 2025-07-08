@@ -1,0 +1,7 @@
+Educational objective:
+
+Traveler's diarrhea is most frequently due to enterotoxigenic Escherichia coli, which produces
+plasmid-encoded, heat-labile (LT) and heat-stable (ST) enterotoxins. LT resembles cholera
+toxin and activates adenylate cyclase, leading to increased intracellular cyclic AMP; ST
+activates guanylate cyclase, leading to increased intracellular cyclic GMP. Both can contribute
+to watery diarrhea due to loss of water and electrolytes.

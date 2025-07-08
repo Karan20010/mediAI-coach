@@ -1,0 +1,37 @@
+Question Id: 608
+
+— Item 27 of 40 mY wax <q Se ” @ al Lo) id lA)
+
+(4) r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+Like most hormones, secretion of cortisol is regulated via a negative feedback loop.
+Corticotropin-releasing hormone (CRH) is secreted by the hypothalamus in response to stress
+and circadian signals received from other parts of the central nervous system. CRH stimulates
+ACTH release by the pituitary, which in turn increases cortisol secretion by the adrenal cortex.
+High cortisol levels suppress secretion of ACTH and CRH, and low cortisol levels cause an
+increase in ACTH and CRH secretion.
+
+Although not commonly used, the metyrapone stimulation test is a sensitive indicator of
+hypothalamic-pituitary-adrenal (HPA) axis integrity. Metyrapone blocks cortisol synthesis by
+inhibiting 11-B-hydroxylase, which converts 11-deoxycortisol to cortisol in the zona
+fasciculata. Because 11-deoxycortisol lacks glucocorticoid activity, it does not inhibit pituitary
+ACTH secretion. As a result, the reduction in cortisol levels following metyrapone
+administration cause an increase in pituitary ACTH secretion. This leads to increased
+production of 11-deoxycortisol, which is further metabolized by the liver to 17-
+hydroxycorticosteroids that accumulate in the urine.
+
+Serum 11-deoxycortisol and urinary 17-hydroxycorticosteroid levels will normally rise in
+
+response to metyrapone, indicating an intact HPA axis. Failure of these steroid levels to
+increase implies primary or secondary adrenal insufficiency, which can be distinguished based
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

@@ -1,0 +1,8 @@
+This patient has a urinary tract infection caused by an extended-spectrum beta-lactamase
+(ESBL)-producing Escherichia coli. ESBL enzymes can inactivate extended-spectrum
+penicillins and cephalosporins (including third- and fourth-generation cephalosporins) and
+monobactams (aztreonam). Genes encoding these enzymes are often located on plasmids
+and therefore can be transferred between organisms and between different species through
+conjugation. Some have been incorporated into bacterial chromosomes. Carbapenems (eg,
+imipenem) are the treatment of choice for ESBL-producing organisms (although unfortunately,
+organisms with carbapenem resistance have emerged).

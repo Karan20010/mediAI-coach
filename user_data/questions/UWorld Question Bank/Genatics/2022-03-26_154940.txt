@@ -1,0 +1,42 @@
+Question Id: 1477
+
+— Item 25 of 40 mY wax <q Se ” @ al Lo) id lA)
+
+(4) r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+(Choice B) Exposure to ionizing radiation (x-rays and gamma rays) causes double-strand
+DNA breaks. The fractured ends can be joined by nonhomologous end joining.
+
+(Choice D) Incorrect base substitution occurs during normal DNA replication and can result in
+mutations if they are not corrected. DNA mismatch repair in certain prokaryotes is guided by
+hypermethylation of the parent strand, which helps to identify the non-mutated strand for use
+
+as a template.
+
+(Choice E) Deamination of DNA bases (eg, cytosine conversion to uracil, adenine to
+hypoxanthine) can occur spontaneously or secondary to chemical exposure. These errors are
+corrected by base excision repair. In this process, abnormal bases are recognized and
+removed by specific glycosylases without disruption of the phosphodiester backbone. The
+apurinic and apyrimidinic residues are then removed by specific endonucleases and replaced
+with the correct base by DNA polymerase.
+
+Educational objective:
+
+Pyrimidine dimers are formed in DNA as a result of ultraviolet light exposure. They are
+
+recognized by a specific endonuclease complex that initiates the process of repair by nicking
+
+the damaged strand on both sides of the pyrimidine dimer. The damaged segment is then
+
+excised, and replacement DNA is synthesized by DNA polymerase. ctivate V
+
+Block Time Elapse
+
+Tutor
+
+63
+
+Settings
+
+End Block

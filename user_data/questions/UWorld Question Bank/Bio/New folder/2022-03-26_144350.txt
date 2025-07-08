@@ -1,0 +1,16 @@
+This patient most likely has familial erythrocytosis due to a B-globin mutation resulting in
+reduced binding of 2,3-bisphosphoglycerate (2,3-BPG). 2,3-BPG is synthesized from
+glycolytic intermediates and binds strongly to deoxyhemoglobin in a pocket formed between
+the 2 beta chains. This binding reduces the oxygen affinity of hemoglobin, allowing more
+oxygen to diffuse into the peripheral tissues. The hemoglobin 2,3-BPG binding pocket
+contains positively charged amino acids (eg, histidine and lysine) that attract the negatively
+charged phosphate groups in 2,3-BPG. Mutations that decrease the positive charge of the
+binding site decrease 2,3-BPG binding and increase hemoglobin oxygen affinity.
+
+Fetal hemoglobin (hemoglobin F) is synthesized primarily during fetal development (~8
+weeks until term) and consists of the usual 2 alpha chains with 2 gamma chains in place of
+beta chains. The gamma chains do not bind effectively to 2,3-BPG due to replacement of a
+histidine residue with serine. As a result, fetal hemoglobin has significantly higher oxygen
+affinity than adult hemoglobin A. This allows fetal hemoglobin to extract more oxygen from the
+mother's adult hemoglobin in the placenta, providing the developing fetus with an adequate
+supply of oxygen.

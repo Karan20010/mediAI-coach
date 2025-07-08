@@ -1,0 +1,6 @@
+RRR may overstate the effectiveness of an intervention. For example, a RRR of 50% occurs
+whether a drug decreases the incidence of a disease from 2% to 1% or from 50% to 25%.
+Clearly, the latter is of greater clinical significance.
+
+Educational objective:
+Relative risk reduction = (absolute risKconio — ADSOIUtE FSKzesimen) / ABSOLUTE FISK coniri

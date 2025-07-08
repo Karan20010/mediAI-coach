@@ -1,0 +1,6 @@
+Educational objective:
+
+The Thayer-Martin medium is used to isolate pathogenic Neisseria species such as N
+meningitidis and N gonorrhoeae. \t is a chocolate sheep blood agar that contains vancomycin
+to inhibit the growth of gram-positive organisms; colistin and trimethoprim to inhibit gram-
+negative bacteria (other than pathogenic Neisseria); and nystatin to inhibit yeasts.

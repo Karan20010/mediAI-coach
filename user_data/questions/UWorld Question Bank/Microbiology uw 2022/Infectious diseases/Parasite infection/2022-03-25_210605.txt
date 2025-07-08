@@ -1,0 +1,17 @@
+This patient has fever, chills, sweats, and red blood cell inclusions on Giemsa smear that
+developed following travel to a tropical geographic region (areas including South America,
+Africa, India, and Southeast Asia). Together, these findings support a diagnosis of malaria.
+Fever and sweating that occur every 48 hours (tertian malaria) are especially characteristic of
+Plasmodium vivax, P ovale, or P falciparum infection.
+
+All species of malaria-causing organisms share a similar life cycle. Organisms are first
+inoculated into the human host by the Anopheles mosquito and then travel to the liver, where
+they infect hepatocytes and replicate. Lysis of infected hepatocytes releases merozoites into
+the bloodstream. Merozoites go on to infect erythrocytes, and it is the resultant erythrocyte
+lysis that causes relapsing fevers and sweating. P vivax and P ovale are unique in that they
+also establish a latent hepatic infection (exo-erythrocytic cycle) in the form of hypnozoites,
+responsible for relapses.
+
+Chloroquine is effective in eradicating chloroquine-sensitive plasmodia from the bloodstream,
+but it has no activity against the latent hepatic infections established by P vivax and P ovale.
+Primaquine must be added to the regimen to completely eradicate the hypnozoites.

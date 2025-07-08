@@ -1,0 +1,18 @@
+This patient from Thailand has hemoptysis, night sweats, right upper lobe infiltrate, and
+positive sputum acid-fast bacillus stain, raising strong suspicion for active pulmonary TB.
+Tuberculin skin testing (TST) is generally positive in patients with active TB because
+differentiated lymphocytes recognize injected tuberculin antigens and trigger a strong type IV
+(cell-mediated) hypersensitivity response, leading to a large wheal of induration within 48-72
+hours.
+
+However, approximately 25% of patients with active TB have false negative TST (T cell
+anergy). In these individuals, an impaired lymphocyte response results in minimal or no
+induration after exposure to tuberculin antigens. Because a weak cell-mediated response
+increases the risk of severe disseminated TB, patients with active disease who have TST
+anergy are at much greater risk for TB-related morbidity and mortality.
+
+A false-negative TST can also be seen with recent infection (it takes approximately 8 weeks for
+the cell mediated response to fully form), immunocompromise (eg, HIV), improper injection
+technique, and natural waning of immunity to latent infection. Because active TB requires a
+microbial diagnosis (eg, identifying the organism on sputum sample), neither TST nor
+interferon-gamma release assay can be used to diagnose or exclude the disease.

@@ -1,0 +1,20 @@
+This patient has high-frequency hearing loss due to chronic noise exposure. Transduction of
+mechanical sound waves into nerve impulses occurs in the organ of Corti through the
+following steps:
+
+1. Sound reaches the middle ear by vibrating the tympanic membrane.
+
+2. The vibration is transferred to the oval window by the ossicles.
+
+3. Vibration of the oval window causes vibration of the basilar membrane, which in turn
+causes bending of the hair cell cilia against the tectorial membrane.
+
+4. Hair cell bending causes oscillating hyperpolarization and depolarization of the auditory
+nerve, thereby creating nerve impulses from sound.
+
+Noise-induced hearing loss results from trauma to the stereociliated hair cells of the organ
+of Corti. The acoustic reflex normally dampens the effects of loud noise by causing the
+stapedius and tensor tympani muscles to contract, which lessens the responsiveness of the
+ossicles to sound. However, prolonged noise exposure can cause distortion or fracture of the
+stereocilia due to shearing forces against the tectorial membrane. High-frequency hearing is
+lost first, regardless of the frequency of the sound causing the damage.

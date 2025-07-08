@@ -1,0 +1,3 @@
+Educational objective:
+Aminoglycosides inhibit genetic code reading and protein synthesis by binding to the
+prokaryotic 30S ribosomal subunit.

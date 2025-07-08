@@ -1,0 +1,5 @@
+Educational objective:
+Immunization against hepatitis B virus uses recombinant HBsAg to generate anti-HBs
+antibodies. These antibodies prevent infection by binding to the envelope of circulating virus
+
+and inhibiting viral entry.

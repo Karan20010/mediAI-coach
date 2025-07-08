@@ -1,0 +1,15 @@
+This patient with HIV was recently started on antiretroviral therapy and subsequently
+developed evidence of proximal tubule dysfunction (eg, hypophosphatemia, glucosuria,
+proteinuria, biopsy abnormalities), raising concern for tenofovir-induced nephrotoxicity.
+Tenofovir is a common part of first-line HIV therapy. It is an adenosine analogue that is a
+member of the nucleotide reverse transcriptase inhibitors (NRTIs). NRTIs prevent reverse
+transcriptase from converting the HIV RNA genome into complementary double-stranded DNA,
+which inhibits viral replication.
+
+Tenofovir is primarily eliminated via the proximal tubule cells of the kidney. High
+concentrations of tenofovir in these cells can interfere with mitochondrial DNA synthesis and
+result in cellular damage. This typically manifests with acute kidney injury (eg, elevated
+creatinine, water retention) and/or signs of proximal tubule dysfunction (eg, phosphaturia,
+glucosuria, proteinuria). Histopathology may show damage to proximal tubule cells (eg, loss of
+brush border, basement membrane denudation) and evidence of giant mitochondria (eg, large
+eosinophilic inclusions). Renal abnormalities typically improve once tenofovir is discontinued.

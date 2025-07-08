@@ -1,0 +1,19 @@
+Hemoglobin electrophoresis is used to assess for different forms of hemoglobin in patients with
+suspected hemoglobinopathy. Normal hemoglobin consists primarily of hemoglobin A (HbA),
+which migrates rapidly toward the positive electrode (anode) because of its negative charge.
+Hemoglobin S (HbS) is an abnormal type of hemoglobin in which a nonpolar amino acid
+(valine) replaces a negatively charged amino acid (glutamate) in the beta globin chain. This
+amino acid replacement decreases the negative charge on the HbS molecule, which causes
+HbS to move more slowly toward the anode. Similarly, hemoglobin C (HbC) has a glutamate
+residue replaced by lysine in the beta globin chain. Because lysine is a positively charged
+amino acid, HbC has even less total negative charge than HbS and moves even more slowly
+toward the anode. Both HbC and HbS result from missense mutations, a type of mutation in
+which a single base substitution results in a codon that codes for a different amino acid.
+
+Patients with sickle cell disease have HbS mutations in both beta chains; those with HbC
+disease have HbC mutations involving both beta chains. Patients with hemoglobin SC disease
+have 1 HbS allele and 1 HbC allele and will have 2 hemoglobin bands on electrophoresis.
+
+This patient's electrophoresis results show a single band that migrates less than the HbA
+and HbS bands, meaning that he has HbC disease. Patients with HbC disease are typically
+asymptomatic and often have mild hemolytic anemia and splenomegaly.

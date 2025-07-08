@@ -1,0 +1,49 @@
+‘Question Id: 17511
+
+— Item 10 of 12 = y Mark <I e a i @ al
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+This patient has rhinitis medicamentosa due to the use of a nasal decongestant spray
+containing an alpha-adrenergic agonist (eg, oxymetazoline). Intranasal application of alpha
+agonists induces vasoconstriction of superficial blood vessels in the nasal mucosa, reducing
+rhinorrhea and congestion. Although these agents are highly effective for symptom control,
+use for more than a few days is associated with rebound rhinitis and dosage escalation due
+to tachyphylaxis.
+
+Tolerance to alpha-adrenergic decongestants develops quickly due to receptor
+internalization. Both alpha- and beta-adrenergic receptors undergo a conformational change
+on ligand binding, allowing them to activate heterotrimeric G proteins involved in signal
+transduction. However, the change in conformation also results in the binding of arrestin, a
+protein that prevents further G protein activation and links the receptor complex to clathrin,
+facilitating receptor endocytosis and depletion from the cell surface.
+
+As alpha-adrenergic receptors become increasingly scarce along the blood vessels of the
+nasal mucosa, the release of endogenous catecholamines is no longer sufficient to provide
+adequate vasoconstrictive stimulation. The resulting congestion/rhinorrhea can be relieved
+only with increasing doses of exogenous alpha agonists. Treatment involves cessation of
+the culprit decongestant, sometimes with use of intranasal corticosteroids to relieve severe
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+ck
+
+Text Zoom
+
+Suspend
+
+63
+
+Settings
+

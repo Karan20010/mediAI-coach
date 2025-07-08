@@ -1,0 +1,5 @@
+Educational objective:
+
+In a cross-sectional study, exposure and outcome are measured simultaneously at a particular
+point in time ("snapshot study"). In other study designs, a certain time period separates the
+exposure from the outcome.

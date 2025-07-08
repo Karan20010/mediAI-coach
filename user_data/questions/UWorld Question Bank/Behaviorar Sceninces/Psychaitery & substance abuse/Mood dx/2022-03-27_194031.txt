@@ -1,0 +1,49 @@
+on Ld @ al [=]
+
+e r
+Previous Next Full Screen Tutorial Lab Values Notes
+
+— litem 16 of 34
+= a V7 Mark
+
+Question Id: 1193
+This patient's history of major depression along with his current manic symptoms (ie,
+decreased need for sleep, grandiosity, goal-directed activity) indicate a diagnosis of bipolar
+disorder. Valproate (valproic acid) is used as an anticonvulsant and mood stabilizer. It
+blocks voltage-gated sodium channels and enhances the availability of GABA. As a mood
+stabilizer, it is used in acute mania and maintenance treatment of bipolar disorder. As an
+anticonvulsant, it effectively treats absence, myoclonic, and generalized tonic-clonic
+seizures. It is the drug of choice for myoclonic seizures and a second-line agent for
+absence seizures (for which ethosuximide is preferred).
+
+Other anticonvulsants used as mood stabilizers in bipolar disorder include carbamazepine and
+lamotrigine. Carbamazepine is a CYP450 inducer that can cause lower levels of concomitant
+medications. Lamotrigine is associated with skin rash, which rarely can progress to life-
+threatening mucocutaneous reactions (eg, Stevens-Johnson syndrome).
+
+(Choice A) Aripiprazole is a second-generation antipsychotic used to treat psychotic and
+mood disorders. Antipsychotics are not indicated for seizures and may lower the seizure
+threshold.
+
+(Choice B) Citalopram is a selective serotonin reuptake inhibitor (SSRI) antidepressant.
+SSRI monotherapy is avoided in bipolar disorder due to the risk of inducing mania. SSRIs
+
+Block Time Elapse
+
+Tutor
+
+Calculator
+
+‘4
+
+Reverse Color
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

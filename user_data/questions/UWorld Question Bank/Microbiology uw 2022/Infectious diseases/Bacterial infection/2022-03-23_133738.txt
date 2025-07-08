@@ -1,0 +1,22 @@
+Mechanism of action of bacterial toxins
+
+Organism Toxin Microbiology
+Corynebacterium Diphtheria | Inactivates EF-2 via ribosylation, thus inhibiting host
+diphtheriae toxin cell protein synthesis
+Pseudomonas : Inactivates EF-2 via ribosylation, thus inhibiting host
+. Exotoxin A
+aeruginosa cell protein synthesis
+__ |Superantigen that acts locally in the gastrointestinal
+Enterotoxin . -
+Staphylococcus tract, causing vomiting
+aureus ' Superantigen that stimulates T cells, leading to
+TSS Toxin | |
+widespread cytokine release & shock
+. Induces actin depolymerization, leading to mucosal
+Clostridioides | | ;
+_ Cytotoxin B |cell death, necrosis of colonic mucosal surfaces &
+difficile ;
+pseudomembrane formation
+Clostridium Botulinum | Blocks the presynaptic release of acetylcholine at the
+botulinum toxin neuromuscular junction, resulting in flaccid paralysis
+

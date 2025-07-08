@@ -1,0 +1,41 @@
+— Item 22 of 40 . P Mark << Se L 7 @ al [02] e
+
+Question Id: 1720 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color
+
+(Choice A) Steroid and thyroid hormones bind to intracellular receptors. Once these
+receptors are activated, they subsequently bind to the promoter region of target genes to
+modify transcription.
+
+(Choice B) Several hormones (eg, PTH, ACTH, TSH, ADH [V2 receptor]) activate adenylyl
+cyclase after binding to G protein-coupled receptors on the cell membrane. Adenylyl cyclase
+converts ATP to cyclic AMP, which subsequently activates protein kinase A.
+
+(Choices C and D) Various hormones (eg, GnRH, TRH, angiotensin II, ADH [V1 receptor])
+function by binding to G protein-coupled receptors that activate phospholipase C. Activated
+phospholipase C hydrolyzes phosphatidylinositol bisphosphate to inositol triphosphate (IP;)
+and diacylglycerol (DAG). IP; mobilizes calcium from the endoplasmic reticulum, and DAG
+
+directly activates protein kinase C.
+
+Educational objective:
+
+Growth hormone binds to cell surface receptors, leading to intracellular activation of the JAK-
+STAT pathway. Cytokines (eg, interferon) and hematopoietic growth factors (eg,
+erythropoietin, G-CSF) also use this pathway.
+
+References
+
+e The role of STAT proteins in growth hormone signaling.
+Block Time Elapse
+
+Tutor
+
+GAA)
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

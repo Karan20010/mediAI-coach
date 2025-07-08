@@ -1,0 +1,14 @@
+(Choices B, C, and F) Unlike hepatitis B or C, HAV infection is a self-limiting disease that is
+not associated with an asymptomatic viral carrier state and does not progress to chronic
+hepatitis, cirrhosis, or hepatocellular carcinoma.
+
+(Choice D) Immunity against hepatitis D virus (HDV) infection would be signaled by anti-HDV
+IgG antibodies, not anti-HAV IgG antibodies.
+
+(Choice G) Reinfection with HAV would be associated with the presence of anti-HAV IgM
+antibodies. Individuals who have persistent anti-HAV IgG antibodies typically enjoy immunity
+to repeat HAV infection.
+
+(Choice H) Acute hepatitis B infection is sometimes associated with a window period where
+hepatitis B surface antigen (HBsAg) is no longer present but anti-HBsAg is not yet detectable
+in serum.

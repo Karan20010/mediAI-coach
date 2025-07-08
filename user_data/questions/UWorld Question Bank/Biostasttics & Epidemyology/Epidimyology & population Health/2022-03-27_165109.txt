@@ -1,0 +1,36 @@
+= L r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+The number of people who must be exposed to a treatment to cause harm to 1 person who
+otherwise would not have been harmed is known as the number needed to harm (NNH). It is
+calculated in a manner similar to the number needed to treat (NNT) but using the absolute
+risk increase (ARI) instead of the absolute risk reduction:
+
+NNH = (1 /ARI)
+
+ARI is the difference in the rate (risk) of the adverse event (AE) between the treatment
+group (eg, cariprazine) and the control group (eg, placebo):
+
+ARI = (Rate AE carorazne — Rate AE piaceoo)
+
+In this study, the rate of any AE in the treatment group (ie, cariprazine) is 0.07 (ie, 7%) and in
+the control (ie, placebo) group is 0.05 (5%). Therefore, the ARI in adverse events of
+cariprazine versus placebo is:
+
+ARI = (Rate AE caicrane ~ Rate AE scx.) = 0.07 - 0.05 = 0.02 (or 2%) (Choice A)
+Consequently, the NNH is:
+NNH = (1 /ARI) = 1/ 0.02 = 50
+
+Activate Windows
+
+Block Time Elapse
+
+Tutor
+
+= lemon a > 2 © @§ & BS 7 mA
+
+63
+
+Settings
+
+End Block

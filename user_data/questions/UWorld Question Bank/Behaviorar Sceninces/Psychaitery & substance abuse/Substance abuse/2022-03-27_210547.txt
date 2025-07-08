@@ -1,0 +1,64 @@
++B
+THT
+
+12
+13
+14
+15
+16
+17
+18
+19
++ 20
+21
+= 22
+23
++ 24
+25
+
+= Seen =P ie beh el eel
+patients with glucose-6-phosphate dehydrogenase deficiency. Neither medication has
+significant interactions with methadone.
+(Choice D) Rifampin is used (in combination with other antibiotics) in the treatment of multiple
+mycobacterial infections (eg, tuberculosis, mycobacterium avium complex). It is a cytochrome
+P-450 inducer and can result in lower plasma concentrations of methadone, thereby
+
+decreasing its effects.
+
+(Choice E) Valganciclovir is used for treatment and secondary prophylaxis of cytomegalovirus
+retinitis. Side effects include bone marrow suppression and diarrhea. It does not interact with
+
+methadone.
+
+Educational objective:
+
+Methadone is a mu-opioid receptor agonist used for maintenance treatment for opioid use
+disorder; it is metabolized by the cytochrome P-450 system, particularly by CYP3A4. Certain
+inhibitors of CYP3A4 (eg, azoles, fluvoxamine, ciprofloxacin, clarithromycin, cimetidine) can
+increase plasma methadone concentration and lead to opioid toxicity (eg, sedation, respiratory
+
+depression, miosis).
+
+Pharmacology Psychiatric/Behavioral & Substance Abuse Opioids
+
+Block Time Elapse
+
+Tutor
+
+Notes
+
+Calculator
+
+‘4
+
+Reverse Color
+
+A
+
+Text Zoom
+
+63
+
+Settings
+
+End Block

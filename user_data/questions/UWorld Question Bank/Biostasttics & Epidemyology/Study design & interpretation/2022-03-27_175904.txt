@@ -1,0 +1,10 @@
+the observations, and the mean + 2.58 x SD would cover 99% of the observations. However,
+the question is asking for a 95% Cl, so the equation should use a z-score of 1.96 and the SE
+(ie, SD/Vn).
+
+Educational objective:
+
+The standard deviation reflects the spread of individual values in a normal distribution (ie, it
+measures the variability of the observations within a single sample). The standard error of the
+mean reflects the variability of means (ie, variance between the means of different samples)
+and helps estimate the true mean of the underlying population.

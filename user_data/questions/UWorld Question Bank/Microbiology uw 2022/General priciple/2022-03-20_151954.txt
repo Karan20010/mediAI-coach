@@ -1,0 +1,7 @@
+(Choices A — D) The lac operon, which codes for all three aforementioned proteins, is
+regulated by a single operator, a promoter, and a single group of regulatory elements: an
+inducer, repressor, and catabolite activator protein. Modulation of the transcription of this
+operon through binding of the operator and action of the repressor or other regulatory
+elements will change the transcription of all three /ac-operon structural genes (z, y, and a). On
+the other hand, there are no operators, repressors, or inducers that can desynchronize the
+transcription of lac-operon structural genes.

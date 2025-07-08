@@ -1,0 +1,3 @@
+Educational Objective:
+Cytochrome c is a mitochondrial enzyme that activates caspases and indirectly brings about
+cell death through intrinsic pathway apoptosis.

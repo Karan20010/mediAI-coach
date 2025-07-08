@@ -1,0 +1,11 @@
+(Choice E) Chronic granulomatous disease is an X-linked immunodeficiency due to impaired
+NADPH oxidase, which prevents neutrophils from generating an oxidative burst. Although
+recurrent pneumonia is common, meningitis is not. In addition, infections associated with this
+defect are caused by certain catalase-positive organisms (eg, staphylococci), not
+encapsulated bacteria (eg, N meningitidis).
+
+Educational objective:
+
+Deficiency of the complement factors that form the membrane attack complex (C5-C9) results
+in recurrent infections of the lung and meninges by encapsulated bacteria (eg, Streptococcus
+pneumoniae, Neisseria meningitidis).

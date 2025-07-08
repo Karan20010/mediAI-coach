@@ -1,0 +1,4 @@
+To reduce the risk of serious infection, patients who receive systemic chemotherapy are often
+empirically treated with prophylactic antibiotics (eg, ciprofloxacin) to prevent commensal
+organisms from invading and with granulocyte-stimulating agents (eg, filgrastim) to increase
+neutrophil count.

@@ -1,0 +1,37 @@
+Question Id: 1716
+
+— Item 20 of 32 mY wax <q = Ld @ a) bo 4 Gaia)
+
+(4) r
+Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom
+
+proportion that is converted to the metabolite becomes smaller (ie, the proportion metabolized
+is non-constant after point 3).
+
+(Choice B) Bioavailability is the fraction of an administered drug that reaches the systemic
+circulation unchanged. It usually decreases with oral administration due to incomplete
+absorption and first-pass metabolism compared to parenteral administration. In this case,
+higher doses of the drug are likely to have greater bioavailability due to the saturation of
+hepatic metabolism.
+
+(Choice C) At point 2, biotransformation (ie, metabolism) of the drug begins to switch from
+first-order to zero-order kinetics due to enzyme saturation. However, drug metabolism does
+not stop.
+
+(Choice E) Before point 1, drug metabolism proceeds via first-order kinetics. Therefore, the
+drug metabolization rate increases as higher doses are administered.
+
+Educational objective:
+
+In first-order kinetics, a constant fraction (or proportion) of drug is metabolized per unit of time,
+so the amount metabolized changes based on the serum concentration. In zero-order kinetics,
+a constant amount of drug is metabolized per unit of time, independent of serum levels.
+
+Block Time Elapse
+Tutor
+
+63
+
+Settings
+
+End Block

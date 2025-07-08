@@ -1,0 +1,8 @@
+Educational objective:
+
+Observer bias occurs when the investigator's evaluation is affected by preconceived
+expectations or prior knowledge, typically leading to overestimation of the disease association
+or treatment effects. This type of bias can be reduced by conducting a blinded study in which
+observers are unaware of study details and patient characteristics that could unduly influence
+
+them.

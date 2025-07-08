@@ -1,0 +1,6 @@
+Educational Objective:
+
+Isoniazid is metabolized by acetylation. The speed with which a patient is able to acetylate
+drugs depends on whether they are genetically "fast" or "slow" acetylators. The presence of
+fast and slow acetylators within the same population results in a bimodal distribution of the
+speed of isoniazid metabolism. Slow acetylators are at increased risk of adverse side effects.

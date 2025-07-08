@@ -1,0 +1,6 @@
+This child has diphtheria, a disease caused by Corynebacterium diphtheriae and now rarely
+seen in most countries as a result of vaccination. The A (active) subunit of the diphtheria AB
+exotoxin transfers a ribose residue from NAD to a histidine on elongation factor-2 (EF-2).
+The EF-2 protein is essential for peptide chain translocation on the ribosome in the process of
+translation. Ribosylation inactivates EF-2, thereby inhibiting protein synthesis and causing
+cell death.

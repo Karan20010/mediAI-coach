@@ -1,0 +1,37 @@
+= Items of 31 mY war <4 Se oh @ é) F
+
+Question Id: 1010 Previous Next Full Screen Tutorial Lab Values Notes Calculator Reverse Color Text Zoom
+
+Glucose-induced insulin release from pancreatic beta cells requires the following steps:
+
+1. Glucose enters the beta cell through glucose transporter type 2 (GLUT-2).
+
+2. Glucose is metabolized by glucokinase to glucose-6-phosphate.
+
+3. Glucose-6-phosphate enters glycolysis to produce ATP.
+
+4. Increased ATP levels causes closure of ATP-sensitive potassium (Kr) channels.
+
+5. Depolarization of beta cells triggers opening of voltage-dependent calcium channels.
+6. Influx of calcium causes insulin release.
+
+Glucokinase has a lower glucose affinity than other hexokinases, which allows it to limit the
+rate of glucose entry into the glycolytic pathway based on blood glucose levels. It therefore
+functions as a glucose sensor for beta cells in controlling insulin release.
+
+Heterozygous mutations of the glucokinase gene that decrease the activity or affinity of the
+enzyme cause a decrease in beta cell glucose metabolism, leading to reduced ATP formation
+and insulin secretion at any given glucose level. Glucokinase mutations are one cause of
+maturity-onset diabetes of the young (MODY), an autosomal dominant disorder
+characterized by mild hyperglycemia that often worsens with pregnancy-induced insulin
+resistance. In contrast to those with more common ‘ype 2 2 diabetes mellitus, patients with
+
+Block Time Elapse
+Tutor
+
+Suspend
+
+63
+
+Settings
+

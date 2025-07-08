@@ -1,0 +1,38 @@
+— Item 17 of 40 = y Mark <I e a i @ al
+
+Question Id: 15152
+
+Although B cells are the primary players in inducing a vaccine response, T cells play a key
+
+e
+Previous Next Full Screen Tutorial Lab Values
+
+role in enabling high-affinity antibodies and immunological memory. Most vaccinations use
+peptide antigens or nonpeptides bonded to peptides (ie, conjugate vaccine) so the antigen can
+be displayed on MHC class II molecules on antigen-presenting cells (APCs), which leads to a
+much stronger T-cell-mediated immune response.
+
+Vaccines given in series (eg, measles, mumps, and rubella) typically trigger the following
+immunologic changes:
+
+¢ Primary response: Upon initial vaccination, foreign antigen binds to and activates B
+lymphocytes with compatible antigen receptors, leading to clonal B-cell expansion and
+differentiation into short-lived plasma cells that secrete low-affinity IgM. Early
+production of IgM can be detected in the serum within a few days of immunization. APCs
+also ingest the peptide and travel to regional lymph nodes where they stimulate CD4 T
+lymphocytes to interact with activated B cells. This interaction facilitates immunoglobulin
+class switching from IgM to other types (eg, IgG, IgA) and stimulates B-cell differentiation
+into memory B cells. Plasma cells secrete high-affinity IgG, and levels peak a few weeks
+after immunization (after IgM peaks) before slowly waning (Choices B and E).
+
+¢ Secondary response: subsequent vaccination or pathogen exposure results in a IgM
+
+Block Time Elapse
+
+Tutor
+
+g - &A 8
+
+Notes Calculator Reverse Color __Text Zoom Settings
+
+End Block

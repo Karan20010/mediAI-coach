@@ -1,0 +1,16 @@
+This patient developed hypoketotic hypoglycemia after fasting, which is consistent with a
+defect in fatty acid beta-oxidation in the mitochondria. Beta-oxidation of fatty acids yields
+FADH, and NADH for ATP production and generates acetyl-CoA for use in the citric acid cycle
+or ketone body production. Ketone bodies are an important energy source during periods of
+fasting; adults generally require more than 1-2 days of fasting before ketone use becomes
+substantial, whereas children have limited glucose reserves and begin using ketone bodies
+after as little as 8-10 hours.
+
+Impaired beta-oxidation can be caused by a variety of enzymatic defects, the most common of
+which is medium chain acyl-CoA dehydrogenase deficiency. Affected individuals may
+remain asymptomatic for long periods until they experience a significant fast, during which
+they are unable to oxidize fatty acids to maintain glucose and ketone body production. Classic
+manifestations include hypoketotic hypoglycemia (eg, undetectable acetoacetate level), mild
+hepatomegaly, and liver dysfunction. Because the resulting metabolic crisis can have severe
+consequences (eg, seizures, sudden infant death), fatty acid oxidation disorders are part of
+standard newborn screening.

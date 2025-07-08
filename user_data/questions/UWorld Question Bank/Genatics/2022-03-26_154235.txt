@@ -1,0 +1,6 @@
+Educational objective:
+
+An increased number of trinucleotide repeats on the HTT gene is associated with Huntington
+disease. The larger the number of repeats, the earlier the onset of the disease. Trinucleotide
+expansion occurs more frequently during paternal transmission, causing a genetic
+phenomenon called anticipation.

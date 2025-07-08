@@ -1,0 +1,5 @@
+Educational Objective:
+Kinesin is a microtubule-associated, ATP-powered motor protein that facilitates the
+anterograde transport of neurotransmitter-containing secretory vesicles down axons to
+
+synaptic terminals.

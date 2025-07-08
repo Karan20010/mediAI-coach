@@ -1,0 +1,38 @@
+41 be uu @® @4§ &® &= FF &) &
+
+e c
+Previous New Full Screen Tutorial Lab Values Notes Calculator Reverse Color __Text Zoom Settings
+
+— item 18 of 29
+= a V7 Mark
+
+Question Id: 1173
+
+Confounding occurs when the exposure-disease relationship is muddled by the effect of a
+confounding variable, an extraneous factor associated with both exposure and disease. An
+example is shown in the exhibit. In a primary school, it may appear on crude analysis that
+students with bigger shoe sizes have a higher level of intelligence. However, this association
+is actually a result of age, not shoe size: Older students tend to have bigger shoe sizes and
+also to be more intelligent. Age is a confounder because it is associated with both shoe size
+and intelligence and muddles the association between them. When study subjects are
+grouped by age (stratification), the association between shoe size and intelligence is no
+
+longer significant.
+
+Similarly, initial crude analysis suggested that alcohol use was associated with bladder
+carcinoma (similar to shoe size being associated with intelligence), with a relative risk (RR) of
+1.81 and a p-value <0.05. However, smoking is associated with both bladder carcinoma and
+alcohol use. Therefore, smoking is a potential confounder that may explain the association
+observed between alcohol use and bladder cancer (similar to age in the school example).
+Stratified analysis by smoking status shows that both smokers and non-smokers have an RR
+~1 with large p-values (>0.05). The RR of 1.81 found on crude analysis disappears and there
+is no true association between alcohol consumption and bladder cancer.
+
+Block Time Elapse
+
+Tutor
+
+ck
+
+Suspend
+
