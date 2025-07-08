@@ -1,5 +1,0 @@
-Educational objective:
-
-Hemoglobin S (HbS) contains valine in place of glutamic acid at the sixth amino acid position
-of the beta globin chain. This promotes hydrophobic interaction among Hb molecules and
-results in HbS polymerization and erythrocyte sickling.

@@ -1,6 +1,0 @@
-Educational objective:
-
-Insulin is an anabolic hormone that acts via receptor tyrosine kinase signaling to increase the
-synthesis of glycogen, proteins, fatty acids, and nucleic acids. Tyrosine
-kinase/phosphatidylinositol-3-kinase stimulation promotes glycogen synthesis by activating
-protein phosphatase, an enzyme that dephosphorylates (activates) glycogen synthase.

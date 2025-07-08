@@ -1,6 +1,0 @@
-Educational Objective:
-
-Efficacy is a measure of the maximum pharmacodynamic effect achievable with a drug.
-Potency refers to the dose of drug that is required to produce a given effect. Drugs that bind
-their receptors with a higher affinity or are better able to gain access to their target tissues will
-have greater potency (lower ED;)).

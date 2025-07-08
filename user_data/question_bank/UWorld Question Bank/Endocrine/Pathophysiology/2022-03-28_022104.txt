@@ -1,8 +1,0 @@
-Educational objective:
-
-The thyroid releases thyroid hormone (triiodothyronine [T3] and thyroxine [T4]) in response to
-TSH from the pituitary, which is regulated by thyrotropin-releasing hormone (TRH) from the
-hypothalamus. Thyroid hormone suppresses the secretion of TSH and TRH via negative
-feedback, and small changes in thyroid hormone levels cause large changes in TSH. Serum
-
-TSH is the most sensitive test for primary hypothyroidism.

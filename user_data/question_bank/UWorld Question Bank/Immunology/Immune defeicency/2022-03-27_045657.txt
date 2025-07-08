@@ -1,6 +1,0 @@
-Educational objective:
-
-Chronic granulomatous disease is a primary immunodeficiency due to impaired NADPH
-oxidase, an enzyme that generates reactive oxygen species in phagolysosomes. Diminished
-intracellular killing within neutrophils leads to susceptibility to recurrent infection with catalase-
-producing bacteria (eg, Staphylococcus aureus, Nocardia) and fungi (eg, Aspergillus).

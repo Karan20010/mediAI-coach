@@ -1,5 +1,0 @@
-Educational objective:
-St John's wort induces cytochrome P450 hepatic microsomal enzymes. As a result, a wide
-variety of drugs that are metabolized by these enzymes, such as warfarin, will have lower
-
-plasma concentrations and decreased efficacy.

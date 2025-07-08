@@ -1,5 +1,0 @@
-Educational objective:
-
-Antibiotics exhibiting concentration-dependent killing can be administered using relatively high
-doses given at lower frequency. This allows for effective microbial killing while preventing
-adverse effects that may occur with prolonged systemic exposure.

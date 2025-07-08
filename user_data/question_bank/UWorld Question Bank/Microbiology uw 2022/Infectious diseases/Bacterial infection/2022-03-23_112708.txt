@@ -1,8 +1,0 @@
-Educational objective:
-
-Rocky mountain spotted fever is a tick-borne illness due to Rickettsia rickettsii, a weakly gram-
-negative, obligate intracellular organism that has an affinity for vascular endothelial cells.
-Patients usually have nonspecific symptoms (eg, fever, malaise, myalgia) followed by a
-macular-petechial rash that begins on the ankles and wrists and spreads to the center of the
-body as well as to the palms and soles. Urgent treatment with doxycycline, an inhibitor of
-bacterial protein synthesis, is required.

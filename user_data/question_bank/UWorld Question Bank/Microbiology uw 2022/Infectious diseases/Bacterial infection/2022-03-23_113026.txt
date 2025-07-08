@@ -1,6 +1,0 @@
-Educational objective:
-
-Aminoglycosides work by interfering with the 30S ribosomal subunit and causing the cell to
-misread messenger RNA, thereby halting protein synthesis. An important mechanism of
-resistance is the methylation of the aminoglycoside-binding portion of the ribosome, which
-inhibits the ability of aminoglycoside to interfere with protein translation.

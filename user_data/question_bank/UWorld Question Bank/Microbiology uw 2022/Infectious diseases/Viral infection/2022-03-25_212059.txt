@@ -1,6 +1,0 @@
-Educational objective:
-
-Inactivated (killed or component) viral vaccines primarily generate a humoral immune
-response against extracellular viral antigens, preventing viral entry into the cell. In contrast,
-live attenuated viral vaccines can generate a strong cell-mediated immune response that can
-kill virally-infected cells, in addition to providing humoral immunity.

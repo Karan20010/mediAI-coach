@@ -1,7 +1,0 @@
-Educational objective:
-
-IgA protease is produced by Neisseria meningitidis, N gonorrhoeae, Streptococcus
-pneumoniae, and Haemophilus influenzae. This enzyme cleaves secretory IgA at its hinge
-region, rendering it ineffective. Secretory IgA exists on mucosal surfaces and in secretions
-and acts to bind and inhibit the action of pili as well as other cell surface antigens that normally
-mediate mucosal adherence and subsequent penetration.

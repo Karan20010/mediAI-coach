@@ -1,7 +1,0 @@
-Educational objective:
-
-Vibrio cholerae and enterotoxigenic Escherichia coli cause a purely toxin-mediated watery
-diarrhea. The toxins secreted by these organisms modify electrolyte handling by enterocytes
-but do not cause cell death; therefore, no erythrocytes or leukocytes are typically noted on
-
-stool microscopy.

@@ -1,9 +1,0 @@
-(Choices C and D) Sensitivity is defined as a test's ability to identify the true presence of
-disease, whereas specificity is defined as a test's ability to identify the true absence of
-disease. Poor reliability can limit the sensitivity or specificity of a test if the results from healthy
-and diseased populations are close in value.
-
-Educational objective:
-
-A precise/reliable test is reproducible in that it gives similar results on repeat measurements.
-Reliability is maximal when random error is minimal.

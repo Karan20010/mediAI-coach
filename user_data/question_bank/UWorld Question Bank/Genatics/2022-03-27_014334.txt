@@ -1,9 +1,0 @@
-Genomic DNA
-Exon1 Exon 2 Exon 3 Exon 4
-RNA Splicing
-Intron 1 Intron 2 Intron 3
-Pre-messenger RNA
-Exon 1 Exon 2 Exon 3 Exon 4 Exon 1 Exon 2 Exon 4
-Translation
-
-Protein A Protein B

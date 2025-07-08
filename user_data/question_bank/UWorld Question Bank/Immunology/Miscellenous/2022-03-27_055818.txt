@@ -1,8 +1,0 @@
-Educational objective:
-
-Allergic contact dermatitis is a type IV (delayed-type) hypersensitivity reaction. Initially,
-Langerhans cells present haptens to naive T cells, leading to clonal expansion. On
-reexposure, sensitized CD8- T cells are recruited to skin and destroy tissue. Release of
-interferon gamma by T cells further amplifies the immune response.
-
-a

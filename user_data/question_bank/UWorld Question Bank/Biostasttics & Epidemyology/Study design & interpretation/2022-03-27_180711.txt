@@ -1,7 +1,0 @@
-(Choices B and E) Type Il error (8) is 0.20, as explained above. The value 0.95 corresponds
-to (1 — a), but power is given by (1 — 8).
-
-Educational objective:
-
-The power of a study indicates the probability of seeing a difference when there is one. The
-formula is Power = 1 — B, where 8 is the type II error rate.

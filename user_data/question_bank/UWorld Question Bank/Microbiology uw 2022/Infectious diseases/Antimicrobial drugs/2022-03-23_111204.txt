@@ -1,7 +1,0 @@
-Penicillins and cephalosporins function by irreversibly binding to penicillin-binding proteins.
-Transpeptidases are one form of penicillin-binding protein that function to cross-link
-peptidoglycan in the bacterial cell wall. Inhibition of transpeptidase (which occurs with the use
-of the cephalosporin ceftriaxone) leads to cell wall instability and bacteriolysis. Many bacterial
-species synthesize multiple different penicillin-binding proteins; the laboratory study described
-in this question stem identifies 5 such proteins that are produced by this isolate of
-Streptococcus pneumoniae.

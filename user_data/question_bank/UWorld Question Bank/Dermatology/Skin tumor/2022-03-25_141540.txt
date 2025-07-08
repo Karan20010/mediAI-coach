@@ -1,5 +1,0 @@
-Patients who are immunosuppressed from medications or infections (eg, HIV) are at increased
-risk for malignancy due to reduced immunosurveillance by natural killer cells and the cell-
-mediated immune response. Reduced immunosurveillance allows malignant cells to avoid
-immunologic identification with fewer evasive adaptations; it also allows oncogenic viruses to
-replicate in an unchecked fashion, which can trigger malignancy.

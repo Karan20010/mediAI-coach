@@ -1,6 +1,0 @@
-Educational objective:
-
-Influenza epidemics and pandemics are typically caused by reassortment of the RNA
-segments coding for hemagglutinin or neuraminidase proteins (major antigenic shifts). This
-process can occur between human and animal strains of influenza A virus in avian or swine
-hosts.

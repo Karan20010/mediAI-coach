@@ -1,9 +1,0 @@
-Polymerase chain reaction (PCR) is used to amplify small fragments of DNA (eg, genes,
-exons, noncoding regions) by repeated replication. Several elements are required for PCR.
-The first is a source DNA template that includes the target region to be amplified (eg, BRCA7
-exon 11) as well as flanking sequences adjacent to the target region. The oligonucleotide
-sequence of these flanking regions must be known in order to make the primers necessary to
-start PCR. However, the exact nucleotide sequence of the target region does not need to be
-known (Choice D). A thermostable DNA polymerase (not denatured at high temperatures) is
-then used to replicate the DNA template from a pool of supplied deoxynucleotide
-triphosphates using the following 3 steps:

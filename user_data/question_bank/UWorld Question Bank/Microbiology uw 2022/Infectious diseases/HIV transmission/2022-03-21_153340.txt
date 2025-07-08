@@ -1,7 +1,0 @@
-Educational objective:
-
-Tenofovir is a nucleotide reverse transcriptase inhibitor that is a common component of HIV
-therapy. This drug is generally well tolerated but may occasionally cause damage to the
-proximal tubule of the kidney, leading to acute kidney injury and/or proximal tubule impairment
-(eg, phosphoruria, glucosuria, proteinuria, water retention). Biopsy typically reveals a normal
-glomerulus and renal interstitium but damage to the proximal tubule.

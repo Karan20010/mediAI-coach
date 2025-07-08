@@ -1,7 +1,0 @@
-Educational objective:
-
-Transamination reactions typically occur between an amino acid and an a-keto acid. The
-amino group from the amino acid is transferred to the a-keto acid, and the a-keto acid in turn
-becomes an amino acid. Pyridoxal phosphate (active vitamin B,) serves as a cofactor in
-
-amino acid transamination and decarboxylation reactions.

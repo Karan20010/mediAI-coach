@@ -1,9 +1,0 @@
-(Choice F) The occurrence of multiple, seemingly unrelated phenotypic manifestations (often
-in different organ systems as a result of a single genetic defect) is termed pleiotrophy.
-Although this may apply to features of oculocutaneous albinism (eg, absence of melanin in
-skin, reduced visual acuity, nystagmus), it does not explain why a child of two affected parents
-would be unaffected.
-
-Educational objective:
-Locus heterogeneity describes when a similar phenotype is produced by mutations in different
-genetic loci (eg, oculocutaneous albinism).

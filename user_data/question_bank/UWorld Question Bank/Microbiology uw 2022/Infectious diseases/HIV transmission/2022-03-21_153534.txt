@@ -1,9 +1,0 @@
-(Choices B and D) D-glutamic acid-D-glutamic acid and L-alanine-D-glutamine are not
-sequences targeted by transpeptidase. Penicillin is not a structural analog of either molecule.
-(Choice C) Sulfonamide antibiotics are antimetabolites that compete with para-aminobenzoic
-
-acid for incorporation into folic acid. Trimethoprim blocks another step in folic acid synthesis
-by inhibiting the enzyme dihydrofolate reductase.
-
-(Choices E and F) Peptidoglycan precursor molecules consist of a disaccharide composed of
-N-acetylmuramic acid (MurNAc) and N-acetylglucosamine (GIcNAc).

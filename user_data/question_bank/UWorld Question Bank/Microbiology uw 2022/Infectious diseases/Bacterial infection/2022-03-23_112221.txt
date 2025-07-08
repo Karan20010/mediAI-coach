@@ -1,7 +1,0 @@
-Educational objective:
-
-Mycoplasma pneumoniae is a leading cause of atypical pneumonia. Because this pathogen
-lacks a cell wall, it does not show up on Gram stain and cannot be treated with beta-lactam
-antibiotics. Protein synthesis inhibitors (eg, macrolides, tetracycline) are the treatment of
-
-choice.

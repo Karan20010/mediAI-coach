@@ -1,3 +1,0 @@
-Educational objective:
-The chemokine receptor CCRS is a coreceptor that enables the HIV virus to enter cells.
-Blockade of CCR5 by chemokine receptor antagonists prevents viral entry into host cells.

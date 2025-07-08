@@ -1,7 +1,0 @@
-Educational objective:
-
-Rheumatoid arthritis results from an immune response directed against autoantigens in the
-joints. Infiltrating CD4- T cells secrete cytokines that promote inflammatory synovitis. They
-also stimulate B cells to produce rheumatoid factor (IgM antibody specific for Fc component of
-IgG) and anti-citrullinated protein antibodies that contribute to chronic inflammation and joint
-destruction.

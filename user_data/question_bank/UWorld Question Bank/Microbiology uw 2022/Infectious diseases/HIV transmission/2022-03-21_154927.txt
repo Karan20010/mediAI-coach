@@ -1,6 +1,0 @@
-Educational objective:
-
-Urinalysis in patients with Chlamydia trachomatis infection classically shows sterile pyuria
-(positive urine white blood cells, no bacteria on Gram stain, no growth on culture) because the
-C trachomatis bacterium is an obligate intracellular parasite with minimal peptidoglycan in its
-cell wall. The diagnostic test of choice is nucleic acid amplification testing.

@@ -1,6 +1,0 @@
-Educational objective:
-
-Approximately 25% of patients with active TB have false-negative tuberculin skin testing (TST)
-(anergy) due to an impaired cell-mediated immune response. These individuals are at greater
-risk for severe, disseminated disease and death. False-negative TST can also be seen with
-immunocompromise, improper injection technique, and recent infection.

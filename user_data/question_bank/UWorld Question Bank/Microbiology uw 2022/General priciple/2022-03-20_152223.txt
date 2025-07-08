@@ -1,5 +1,0 @@
-Educational objective:
-
-Shiga toxin is produced by enterohemorrhagic Escherichia coli and Shigella dysenteriae. It
-inhibits the 60S ribosomal subunit in human cells, blocking protein synthesis and causing cell
-death.

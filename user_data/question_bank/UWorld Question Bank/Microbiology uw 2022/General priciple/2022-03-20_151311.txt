@@ -1,6 +1,0 @@
-Educational objective:
-
-Phenotypic mixing refers to coinfection of a host cell by 2 viral strains, resulting in progeny
-virions that contain nucleocapsid proteins from one strain and the unchanged parental genome
-of the other strain. Because there is no change in the underlying viral genomes (no genetic
-exchange), the next generation of virions revert to their original, unmixed phenotypes.

@@ -1,8 +1,0 @@
-Educational objective:
-
-Chagas disease is a protozoal illness that is endemic to Latin America. Patients in rural areas
-are at greatest risk when their houses harbor the vector (Triatome bug) in adobe walls or
-thatched roofs. Acute infections are often asymptomatic, but patients can develop Chagas
-cardiomyopathy (eg, heart failure, ventricular arrhythmias, ventricular aneurysms) several
-
-decades later.

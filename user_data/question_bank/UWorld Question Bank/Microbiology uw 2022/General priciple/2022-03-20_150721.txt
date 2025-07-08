@@ -1,8 +1,0 @@
-Educational objective:
-
-The /ac operon is regulated by two distinct mechanisms: negatively by binding of the repressor
-protein to the operator locus and positively by cAMP-CAP binding upstream from the promoter
-region. Constitutive expression of the structural genes of the /ac operon occurs with mutations
-that impair the binding of the repressor protein (Lac |) to its regulatory sequence in the
-
-operator region.

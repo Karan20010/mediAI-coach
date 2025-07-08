@@ -1,5 +1,0 @@
-Educational objective:
-
-Bacillus anthracis edema factor is an adenylate cyclase that increases intracellular cyclic AMP,
-leading to neutrophil and macrophage dysfunction and tissue edema. This mechanism of
-action is similar to that of adenylate cyclase toxin, produced by Bordetella pertussis.

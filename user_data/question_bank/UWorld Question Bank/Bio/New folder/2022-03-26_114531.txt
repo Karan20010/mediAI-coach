@@ -1,7 +1,0 @@
-Educational objective:
-
-Contraction initiation in cardiac and smooth muscle cells is dependent on extracellular calcium
-influx through L-type calcium channels, which can be prevented by calcium channel blockers
-(eg, verapamil). Skeletal muscle is resistant to calcium channel blockers, as calcium release
-by the sarcoplasmic reticulum is triggered by a mechanical interaction between L-type and
-RyR calcium channels.

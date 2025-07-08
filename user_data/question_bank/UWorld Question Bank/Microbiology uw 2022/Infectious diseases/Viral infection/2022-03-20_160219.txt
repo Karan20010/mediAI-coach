@@ -1,8 +1,0 @@
-This patient, who is HIV negative, has a positive titer for cytomegalovirus (CMV) IgG,
-suggesting prior CMV infection. CMV is a rare cause of disease in the immunocompetent, with
-the virus more typically responsible for subclinical infection. When primary CMV infection does
-result in clinically evident illness, affected individuals appear to have a systemic
-mononucleosis-like syndrome characterized by fever, malaise, myalgia, atypical
-lymphocytosis, and elevated liver transaminases. In contrast to Epstein-Barr virus
-mononucleosis (most common), heterophile antibodies are not usually present in patients with
-CMV mononucleosis (negative Monospot test).

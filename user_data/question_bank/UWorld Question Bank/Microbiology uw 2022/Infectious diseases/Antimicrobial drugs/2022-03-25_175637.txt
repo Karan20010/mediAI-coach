@@ -1,8 +1,0 @@
-Pseudomonas aeruginosa is a gram-negative, opportunistic pathogen with multiple
-mechanisms of antibiotic resistance, including beta-lactamases, efflux pumps, and antibiotic-
-modifying enzymes. Antibiotic-modifying enzymes add chemical groups (eg, acetyl, adenyl,
-phosphate) to a target drug and are the most common mechanisms of aminoglycoside (eg,
-gentamicin) resistance. Altered aminoglycosides have a reduced ability to bind to the 16S
-ribosomal RNA within the 30S ribosomal subunit, leading to increased minimum inhibitory
-concentrations and reduced bactericidal effects. Most antibiotic-modifying enzymes arise via
-transfer of plasmids or transposons rather than chromosomal mutations.

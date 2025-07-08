@@ -1,6 +1,0 @@
-Educational objective:
-A single sarcomere is defined as the distance between two Z lines. Thin (actin) filaments in
-
-the | band are bound to structural proteins at the Z line, whereas thick (myosin) filaments in the
-
-A band are bound to structural proteins at the M line.

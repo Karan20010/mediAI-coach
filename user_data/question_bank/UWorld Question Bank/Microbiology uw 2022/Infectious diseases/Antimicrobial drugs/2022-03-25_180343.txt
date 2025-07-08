@@ -1,5 +1,0 @@
-Educational objective:
-
-Foscarnet is an analog of pyrophosphate that can chelate calcium and promote nephrotoxic
-renal magnesium wasting. These toxicities can result in hypocalcemia and hypomagnesemia,
-which can cause seizures.

@@ -1,6 +1,0 @@
-Educational objective:
-
-Matching is used in case-control studies in order to control confounding. Matching variables
-should always be the potential confounders of the study (eg, age, race). Cases and controls
-are then selected based on the matching variables so that both groups have a similar
-distribution in accordance with the variables.

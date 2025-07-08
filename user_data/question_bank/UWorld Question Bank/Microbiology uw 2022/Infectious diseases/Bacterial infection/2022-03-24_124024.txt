@@ -1,6 +1,0 @@
-Educational objective:
-
-Lysogenic bacteriophages are responsible for converting nonpathogenic Corynebacterium into
-toxigenic Corynebacterium. Toxigenic strains elaborate the diphtheria exotoxin, which causes
-pseudomembranous pharyngitis and potentially life-threatening systemic effects (eg,
-myocarditis, neuritis).

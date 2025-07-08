@@ -1,5 +1,0 @@
-Educational objective:
-
-The hepatitis B virus (HBV) replicates via the following sequence: double-stranded DNA >
-+RNA template — partially double-stranded DNA progeny. Although it is a DNA virus, HBV
-uses reverse transcription to generate new viral DNA from a positive-sense RNA template.

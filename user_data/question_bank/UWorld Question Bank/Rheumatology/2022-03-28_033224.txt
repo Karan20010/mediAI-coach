@@ -1,5 +1,0 @@
-Educational objective:
-
-Reactive arthritis is a spondyloarthropathy associated with HLA-B27 that can occur following
-infection with Chlamydia, Campylobacter, Salmonella, Shigella, or Yersinia. \t presents with
-sterile arthritis due to deposition of immune complexes.

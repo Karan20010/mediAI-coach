@@ -1,6 +1,0 @@
-Educational objective:
-
-Rapidly dividing cells such as stem cells and cancer cells generate energy through anaerobic
-glycolysis (Warburg effect). This pathway converts the majority of glucose to lactate despite
-the presence of adequate oxygen to run oxidative phosphorylation. Therefore, cancer cells
-generally produce far more lactate than a normal terminally differentiated cell.

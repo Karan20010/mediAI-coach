@@ -1,8 +1,0 @@
-This patient who has a central venous catheter and is receiving parenteral nutrition has sepsis
-(fever, tachycardia) with blood cultures growing yeast. Patients receiving parenteral nutrition
-(through a central venous catheter) are at high risk for candidemia (Candida in the
-bloodstream). Candida can colonize the catheter, and the lipid emulsion in the parenteral
-nutrition solution is thought to promote the growth of some Candida species. The morphology
-of Candida includes branching pseudohyphae with blastoconidia (budding cells). Most
-species are susceptible to echinocandins, and C albicans is nearly always susceptible to
-fluconazole.

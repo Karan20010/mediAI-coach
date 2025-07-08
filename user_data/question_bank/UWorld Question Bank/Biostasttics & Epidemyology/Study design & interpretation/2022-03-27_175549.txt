@@ -1,5 +1,0 @@
-Educational objective:
-Genome-wide association studies aim to identify associations between thousands of genetic
-
-variants and a disease. Because of the increased risk of false-positive results when multiple
-tests are performed simultaneously, a smaller genome-wide p-value is typically used.

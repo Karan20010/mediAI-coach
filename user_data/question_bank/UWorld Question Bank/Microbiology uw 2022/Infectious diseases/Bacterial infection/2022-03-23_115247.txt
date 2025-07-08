@@ -1,7 +1,0 @@
-Educational objective:
-
-Vibrio vulnificus is a curved, gram-negative, free-living bacterium that grows in marine
-environments. Transmission primarily occurs due to the consumption of raw seafood (eg,
-oysters) or wound contamination. Manifestations are often mild, but individuals with liver
-disease or iron overload are at very high risk of severe, fulminant infection (eg, sepsis,
-necrotizing fascitis).

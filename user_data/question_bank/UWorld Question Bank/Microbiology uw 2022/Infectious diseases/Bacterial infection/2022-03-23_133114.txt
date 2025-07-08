@@ -1,7 +1,0 @@
-Educational objective:
-
-Streptococcus pneumoniae is virulent primarily due to a polysaccharide capsule. A conjugant
-vaccine provides long-lasting immunity against serotypes in the vaccine but provides no
-significant immunity against nonvaccinated serotypes. Therefore, infection can still occur due
-
-to serotypes not covered by the vaccine.

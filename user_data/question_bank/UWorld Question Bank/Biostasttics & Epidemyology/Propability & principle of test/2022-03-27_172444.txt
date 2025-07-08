@@ -1,6 +1,0 @@
-Educational objective:
-Specificity is the number of true negatives divided by the total number of subjects confirmed as
-not having the disease.
-
-True negatives = (Specificity) * (Number of patients confirmed without the disease)
-False positives = (1 - Specificity) * (Number of patients confirmed without the disease)

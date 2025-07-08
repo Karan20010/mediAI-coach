@@ -1,7 +1,0 @@
-Educational objective:
-
-Hyperammonemia in advanced liver failure occurs as a direct result of the cirrhotic liver's
-inability to metabolize nitrogenous waste products. Ammonia crosses the blood-brain barrier
-and causes excess glutamine to accumulate within astrocytes. This decreases the amount of
-glutamine available for conversion to glutamate in the neurons, resulting in disruption of
-excitatory neurotransmission.

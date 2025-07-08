@@ -1,9 +1,0 @@
-(Choice D) Probenecid blocks the renal tubular excretion of most beta-lactam antibiotics,
-which can increase their serum level. Sulfadiazine and pyrimethamine are not used together
-to alter renal excretion.
-
-Educational objective:
-
-Congenital toxoplasmosis is treated with sulfadiazine plus pyrimethamine. These medications
-work synergistically to inhibit formation of tetrahydrofolate, a necessary cofactor for purine
-nucleotide synthesis.

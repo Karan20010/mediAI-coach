@@ -1,6 +1,0 @@
-Educational objective:
-
-The Haemophilus influenzae type b (Hib) vaccine induces anticapsular antibodies that facilitate
-complement-mediated phagocytosis of the bacterium. The vaccination series has drastically
-reduced the incidence of invasive disease caused by Hib, such as meningitis, bacteremia,
-pneumonia, and epiglottitis.

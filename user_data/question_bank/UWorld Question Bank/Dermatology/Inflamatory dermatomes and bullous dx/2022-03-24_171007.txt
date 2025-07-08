@@ -1,6 +1,0 @@
-Educational objective:
-
-Allergic contact dermatitis is a delayed-type hypersensitivity reaction. Initially, Langerhans
-cells travel to regional lymph nodes and present haptens to naive T cells, leading to clonal
-expansion. On reexposure to the hapten, sensitized T cells cause tissue destruction that
-manifests as pruritic erythema, vesicles, and/or bullae 2-3 days after exposure.

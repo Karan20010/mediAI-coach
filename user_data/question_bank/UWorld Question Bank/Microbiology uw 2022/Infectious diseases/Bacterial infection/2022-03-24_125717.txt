@@ -1,8 +1,0 @@
-(Choice A) Bronchiolitis is a lower respiratory infection that is almost always viral in etiology.
-Respiratory syncytial virus, rhinovirus, influenza, and parainfluenza are commonly implicated,
-but not H influenzae.
-
-(Choices B, D, and E) Most causes of bacterial conjunctivitis, acute otitis media, and sinusitis
-in childhood are due to Streptococcus pneumoniae, nontypeable H influenzae, and Moraxella
-catarrhalis. The Hib vaccine (which has no effect on nontypeable H influenzae) will not protect
-a child from these infections.

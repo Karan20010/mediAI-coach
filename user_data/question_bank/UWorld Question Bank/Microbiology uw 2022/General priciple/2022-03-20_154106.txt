@@ -1,5 +1,0 @@
-Educational objective:
-
-Alcohol-based disinfectants kill enveloped viruses (eg, influenza) by dissolving their outer lipid
-envelope. Nonenveloped viruses are less susceptible to some alcohol-based disinfectants
-because they have no lipid envelope to target.

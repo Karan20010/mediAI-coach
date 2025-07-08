@@ -1,8 +1,0 @@
-This patient has a resolving hematoma after a traumatic injury. Following the injury,
-hemoglobin-containing erythrocytes escape into the periorbital tissues, giving the bruise its
-initial purple or bluish color. Erythrocyte destruction causes the release of iron-containing
-heme molecules. Heme oxygenase (contained in macrophages, among other cells) degrades
-heme into biliverdin, carbon monoxide, and ferrous iron while consuming oxygen and
-electrons provided by NADH and NADPH-cytochrome P450 reductase. Biliverdin is green in
-color and is further reduced (by the enzyme biliverdin reductase) to the yellow pigment
-bilirubin, which is then transported to the liver bound to albumin.

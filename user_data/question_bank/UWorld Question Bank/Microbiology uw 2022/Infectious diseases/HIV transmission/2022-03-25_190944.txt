@@ -1,7 +1,0 @@
-HIV fusion
-
-(CCRS5 or CXCR4)
-gp120 binds CD4 gp120 binds chemokine gp41 fuses HIV with host
-co-receptor, exposing gp41 cell
-
-©uWorld

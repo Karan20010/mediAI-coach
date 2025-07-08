@@ -1,7 +1,0 @@
-Educational objective:
-
-The pathogenesis of retinopathy of prematurity involves an initial downregulation of
-proangiogenic factors (eg, VEGF) due to hyperoxia following delivery. Subsequently,
-increased metabolic demand causes relative retinal hypoxia, which stimulates a pathological
-increase in VEGF leading to aberrant vessel formation. Neonatal oxygen supplementation
-increases the risk in premature infants.

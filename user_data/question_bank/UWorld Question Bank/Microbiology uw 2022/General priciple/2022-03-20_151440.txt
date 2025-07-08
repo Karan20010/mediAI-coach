@@ -1,6 +1,0 @@
-This patient with dysuria and urethral discharge has gonococcal urethritis as indicated by the
-Gram stain showing gram-negative diplococci within leukocytes. Neisseria gonorrhoeae can
-be cultured on Thayer-Martin VCN selective medium, which contains vancomycin, colistin,
-nystatin, and trimethoprim. These antibiotics kill potential contaminants such as gram-positive
-organisms (vancomycin), gram-negative organisms other than Neisseria (colistin and
-trimethoprim), and fungi (nystatin).

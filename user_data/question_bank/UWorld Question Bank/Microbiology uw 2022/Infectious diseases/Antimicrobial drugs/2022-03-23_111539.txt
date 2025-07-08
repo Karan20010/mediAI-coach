@@ -1,6 +1,0 @@
-Conjugation is a form of horizontal gene transfer that involves direct cell-to-cell contact
-between two adjacent bacteria. It allows for the propagation of genetic elements that confer
-beneficial traits such as antibiotic resistance, the ability to use new metabolites, or the ability
-to tolerate a difficult microenvironment. The transferred genetic element is a conjugative
-plasmid (separate from the genome) or an integrated conjugative element (present in the
-genome).

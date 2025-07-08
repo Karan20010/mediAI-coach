@@ -1,8 +1,0 @@
-Educational objective:
-
-Enterohemorrhagic Escherichia coli (EHEC) is primarily contracted after eating undercooked
-ground beef. EHEC produces Shiga toxin, which causes hemorrhagic colitis and can lead to
-hemolytic-uremic syndrome (HUS). HUS is characterized by acute renal failure,
-thrombocytopenia, and microangiopathic hemolytic anemia; children age <10 are at greatest
-
-risk.

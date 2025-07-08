@@ -1,8 +1,0 @@
-Educational Objective:
-
-Mitochondrial diseases are characterized by exclusively-maternal inheritance. The variable
-severity of these diseases is explained by the random distribution of normal and mutated
-mitochondria between daughter cells during mitosis; as a result, some cells may have
-completely healthy mitochondria, while other cells contain mitochondria affected by genetic
-
-mutation (heteroplasmy). MELAS is a mitochondrial syndrome.

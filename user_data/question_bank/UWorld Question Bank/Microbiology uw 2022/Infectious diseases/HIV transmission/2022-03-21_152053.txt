@@ -1,5 +1,0 @@
-Educational objective:
-Gonococci use their pili to mediate adherence to the mucosal epithelium. Through antigenic
-
-variation, each gonococcus can modify the pilus protein expressed, thereby avoiding host
-defenses (to some degree) and making vaccination directed against the pilus protein difficult.

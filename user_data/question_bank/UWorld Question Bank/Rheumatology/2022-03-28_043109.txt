@@ -1,7 +1,0 @@
-Educational objective:
-
-Myasthenia gravis results from an autoimmune type II (antibody-mediated) hypersensitivity
-reaction against skeletal myocyte surface acetylcholine receptors. Goodpasture syndrome
-similarly involves autoantibodies against basement membrane collagen in the renal glomeruli
-
-and lung alveoli.

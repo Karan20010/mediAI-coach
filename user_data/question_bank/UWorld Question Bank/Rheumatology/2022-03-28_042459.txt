@@ -1,7 +1,0 @@
-Educational objective:
-
-Duchenne muscular dystrophy is an X-linked recessive myopathy that manifests with proximal
-muscle weakness and enlargement of the calf muscles in boys age 2-5. It most often results
-from frameshift deletions affecting the dystrophin gene. Dystrophin provides a stabilizing
-interaction between the sarcolemma and the intracellular contraction apparatus, and disruption
-of the protein results in membrane damage and myonecrosis.

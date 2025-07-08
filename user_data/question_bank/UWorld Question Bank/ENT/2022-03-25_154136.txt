@@ -1,7 +1,0 @@
-Educational objective:
-
-In conductive hearing loss, bone conduction will be greater than air conduction (abnormal
-Rinne test), and the Weber test will lateralize to the affected ear. In sensorineural hearing
-loss, air conduction will be greater than bone conduction (normal Rinne test), and the Weber
-
-test will lateralize to the unaffected ear.

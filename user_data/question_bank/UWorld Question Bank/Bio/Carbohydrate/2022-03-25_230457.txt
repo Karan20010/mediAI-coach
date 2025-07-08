@@ -1,6 +1,0 @@
-Educational objective:
-
-Glucose-6-phosphate dehydrogenase is the rate-limiting enzyme in the pentose phosphate
-pathway, the major source of cellular NADPH. This molecule is necessary for reducing
-glutathione (protects red blood cells from oxidative damage) and for the biosynthesis of
-cholesterol, fatty acids, and steroids.

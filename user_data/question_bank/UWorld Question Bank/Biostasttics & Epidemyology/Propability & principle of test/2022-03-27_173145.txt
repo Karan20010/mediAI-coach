@@ -1,5 +1,0 @@
-Educational objective:
-
-Positive and negative predictive values depend on disease prevalence in the tested
-population. The sensitivity and specificity of a diagnostic test are not affected by disease
-prevalence.

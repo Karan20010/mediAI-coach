@@ -1,5 +1,0 @@
-Educational objective:
-
-The degree of overlap between the healthy and the diseased population curves limits the
-maximum combined sensitivity and specificity of a quantitative diagnostic test. The degree to
-which sensitivity or specificity is affected depends on the chosen cutoff value.

@@ -1,6 +1,0 @@
-Educational objective:
-
-Streptococcus agalactiae (group B Streptococcus), one of the most common causes of early
-neonatal sepsis, is typically identified by the presence of a narrow zone of beta-hemolysis
-when plated on blood agar. It is also identified by the production of CAMP factor, which
-enhances beta-hemolysis by particular strains of Staphylococcus aureus.

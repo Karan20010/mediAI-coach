@@ -1,7 +1,0 @@
-Educational objective:
-
-The high-affinity IgE receptor (FceRI) is found on the surface of mast cells and basophils and
-normally binds the Fc portion of circulating IgE antibodies. Cross-linking of multiple
-membrane-bound IgE antibodies by a multivalent antigen results in aggregation of the FceRI
-receptors, causing degranulation and the release of preformed mediators (eg, histamine,
-tryptase) that initiate an allergic response.

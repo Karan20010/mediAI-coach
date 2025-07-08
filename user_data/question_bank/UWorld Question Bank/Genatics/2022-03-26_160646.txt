@@ -1,8 +1,0 @@
-Educational objective:
-
-Many frequently encountered diseases (eg, hypertension, spinal bifida) display multifactorial
-inheritance, which involves the complex interaction of numerous genetic and environmental
-factors to determine phenotypic expression. Although the exact inheritance risk cannot be
-determined, the closer a relative is to the affected person, the more likely the relative is to
-
-develop the trait.

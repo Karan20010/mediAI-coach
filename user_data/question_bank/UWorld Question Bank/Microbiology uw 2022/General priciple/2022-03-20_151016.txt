@@ -1,5 +1,0 @@
-Clusters of gram-positive cocci on Gram stain is a characteristic finding of staphylococcal
-species such as Staphylococcus aureus. Protein A is a virulence factor that forms part of the
-outer peptidoglycan layer of S aureus. Protein A binds with the Fc portion of IgG antibodies at
-the complement-binding site, preventing complement activation (Choice A). This results in
-decreased production of C3b, leading to impaired opsonization and phagocytosis.

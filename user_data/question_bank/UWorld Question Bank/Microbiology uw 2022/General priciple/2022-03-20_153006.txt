@@ -1,6 +1,0 @@
-This scenario describes the exchange of genetic information between 2 virus strains that have
-nonsegmented, double-stranded DNA genomes. Recombination refers to the exchange of
-genes between 2 chromosomes via crossing over within homologous regions. The resulting
-progeny can have recombined genomes with traits from both parent viruses. In this case, the
-thymidine kinase genes in HSV type 1 and 2 virions are likely to have significant sequence
-similarity, allowing cross over to occur with relatively high frequency.

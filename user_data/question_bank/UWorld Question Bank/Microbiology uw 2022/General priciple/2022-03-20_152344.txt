@@ -1,5 +1,0 @@
-DNA, which is subsequently transcribed by host RNA polymerase into a +single-stranded
-
-RNA pregenome. The +RNA template is then translated into the proteins that compose the
-virus (eg, envelope, core, polymerase); it is also converted by viral DNA polymerase/reverse
-transcriptase into the partially double-stranded DNA progeny of developing viral particles.

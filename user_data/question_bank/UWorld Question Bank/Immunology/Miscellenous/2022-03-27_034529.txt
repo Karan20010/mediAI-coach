@@ -1,7 +1,0 @@
-is how self-MHC restriction is generated in the T-lymphocyte population.
-
-Educational Objective:
-
-Immature T-lymphocytes express both the CD4 and CD8 cell surface antigens in addition to a
-complete TCR or a pro-TCR. These lymphocytes exist in the thymic cortex where they
-undergo positive selection and in the thymic medulla where they undergo negative selection.

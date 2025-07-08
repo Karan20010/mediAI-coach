@@ -1,6 +1,0 @@
-Educational objective:
-
-Chronic granulomatous disease is due to NADPH oxidase deficiency, which leads to an
-inability of neutrophils to generate a respiratory burst and produce the reactive oxygen species
-necessary to kill organisms in their phagolysosomes. Absence of fluorescence on
-dihydrorhodamine flow cytometry testing can confirm the diagnosis.

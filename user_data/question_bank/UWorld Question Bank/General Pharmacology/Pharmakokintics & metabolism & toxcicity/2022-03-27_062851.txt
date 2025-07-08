@@ -1,7 +1,0 @@
-Educational objective:
-
-Folinic acid (leucovorin) can reverse the toxicity of methotrexate in non-cancerous cells in the
-gastrointestinal mucosa and bone marrow if administered at the appropriate time. Leucovorin
-serves as a reduced form of folic acid that does not require the action of dihydrofolate
-
-reductase.

@@ -1,8 +1,0 @@
-Educational objective:
-
-Transporter associated with antigen processing (TAP) proteins are necessary for loading of
-cytoplasmic (eg, viral) proteins onto major histocompatibility complex (MHC) class |
-
-molecules. The MHC class I-peptide complex can then activate CD8- cytotoxic T cells through
-
-interaction with the T cell receptor and CD8 coreceptor.

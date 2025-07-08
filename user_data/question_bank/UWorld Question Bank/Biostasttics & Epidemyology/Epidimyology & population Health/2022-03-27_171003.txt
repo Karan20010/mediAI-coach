@@ -1,7 +1,0 @@
-Educational objective:
-
-Incident cases represent new cases diagnosed in a given period of time. Prevalent cases are
-the total number of cases (both old and new) at a particular point in time. Any treatment that
-prolongs survival but does not cure the disease will increase prevalence due to an increase in
-
-the number of afflicted (but still living) individuals over time.

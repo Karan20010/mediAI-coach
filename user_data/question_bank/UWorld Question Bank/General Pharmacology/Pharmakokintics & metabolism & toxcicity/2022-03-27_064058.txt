@@ -1,7 +1,0 @@
-Educational objective:
-
-Bioavailability is the fraction of an administered drug that reaches the systemic circulation
-unchanged. Drugs administered orally enter the portal circulation and are subject to first-pass
-metabolism. Rectal administration is capable of partially bypassing first-pass metabolism as a
-proportion of rectal blood flow enters the systemic circulation directly. Drugs that undergo
-extensive first-pass metabolism have increased bioavailability when administered rectally.

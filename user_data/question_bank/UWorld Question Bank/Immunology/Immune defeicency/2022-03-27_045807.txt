@@ -1,9 +1,0 @@
-Educational objective:
-
-The second most common cause of severe combined immunodeficiency is autosomal
-recessive deficiency of adenosine deaminase, an enzyme necessary for the elimination of
-excess adenosine within cells. Toxic levels of adenosine accumulate within lymphocytes in
-this condition, leading to lymphocyte cell death and resultant cellular and humoral
-immunodeficiency. Patients with this condition can be treated with hematopoietic cell
-
-transplantation or gene therapy.

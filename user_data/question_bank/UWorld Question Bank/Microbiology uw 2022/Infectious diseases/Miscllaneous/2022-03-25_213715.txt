@@ -1,5 +1,0 @@
-Although B cells are the primary players in inducing a vaccine response, T cells play a key
-role in enabling high-affinity antibodies and immunological memory. Most vaccinations use
-peptide antigens or nonpeptides bonded to peptides (ie, conjugate vaccine) so the antigen can
-be displayed on MHC class II molecules on antigen-presenting cells (APCs), which leads to a
-much stronger T-cell-mediated immune response.

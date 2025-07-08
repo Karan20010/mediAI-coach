@@ -1,7 +1,0 @@
-Educational objective:
-
-In a case-control study, potential participants are initially identified as cases or controls
-according to their disease status. The frequency of past exposure to 21 risk factors of interest
-is then compared between cases and controls to estimate the association between the risk
-
-factors and the outcomes.

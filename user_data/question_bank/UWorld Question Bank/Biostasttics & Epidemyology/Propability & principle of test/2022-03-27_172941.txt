@@ -1,8 +1,0 @@
-Educational objective:
-
-The cutoff value of a quantitative diagnostic test determines whether a given result is
-interpreted as positive or negative. Lowering the cutoff point typically causes more patients
-with the disease to test positive, decreasing the number of false negatives and increasing test
-sensitivity. Consequently, more patients without the disease will also test positive, resulting in
-
-an increased number of false positives and decreased specificity.

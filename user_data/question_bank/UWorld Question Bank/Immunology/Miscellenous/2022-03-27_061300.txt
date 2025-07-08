@@ -1,7 +1,0 @@
-Educational objective:
-Adalimumab is a recombinant human IgG that binds tumor necrosis factor-alpha (TNF-alpha).
-
-Antidrug antibodies can develop against adalimumab (or other immunoglobulin-based anti-
-TNF agents) that can block its interaction with TNF-alpha, preventing the drug from functioning
-
-and leading to more rapid drug clearance.

@@ -1,6 +1,0 @@
-Educational objective:
-
-Transfer RNA (tRNA) is a small, noncoding form of RNA that contains chemically modified
-bases (eg, dihydrouridine, ribothymidine, pseudouridine). tRNA has a CCA sequence at its 3'-
-end that is used as a recognition sequence by proteins. The 3' terminal hydroxyl group of the
-CCA tail serves as the amino acid binding site.

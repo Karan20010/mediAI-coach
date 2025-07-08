@@ -1,8 +1,0 @@
-Educational objective:
-
-Methicillin-resistant Staphylococcus aureus (MRSA) is resistant to most beta-lactam
-medications (eg, oxacillin, methicillin, cephalosporins) due to the acquisition of a mobile
-genetic element that contains the mecA gene. This gene encodes for a specialized penicillin-
-binding protein that has low affinity for beta-lactam antibiotics. Treatment of MRSA therefore
-requires a non—beta-lactam medication such as trimethoprim-sulfamethoxazole, clindamycin,
-doxycycline, or vancomycin.

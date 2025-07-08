@@ -1,7 +1,0 @@
-Educational objective:
-
-Adhesion of cells to the extracellular matrix involves integrin-mediated binding to fibronectin,
-collagen, and laminin. Differential expression of integrin subtypes affects adhesion properties
-of individual cells, and has been found to correlate with malignant behavior in a number of
-
-tumors.

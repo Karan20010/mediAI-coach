@@ -1,6 +1,0 @@
-Educational objective:
-All 3 prokaryotic DNA polymerases can remove mismatched nucleotides via their 3' to 5'
-
-exonuclease ("proofreading") activity. Only DNA polymerase | has 5' to 3' exonuclease activity,
-
-which is used to remove the RNA primer synthesized by RNA primase.

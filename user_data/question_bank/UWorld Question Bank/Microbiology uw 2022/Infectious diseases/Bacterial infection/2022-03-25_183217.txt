@@ -1,6 +1,0 @@
-Educational objective:
-
-Clostridium tetani produces the neurotoxin tetanospasmin, which blocks inhibitory
-neurotransmission in the spinal cord and leads to tonic muscular contraction. Tetanus is
-prevented by immunization with an inactivated toxoid that triggers the production of antitoxin
-antibodies (active immunity).

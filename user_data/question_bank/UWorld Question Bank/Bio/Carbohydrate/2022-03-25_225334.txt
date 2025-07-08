@@ -1,9 +1,0 @@
-(Choice F) Pyruvate kinase (PK) converts phosphoenolpyruvate to pyruvate during
-glycolysis. PK deficiency causes chronic hemolytic anemia because glycolysis is the main
-source of energy for erythrocytes.
-
-Educational objective:
-
-Glycogen debrancher deficiency (Cori disease) causes accumulation of glycogen with
-abnormally short outer chains (limit dextrins) due to the inability to degrade branch points.
-Patients have hypoglycemia, ketoacidosis, hepatomegaly, muscle weakness, and hypotonia.

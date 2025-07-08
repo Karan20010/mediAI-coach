@@ -1,5 +1,0 @@
-The isolate of S. pneumoniae in the prior question had five penicillin-binding proteins identified,
-whereas the isolate in the current question only has two. This indicates that three of the
-penicillin-binding proteins have been altered in such a way that inhibits the binding of
-ceftriaxone. Structural changes in penicillin-binding proteins that prevent ceftriaxone from
-binding is one mechanism for ceftriaxone resistance.

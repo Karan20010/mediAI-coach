@@ -1,6 +1,0 @@
-Educational objective:
-
-The Haemophilus influenzae serotype b vaccine consists of a capsular polysaccharide
-conjugated to a carrier protein (tetanus toxoid [TT] protein or outer membrane protein [OMP] of
-Neisseria meningitidis). Protein conjugation causes a T cell-mediated immune response
-leading to long-term immunity through production of memory B-lymphocytes.

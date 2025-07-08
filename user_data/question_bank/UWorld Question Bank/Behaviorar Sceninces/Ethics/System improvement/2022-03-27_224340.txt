@@ -1,5 +1,0 @@
-Educational objective:
-
-Risk of wrong-site surgery can be reduced by requiring "dual identifiers" (usually a nurse and
-physician) to independently confirm that they have the correct patient, site, and procedure.
-Checks must be truly independent to ensure patient safety.

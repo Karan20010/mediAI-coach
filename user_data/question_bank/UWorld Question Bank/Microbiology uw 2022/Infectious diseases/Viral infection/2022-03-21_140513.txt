@@ -1,8 +1,0 @@
-This patient recently traveled to South America and now has several manifestations of
-dengue, a Fiavivirus infection transmitted by female Aedes mosquitoes. Although primary
-(first) infections can be asymptomatic, adult patients may develop high fever, retroorbital pain,
-and severe myalgia/arthralgia, which gives dengue its common name breakbone fever.
-Hemorrhagic symptoms (eg, epistaxis, petechiae/purpura) can also occur, and laboratory
-evaluation often shows leukopenia, thrombocytopenia, and elevated transaminases. Most
-primary infections resolve spontaneously within 3-5 days and lead to lifelong protective
-immunity against the infecting viral serotype.

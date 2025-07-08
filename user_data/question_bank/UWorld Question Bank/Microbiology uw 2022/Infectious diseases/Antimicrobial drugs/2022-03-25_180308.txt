@@ -1,5 +1,0 @@
-Foscarnet is a pyrophosphate analog that is sometimes used for ganciclovir-resistant
-cytomegalovirus (CMV) infections. Foscarnet can chelate calcium. Moreover, foscarnet-
-induced renal wasting of magnesium may lead to hypomagnesemia and a reduction in the
-release of parathyroid hormone, which contributes to the hypocalcemic state. Both
-hypocalcemia and hypomagnesemia can promote seizures.

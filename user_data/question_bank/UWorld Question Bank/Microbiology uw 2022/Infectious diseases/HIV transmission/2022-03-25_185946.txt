@@ -1,5 +1,0 @@
-Educational objective:
-
-Fusion inhibitors (eg, enfuvirtide) bind the HIV transmembrane glycoprotein gp41 and prevent
-it from approximating the viral and host cellular membranes, which prevents HIV penetration
-into new host cells.

@@ -1,6 +1,0 @@
-Educational objective:
-
-Integral membrane proteins contain transmembrane domains composed of alpha helices with
-hydrophobic amino acid residues (eg, alanine, valine, leucine, isoleucine, phenylalanine,
-tryptophan, methionine, proline, glycine). These transmembrane domains help anchor the
-protein to the phospholipid bilayer of the cell membrane.

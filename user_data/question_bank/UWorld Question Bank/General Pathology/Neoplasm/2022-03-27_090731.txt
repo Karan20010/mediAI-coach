@@ -1,7 +1,0 @@
-Educational objective:
-
-Dihydrofolate reductase and DNA polymerase are enzymes involved in DNA synthesis, which
-occurs during the S phase of the cell cycle. The Rb protein, in its active (dephosphorylated)
-form, regulates cell cycle progression by preventing the transition from the G1 phase to the S
-phase. Phosphorylation of the Rb protein inactivates it, allowing cells to progress through the
-G1/S checkpoint and proliferate.

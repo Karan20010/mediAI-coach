@@ -1,7 +1,0 @@
-Educational objective:
-
-Vibrio cholerae must survive the acidic environment of the stomach to reach the small intestine
-and cause disease. Because the organism is easily destroyed by acid, a high burden of
-organisms must be ingested to cause infection. However, conditions that decrease gastric
-acidity (eg, antacid use) lower the minimum infectious dose of V cholerae by multiple orders of
-magnitude.

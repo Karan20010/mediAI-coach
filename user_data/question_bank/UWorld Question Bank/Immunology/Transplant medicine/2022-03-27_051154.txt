@@ -1,8 +1,0 @@
-(Choice E) p53 is a tumor suppressor that causes cell cycle arrest and apoptosis. It is
-rendered ineffective in the majority of cancers.
-
-Educational objective:
-
-Calcineurin is an essential protein in the activation of interleukin-2, which promotes the growth
-and differentiation of T cells. Immunosuppressants such as cyclosporine and tacrolimus work
-by inhibiting calcineurin activation.

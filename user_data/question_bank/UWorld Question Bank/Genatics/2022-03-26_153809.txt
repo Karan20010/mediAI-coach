@@ -1,8 +1,0 @@
-degradation by the proteasome (ubiquitin-proteasome pathway).
-
-Educational objective:
-
-Nucleosomes are composed of DNA wrapped around a core of 8 histone proteins (2 molecules
-each of H2A, H2B, H3, and H4). H1 histone is located outside of this histone core and helps
-package nucleosomes into more compact structures by binding and linking the DNA between
-adjacent nucleosomes.

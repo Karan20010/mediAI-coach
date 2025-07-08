@@ -1,8 +1,0 @@
-Legionella and other intracellular pathogens that initially replicate within the phagosome
-eventually undergo some degree of digestion by lysosomes, leading to the display of bacterial
-antigens on major histocompatibility complex (MHC) class || molecules. This stimulates naive
-CD4 T lymphocytes to differentiate into T-helper subtype 1 (Th1) cells. Th1 cells release
-interferon-gamma, which activates macrophages and allows them to form fully mature
-(acidified) phagolysosomes capable of efficiently killing the intracellular bacteria. Th1 cells
-also release interleukin-2, which activates and expands the population of naive T cells, Th1
-cells, and memory T cells.

@@ -1,6 +1,0 @@
-Educational objective:
-The relative risk (RR) represents the risk of an outcome in the exposed divided by the risk of
-
-that outcome in the unexposed. Applying the correct formula for RR calculations depends on
-
-the proper formatting of a 2x2 (contingency) table.

@@ -1,5 +1,0 @@
-Educational objective:
-
-The number needed to treat (NNT) is the number of patients who need to be treated with a
-specific treatment to avoid an additional negative event. NNT is the inverse of the absolute
-risk reduction.

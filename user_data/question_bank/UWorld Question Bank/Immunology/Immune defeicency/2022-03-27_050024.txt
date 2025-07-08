@@ -1,7 +1,0 @@
-Educational objective:
-
-Initial control of encapsulated bacteria is largely reliant on the formation of membrane attack
-complexes (MACs) due to activation of the alternative complement cascade. Patients with
-deficiency in the proteins that generate MACs (C5-9) are at high risk for recurrent
-encapsulated bacterial infection; evaluation will show reduced activity of the classical (CH50)
-and alternative (AH50) complement cascades.

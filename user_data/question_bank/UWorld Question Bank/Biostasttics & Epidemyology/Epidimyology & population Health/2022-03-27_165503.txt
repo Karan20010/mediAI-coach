@@ -1,9 +1,0 @@
-(Choice C) In this example, 33% represents the proportion of study participants with liver
-cancer: 100 liver cancer patients / (100 liver cancer patients + 200 health controls) = 0.333 (or
-33.3%).
-
-Educational objective:
-The specificity of a test is its ability to correctly identify individuals without the disease.
-Specificity can be calculated as follows:
-
-Specificity = True negatives / (True negatives + False positives)

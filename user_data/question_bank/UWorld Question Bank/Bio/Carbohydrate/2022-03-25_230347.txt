@@ -1,9 +1,0 @@
-(Choice F) In glycolysis, pyruvate is formed from phosphoenolpyruvate by a unidirectional
-enzyme called pyruvate kinase. In the absence of lactate dehydrogenase activity, pyruvate will
-accumulate in the cell under anaerobic conditions.
-
-Educational objective:
-
-Under anaerobic conditions, NADH transfers electrons to pyruvate to form lactate and
-regenerate NAD-. NAD- is required to convert glyceraldehyde-3-phosphate to 1-3-
-bisphosphoglycerate in glycolysis.

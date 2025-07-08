@@ -1,9 +1,0 @@
-This patient with latent tuberculosis infection (positive tuberculin skin test, no symptoms,
-unremarkable chest x-ray) was started on isoniazid (INH) therapy and now has fever,
-anorexia, and nausea. INH is directly hepatotoxic. In 10%-20% of patients, it causes acute,
-mild hepatic dysfunction, characterized by transient increases in serum aminotransferases
-(AST/SGOT, ALT/SGPT). This adverse effect usually occurs during the first 4-6 months of
-treatment, and, in most cases, liver function tests return to baseline with continued INH
-therapy. In rare instances (<1%), frank hepatitis (similar to viral hepatitis with fever, anorexia,
-nausea, jaundice) can occur (as seen in this patient) and sometimes evolves into a severe
-form with progressive liver dysfunction and death.

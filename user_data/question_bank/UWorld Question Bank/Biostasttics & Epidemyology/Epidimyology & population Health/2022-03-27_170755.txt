@@ -1,3 +1,0 @@
-Educational objective:
-Absolute risk reduction (ARR) describes the difference in risk between control and treatment
-groups. Itis calculated as follows: ARR = (RiSKoeonia — RiSKiestment)-

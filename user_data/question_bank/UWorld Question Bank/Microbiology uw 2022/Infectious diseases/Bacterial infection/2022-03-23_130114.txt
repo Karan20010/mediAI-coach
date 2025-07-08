@@ -1,7 +1,0 @@
-Educational objective:
-
-Pathogenesis of Escherichia coli sepsis involves the release of lipopolysaccharide (ie,
-endotoxin) from bacterial cells. Lipid Ais the major virulence factor of lipopolysaccharides that
-induces macrophages to release cytokines (eg, IL-1, tumor necrosis factor-alpha), leading to
-
-the manifestations of septic shock (eg, end-organ dysfunction).

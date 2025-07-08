@@ -1,7 +1,0 @@
-Educational objective:
-
-Melanoma lesions often have multiple color variations. The different colors represent different
-activities within the tumor. Whitish/gray areas occur when cytotoxic T cells recognize tumor
-antigens and destroy malignant cells, leading to melanocyte regression. Red areas arise due
-to vessel ectasia and local inflammation, whereas brown or black areas are generally due to
-advancing malignant melanocytes.

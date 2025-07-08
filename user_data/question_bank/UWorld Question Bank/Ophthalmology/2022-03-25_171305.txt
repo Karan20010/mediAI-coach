@@ -1,7 +1,0 @@
-Educational objective:
-
-Internuclear ophthalmoplegia is a disorder of impaired horizontal gaze caused by a lesion in
-the medial longitudinal fasciculus (MLF). The affected eye (ipsilateral to the lesion) is unable
-to adduct while the contralateral eye is able to abduct (often with associated nystagmus).
-Convergence and the pupillary light reflex are preserved because these pathways bypass the
-MLF.

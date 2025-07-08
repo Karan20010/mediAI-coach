@@ -1,7 +1,0 @@
-Educational objective:
-
-Isoniazid is an antimycobacterial agent that specifically inhibits the synthesis of mycolic acids,
-which are essential components of the unique mycobacterial peptidoglycan cell wall. Without
-mycolic acids, the mycobacteria lose their acid-fastness and become unable to synthesize new
-
-cell walls or multiply.

@@ -1,5 +1,0 @@
-Educational objective:
-
-Piperacillin-tazobactam is a combination of extended-spectrum penicillin with B-lactamase
-inhibitor. It is effective against most gram-negative enteric rods (including Pseudomonas
-aeruginosa) and against Bacteroides fragilis.

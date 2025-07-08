@@ -1,5 +1,0 @@
-Educational objective:
-
-Neisseria can be isolated by culture on selective media such as the Thayer-Martin VCN
-(vancomycin/colistin/nystatin) medium, which inhibits growth of contaminants such as gram-
-positive organisms, gram-negative organisms other than Neisseria, and fungi.

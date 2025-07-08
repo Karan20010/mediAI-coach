@@ -1,5 +1,0 @@
-Educational objective:
-Penicillins, structurally similar to D-alanine-D-alanine, inhibit transpeptidase by binding
-covalently to its active site. The result is failed synthesis of the bacterial peptidoglycan cell
-
-wall.

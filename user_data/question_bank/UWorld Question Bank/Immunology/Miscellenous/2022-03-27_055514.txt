@@ -1,6 +1,0 @@
-Educational objective:
-
-Serum sickness is an immune complex—mediated, type III hypersensitivity reaction that occurs
-when immune complexes deposit in skin and joints and activate the classical complement
-cascade. This generates the highly inflammatory anaphylatoxins C3a and C5a, leading to skin
-rash, joint arthralgia/arthritis, and high fever.

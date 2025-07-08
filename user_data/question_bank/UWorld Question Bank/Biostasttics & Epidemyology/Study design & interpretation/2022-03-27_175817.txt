@@ -1,9 +1,0 @@
-The value of ris not the slope of the line of best fit. For instance, assuming a data set with a
-maximum positive association (ie, all data points forming a straight line with a positive slope),
-the line of best fit will always have r = +1, even if its actual slope is 0.2, 5.5, or any other
-positive value (as seen in the Figure).
-
-Educational objective:
-
-The correlation coefficient (r) ranges from -1 to +1 and describes the strength and polarity of a
-linear association.

@@ -1,6 +1,0 @@
-Educational objective:
-
-Intracellular bacterial organisms such as Legionella pneumophila are primarily countered by
-the cell-mediated immune response. Intracellular pathogens that replicate within phagosomes
-(eg, Legionella, Mycobacterium tuberculosis) trigger activation and differentiation of T-helper
-subtype 1 cells with subsequent macrophage activation via interferon-gamma.

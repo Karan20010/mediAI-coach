@@ -1,8 +1,0 @@
-Educational objective:
-
-Inclusion cell disease is a lysosomal storage disorder in which a defect in protein targeting
-prevents the phosphorylation of mannose residues required to tag acid hydrolases for
-transport to lysosomes. Without these lysosomal proteins, cellular debris cannot be degraded
-and therefore accumulates within lysosomes, forming inclusion bodies characteristic of the
-
-disease.

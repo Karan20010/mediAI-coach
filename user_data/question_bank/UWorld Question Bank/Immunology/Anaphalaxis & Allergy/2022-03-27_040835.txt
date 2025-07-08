@@ -1,6 +1,0 @@
-Educational objective:
-
-Vaccine reactogenicity is a local (eg, warmth, swelling, edema) and systemic (eg, fatigue,
-fever, headache) inflammatory reaction to the vaccine due to the innate immune response. It
-is primarily caused by pattern recognition receptors present on the surface of macrophages
-and mast cells, which identify the antigen and release inflammatory cytokines (eg, IL-1, IL-6).

@@ -1,5 +1,0 @@
-Cytotoxic chemotherapy induces apoptosis in dividing cells by impairing mitosis or inducing
-DNA damage. These medications are administered at the highest tolerable dose so that
-maximal effect can be achieved. However, the effects are not selective; all cell lines with
-high turnover rates are impacted, including tumor, hair follicle, bone marrow, and
-gastrointestinal (Gl) epithelial cells.

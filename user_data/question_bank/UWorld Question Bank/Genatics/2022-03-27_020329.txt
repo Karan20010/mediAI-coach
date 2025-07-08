@@ -1,6 +1,0 @@
-Secondary structure of tRNA
-
-+——— Amino acid binding site
-
-p>) <——5’-terminal phosphate
-

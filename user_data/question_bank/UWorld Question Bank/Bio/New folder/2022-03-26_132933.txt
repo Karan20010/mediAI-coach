@@ -1,7 +1,0 @@
-The glucose transport proteins (GLUTs) are a family of transmembrane proteins responsibl
-for transport of glucose across cell membranes. Of these, only GLUT-4 is responsive to
-insulin. In the absence of insulin, GLUT-4 is sequestered in the cytoplasm and the cells
-become less permeable to glucose. However, increasing insulin concentrations induce
-translocation of GLUT-4 to the plasma membrane, facilitating glucose transport into the cell
-(sample B). GLUT-4 is predominantly expressed in skeletal muscle cells and adipocytes,
-where it facilitates insulin-mediated glucose uptake and storage.

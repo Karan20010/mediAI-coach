@@ -1,7 +1,0 @@
-This patient's subacute systemic symptoms (eg, fever, night sweats, weight loss, weakness),
-lymphadenopathy, hepatosplenomegaly, elevated alkaline phosphatase, and intracellular acid-
-fast bacteria raise strong suspicion for disseminated Mycobacterium avium complex (MAC).
-MAC is an infection caused by the nontuberculous mycobacteria M avium and
-Mycobacterium intracellulare. Although these infections can occur in both immunocompetent
-and immunosuppressed hosts, most cases arise in patients with untreated AIDS who have
-CD4 counts <50/mm:.

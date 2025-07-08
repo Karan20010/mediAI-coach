@@ -1,2 +1,0 @@
-{FN = interteron; TNF = tumor necrosis factor.
-

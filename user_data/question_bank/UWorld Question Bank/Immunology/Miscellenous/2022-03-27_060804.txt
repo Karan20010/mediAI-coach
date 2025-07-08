@@ -1,6 +1,0 @@
-Educational objective:
-
-Mycobacterium tuberculosis triggers CD4 T lymphocytes to release interferon-gamma, which
-leads to macrophage activation (improves intracellular killing ability) and differentiation into
-epithelioid histiocytes. These cells, along with horseshoe-shaped, multinucleated Langhans
-giant cells (fused, activated macrophages) are a key component of granuloma formation.

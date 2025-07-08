@@ -1,9 +1,0 @@
-Therefore, thiamine deficiency impairs glucose utilization, which can have catastrophic
-effects on the CNS as the brain always requires some glucose.
-
-Thiamine deficiency is often diagnosed clinically in patients with a history of heavy alcohol use
-or malnutrition and signs of Wernicke encephalopathy; the diagnosis can be confirmed with a
-baseline erythrocyte transketolase activity that is low but increases after the addition of
-thiamine pyrophosphate. Treatment involves thiamine supplementation with glucose; glucose
-administration alone may precipitate or worsen Wernicke encephalopathy due to rapid
-thiamine consumption.

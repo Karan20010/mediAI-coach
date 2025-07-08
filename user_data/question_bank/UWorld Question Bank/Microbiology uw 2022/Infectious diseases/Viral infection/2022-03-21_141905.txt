@@ -1,6 +1,0 @@
-Educational objective:
-
-Epstein-Barr virus (EBV) commonly infects B cells, stimulating them to proliferate continuously
-("transformation" or "immortalization"). EBV is an oncogenic virus that promotes polyclonal B
-cell proliferation and heterophile antibody production. The heterophile antibody test is
-sensitive and highly specific for EBV infection.

@@ -1,7 +1,0 @@
-Educational objective:
-
-Isoniazid inhibits pyridoxine phosphokinase, leading to impaired activation of pyridoxine
-(vitamin B,). Pyridoxine is a cofactor for 6-aminolevulinic acid synthase, the enzyme that
-catalyzes the rate-limiting step of heme synthesis. Inhibition of this step can result in
-
-sideroblastic anemia.

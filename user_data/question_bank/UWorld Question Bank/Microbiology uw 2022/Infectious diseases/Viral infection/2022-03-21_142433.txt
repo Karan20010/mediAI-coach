@@ -1,7 +1,0 @@
-Educational objective:
-
-Q fever is a zoonotic infection that occurs in farm workers exposed to waste from cattle and
-sheep. Its causative agent is Coxiella burnetii. A patient with exposure to waste from farm
-animals who develops a nonspecific illness (myalgias, fatigue, fever [>10 days], retroorbital
-headache) with a normal leukocyte count, thrombocytopenia, and increased liver enzymes
-should be evaluated for acute Q fever infection.

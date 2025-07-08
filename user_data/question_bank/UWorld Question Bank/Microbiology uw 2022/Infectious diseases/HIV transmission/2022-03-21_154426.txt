@@ -1,5 +1,0 @@
-Educational objective:
-
-Patients with advanced HIV and low CD4 counts are at risk for opportunistic infections and
-require antimicrobial prophylaxis. Pneumocystis jiroveci pneumonia prophylaxis with
-trimethoprim-sulfamethoxazole (TMP-SMX) is indicated when CD4 count is <200/mm:.

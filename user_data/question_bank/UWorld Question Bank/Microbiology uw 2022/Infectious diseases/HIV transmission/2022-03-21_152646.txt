@@ -1,7 +1,0 @@
-Educational objective:
-
-Syphilis is caused by the spirochete Treponema pallidum. Confirmation of the diagnosis
-requires 2 forms of serologic testing to prevent false-positive results. Nontreponemal tests
-(eg, rapid plasma reagin, VDRL) evaluate for anticardiolipin antibodies (nonspecific);
-
-treponemal tests evaluate for antibodies targeted against 7 pallidum.

@@ -1,9 +1,0 @@
-the probability of at least 1 sample testing positive is 1 - 0.95:. Conversely, the probability that
-all 8 samples will return positive is 0.05: while the probability of at least 1 sample testing
-negative is 1 - 0.05:.
-
-Educational objective:
-
-If events are independent, the probability that all events will turn out the same is the product of
-the separate probabilities for each event. The probability of at least 1 event turning out
-differently is given as 1 - P(all events being the same).

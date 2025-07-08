@@ -1,7 +1,0 @@
-Educational objective:
-
-Mycobacterium avium complex (MAC) infections are common in patients with advanced AIDS.
-The bacterium often spreads through the bloodstream and reticuloendothelial system and
-causes nonspecific symptoms (eg, fever, fatigue, weight loss, diarrhea), lymphadenopathy,
-and hepatosplenomegaly. Diagnosis is often made on blood culture or bone marrow aspirate
-(intracellular acid-fast bacteria that are not Mycobacterium tuberculosis).

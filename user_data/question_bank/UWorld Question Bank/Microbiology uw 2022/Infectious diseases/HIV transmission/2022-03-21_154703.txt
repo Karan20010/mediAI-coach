@@ -1,7 +1,0 @@
-Educational objective:
-
-In the HIV replication cycle, polyprotein precursors are encoded by the structural genes gag,
-pol, and env. Only the env gene polyprotein product (gp160) is glycosylated. This polyprotein
-is subsequently cleaved in the Golgi apparatus to form the envelope glycoproteins gp120 and
-
-gp41.

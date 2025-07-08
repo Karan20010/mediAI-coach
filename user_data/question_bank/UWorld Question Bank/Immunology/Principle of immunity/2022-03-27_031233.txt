@@ -1,9 +1,0 @@
-(Choice D) The Fc receptor (CD16) on phagocytes binds to IgG attached to microorganisms
-or cellular debris, leading to opsonophagocytosis. Although IgG levels are very low in hyper-
-IgM syndrome, which significantly reduces IgG-mediated phagocytosis, the interaction
-between the phagocyte Fc receptor and antigen-bound antibody remains unaffected.
-Educational objective:
-
-CD40-ligand (CD40L) is expressed primarily on activated T cells. It binds to CD40 on antigen-
-presenting cells, including B cells, leading to their full activation (costimulation). Therefore,
-CD4OL plays a vital role in both the cell-mediated and humoral immune response.

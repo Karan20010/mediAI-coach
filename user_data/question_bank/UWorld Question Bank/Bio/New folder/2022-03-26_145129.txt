@@ -1,9 +1,0 @@
-The removal of RNA primers and their replacement with DNA is accomplished by DNA
-polymerase I, the only bacterial DNA polymerase with 5' to 3' exonuclease activity. DNA
-polymerase III has 5' to 3' polymerase and 3' to 5' exonuclease ("proofreading") activity;
-however, it cannot remove RNA primers as it lacks 5' to 3' exonuclease activity (Choice B).
-Educational objective:
-
-During bacterial DNA replication, DNA polymerase | functions to remove RNA primers (via 5' to
-3' exonuclease activity) and replace them with DNA (via 5' to 3' polymerase activity). DNA
-polymerase | is the only bacterial DNA polymerase that possesses 5' to 3' exonuclease activity.

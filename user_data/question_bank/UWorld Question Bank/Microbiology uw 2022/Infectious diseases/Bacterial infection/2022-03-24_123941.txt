@@ -1,8 +1,0 @@
-Educational objective:
-
-Typhoidal strains of Salmonella contain a capsular antigen (Vi) and other virulence factors that
-inhibit neutrophil phagocytosis, neutrophil recruitment, and macrophage-mediated destruction.
-Therefore, typhoidal Salmonella undergoes extensive replication in macrophages and is able
-to spread through the lymphatic and reticuloendothelial system, leading to widespread
-
-systemic disease (typhoid fever).

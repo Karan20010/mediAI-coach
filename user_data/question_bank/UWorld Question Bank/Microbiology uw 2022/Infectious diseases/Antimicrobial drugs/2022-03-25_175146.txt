@@ -1,7 +1,0 @@
-The acute elevation of this patient's serum creatinine on the third day of hospitalization is likely
-due to acyclovir nephrotoxicity, which occurs in 5%-10% of patients who receive the drug
-intravenously. Acyclovir is excreted principally in the urine via glomerular filtration and tubular
-secretion. When the acyclovir concentration in the collecting duct exceeds its solubility,
-crystallization, crystalluria, and renal tubular damage can occur. In most cases, this toxic
-complication is transient and can be prevented (as well as treated) with adequate hydration
-and a reduction in the rate of drug infusion.

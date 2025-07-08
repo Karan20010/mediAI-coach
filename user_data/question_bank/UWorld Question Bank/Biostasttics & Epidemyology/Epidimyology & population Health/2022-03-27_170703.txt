@@ -1,5 +1,0 @@
-Educational objective:
-
-The accuracy of screening or diagnostic tests is quantified by the area under the ROC curve
-(AUC). The more accurate the test is (ie, higher sensitivity and specificity), the closer the AUC
-value is to 1.0. Tests with higher AUCs are more accurate than tests with lower AUCs.

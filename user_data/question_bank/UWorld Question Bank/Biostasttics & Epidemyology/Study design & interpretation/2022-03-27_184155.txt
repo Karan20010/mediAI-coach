@@ -1,5 +1,0 @@
-Educational objective:
-
-In prospective studies, disproportionate loss to follow-up between the exposed and unexposed
-groups creates the potential for attrition bias, which is a form of selection bias. As a result,
-investigators generally try to achieve high patient follow-up rates in prospective studies.

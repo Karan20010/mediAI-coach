@@ -1,6 +1,0 @@
-Educational Objective:
-
-Active tuberculosis is never treated with drug monotherapy due to the fast emergence of
-mycobacterial antibiotic resistance from rapid, selective gene mutations. Isoniazid
-monotherapy may be used for patients who have a positive PPD and a negative chest x-ray
-(ie, no evidence of clinical disease).

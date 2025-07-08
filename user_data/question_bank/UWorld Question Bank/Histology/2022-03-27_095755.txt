@@ -1,6 +1,0 @@
-Educational objective:
-
-Chromaffin cells are modified neuroendocrine cells derived from the neural crest. Chromaffin
-cells in the adrenal medulla are stimulated by acetylcholine released by sympathetic
-preganglionic neurons and secrete catecholamines directly into the bloodstream to amplify
-sympathetic nervous system activity.

@@ -1,5 +1,0 @@
-Educational Objective:
-
-NK cells recognize and kill cells with decreased MHC class | antigen cell surface expression,
-such as virus-infected cells and tumor cells. They are large lymphocytes that contain perforins
-and granzymes in cytoplasmic granules. NK cells kill target cells by inducing apoptosis.

@@ -1,3 +1,0 @@
-Educational objective:
-Case-fatality rate is calculated by dividing the number of fatal cases of a disease or condition
-by the total number of people with that disease or condition.

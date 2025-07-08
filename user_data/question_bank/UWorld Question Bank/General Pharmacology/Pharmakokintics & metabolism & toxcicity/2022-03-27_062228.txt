@@ -1,7 +1,0 @@
-Educational objective:
-
-The half-life (t,.) of a drug is the time required to lower its concentration by 50%. The volume
-of distribution (V,) refers to how well the drug distributes into tissues compared to plasma; the
-higher the V,, the greater the drug distribution into the tissues. The drug concentration (mg/L)
-
-is equal to drug dose (mg) divided by V, (L).

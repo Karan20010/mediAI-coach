@@ -1,7 +1,0 @@
-Educational objective:
-
-Toxigenic strains of Corynebacterium diphtheriae produce diphtheria toxin, which irreversibly
-inhibits host protein synthesis due to ADP-ribosylation of elongation factor-2. Local effects
-include pseudomembranous pharyngitis; systemic effects include potentially life-threatening
-myocarditis and neuritis. Immunization with diphtheria toxoid generates protective circulating
-IgG against the exotoxin B subunit.

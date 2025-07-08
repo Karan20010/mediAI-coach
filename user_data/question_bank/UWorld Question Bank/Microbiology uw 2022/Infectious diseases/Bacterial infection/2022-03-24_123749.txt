@@ -1,6 +1,0 @@
-Listeria monocytogenes is a facultative intracellular, gram-positive rod that produces a very
-narrow zone of beta hemolysis on blood agar (similar to group B Streptococcus
-[Streptococcus agalactiae]). Listeria is immotile at body temperature but demonstrates
-tumbling motility at room temperature. The pathogen is also distinguished by an ability to
-multiply at refrigerated temperatures (cold enrichment), which is one reason Listeria is an
-important cause of foodborne illness (eg, refrigerated soft cheese, meats, unpasteurized milk).

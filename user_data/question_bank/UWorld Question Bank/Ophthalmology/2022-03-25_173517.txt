@@ -1,9 +1,0 @@
-The macula is a yellowish spot approximately 1.5 mm in diameter located near the center of
-the retina. It is characterized histologically by the presence of densely packed cones, few
-overlying cells and no blood vessels. Each macular cone synapses to a single bipolar cell,
-which, in turn, synapses to a single ganglion cell. Due to this arrangement the visual acuity in
-the macula, and particularly the fovea, is greater than in any other area of the retina. The
-neural fibers that serve the macula transmit to an area of the occipital visual cortex that is
-separate from the area of representation of the peripheral fields (this area is also relatively
-large in size). Due to this peculiar cortical representation, macular sparing is common in
-lesions of the occipital cortex.

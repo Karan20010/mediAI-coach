@@ -1,7 +1,0 @@
-This patient with acute pruritus following administration of morphine most likely has
-medication-induced IgE-independent mast cell activation. A number of medications, including
-opioids, radiocontrast agents, and some antibiotics (eg, vancomycin), can induce mast cell
-degranulation by activation of protein kinase A and PI3 kinase. This results in release of
-several mediators, including histamine, bradykinin, heparin, and a number of enzymes and
-chemotactic factors. Common symptoms include diffuse itching and pain, bronchospasm, and
-localized swelling (urticaria).

@@ -1,7 +1,0 @@
-The bacterial cell wall is composed of rigid, cross-linked peptidoglycan pentads on a
-glucosamine backbone. Its primary purpose is to provide external structure to the bacterium
-and prevent disfigurement or lysis in changing osmotic gradients. In this experiment, the
-assumption of a spherical shape in an isotonic solution and lysis in a hypotonic solution
-indicate disruption of the bacterial cell wall. Several classes of antibiotics target cell wall
-synthesis, including fosfomycin, vancomycin, penicillins, and cephalosporins (eg,
-cefuroxime).

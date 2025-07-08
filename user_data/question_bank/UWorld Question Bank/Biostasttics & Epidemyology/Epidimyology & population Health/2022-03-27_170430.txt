@@ -1,3 +1,0 @@
-Educational objective:
-Positive predictive value is the probability that an individual has a disease given a positive
-test. It is calculated as follows: true positives / (true positives + false positives).

@@ -1,9 +1,0 @@
-This patient is exhibiting signs and symptoms of sickle cell anemia. Sickle cell anemia is a
-hemoglobinopathy that typically affects patients of African ancestry. A point mutation in the 6"
-codon of the beta-globin gene, which causes the substitution of valine (hydrophobic) for
-glutamic acid (hydrophilic), is responsible. The incorporation of this abnormal beta-globin
-protein into hemoglobin results in the formation of hemoglobin S (HbS). HbS polymerizes at
-low oxygen tension, causing sickling and hemolysis of erythrocytes and resultant vascular
-occlusion. This patient's poor exercise tolerance and exertional dyspnea are due to anemia.
-His history of acute chest syndrome, abdominal pain, and bone pain are due to vaso-occlusive
-events in the lungs, spleen and bone, respectively.

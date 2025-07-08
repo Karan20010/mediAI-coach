@@ -1,3 +1,0 @@
-Educational objective:
-Western blotting is used to identify proteins, Northern blotting identifies specific RNA
-sequences, and Southern blotting identifies specific DNA sequences in an unknown sample.

@@ -1,8 +1,0 @@
-Educational objective:
-
-Ecthyma gangrenosum is a cutaneous necrotic disease with a strong association with
-Pseudomonas aeruginosa bacteremia. It occurs from perivascular invasion and release of
-tissue-destructive exotoxins, causing vascular destruction and insufficient blood flow to
-patches of skin that become edematous and subsequently necrose. Pseudomonas infections
-are common in patients who are neutropenic, are hospitalized, have burns, or have indwelling
-catheters.

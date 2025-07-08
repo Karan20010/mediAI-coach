@@ -1,6 +1,0 @@
-Educational objective:
-
-Pseudomonas aeruginosa is a major pathogen in burn patients. Only a few specific penicillins
-(eg, ticarcillin, piperacillin) and cephalosporins (eg, ceftazidime, cefepime) have activity
-against it. Certain aminoglycosides, fluoroquinolones (eg, ciprofloxacin, levofloxacin), and
-carbapenems (eg, imipenem, meropenem) are also effective.

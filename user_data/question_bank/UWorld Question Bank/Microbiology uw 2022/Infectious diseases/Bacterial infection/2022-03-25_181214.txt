@@ -1,6 +1,0 @@
-Educational objective:
-
-Acute phase reactants (APRs) are proteins whose serum concentrations change by 225%
-during periods of inflammation. Procalcitonin is a unique APR that can rise or fall depending
-on the etiology of the infection; elevated levels correlate with a bacterial source, whereas low
-levels indicate a viral source.

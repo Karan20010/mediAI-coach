@@ -1,8 +1,0 @@
-This patient with HIV has active pulmonary tuberculosis, typically treated with a 4-drug
-combination of a rifamycin (eg, rifampin, rifabutin), isoniazid, pyrazinamide, and ethambutol
-(RIPE therapy). The rifamycins commonly cause harmless red-orange discoloration of
-body fluids (urine, sweat, saliva, tears), which explains this patient's symptoms. They inhibit
-DNA-dependent RNA polymerase, thereby preventing transcription and leading to a
-deficiency of proteins necessary for mycobacterial survival. Structural alteration of this DNA-
-dependent RNA polymerase induces bacterial resistance. Unlike isoniazid, rifamycins are not
-specific to mycobacteria.

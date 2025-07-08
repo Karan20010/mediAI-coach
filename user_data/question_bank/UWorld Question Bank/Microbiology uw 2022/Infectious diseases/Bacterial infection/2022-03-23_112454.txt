@@ -1,7 +1,0 @@
-A major polysaccharide component of the fungal cell wall is 1,3-beta-D-glucan. Caspofungin
-and the other echinocandin antifungals (eg, micafungin) block glucan synthesis. Whereas
-polyene and azole antifungals target the fungal cell membrane, the echinocandins are unique
-in that they suppress fungal cell wall synthesis. Caspofungin is most active against Candida
-species and Aspergillus. |t is not active against Cryptococcus neoformans and has limited
-activity against Mucor and Rhizopus species. This patient likely has an infection due to a
-caspofungin-resistant strain of Candida (uncommon).

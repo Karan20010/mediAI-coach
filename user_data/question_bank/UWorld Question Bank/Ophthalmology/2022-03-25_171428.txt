@@ -1,5 +1,0 @@
-Although prematurity alone can lead to ROP, the risk is increased in premature neonates with
-significantly elevated arterial oxygen tension because hyperoxia exacerbates the initial
-VEGF suppression and increases risk of subsequent aberrant neovascularization. In this
-case, the patient had neonatal respiratory distress syndrome and received supplemental
-oxygen, which likely contributed to disrupted retinal angiogenesis.

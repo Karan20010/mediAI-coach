@@ -1,6 +1,0 @@
-Educational objective:
-
-Mosaicism is defined as the presence of multiple, genetically different cell lines within the
-body. It can result from several processes, including chromosomal nondisjunction or a
-mutation during the first stages of embryonic development. Somatic mosaicism results in a
-mixture of normal and mutated somatic cells, often leading to a milder form of the disease.

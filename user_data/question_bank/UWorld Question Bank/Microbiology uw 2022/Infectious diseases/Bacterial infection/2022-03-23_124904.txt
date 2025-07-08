@@ -1,8 +1,0 @@
-The nasopharynx is colonized with a wide range of gram-positive and gram-negative bacteria.
-Therefore, nasopharyngeal swabs are often cultured on media containing antibiotics to isolate
-a specific organism. The agar described in this case is the Thayer-Martin medium, used to
-identify pathogenic Neisseria organisms such as N meningitidis (a common cause of
-meningitis) and N gonorrhoeae (a common cause of urethritis). The Thayer-Martin medium is
-a chocolate sheep blood agar infused with vancomycin to inhibit gram-positive bacteria; with
-colistin and trimethoprim to inhibit gram-negative bacteria (other than pathogenic Neisseria
-species); and with nystatin to inhibit yeast.

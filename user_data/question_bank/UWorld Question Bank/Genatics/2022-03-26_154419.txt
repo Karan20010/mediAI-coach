@@ -1,8 +1,0 @@
-Educational objective:
-DNA replication occurs in the 5'—3' direction on both strands. In contrast to the continuous
-
-synthesis of the leading strand, lagging strand synthesis occurs discontinuously and is
-composed of short stretches of RNA primer plus newly synthesized DNA segments (Okazaki
-fragments). As a result, lagging strand synthesis requires the repetitive action of DNA primase
-
-and DNA ligase.
