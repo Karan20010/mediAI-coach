@@ -26,6 +26,9 @@
       color: #1e293b;
       line-height: 1.6;
       user-select: none;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
 
     .question {
@@ -33,6 +36,8 @@
       font-size: 1.3rem;
       margin-bottom: 25px;
       white-space: pre-wrap;
+      width: 100%;
+      text-align: center;
     }
 
     .answer {
@@ -44,10 +49,13 @@
       display: none;
       white-space: pre-wrap;
       box-shadow: inset 0 1px 3px rgba(37, 99, 235, 0.1);
+      width: 100%;
+      text-align: center;
+      margin-bottom: 20px;
     }
 
     button {
-      margin-top: 30px;
+      margin-top: 15px;
       background-color: #2563eb;
       border: none;
       color: white;
@@ -59,11 +67,24 @@
       transition: background-color 0.3s ease, box-shadow 0.3s ease;
       user-select: none;
       box-shadow: 0 6px 15px rgba(37, 99, 235, 0.4);
+      width: 180px;
+      text-align: center;
     }
 
     button:hover {
       background-color: #1e40af;
       box-shadow: 0 8px 20px rgba(30, 64, 175, 0.6);
+    }
+
+    /* Back to Topics button with different color */
+    #backBtn {
+      background-color: #999;
+      margin-top: 10px;
+      width: 180px;
+    }
+    #backBtn:hover {
+      background-color: #666;
+      box-shadow: 0 8px 20px rgba(100, 100, 100, 0.6);
     }
 
     /* Responsive */
@@ -96,8 +117,12 @@
     <section class="answer" id="answer" aria-live="polite" aria-hidden="true">A: {{ answer | safe }}</section>
     <button id="showAnswerBtn" aria-expanded="false" aria-controls="answer" onclick="toggleAnswer()" aria-label="Show answer">Show Answer</button>
 
-    <form method="get" action="/flashcard_test" style="margin-top: 20px;">
+    <form method="get" action="/flashcard_test" aria-label="Next flashcard form" style="margin-top: 20px;">
       <button type="submit" aria-label="Next flashcard">Next Card</button>
+    </form>
+
+    <form method="get" action="/flashcards_index" aria-label="Back to flashcard topics">
+      <button id="backBtn" type="submit" aria-label="Back to Topics">← Back to Topics</button>
     </form>
   </main>
 

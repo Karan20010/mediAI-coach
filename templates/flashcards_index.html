@@ -46,7 +46,9 @@
       margin-top: 0;
       color: #005bbb;
       text-align: center;
-      margin-bottom: 20px;
+      margin-bottom: 25px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
     }
 
     ul {
@@ -54,11 +56,13 @@
       padding: 0;
       margin: 0 auto;
       max-width: 400px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
     }
 
     li {
       background: #f0f7ff;
-      margin: 10px 0;
       border-radius: 12px;
       box-shadow: 0 2px 6px rgba(0,91,187,0.15);
       transition: background-color 0.3s ease;
@@ -77,12 +81,28 @@
       font-size: 18px;
       border-radius: 12px;
       user-select: none;
+      text-align: center;
     }
 
     a:focus,
     a:active {
       outline: 3px solid #005bbb;
       outline-offset: 2px;
+    }
+
+    /* Responsive */
+    @media (max-width: 480px) {
+      body {
+        max-width: 100%;
+        padding: 15px;
+      }
+      ul {
+        max-width: 100%;
+      }
+      a {
+        font-size: 16px;
+        padding: 12px 20px;
+      }
     }
   </style>
 </head>
@@ -99,9 +119,6 @@
       <li><a href="{{ url_for('flashcard_test') }}">Random</a></li>
     </ul>
   </main>
-
-</body>
-</html>
 
 </body>
 </html>
