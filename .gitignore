@@ -11,3 +11,6 @@ frontend/node_modules/@next/swc-linux-x64-musl/next-swc.linux-x64-musl.node
 # Python cache files
 __pycache__/
 *.py[cod]
+
+# Environment variables file
+.env
