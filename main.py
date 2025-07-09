@@ -32,7 +32,6 @@ MAX_MESSAGES = int(os.getenv("MAX_MESSAGES", "25"))
 # Paths and folders
 MEMORY_PATH = "user_data/talia_memory.json"
 UPLOAD_FOLDER = "user_data/docs"
-TEXTBOOKS_FOLDER = "user_data/textbooks"
 FLASHCARD_PATHS = [
     "user_data/anki_flashcards/COMP_Anki_Deck_Cleaned.json",
     "user_data/anki_flashcards/COMP_Anki_Deck_Merged_With_Salvaged.json",
@@ -41,6 +40,7 @@ FLASHCARD_PATHS = [
 VECTOR_DB = "user_data/vector_db"
 INDEX_FILE = os.path.join(VECTOR_DB, "comp_questions.index")
 TEXTS_FILE = os.path.join(VECTOR_DB, "texts.json")
+FLAGGED_QUESTIONS_FILE = "user_data/flagged_questions.json"
 ALLOWED_EXTENSIONS = {'txt', 'docx'}
 
 # Ensure folders exist
@@ -51,6 +51,8 @@ os.makedirs(VECTOR_DB, exist_ok=True)
 # SentenceTransformer & FAISS setup
 model = SentenceTransformer("all-MiniLM-L6-v2")
 index = faiss.IndexFlatL2(384)
+question_texts = []
+metadata = []
 
 QUOTES = [
     "You don't have to be perfect, just consistent.",
@@ -96,8 +98,11 @@ def sanitize_flashcard(text):
     if not text:
         return ""
     text = text.strip()
-    if len(text) > 1000:
-        text = text[:1000] + "..."
+    text = re.sub(r'\s+', ' ', text)
+    text = text.replace(" - ", "\n- ")
+    text = re.sub(r'\. (?=[A-Z])', '.<br>', text)
+    if len(text) > 500:
+        text = text[:500] + "..."
     return Markup(text)
 
 def load_memory():
@@ -124,6 +129,16 @@ def save_memory(data):
     with open(MEMORY_PATH, "w") as f:
         json.dump(data, f, indent=2)
 
+def load_flagged_questions():
+    if os.path.exists(FLAGGED_QUESTIONS_FILE):
+        with open(FLAGGED_QUESTIONS_FILE, "r") as f:
+            return json.load(f)
+    return []
+
+def save_flagged_questions(flagged_list):
+    with open(FLAGGED_QUESTIONS_FILE, "w") as f:
+        json.dump(flagged_list, f, indent=2)
+
 def retrieve_similar_questions(prompt, top_k=3):
     if not os.path.exists(INDEX_FILE):
         return []
@@ -133,25 +148,6 @@ def retrieve_similar_questions(prompt, top_k=3):
     prompt_vec = model.encode([prompt]).astype('float32')
     D, I = faiss_index.search(prompt_vec, top_k)
     return [db['texts'][i] for i in I[0] if i < len(db['texts'])]
-
-def search_textbooks(query, max_results=3):
-    results = []
-    if not os.path.exists(TEXTBOOKS_FOLDER):
-        return results
-    for filename in os.listdir(TEXTBOOKS_FOLDER):
-        if filename.endswith(".txt"):
-            filepath = os.path.join(TEXTBOOKS_FOLDER, filename)
-            with open(filepath, "r", encoding="utf-8") as f:
-                content = f.read()
-            idx = content.lower().find(query.lower())
-            if idx != -1:
-                start = max(idx - 100, 0)
-                end = min(idx + 400, len(content))
-                snippet = content[start:end].replace('\n', ' ')
-                results.append(f"From {filename}: ... {snippet} ...")
-            if len(results) >= max_results:
-                break
-    return results
 
 @app.route("/")
 def home():
@@ -183,6 +179,14 @@ def ask():
     user_input = request.form.get("message", "")
     memory = load_memory()
 
+    flagged_questions = load_flagged_questions()
+    flagged_intro = ""
+    if flagged_questions:
+        flagged_intro = (
+            f"\n\nNote: You have {len(flagged_questions)} flagged question(s) "
+            "from your quizzes. Feel free to ask me about them or request explanations."
+        )
+
     study_style = memory.get("study_style", "mixed")
     difficulty = memory.get("difficulty", "moderate")
     goals = memory.get("goals", "No goals set")
@@ -212,17 +216,6 @@ def ask():
         similar_qs = retrieve_similar_questions(user_input)
         examples = "\n\nUse this style as a guide:\n" + "\n\n".join(similar_qs)
 
-    # Textbook integration: Search textbooks and append snippets
-    try:
-        textbook_snippets = search_textbooks(user_input)
-        if textbook_snippets:
-            textbook_info = "\n\nRelevant textbook excerpts:\n" + "\n\n".join(textbook_snippets)
-        else:
-            textbook_info = ""
-    except Exception as e:
-        app.logger.error(f"Textbook search error: {e}")
-        textbook_info = "\n\n(Note: Unable to search textbooks.)"
-
     system_prompt = (
         f"You are {chatbot_name}, a caring, intelligent AI tutor guiding Talia through COMP prep. "
         f"Adapt your responses based on her past sessions and preferences.\n"
@@ -231,9 +224,9 @@ def ask():
         f"Learning style notes: {learning_style}.\n"
         f"Current goals: {goals}.\n"
         f"Focus topic type: {focus_type}.\n"
-        f"Today's topic: {topic}.\n"
-        f"{examples}\n"
-        f"{textbook_info}"
+        f"Today's topic: {topic}."
+        f"{flagged_intro}\n"
+        f"{examples}"
     )
 
     messages.insert(0, {"role": "system", "content": system_prompt})
@@ -258,6 +251,11 @@ def ask():
     except Exception as e:
         app.logger.error(f"OpenAI API error: {e}")
         return jsonify({"response": "Sorry, I am having trouble processing your request right now. Please try again later."}), 500
+
+@app.route("/clear_flags", methods=["POST"])
+def clear_flags():
+    save_flagged_questions([])
+    return jsonify({"status": "success", "message": "Flagged questions cleared."})
 
 @app.route("/complete_setup", methods=["POST"])
 def complete_setup():

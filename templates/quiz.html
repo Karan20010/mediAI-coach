@@ -1,25 +1,309 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Practice MCQ</title>
+  <meta charset="UTF-8" />
+  <title>MediAI Coach Chat</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
-    body { font-family: Arial, sans-serif; padding: 20px; max-width: 600px; margin: auto; }
-    #question { margin-bottom: 20px; white-space: pre-wrap; }
-    button { padding: 10px; margin-top: 10px; cursor: pointer; }
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #e0f0ff, #ffffff);
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+      box-shadow: 0 0 20px rgba(0,0,0,0.1);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    header {
+      background-color: #005bbb;
+      color: white;
+      padding: 20px;
+      font-size: 24px;
+      font-weight: 700;
+      text-align: center;
+      letter-spacing: 1px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      user-select: none;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    #avatar {
+      font-size: 50px;
+      text-align: center;
+      margin: 15px 0 10px 0;
+      user-select: none;
+      filter: drop-shadow(0 2px 2px rgba(0,0,0,0.15));
+    }
+
+    #chat {
+      flex-grow: 1;
+      padding: 20px;
+      overflow-y: auto;
+      background: #f9fbff;
+      border-top: 1px solid #d1d9f0;
+      border-bottom: 1px solid #d1d9f0;
+      scroll-behavior: smooth;
+      word-wrap: break-word;
+    }
+
+    .message {
+      margin: 10px 0;
+      max-width: 80%;
+      padding: 12px 18px;
+      border-radius: 20px;
+      line-height: 1.4;
+      font-size: 16px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      user-select: text;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+    .user {
+      background: #1a73e8;
+      color: white;
+      margin-left: auto;
+      border-bottom-right-radius: 4px;
+      font-weight: 600;
+      white-space: normal;
+    }
+    .bot {
+      background: #d1e7dd;
+      color: #0f5132;
+      margin-right: auto;
+      border-bottom-left-radius: 4px;
+      font-weight: 600;
+    }
+
+    #typingIndicator {
+      font-style: italic;
+      color: #666;
+      font-size: 14px;
+      height: 22px;
+      padding-left: 20px;
+      margin-top: 5px;
+      user-select: none;
+      visibility: hidden;
+    }
+
+    #inputArea {
+      display: flex;
+      padding: 15px 20px;
+      gap: 12px;
+      background: white;
+      box-shadow: 0 -3px 10px rgba(0,0,0,0.05);
+      border-radius: 0 0 12px 12px;
+      user-select: none;
+      align-items: center;
+    }
+
+    #messageInput {
+      flex-grow: 1;
+      border-radius: 20px;
+      border: 2px solid #b6d4fe;
+      padding: 14px 18px;
+      font-size: 16px;
+      outline-offset: 2px;
+      transition: border-color 0.3s ease;
+    }
+    #messageInput:focus {
+      border-color: #005bbb;
+    }
+
+    #sendBtn {
+      background: linear-gradient(90deg, #005bbb, #003f7d);
+      border: none;
+      border-radius: 20px;
+      color: white;
+      font-weight: 700;
+      font-size: 16px;
+      padding: 14px 25px;
+      cursor: pointer;
+      box-shadow: 0 6px 12px rgba(0,91,187,0.6);
+      transition: background 0.3s ease;
+      user-select: none;
+      flex-shrink: 0;
+    }
+    #sendBtn:hover {
+      background: linear-gradient(90deg, #004080, #002a52);
+      box-shadow: 0 8px 18px rgba(0,64,128,0.9);
+    }
+
+    #flagButtons {
+      display: flex;
+      gap: 10px;
+      margin-left: 10px;
+    }
+
+    #flaggedCountBtn, #clearFlagsBtn {
+      background-color: #f0ad4e;
+      border: none;
+      border-radius: 8px;
+      padding: 8px 12px;
+      font-weight: 600;
+      cursor: pointer;
+      color: #3a3a3a;
+      user-select: none;
+      transition: background-color 0.3s ease;
+    }
+    #flaggedCountBtn:hover, #clearFlagsBtn:hover {
+      background-color: #ec971f;
+    }
+
+    @media (max-width: 400px) {
+      body {
+        max-width: 100%;
+        border-radius: 0;
+      }
+      #messageInput {
+        font-size: 14px;
+        padding: 12px 14px;
+      }
+      #sendBtn {
+        font-size: 14px;
+        padding: 12px 18px;
+      }
+      #flagButtons {
+        margin-left: 0;
+      }
+    }
   </style>
 </head>
 <body>
-  <h2>Practice MCQ</h2>
-  <div id="question">Loading question...</div>
-  <button onclick="getQuestion()">Get New Question</button>
+
+  <header>
+    MediAI Coach Chat
+    <div id="flagButtons" role="region" aria-label="Flagged questions controls">
+      <button id="flaggedCountBtn" aria-label="Show flagged questions count">Flagged: 0</button>
+      <button id="clearFlagsBtn" aria-label="Clear all flagged questions">Clear Flags</button>
+    </div>
+  </header>
+
+  <div id="avatar" aria-live="polite" aria-atomic="true">🤖</div>
+
+  <div id="chat" aria-live="polite" aria-relevant="additions" role="log"></div>
+  <div id="typingIndicator" aria-live="polite" aria-atomic="true">MediAI is typing...</div>
+
+  <form id="inputArea" onsubmit="event.preventDefault(); sendMessage();" aria-label="Chat input form">
+    <input
+      type="text"
+      id="messageInput"
+      placeholder="Ask me anything..."
+      autocomplete="off"
+      aria-label="Chat message input"
+      required
+    />
+    <button id="sendBtn" type="submit" aria-label="Send message">Send</button>
+  </form>
 
   <script>
-    async function getQuestion() {
-      const resp = await fetch("/quiz", { method: "POST" });
-      const data = await resp.json();
-      document.getElementById("question").textContent = data.question;
+    const chatWindow = document.getElementById('chat');
+    const messageInput = document.getElementById('messageInput');
+    const typingIndicator = document.getElementById('typingIndicator');
+    const avatar = document.getElementById('avatar');
+    const flaggedCountBtn = document.getElementById('flaggedCountBtn');
+    const clearFlagsBtn = document.getElementById('clearFlagsBtn');
+    let chatbotName = 'MediAI';
+
+    async function loadAvatarAndName() {
+      try {
+        const res = await fetch('/get_avatar');
+        if (!res.ok) throw new Error('Network error');
+        const data = await res.json();
+        chatbotName = data.name || 'MediAI';
+        if (data.avatar === 'female') avatar.textContent = '👩';
+        else if (data.avatar === 'male') avatar.textContent = '👨';
+        else avatar.textContent = '🤖';
+        typingIndicator.textContent = `${chatbotName} is typing...`;
+      } catch (err) {
+        console.error('Failed to load avatar and name:', err);
+        typingIndicator.textContent = `${chatbotName} is typing...`;
+      }
+      updateFlaggedCount();
     }
-    window.onload = getQuestion;
+
+    function addMessage(text, sender) {
+      const msg = document.createElement('div');
+      msg.className = 'message ' + sender;
+      if (sender === 'user') {
+        msg.textContent = 'You: ' + text;
+      } else {
+        msg.innerHTML = chatbotName + ': ' + text;
+      }
+      chatWindow.appendChild(msg);
+      chatWindow.scrollTop = chatWindow.scrollHeight;
+    }
+
+    async function sendMessage() {
+      const msg = messageInput.value.trim();
+      if (!msg) return;
+      addMessage(msg, 'user');
+      messageInput.value = '';
+      typingIndicator.style.visibility = 'visible';
+
+      try {
+        const response = await fetch('/ask', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+          body: new URLSearchParams({ message: msg }),
+        });
+        if (!response.ok) throw new Error('Network response was not ok');
+        const data = await response.json();
+        addMessage(data.response, 'bot');
+      } catch (error) {
+        addMessage('Error: Unable to get response.', 'bot');
+      } finally {
+        typingIndicator.style.visibility = 'hidden';
+      }
+    }
+
+    async function updateFlaggedCount() {
+      try {
+        const res = await fetch('/flagged_count');
+        if (!res.ok) throw new Error('Network response was not ok');
+        const data = await res.json();
+        flaggedCountBtn.textContent = `Flagged: ${data.count}`;
+      } catch (err) {
+        flaggedCountBtn.textContent = 'Flagged: 0';
+        console.error('Failed to update flagged count:', err);
+      }
+    }
+
+    flaggedCountBtn.addEventListener('click', () => {
+      alert('You have flagged questions. You can ask me about them anytime!');
+    });
+
+    clearFlagsBtn.addEventListener('click', async () => {
+      if (!confirm('Are you sure you want to clear all flagged questions?')) return;
+      try {
+        const res = await fetch('/clear_flags', { method: 'POST' });
+        if (!res.ok) throw new Error('Failed to clear flags');
+        const data = await res.json();
+        alert(data.message);
+        updateFlaggedCount();
+      } catch (err) {
+        alert('Error clearing flagged questions.');
+        console.error(err);
+      }
+    });
+
+    messageInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        sendMessage();
+      }
+    });
+
+    window.onload = loadAvatarAndName;
   </script>
+
 </body>
-</html>
+</html>i
